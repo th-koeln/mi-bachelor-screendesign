@@ -1,0 +1,17 @@
+artefakt1:
+  name: Angebot & Anschreiben
+  date: 2018-12-13 00:00
+  format: PDF im Wiki und Ausdruck zur Präsentation am 13.12.
+  anteil: 1/4
+  
+artefakt2:
+  name: Designkonzept als Mockup
+  date: 2019-03-24 00:00
+  format: PDF und *.zip Archiv mit Einzelscreens
+  anteil: 1/2
+  
+artefakt3:
+  name: Patternlab/ StyleGuide
+  date: 2019-03-248 00:00
+  format: PDF
+  anteil: 1/4
