@@ -40,11 +40,12 @@ Mit dem Modul sollen die folgenden Lernziele erreicht werden:
 In interdisziplinären Projektteams nehmen Medieninformatiker oftmals eine Schnittstellenrolle ein. Hier fühlt man sich zumeist sicherer und professioneller, wenn man diskursfähig ist. Jede Disziplin hat ihre eigene Fachsprache. Das ist im Design genauso. Wir können im Team besser agieren, wenn wir die Fachsprache verstehen und anwenden können. Wie groß ist der Durchschuss? Sollten wir die Headlines besser in Versalien setzen? Wie lang läuft die Copy? Und warum sind die BUs so klein? Welcher Schriftschnitt ist das? Mit dererlei Fragen und Aussagen sollten wir umgehen können.
 
 ## Wie funktioniert das Modul?
-tdb.
 
-### Projektform
+Das Modul "Screendesign" teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige praktische Übungen und Workshops machen. Typische Fragen sind z.B. wie gehen wir mit Schrift um, was sind sinnvolle Proportionen, wie entwickeln wir ein gemeinsames Zielbild, wie lassen sich Entwürfe angemessen visualisieren, etc. 
 
-Das Modul "Screendesign" teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige pratkische Übungen machen. Typische Fragen sind z.B. wie gehen wir mit Schrift um, was sind sinnvolle Proportionen, wie entwickeln wir ein gemeinsames Zielbild, wie lassen sich Entwürfe angemessen visualisieren, etc.
+Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. Die Ergebnisse müssen von den Studierenden in einem Gestaltungsportfolio gesammelt werden und zwei dieser Ergebnisse müssen im Rahmen der Portfoliopräsentation in einer 7 minütigen Präsentation vorgestellt und argumentiert werden.
+
+### Projekt
 
 Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
@@ -74,6 +75,25 @@ Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt.
 
 Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltung](angebote/) im Rahmen des Moduls.
 
+
+## Eingesetzte Software
+
+Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Sketch](https://sketchapp.com/) oder [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Sketch und Figma ein.
+
+Sketch kann für Studierende zum halben Preis (ca. 50$) erworben werden. Auf den Rechnern im MI Pool sind Sketch Lizenzen vorhanden. Für private Rechner können wir leider keine Lizenzen herausgeben. Figma ist für Studierende kostenlos nutzbar. 
+
+
+## Wie kann ich mich vorbereiten?
+
+Bitte bereiten Sie sich für die Workshops in einem der Tools vor:
+- [Learn Sketch](https://sketchapp.com/docs/)
+- Learn Figma (Link folgt)
+
+Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:
+- [Informationsvisualisierung: Web - Print - Signaletik. Erfolgreiches Informationsdesign: Leitsysteme, Wissensvermittlung und Informationsarchitektur / von Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050418640)
+- [Interaction- und Interfacedesign: Web-, Game-, Produkt- und Servicedesign Usability und Interface als Corporate Identity / von Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050392166)
+- [Kompendium der visuellen Information und Kommunikation](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050419679)
+- [Simplicity: die zehn Gesetze der Einfachheit / John Maeda](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT015123236)
 
 ## Wer macht es?
 
