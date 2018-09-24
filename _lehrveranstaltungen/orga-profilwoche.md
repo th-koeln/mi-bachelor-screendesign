@@ -1,5 +1,5 @@
 ---
-titel: ProfiL2 Projektwoche
+titel: ProfiL2 Projektwoche, darum keine Veranstaltung
 kuerzel: o-p2
 verantwortlich: lk,cn
 typ: other
