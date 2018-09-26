@@ -87,7 +87,7 @@ Sketch kann für Studierende zum halben Preis (ca. 50$) erworben werden. Auf den
 
 Bitte bereiten Sie sich für die Workshops in einem der Tools vor:
 - [Learn Sketch](https://sketchapp.com/docs/)
-- Learn Figma (Link folgt)
+- [Learn Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
 
 Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:
 - [Informationsvisualisierung: Web - Print - Signaletik. Erfolgreiches Informationsdesign: Leitsysteme, Wissensvermittlung und Informationsarchitektur / von Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050418640)
