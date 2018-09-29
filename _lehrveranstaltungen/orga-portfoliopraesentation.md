@@ -16,3 +16,6 @@ info: Dies ist ein Pflichttermin. Die Anwesenheit ist für das Bestehen des Modu
 ## Ziel 
 Präsentation von zwei Artefakten, die im Rahmen der Übungen gemacht wurden. Weitere Infos folgen.
 
+## Nicht vergessen
+- Belbin Test
+

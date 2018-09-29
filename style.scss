@@ -164,6 +164,9 @@ $tt-grid-height: 60px;
             &.orga {
                 background-color: $mi-grau;
             }
+            &.ganztagesworkshop {
+                background-color: $mi-gruen;
+            }
         }
     }
 }
@@ -201,6 +204,11 @@ $tt-grid-height: 60px;
             }
         }
         &.is-workshop .card-header {
+            background-color: $mi-gruen;
+            >.card-header-title {
+                color: #fff;
+            }
+        }&.is-ganztagesworkshop .card-header {
             background-color: $mi-gruen;
             >.card-header-title {
                 color: #fff;

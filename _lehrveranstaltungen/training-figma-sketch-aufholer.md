@@ -1,14 +1,14 @@
 ---
 titel: Figma und Sketch Extratraining
 kuerzel: t-pbl
-verantwortlich: vs,mk,fj
+verantwortlich: vs, js
 typ: training
 pflicht: false
-termine: 2017-05-05 11:00|3.204|http://bit.ly/2q44Tx1
+termine: 2018-11-29 16:00|0.501
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
-raum: 3.204
+raum: 0.501
 info: Wie komme ich endlich mit Figma/Sketch klar?
 ---
 

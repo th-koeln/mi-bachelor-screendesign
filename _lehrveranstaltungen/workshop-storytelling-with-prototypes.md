@@ -1,10 +1,10 @@
 ---
-titel: Flow & Transition
+titel: Storytelling with Prototypes
 kuerzel: w-fat
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-01-17 11:00|0.501, 2019-01-17 14:30|0.501
+termine: 2019-01-24 11:00|0.501, 2019-01-24 14:30|0.501
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 180

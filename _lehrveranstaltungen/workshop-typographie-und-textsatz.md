@@ -1,21 +1,20 @@
 ---
 titel: Typographie & Textsatz
 kuerzel: w-tut
-verantwortlich: lk
+verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2017-05-05 11:00|0.504|http://bit.ly/2otnWkv, 2017-05-05 14:00|0.504|http://bit.ly/2q44oDe, 2017-05-05 16:00|0.504|http://bit.ly/2q281XD
-empfohlene-voraussetzungen: w-ds, t-sb
+termine: 2018-12-06 11:00|0.501, 2018-12-06 14:00|0.501, 2018-12-06 16:00|0.501
+empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: 0.504
+raum: 0.501
 info: Wie gestalte ich Text sinnvoll und gut?
 ---
 
 ## Der Workshop:
 In dem Workshop sprechen wir über die Grundlagen der Typografie und schauen uns die absoluten Grundregeln an. 
-Im Anschluss steigen wir gleich praktisch ein. 
-Ziel des Workshops ist die grundlegende Gestaltung des Anschreibens und Angebots zu spielplatztreff.de
+Im Anschluss steigen wir gleich praktisch ein. Ziel des Workshops ist die grundlegende Gestaltung des Anschreibens und Angebots zum Projekt.
 
 <p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/workshop-textsatz-typographie/typographie_und_textsatz.pdf">Download der Workshop Slides als PDF</a></p>
 

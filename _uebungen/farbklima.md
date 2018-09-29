@@ -1,0 +1,1 @@
+kann auch aus fotos/ texturen bestehen

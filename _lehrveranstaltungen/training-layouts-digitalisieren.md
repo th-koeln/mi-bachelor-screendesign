@@ -4,11 +4,11 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2017-05-05 11:00|3.217|http://bit.ly/2pfOtPv, 2017-05-05 14:00|3.217|http://bit.ly/2qbQ5cj, 2017-05-05 16:00|3.217|http://bit.ly/2q2swU6
+termine: 2019-01-03 09:00|0.501, 2019-01-03 12:00|0.501, 2019-01-03 15:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 raum: 3.217
-dauer: 120
+dauer: 150
 info: Wie können wir papierbasierte Layouts in Sketch oder Figma systematisch übertragen?
 ---
 
