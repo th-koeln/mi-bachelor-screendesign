@@ -15,9 +15,9 @@ Die erste Veranstaltung ist am **11.10.2018** um **9:00 Uhr**. Der letzte Termin
 
 ## Worum geht es?
 
-Das Modul "Screendesign" ist für den Medieninformatik Bachelor im dritten Fachsemester verankert und baut auf das Module "Mensch-Computer Interaktion" auf. Im Rahmen des Moduls sollen die Studierenden die Kompetenz erlangen, in interdisziplinären Teams die Design-Perspektive zu verstehen und einzunehmen. Sie sollen in die Lage versetzt werden, einen bestehenden Gestaltungskontext zu analysieren und zu erweitern. Darüber hinaus sollen die Studierenden eine gestalterische Grundkompetenz aufbauen.
+Das Modul "Screendesign" ist für den Medieninformatik Bachelor im dritten Fachsemester verankert und baut auf das Modul "Mensch-Computer Interaktion" auf. Im Rahmen des Moduls sollen die Studierenden die Kompetenz erlangen, in interdisziplinären Teams die Design-Perspektive zu verstehen und einzunehmen. Sie sollen in die Lage versetzt werden, einen bestehenden Gestaltungskontext zu analysieren und zu erweitern. Darüber hinaus sollen die Studierenden eine gestalterische Grundkompetenz aufbauen.
 
-Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker und keine Designer. Als Medieninformatiker arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier einen äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
+Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker und keine Designer. Als Medieninformatiker arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
 - die Ziele eines Gestaltungskonzepts verstehen
 - in der Lage sind die zugrundeliegenden Gestaltungsregeln zu verstehen und ggf. abzubilden
 - wissen, welche Implementierungsmöglichkeiten zur Verfügung stehen
@@ -41,7 +41,7 @@ In interdisziplinären Projektteams nehmen Medieninformatiker oftmals eine Schni
 
 ## Wie funktioniert das Modul?
 
-Das Modul "Screendesign" teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige praktische Übungen und Workshops machen. Typische Fragen sind z.B. wie gehen wir mit Schrift um, was sind sinnvolle Proportionen, wie entwickeln wir ein gemeinsames Zielbild, wie lassen sich Entwürfe angemessen visualisieren, etc. 
+Das Modul "Screendesign" teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige praktische Übungen und Workshops machen. Typische Fragen sind z.B.: wie gehen wir mit Schrift um, was sind sinnvolle Proportionen, wie entwickeln wir ein gemeinsames Zielbild, wie lassen sich Entwürfe angemessen visualisieren, etc. 
 
 Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. Die Ergebnisse müssen von den Studierenden in einem Gestaltungsportfolio gesammelt werden und zwei dieser Ergebnisse müssen im Rahmen der Portfoliopräsentation in einer 7 minütigen Präsentation vorgestellt und argumentiert werden.
 
@@ -58,7 +58,7 @@ Das Projekt wird in Zweierteams durchgeführt.
 
 ### Prüfung
 
-Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in zwanzig Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Entscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{wiki-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten. 
+Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Entscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{wiki-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten. 
 
 Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt. 
 
