@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 120
 raum: 0.501
-info: Komplexe Konzepte und Übungen zum Texturen, Farbe und Typographie
+info: Komplexe Konzepte und Übungen zu Texturen, Farbe und Typographie
 ---
 
 ## Worum geht es?
