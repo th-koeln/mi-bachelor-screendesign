@@ -14,7 +14,7 @@ info: Wie kann ich schnell und einfach grobe Layoutstrukturen entwerfen und test
 
 ## Worum geht es?
 
-In diesem Workshop versuchen wir Gestaltungsideen zu entwickeln und möglichst schnell und sauber in eine Form zu bringen, dass wir unsere Ideen im Team oder mit dem Kunden besprechen können. Wir befassen und mit Grundfragen des Layouts, mit den zugehörigen Begrifflichkeiten und lernen verschiedene Wireframe Varianten und deren Vor- und Nachteile kennen. Und vor allem entwicklen wir Layouts.
+In diesem Workshop versuchen wir Gestaltungsideen zu entwickeln und möglichst schnell und sauber in eine Form zu bringen, dass wir unsere Ideen im Team oder mit dem Kunden besprechen können. Wir befassen uns mit Grundfragen des Layouts, mit den zugehörigen Begrifflichkeiten und lernen verschiedene Wireframe Varianten und deren Vor- und Nachteile kennen. Und vor allem entwicklen wir Layouts.
 
 ## Was muss ich mitbringen?
 

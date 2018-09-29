@@ -18,7 +18,7 @@ Bevor mit dem Layouten begonnen wird, ist es von Vorteil, sich eine Systematik z
 
 Auch innerhalb der Views sollte für eine gute Struktur gesorgt werden. Dies hilft dabei einzelne Elemente oder Elementgruppen wieder zu finden, falls man diese beispielsweise bearbeiten oder neu positionieren möchte.
 
-Für ein gutes Design ist es wichtig, dass es über mehrere Views hingweg konsistent ist. Dazu gehört, dass alle Elemente und Elementgruppen, die die gleiche Funktion haben, auch das gleiche Erscheinungsbild haben. Hierbei kann einem Sketch und Figma mit unterschiedlichen Werkzeugen unterstützen.
+Für ein gutes Design ist es wichtig, dass es über mehrere Views hinweg konsistent ist. Dazu gehört, dass alle Elemente und Elementgruppen, die die gleiche Funktion haben, auch das gleiche Erscheinungsbild haben. Hierbei kann einem Sketch und Figma mit unterschiedlichen Werkzeugen unterstützen.
 
 ## Was sollte ich vorbereiten?
 

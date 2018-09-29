@@ -17,15 +17,15 @@ In dem Workshop lernen wir verschiedene Designprozess-Modelle bzw. Vorgehensweis
 
 Wir beschäftigen uns mit dem Grundmuster aller Designprozesse, werfen einen Blick auf Designmethoden und beteiligte Rollen.  
 
-Im Anschluss übertragen wir das Gelernte in ein Anschreiben an unsere Auftraggeberin und beginnen unser praktisches Projekt zu segmentieren und in Projektphasen zu unterteilen, die im Anschluss zeitlich geschätzt werden sollten.
+Im Anschluss übertragen wir das Gelernte in ein Anschreiben an unsere Auftraggeber und beginnen unser praktisches Projekt zu segmentieren und in Projektphasen zu unterteilen, die im Anschluss zeitlich geschätzt werden sollten.
 
 <p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/workshop-designprojekte-strukturieren/ws_designprozesse_strukturieren.pdf">Download der Workshop Slides als PDF</a></p>
 
 ## Aufgaben:
 - Recherchieren Sie Designprozesse oder Vorgehensweisen im Design.
-- Sammeln Sie die entscheidenden Schlüsselworte, die im Anschreiben enthalten sein sollten und Clustern sie die Begriffe auf der Pinnwand.
+- Sammeln Sie die entscheidenden Schlüsselworte, die im Anschreiben enthalten sein sollten und clustern Sie die Begriffe auf der Pinnwand.
 - Formulieren Sie einen Text für Ihr Anschreiben an den Auftraggeber.
-- Machen Sie eine Übersicht über die Projektphasen Ihres konkreten Projekts. Schätzen Sie sie Dauer der unterschiedlichen Phasen und erläutern Sie die Funktion der jeweiligen Phase.
+- Machen Sie eine Übersicht über die Projektphasen Ihres konkreten Projekts. Schätzen Sie die Dauer der unterschiedlichen Phasen und erläutern Sie die Funktion der jeweiligen Phase.
 
 
 ## Weiterer Input:
