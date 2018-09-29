@@ -1,10 +1,14 @@
 training:
   name: Training
-  max-teilnehmer: 20
+  max-teilnehmer: 40
 
 workshop:
   name: Workshop
-  max-teilnehmer: 30
+  max-teilnehmer: 40
+
+ganztagesworkshop:
+  name: Workshop
+  max-teilnehmer: 120
   
 vortrag:
   name: Vortrag
@@ -21,5 +25,9 @@ feedback:
 pruefung:
   name: Prüfung 
   max-teilnehmer: 30
+
+other:
+  name: Öhm 
+
 
   

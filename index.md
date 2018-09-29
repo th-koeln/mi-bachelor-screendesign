@@ -3,11 +3,11 @@ layout: page
 titel: Über das Modul
 ---
 
-{% include functions/resolve-urls.html target="mi-wiki-pruefung" %}
-{% assign wiki-pruefung = link %}
+{% include functions/resolve-urls.html target="lias-pruefung" %}
+{% assign ilias-pruefung = link %}
 
-{% include functions/resolve-urls.html target="mi-wiki" %}
-{% assign wiki = link %}
+{% include functions/resolve-urls.html target="ilias" %}
+{% assign ilias = link %}
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** und enden etwa um **18:00 Uhr**. Das Konzept von Screendesign ist auf Anwesenheit und aktive Mitwirkung ausgelegt. 
 
@@ -47,9 +47,9 @@ Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. 
 
 ### Projekt
 
-Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
+Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. Wir starten mit einem Ganztagesworkshop in das Projektthema. Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
-Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. Von diesen Terminen müssen zwei wahrgenommen werden. Damit wir als Betreuer und Dozenten sehen können, dass die Studierenden auf dem richtigen Weg sind, gibt es zwei verpflichtende Zwischenpräsentationen. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{wiki}} angemeldet werden.
+Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. Von diesen Terminen müssen zwei wahrgenommen werden. Damit wir als Betreuer und Dozenten sehen können, dass die Studierenden auf dem richtigen Weg sind, gibt es zwei verpflichtende Zwischenpräsentationen. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{ilias}} angemeldet werden.
 
 Das Projekt wird in Zweierteams durchgeführt.
 
@@ -58,7 +58,7 @@ Das Projekt wird in Zweierteams durchgeführt.
 
 ### Prüfung
 
-Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in zwanzig Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Entscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{wiki-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten. 
+Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in zwanzig Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Entscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{ilias-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten. 
 
 Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt. 
 
@@ -67,9 +67,11 @@ Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt.
 
 **Vorträge** geben Überblick über ein Themengebiet, zeigen theoretische Grundlagen und jede Menge Beispiele, sind interaktiv und initiieren Diskurs, legen die Basis für die professionelle Auseinandersetzung mit dem Projekt, bauen das Vokabular für die Prüfung auf. Die Teilnahme wird dringend empfohlen. Eine Anmeldung ist nicht erforderlich.
 
-**Workshops** bringen Theorie und Praxis zusammen, schulen und trainieren in einem bestimmten Themenfeld, erfordern den sicheren Umgang mit den trainierten Softwaretools, erfordern das Grundwissen aus den Vorträgen. Die Teilnahme wird dringend empfohlen. Zu Workshops muss sich im {{wiki}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
+**Workshops** bringen Theorie und Praxis zusammen, schulen und trainieren in einem bestimmten Themenfeld, erfordern den sicheren Umgang mit den trainierten Softwaretools, erfordern das Grundwissen aus den Vorträgen. Die Teilnahme wird dringend empfohlen. Zu Workshops muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
-**Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit, müssen durch Screenmovies vorbereitet werden. Zu Trainings muss sich im {{wiki}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
+Der **Ganztagesworkshop** bildet den Einstieg in das Projekt. Hier legen wir die Basis für die spätere Projektarbeit. Dies ist ein Pflichttermin. 
+
+**Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit, müssen durch Screenmovies vorbereitet werden. Zu Trainings muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
 **Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen; müssen von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Es müssen zwei Termine wahrgenommen werden. Es dürfen aber auch mehr Termine genutzt werden. Zu Feedback- und Supporttermine müssen Sie sich nicht anmelden.
 
@@ -81,6 +83,8 @@ Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltung](angebote/
 Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Sketch](https://sketchapp.com/) oder [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Sketch und Figma ein.
 
 Sketch kann für Studierende zum halben Preis (ca. 50$) erworben werden. Auf den Rechnern im MI Pool sind Sketch Lizenzen vorhanden. Für private Rechner können wir leider keine Lizenzen herausgeben. Figma ist für Studierende kostenlos nutzbar. 
+
+Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gimp.org/downloads/)
 
 
 ## Wie kann ich mich vorbereiten?

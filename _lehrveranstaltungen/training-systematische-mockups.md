@@ -1,15 +1,15 @@
 ---
-titel: Systematischer Aufbau von Mockups
+titel: Styleguide aufbauen und in Sketch oder Figma umsetzen
 kuerzel: t-sm
-verantwortlich: vs
+verantwortlich: vs, js
 typ: training
 pflicht: false
-termine: 2017-05-26 11:00||http://bit.ly/2rAc2SO, 2017-05-26 15:00||http://bit.ly/2qFwJ0H, 2017-06-02 11:00||http://bit.ly/2rL7Q6y, 2017-06-02 15:00||http://bit.ly/2s3HLNr
-empfohlene-voraussetzungen: t-fb,t-sb
+termine: 2019-01-31 11:00|0.501, 2019-01-31 14:00|0.501, 2019-01-31 16:00|0.501
+empfohlene-voraussetzungen:
 published: true
 raum: 3.217
 dauer: 120
-info: Wie können wir unsere Entwürfe systematisch in Sketch oder Figma aufbauen?
+info: Wie können wir unser Designsystem dokumentieren und systematisch in Sketch oder Figma abbilden?
 ---
 ## Worum geht es?
 In diesem Training geht es darum, wie man mit Sketch und Figma Entwürfe systematisch aufbauen kann, so dass sie übersichtlich, gut strukturiert und konsistent sind.

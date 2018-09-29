@@ -8192,6 +8192,9 @@ html {
 .timetable .timetable-wrap .veranstaltung.orga {
   background-color: #aaaaaa;
 }
+.timetable .timetable-wrap .veranstaltung.ganztagesworkshop {
+  background-color: #00AD2F;
+}
 
 /**************/
 /* Veranstaltungsübersicht
@@ -8227,6 +8230,12 @@ html {
   background-color: #00AD2F;
 }
 .is-tab-wrap .card.is-workshop .card-header > .card-header-title {
+  color: #fff;
+}
+.is-tab-wrap .card.is-ganztagesworkshop .card-header {
+  background-color: #00AD2F;
+}
+.is-tab-wrap .card.is-ganztagesworkshop .card-header > .card-header-title {
   color: #fff;
 }
 .is-tab-wrap .card.is-vortrag .card-header {
