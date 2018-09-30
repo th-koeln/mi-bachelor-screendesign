@@ -1,5 +1,5 @@
 ---
-titel: Ganztagesworkshop
+titel: Ganztagsworkshop
 kuerzel: w-gtw
 verantwortlich: alle
 typ: ganztagesworkshop

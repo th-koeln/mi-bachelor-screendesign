@@ -27,7 +27,7 @@ Wenn Sie bereits fit im Umgang mit Sketch sind, dann bringt Ihnen das Training r
 
 ## Was sollte ich vorbereiten?
 
-Bitte schon mal die Videotutorials durcharbeiten. Falls Sie eine Version von Sketch bei sich installiert, dann üben Sie bitte vorab ein wenig. Falls Sie kein Sketch haben, lohnt sich vielleicht eine Anschaffung (etwa 50€ für Studierende). Auf den Rechnern in der Medieninformatik ist Sketch verfügbar.
+Bitte schon mal die Videotutorials durcharbeiten. Falls Sie eine Version von Sketch bei sich installiert haben, dann üben Sie bitte vorab ein wenig. Falls Sie kein Sketch haben, lohnt sich vielleicht eine Anschaffung (etwa 50€ für Studierende). Auf den Rechnern in der Medieninformatik ist Sketch verfügbar.
 
 ## Material
 
