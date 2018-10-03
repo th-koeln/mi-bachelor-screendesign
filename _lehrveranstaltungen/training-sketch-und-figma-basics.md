@@ -1,7 +1,7 @@
 ---
 titel: Sketch & Figma Basics
 kuerzel: t-sb
-verantwortlich: vs, js
+verantwortlich: vs, js, ch
 typ: training
 pflicht: false
 termine: 2018-10-11 11:00|0.501|http://bit.ly/2zDmrE9, 2018-10-11 14:00|0.501, 2018-10-11 16:00|0.501
@@ -14,12 +14,12 @@ info: Basistraining für den Umgang mit Sketch, bzw. Figma
 
 ## Worum geht es?
 
-Bei diesem Training üben wir den Umgang mit der Software Sketch. Ab einem bestimmten Punkt im Entwurfsprozess wollen wir papier-basierte Wireframes und Skizzen ins Digitale überführen und so konkretisieren. Dafür brauchen wir ein Stück Software. Es gibt unzählige Tools für diese Aufgabe und die Auswahl ist oftmals sehr persönlich oder anhängig von der Präferenz des Teams, des Kunden oder des zugrunde liegenden Workflows. In diesem Workshop nutzen wir Sketch, als ein sehr verbreitetes und anerkanntes Tool für grafische Mockups und andere Aufgaben. Sketch ist leider nur für Apple Computer erhältlich.
+Bei diesem Training üben wir den Umgang mit Sketch und Figma. Ab einem bestimmten Punkt im Entwurfsprozess wollen wir papier-basierte Wireframes und Skizzen ins Digitale überführen und so konkretisieren. Dafür brauchen wir ein Stück Software. Es gibt unzählige Tools für diese Aufgabe und die Auswahl ist oftmals sehr persönlich oder anhängig von der Präferenz des Teams, des Kunden oder des zugrunde liegenden Workflows. In diesem Workshop nutzen wir Sketch, als ein sehr verbreitetes und anerkanntes Tool für grafische Mockups und andere Aufgaben. Sketch ist leider nur für Apple Computer erhältlich.
 
 
 ## Was bringt mir das Training?
 
-Wenn Sie bereits fit im Umgang mit Sketch sind, dann bringt Ihnen das Training relativ wenig. Falls Sie jedoch keine, oder nur geringe Erfahrungen mit Sketch haben, dann lernen Sie hier grundlegende Konzepte, Handgriffe und Arbeitsabläufe innerhalb des Tools kennen. Außerdem wird geübt. Üben hilft immer.
+Wenn Sie bereits fit im Umgang mit Sketch oder Figma sind, dann bringt Ihnen das Training relativ wenig. Falls Sie jedoch keine, oder nur geringe Erfahrungen mit einem der Pakete haben, dann lernen Sie hier grundlegende Konzepte, Handgriffe und Arbeitsabläufe innerhalb des Tools kennen. Außerdem wird geübt. Üben hilft immer.
 
 ## Warum sollte ich üben?
 
@@ -27,9 +27,14 @@ Wenn Sie bereits fit im Umgang mit Sketch sind, dann bringt Ihnen das Training r
 
 ## Was sollte ich vorbereiten?
 
-Bitte schon mal die Videotutorials durcharbeiten. Falls Sie eine Version von Sketch bei sich installiert haben, dann üben Sie bitte vorab ein wenig. Falls Sie kein Sketch haben, lohnt sich vielleicht eine Anschaffung (etwa 50€ für Studierende). Auf den Rechnern in der Medieninformatik ist Sketch verfügbar.
+Bitte schon mal die Videotutorials durcharbeiten. Falls Sie eine Version von Sketch oder Figma bei sich installiert haben, dann üben Sie bitte vorab ein wenig. Falls Sie kein Sketch haben, lohnt sich vielleicht eine Anschaffung (etwa 50€ für Studierende). Auf den Rechnern in der Medieninformatik ist Sketch verfügbar.
+
 
 ## Material
+
+### Software
+- [Sketch](http://bit.ly/2zOnjWU)
+- [Figma](http://bit.ly/2zND7ZJ)
 
 ### Basic-Tutorials
 
