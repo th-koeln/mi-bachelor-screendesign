@@ -56,12 +56,6 @@ Das Projekt wird in Zweierteams durchgeführt.
 
 ![Projekt als roter Faden](images/projekt.svg 'Projekt als roter Faden')
 
-### Prüfung
-
-Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Entscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{ilias-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten. 
-
-Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt. 
-
 
 ### Veranstaltungsarten
 
@@ -77,6 +71,15 @@ Der **Ganztagsworkshop** bildet den Einstieg in das Projekt. Hier legen wir die 
 
 Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltung](angebote/) im Rahmen des Moduls.
 
+## Prüfung & erforderliche Artefakte
+
+Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Entscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{ilias-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten.
+
+Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, dass die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung gemacht wurden. 
+
+Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und Bewertung finden Sie bei der Erläuterung des [Niveaustufenmodells](niveaustufen/).   
+
+Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt. 
 
 ## Eingesetzte Software
 
