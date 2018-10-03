@@ -4,7 +4,7 @@ titel: Niveaustufen und Deliverables
 ---
 
 
-Zur Prüfung müssen folgende Deliverables vorliegen und über das {{link}} verlinkt werden.
+Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden.
 
 ------
 
@@ -31,7 +31,7 @@ Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die ge
 - wie variantenreich sind die Lösungsansätze
 - in wie weit lassen sich in den Lösungen Konzepte und Vorgehensweisen aus der Domäne erkennen?
 
-Das Gestaltungsportfolio muss als \*.zip Archiv im {{ilias-abgabe-0}} abgelegt werden. Bitte beachten Sie die [Nomenklatur](nomenklatur) für die Benennung von Dateien. Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
+Das Gestaltungsportfolio muss als \*.zip Archiv im {{ilias-abgabe-0}} abgelegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - Die Arbeiten wurden handwerklich sehr sauber und präzise umgesetzt.
@@ -61,6 +61,8 @@ Das Gestaltungsportfolio muss als \*.zip Archiv im {{ilias-abgabe-0}} abgelegt w
 - Das Ziparchiv und die einzelnen Dateien sind unvollständig und chaotisch.
 - Den Arbeiten fehlt jegliche Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign.
 - Die Lösungen lassen kein Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
+
+--- 
 
 ## Angebot & Anschreiben
 
@@ -93,7 +95,7 @@ Beide Artefakte sollten inhaltlich und formal Professionalität ausstrahlen und 
 - das Team stellt die richtigen Fragen um Lücken im Briefing zu schließen
 - das Team macht einen aufgeräumten und professionellen Eindruck und ist in der Lage das Projekt in meinem Sinne zu bearbeiten
 
-Angebot und Anschreiben müssen als PDF am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](nomenklatur) für die Benennung von Dateien. Sie werden entsprechend der folgenden Niveaustufen bewertet:
+Angebot und Anschreiben müssen als PDF am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Sie werden entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - Das Angebot enthält alle notwendigen Arbeitsschritte/-pakete mit verständlichen und präzisen Beschreibungen, sowie mit Preisen (Aufwandsschätzungen).
@@ -130,6 +132,8 @@ Angebot und Anschreiben müssen als PDF am Übergabepunkt hinterlegt werden. Bit
 - Angebot und Anschreiben sind nicht sauber, ungestaltet und wirken nicht professionell.
 - Angebot und Anschreiben sind sprachlich schlecht und enthalten übermäßig viele Fehler.
 
+----
+
 ## Designkonzept als Mockup
 
 Abgabe
@@ -161,7 +165,7 @@ Idealerweise kann der "Kunde" auf Basis des Designkonzepts/ Mockups folgende Fra
 - das Designkonzept berücksichtigt verschiedene Kontexte
 - die Gestaltung ist in sich schlüssig und konsistent
 
-Das Mockup muss als PDF und die einzelnen Screens als \*.zip Archiv am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](nomenklatur) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Das Mockup muss als PDF und die einzelnen Screens als \*.zip Archiv am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - Erfüllt alle notwendigen Anforderungen und ein bisschen mehr.
@@ -205,6 +209,8 @@ Das Mockup muss als PDF und die einzelnen Screens als \*.zip Archiv am Übergabe
 - Ist unsauber ausgearbeitet
 - Wurde nicht überzeugend präsentiert.
 
+---
+
 ## Patternlab/ Styleguide
 
 Abgabe
@@ -236,7 +242,7 @@ Pattern Library bzw. Styleguide sollen möglichst vollständig und sauber ausgea
 - mit Hilfe des Mockups und der Library könnte im nächsten Prozessschritt ein Entwicklerteam weiter arbeiten
 - das Gestaltungssystem ist für den Anwendungsfall/ Projektauftrag vollständig
 
-Die resultierende Übersicht muss als PDF Dokument am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](nomenklatur) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Die resultierende Übersicht muss als PDF Dokument am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - Gestaltungselemente und -regeln sind systematisch dargestellt
