@@ -3,7 +3,7 @@ layout: page-einspalter
 titel: Nomenklatur für Dateiabgaben
 ---
 
-Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in [Niveaustufen und Deliverables](/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
+Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
 
 ## Datei- oder Archivnamen
 
