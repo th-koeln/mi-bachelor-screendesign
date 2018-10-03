@@ -3,7 +3,7 @@ layout: page-einspalter
 titel: Nomenklatur für Dateiabgaben
 ---
 
-Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in [Niveaustufen und Deliverables](/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind darum berücksichtigen Sie bitte die folgenden Regeln:
+Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in [Niveaustufen und Deliverables](/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
 
 ## Datei- oder Archivnamen
 
@@ -21,7 +21,7 @@ Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
 
 Bitte verwenden Sie in den Dateinamen nur folgende Zeichen:
 
-> 0-9a-zA-Z -_\.
+> 0-9 a-z A-Z -_\.
 
 
 ## Readme
