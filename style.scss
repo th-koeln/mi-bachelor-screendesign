@@ -513,10 +513,10 @@ $tt-grid-height: 60px;
 }
 
 #nomenklatur {
-    overflow: scroll;
+    overflow-x: auto;
 
     table {
-        max-width: 50rem;
+        max-width: 65rem;
     }
 }
 
