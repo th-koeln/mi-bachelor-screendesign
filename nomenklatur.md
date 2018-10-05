@@ -7,6 +7,8 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 
 ## Datei- oder Archivnamen
 
+<div id="nomenklatur">
+
 |  Artefakt |  Nomenklatur |  Beispiel  |
 |---|---|---|
 | Gestaltungsportfolio | sd-201819-gestaltungsportfolio-NACHNAME.zip  | sd-201819-gestaltungsportfolio-noss.zip  |
@@ -14,7 +16,7 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 | Designkonzept als Mockup  |  sd-201819-designkonzept-NACHNAME1-NACHNAME2.zip |  sd-201819-designkonzept-noss-schaefer.zip |
 | Patternlab/Styleguide  | sd-201819-styleguide-NACHNAME1-NACHNAME2.pdf  |  sd-201819-styleguide-noss-schaefer.pdf |
 
-
+</div>
 
 <!--
 

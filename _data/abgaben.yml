@@ -19,7 +19,7 @@ artefakt1:
 artefakt2:
   name: Designkonzept als Mockup
   date: 2019-03-24 00:00
-  format: PDF und mit Einzelscreens als *.zip Archiv
+  format: *.zip Archiv mit Einzelscreens als Bilddateien (*.jpg,*.png) und einer PDF mit allen Screens
   gruppe: Teamartefakt
   anteil: 2/5
   uebergabepunkt-text: Ilias
