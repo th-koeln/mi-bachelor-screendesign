@@ -34,7 +34,7 @@ Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
 
 Bitte verwenden Sie in den Dateinamen nur folgende Zeichen:
 
-> 0-9 a-z A-Z -_\.
+> [0-9] [a-z] [A-Z] -_\.
 
 
 ## Readme
