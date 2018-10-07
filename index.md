@@ -9,7 +9,7 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
 
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** und enden etwa um **18:00 Uhr**. Das Konzept von Screendesign ist auf Anwesenheit und aktive Mitwirkung ausgelegt. 
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben in der Regel drei Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
 Die erste Veranstaltung ist am **11.10.2018** um **9:00 Uhr**. Der letzte Termin ist am **31.01.2019**.
 
