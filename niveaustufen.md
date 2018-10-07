@@ -36,7 +36,7 @@ Das Gestaltungsportfolio muss als \*.zip Archiv im {{ilias-abgabe-0}} abgelegt w
 **Beste Lösung**
 - Die Arbeiten wurden handwerklich sehr sauber und präzise umgesetzt.
 - Die Dateinamen sind sprechend und verständlich.
-- In den Arbeiten lässt sich eine intensive Auseinandersetzung mit Konzepte und Vorgehensweisen im Screendesign erkennen.
+- In den Arbeiten lässt sich eine intensive Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign erkennen.
 - Die Lösungen sind variantenreich (sofern es die Aufgabe erfordert).
 - Die Lösungen lassen ein gutes Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
 
@@ -58,7 +58,7 @@ Das Gestaltungsportfolio muss als \*.zip Archiv im {{ilias-abgabe-0}} abgelegt w
 
 **Schlechte Lösung**
 - Die Arbeiten wurden handwerklich unsauber umgesetzt.
-- Das Ziparchiv und die einzelnen Dateien sind unvollständig und chaotisch.
+- Das Zip-Archiv und die einzelnen Dateien sind unvollständig und chaotisch.
 - Den Arbeiten fehlt jegliche Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign.
 - Die Lösungen lassen kein Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
 
@@ -246,7 +246,7 @@ Die resultierende Übersicht muss als PDF Dokument am Übergabepunkt hinterlegt 
 
 **Beste Lösung**
 - Gestaltungselemente und -regeln sind systematisch dargestellt
-- die Übersicht ist  sauber ausgearbeitet und aufbereitet
+- die Übersicht ist sauber ausgearbeitet und aufbereitet
 - die Übersicht ist kompakt und schnell erfassbar
 - wesentliche Elemente sind kommentiert
 - schematische Darstellung werden zum Verständnis der zugrundeliegenden Gestaltungsregeln angeboten
