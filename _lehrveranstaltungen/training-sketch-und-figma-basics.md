@@ -47,8 +47,5 @@ Bitte schon mal die Videotutorials durcharbeiten. Falls Sie eine Version von Ske
 - [Sketch Basics 4: Symbols](https://www.youtube.com/watch?v=yoPZnND0gKk&list=PLYDNry0Bi-MOnJuxLQ1XSfk3HVLXcHhq2&index=4)
 
 ### Folien und Aufgabe
-- [Übungsaufgaben](../../download/training-sketch-basics/Sketch_Training_GdvK_SS_17_v2.zip)
-- [Folien zum Training](../../download/training-sketch-basics/Sketch_Training_Kickoff_2017.zip)
+- [Übungsaufgaben](../../download/sketch-figma-training-material.zip)
 
-### Lösungen
-- [Lösungen](../../download/training-sketch-basics/loesungen.zip)
