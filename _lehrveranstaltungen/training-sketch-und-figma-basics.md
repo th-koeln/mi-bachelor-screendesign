@@ -43,6 +43,8 @@ Wenn Sie bereits fit im Umgang mit Sketch oder Figma sind, dann bringt Ihnen das
 
 ### Figma Tutorials
 
+[Figma Help](https://help.figma.com)
+
 ### Übungsaufgaben
 - [Übungsaufgaben](../../download/sketch-figma-training-material.zip)
 
