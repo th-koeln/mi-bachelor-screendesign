@@ -33,8 +33,8 @@ Bitte schon mal die Videotutorials durcharbeiten. Falls Sie eine Version von Ske
 ## Material
 
 ### Software
-- [Sketch](http://bit.ly/2zOnjWU)
-- [Figma](http://bit.ly/2zND7ZJ)
+- [Sketch](https://www.sketchapp.com)
+- [Figma](https://www.figma.com)
 
 ### Basic-Tutorials
 
