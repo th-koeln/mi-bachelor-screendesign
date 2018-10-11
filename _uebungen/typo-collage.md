@@ -1,0 +1,1 @@
+Wir machen eine Typo Collage als Film oder Bild. In dem ein Slogan, Manifest oder ähnliches visualisiert wird.

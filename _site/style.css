@@ -8510,6 +8510,13 @@ html {
   transform: rotate(180deg);
 }
 
+#nomenklatur {
+  overflow-x: auto;
+}
+#nomenklatur table {
+  max-width: 65rem;
+}
+
 @media (max-width: 999px) {
   html,
   body {
