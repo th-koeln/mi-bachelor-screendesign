@@ -30,4 +30,5 @@ Außerdem befassen wir uns mit einer Reihe von Grundbegriffen und Sichtweisen im
 Darüber hinaus beschäftigen wir uns mit Grundfragen der Kommunikation, Interaktion und der visuellen Wahrnehmung.
 
 ## Material
-* [Folien zu Design Basics](../../download/inputs/design-basics-describe.pdf)
+* [Folien zum Modulablauf](../../download/inputs/000-about-screendesign.pdf)
+* [Folien zu Design in der Medieninformatik](../../download/inputs/010-design-in-der-mi.pdf)
