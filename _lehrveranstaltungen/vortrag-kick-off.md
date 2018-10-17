@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 90
 raum: 3.102
-info: Wie funktioniert das Modul, was sind grundlegende Fragen im Design und welche Rolle spielt Design in der Medieninformatik?
+info: Wie funktioniert das Modul?
 ---
 
 
@@ -20,15 +20,6 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 - Wie ist das Modul aufgebaut?
 - Wie funktioniert die Prüfung?
 
-Außerdem befassen wir uns mit einer Reihe von Grundbegriffen und Sichtweisen im Design. Hier mal ein paar Beispiele:
-
-- Welche Rolle spielt Design?
-- Welche Rolle kommt dem Design in der Informatik/ Medieninformatik zu?
-- Woran erkennen wir gutes Design?
-- Wie können wir Design beschreiben?
-
-Darüber hinaus beschäftigen wir uns mit Grundfragen der Kommunikation, Interaktion und der visuellen Wahrnehmung.
 
 ## Material
 * [Folien zum Modulablauf](../../download/inputs/000-about-screendesign.pdf)
-* [Folien zu Design in der Medieninformatik](../../download/inputs/010-design-in-der-mi.pdf)

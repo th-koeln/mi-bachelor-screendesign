@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 titel: Über das Modul
 ---
 

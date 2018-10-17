@@ -105,6 +105,8 @@ collections:
     output: false
   links:
     output: false
+  news:
+    output: false
 
 defaults:
   -
