@@ -19,8 +19,14 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 - eigener Rechner mit Sketch oder Figma
 - Basiskenntnisse in Sketch oder Figma
 
-## Material und Links
-tbd.
+## Material
+- [Semiotik](../../download/workshops/punkt-linie-flaeche/010-theorie-semiotik.pdf)
+- [Punkt, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/020-punkt.pdf)
+- [Eindeutigkeit](../../download/workshops/punkt-linie-flaeche/030-eindeutigkeit.pdf)
+- [Figur und Grund](../../download/workshops/punkt-linie-flaeche/060-figur-und-grund.pdf)
+- [Linie, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
+- [Fläche, inkl. Aufgabe ](../../download/workshops/punkt-linie-flaeche/050-Flaeche.pdf)
+
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
