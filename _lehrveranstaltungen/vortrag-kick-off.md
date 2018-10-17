@@ -22,4 +22,4 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 
 ## Material
-* [Folien zum Modulablauf](../../download/inputs/000-about-screendesign.pdf)
+* [Folien zum Modulablauf](../../download/000-about-screendesign.pdf)
