@@ -27,4 +27,4 @@ Darüber hinaus beschäftigen wir uns mit Grundfragen der Kommunikation, Interak
 Außerdem befassen wir uns als Vorbereitung für den Workshop mit den basalen Gestaltungselementen Punkt, Linie und Fläche. Yeah! 
 
 ## Material
-* [Folien zu Design in der Medieninformatik](../../download/inputs/010-design-in-der-mi.pdf)
+* [Folien zu Design in der Medieninformatik](../../download/010-design-in-der-mi.pdf)
