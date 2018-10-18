@@ -42,8 +42,8 @@ Wenn Sie bereits fit im Umgang mit Sketch oder Figma sind, dann bringt Ihnen das
 - [Sketch Basics 4: Symbols](https://www.youtube.com/watch?v=yoPZnND0gKk&list=PLYDNry0Bi-MOnJuxLQ1XSfk3HVLXcHhq2&index=4)
 
 ### Figma Tutorials
-
-[Figma Help](https://help.figma.com)
+- [Figma Help](https://help.figma.com)
+- [Figma Basiscs](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
 
 ### Übungsaufgaben
 - [Übungsaufgaben](../../download/sketch-figma-training-material.zip)
