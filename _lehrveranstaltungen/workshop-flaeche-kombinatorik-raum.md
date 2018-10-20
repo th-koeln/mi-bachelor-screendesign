@@ -1,5 +1,5 @@
 ---
-titel: Fläche, Raum & Kombinatorik
+titel: Fläche & Kombinatorik
 kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 120
 raum: 0.501
-info: Komplexere Konzepte und Übungen zum Thema Fläche, Räumlichkeit und Kombinatorik.
+info: Komplexere Konzepte und Übungen zu den Themem Fläche und Kombinatorik.
 ---
 
 ## Worum geht es?
