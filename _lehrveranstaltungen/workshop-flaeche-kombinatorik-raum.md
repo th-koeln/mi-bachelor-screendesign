@@ -13,7 +13,7 @@ info: Komplexere Konzepte und Übungen zu den Themem Fläche und Kombinatorik.
 ---
 
 ## Worum geht es?
-Die nächsten Gestaltungselement stehen an: Fläche und Form. Wir gehen wir damit um? Was gibt es zu beachten? 
+Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir damit um? Was gibt es zu beachten? 
 
 Handwerklich erweitern wir das Knowhow heute um Masken, die Pipette und komplexere Raster.
 
