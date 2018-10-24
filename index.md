@@ -6,10 +6,10 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="lias-pruefung" %}
 {% assign ilias-pruefung = link %}
 
-<!--
+{% comment %}
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
--->
+{% endcomment %}
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben in der Regel drei Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
