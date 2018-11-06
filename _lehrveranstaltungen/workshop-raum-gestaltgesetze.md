@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2018-11-08 11:00|0.501|https://bit.ly/2R94L9A, 2018-11-08 16:00|0.501|https://bit.ly/2ErGLNo
+termine: 2018-11-08 11:00|0.501|https://bit.ly/2R94L9A, 2018-11-08 14:00|0.501|http://bit.ly/2OvdeH9,  2018-11-08 16:00|0.501|https://bit.ly/2ErGLNo
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -20,8 +20,8 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 - Gute Übung in Sketch oder Figma
 
 ## Material und Links
-
-- [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
+- [Aufgaben Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/aufgabe-raum-gestaltgesetze.pdf)
+- [Materialpaket Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/material-raum-gestaltgesetze.zip)
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.

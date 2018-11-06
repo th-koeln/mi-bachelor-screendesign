@@ -4,7 +4,7 @@ kuerzel: t-pbl
 verantwortlich: vs, js
 typ: training
 pflicht: false
-termine: 2018-11-29 16:00|0.501
+termine: 2017-11-29 16:00|0.501
 empfohlene-voraussetzungen:
 published: true
 dauer: 120

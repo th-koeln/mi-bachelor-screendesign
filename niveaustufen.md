@@ -28,10 +28,11 @@ Einzel- oder Teamartefakt
 Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die gestalterische Auseinandersetzung der Studierenden von basalen Fragen und Themen im Screendesign. Dabei sollen folgende Fragen beantwortet werden:
 - wie präzise agiert der Studierende bei der Bearbeitung der Gestaltungsaufgaben
 - in wie weit wurde die Aufgabe verstanden 
-- wie variantenreich sind die Lösungsansätze
 - in wie weit lassen sich in den Lösungen Konzepte und Vorgehensweisen aus der Domäne erkennen?
 
-Das Gestaltungsportfolio muss als \*.zip Archiv im {{ilias-abgabe-0}} abgelegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
+Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeutigkeit, Räumlichkeit, Hierarchisierung und Gestaltgesetze verstanden haben.
+
+Die Arbeiten des Gestaltungsportfolios müssen als Einzeldateien (PNG 2x) im {{site.data.abgaben.artefakt0.uebergabepunkt-text}} abgelegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - Die Arbeiten wurden handwerklich sehr sauber und präzise umgesetzt.
