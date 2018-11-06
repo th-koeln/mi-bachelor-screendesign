@@ -20,4 +20,4 @@ Sobald es darum geht mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu p
 Außerdem gibt es heute Feedback zu den Übungsaufgaben vom letzten Termin und die Spielregeln als auch einige Tipps für Portfoliopräsentation am 15. November.
 
 ## Material
-tbd.
+- [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
