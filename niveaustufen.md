@@ -59,7 +59,7 @@ Die Arbeiten des Gestaltungsportfolios müssen als Einzeldateien (PNG 2x) im {{s
 
 **Schlechte Lösung**
 - Die Arbeiten wurden handwerklich unsauber umgesetzt.
-- Das Zip-Archiv und die einzelnen Dateien sind unvollständig und chaotisch.
+- Die einzelnen Dateien sind unvollständig und chaotisch.
 - Den Arbeiten fehlt jegliche Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign.
 - Die Lösungen lassen kein Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
 
