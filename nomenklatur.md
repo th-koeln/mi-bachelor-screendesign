@@ -11,7 +11,7 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 
 |  Artefakt |  Nomenklatur |  Beispiel  |
 |---|---|---|
-| Gestaltungsportfolio | sd-201819-gestaltungsportfolio-NACHNAME.zip  | sd-201819-gestaltungsportfolio-noss.zip  |
+| Gestaltungsportfolio (je Aufgabe) | sd-201819-gestaltungsportfolio-NACHNAME-AUFGABENNUMMER.png  | sd-201819-gestaltungsportfolio-noss-1.png  |
 | Angebot & Anschreiben |  sd-201819-anschreiben-NACHNAME1-NACHNAME2.pdf |  sd-201819-anschreiben-noss-schaefer.pdf |
 | Designkonzept als Mockup  |  sd-201819-designkonzept-NACHNAME1-NACHNAME2.zip |  sd-201819-designkonzept-noss-schaefer.zip |
 | Patternlab/Styleguide  | sd-201819-styleguide-NACHNAME1-NACHNAME2.pdf  |  sd-201819-styleguide-noss-schaefer.pdf |
