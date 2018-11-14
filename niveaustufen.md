@@ -32,7 +32,12 @@ Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die ge
 
 Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeutigkeit, Räumlichkeit, Hierarchisierung und Gestaltgesetze verstanden haben.
 
-Die Arbeiten des Gestaltungsportfolios müssen als Einzeldateien (PNG 2x) im {{site.data.abgaben.artefakt0.uebergabepunkt-text}} abgelegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
+
+Die Arbeiten des Gestaltungsportfolios müssen als Einzeldateien (PNG 2x) im {{site.data.abgaben.artefakt0.uebergabepunkt-text}} abgelegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. 
+
+Weitere Infos finden Sie unter [Gestaltungsportfolio](../gestaltungsportfolio/)
+
+Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - Die Arbeiten wurden handwerklich sehr sauber und präzise umgesetzt.
