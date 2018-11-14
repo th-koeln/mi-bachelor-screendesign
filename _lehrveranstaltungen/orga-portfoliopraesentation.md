@@ -14,8 +14,8 @@ info: Dies ist ein Pflichttermin. Die Anwesenheit ist für das Bestehen des Modu
 ---
 
 ## Ziel 
-Präsentation von zwei Artefakten, die im Rahmen der Übungen gemacht wurden. Weitere Infos folgen.
+Präsentation von zwei Artefakten, die im Rahmen der Übungen gemacht wurden. 
 
-## Nicht vergessen
-- Belbin Test
+Weitere Infos finden Sie unter [Gestaltungsportfolio](../../gestaltungsportfolio/) und [Niveaustufen](../../niveaustufen/). Präsentiert wird von unserem Rechner. 
+
 
