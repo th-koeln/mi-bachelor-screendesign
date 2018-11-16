@@ -34,8 +34,6 @@ Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
 
 -->
 
-Bitte verwenden Sie in den Dateinamen nur folgende Zeichen:
-
-> [0-9] [a-z] [A-Z] -_\.
+Bitte verwenden Sie in den Dateinamen nur folgende Zeichen: [0-9] [a-z] [A-Z] -_\.
 
 > Bitte keine Archive (*.zip, *.tar, *.rar oder Ähnliches) hochladen, sondern ausschließlich einzelene Dateien. Wir nehmen ausschlißelich PNG und PDF Dateien an. Die PNG Files bitte in zweifacher Größe (2x) exportieren.
