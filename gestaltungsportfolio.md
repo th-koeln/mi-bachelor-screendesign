@@ -13,14 +13,14 @@ Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeu
 
 ## Inhalt des Portfolios
 
-Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie jeweils beste Artefakt aus: 
+Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie **das jeweils beste Artefakt** aus: 
 
 - Aufgabe Punkt 1 und Aufgabe Punkt 2
 - Aufgabe Linie 1 und Aufgabe Linie 2
 - Aufgabe Fläche 1,  Aufgabe Fläche 2 und Aufgabe Flächenaufteilung
 - Aufgabe Raum & Gestaltgesetze 1 und Raum & Gestaltgesetze 2 
 
-Insgesamt umfasst das Portfolio also **vier Artefakte**. Diese laden Sie bitte fristgerecht im [Ilias unter Prüfungsrelevante Artefakte/Individuelles Gestaltungsportfolio](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) hoch. 
+Insgesamt umfasst das Portfolio also **vier Artefakte**. Diese laden Sie bitte fristgerecht im [Ilias unter Prüfungsrelevante Artefakte/Individuelles Gestaltungsportfolio](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) hoch. Berücksichtigen Sie ungebedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
 
 ## Bewertung
 
