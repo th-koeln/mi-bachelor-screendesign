@@ -171,7 +171,7 @@ Idealerweise kann der "Kunde" auf Basis des Designkonzepts/ Mockups folgende Fra
 - das Designkonzept berücksichtigt verschiedene Kontexte
 - die Gestaltung ist in sich schlüssig und konsistent
 
-Das Mockup muss als PDF und die einzelnen Screens als \*.zip Archiv am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Das Mockup muss als PDF und die einzelnen Screens als *.jpg Datein am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - Erfüllt alle notwendigen Anforderungen und ein bisschen mehr.
