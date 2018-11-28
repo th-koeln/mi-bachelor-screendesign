@@ -16,11 +16,13 @@ info: Dies ist ein Pflichttermin. An diesem Tag arbeiten wir uns in das Projektt
 Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen begleiten wird. Dazu wird es um 9:00 Uhr im Raum 3.102 einen Kick-Off geben, wo das Projekt vorgestellt und die Aufgaben für den Tag besprochen werden.
 
 ## Zeitplan
-- 9:00 Uhr Kick-Off, Raum 3.102
-- 17:00 Uhr Abschlusspräsentation, Raum 3.102
+- 9:00 Uhr:  Kick-Off, Raum 3.102
+- ab 10:30 Uhr: Freies Arbeiten der [Teams in den Arbeitsräumen](https://ilias.th-koeln.de/goto.php?target=file_1207658_download&client_id=ILIAS_FH_Koeln).
+- 17:00 Uhr: Präsentation der Ergebnisse im Raum 3.102
+- ab ca. 18:00 Uhr: Kickern, Tischtennis und Feierabendbier im Hauptgebäude. Falls jemand mitmachen will, bitte in diese <a href="https://ilias.th-koeln.de/goto.php?target=sess_1205110&client_id=ILIAS_FH_Koeln">Liste</a> eintragen, damit wir besser planen können.
 
 ## Projektgegenstand
-Im Projekt befassen wir uns mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Alles Weitere folgt am Tag des Ganztagesworkshops.
+Im Projekt befassen wir uns mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/).
 
 ## Vorbereitung
 Bitte arbeiten Sie sorgfältig das Kapitel "Zielgruppenanalyse und -ansprache" aus dem Buch "Interaction- und Interfacedesign" von Torsten Stapelkamp durch (Link ist nur über das TH VPN erreichbar):

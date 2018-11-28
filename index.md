@@ -51,7 +51,8 @@ Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier 
 
 Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. Von diesen Terminen müssen zwei wahrgenommen werden. Damit wir als Betreuer und Dozenten sehen können, dass die Studierenden auf dem richtigen Weg sind, gibt es zusätzlich zwei verpflichtende Zwischenpräsentationen. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{ilias}} angemeldet werden.
 
-Das Projekt wird in Zweierteams durchgeführt.
+Das Projekt wird in Zweierteams durchgeführt. Im Projekt befassen wir uns dieses Jahr mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/).
+
 
 
 ![Projekt als roter Faden](images/projekt.svg 'Projekt als roter Faden')
