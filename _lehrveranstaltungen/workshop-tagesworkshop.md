@@ -18,7 +18,7 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 ## Zeitplan
 - 9:00 Uhr:  Kick-Off, Raum 3.102
 - ab 10:30 Uhr: Freies Arbeiten der [Teams in den Arbeitsräumen](https://ilias.th-koeln.de/goto.php?target=file_1207658_download&client_id=ILIAS_FH_Koeln).
-- 17:00 Uhr: Präsentation der Ergebnisse im Raum 3.102
+- 17:00 Uhr: Präsentation der Ergebnisse im Raum <del>3.102</del> 0.405
 - ab ca. 18:00 Uhr: Kickern, Tischtennis und Feierabendbier im Hauptgebäude. Falls jemand mitmachen will, bitte in diese <a href="https://ilias.th-koeln.de/goto.php?target=sess_1205110&client_id=ILIAS_FH_Koeln">Liste</a> eintragen, damit wir besser planen können.
 
 ## Projektgegenstand
