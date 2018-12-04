@@ -16,7 +16,7 @@ info: Wir funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erz
 
 > „Es sind Harmonien und Kontraste in den Farben verborgen, die ganz von selbst zusammenwirken.“ <br><small>Vincent van Gogh</small>
 
-Genau darum geht es heute: Farbe, eines der wirkungsvollsten Gestaltungsmittel. Leider im Gutenn wie um Schlechten, denn mit dem Einsatz von Farbe können unsere Gestaltung sehr stark aufwerten, aber leider auch sehr stark abwerten. Warum das so ist, erfahren Sie heute. Dazu natürlich einige Grundlagen und Informationen, die sich prima bei „Wer wird Millionär“ einsetzen lassen. 
+Genau darum geht es heute: Farbe, eines der wirkungsvollsten Gestaltungsmittel. Leider im Guten wie um Schlechten, denn mit dem Einsatz von Farbe können unsere Gestaltung sehr stark aufwerten, aber leider auch sehr stark abwerten. Warum das so ist, erfahren Sie heute. Dazu natürlich einige Grundlagen und Informationen, die sich prima bei „Wer wird Millionär“ einsetzen lassen. 
 
 Außerdem gibt es heute Feedback zur Porfoliopräsentation und den abgegebenen Artefakten.
 

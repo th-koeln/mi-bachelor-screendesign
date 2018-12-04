@@ -13,7 +13,7 @@ info: Wie entwickle ich ein Farbklima?
 ---
 
 ## Worum geht es?
-Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehere Farbklimata und varieren diese. Darüber hinaus lernen wir einige neue Funktionen in Sketch und Figma kennen und befassen uns zum ersten mal systematisch mit Bildern.
+Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrere Farbklimata und variieren diese. Darüber hinaus lernen wir einige neue Funktionen in Sketch und Figma kennen und befassen uns zum ersten mal systematisch mit Bildern.
 
 ## Was muss ich mitbringen?
 - eigener Rechner mit Sketch oder Figma
