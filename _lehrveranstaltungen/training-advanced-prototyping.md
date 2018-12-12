@@ -1,5 +1,5 @@
 ---
-titel: Paper-based Layouts übertragen
+titel: Advanced Prototyping with Sketch & Figma
 kuerzel: t-ld
 verantwortlich: vs
 typ: training
@@ -15,12 +15,11 @@ info: Wie können wir papierbasierte Layouts in Sketch oder Figma systematisch �
 ## Worum geht es?
 
 In diesem Training geht es darum, dass Sie den Umgang mit Sketch und Figma festigen und bestimmte Workflows, zur Erstellung von Entwürfen, erlernen.
-Als Übung werden Sie dazu ihre papierbasierten Layouts bzw. Wireframes in Form von Grey Box-Wireframes konkretisieren und damit systematisch in ein digitales Medium übertragen.
+Als Übung werden Sie dazu papierbasierte Layouts bzw. Wireframes in Form von Grey Box-Wireframes konkretisieren und damit systematisch in ein digitales Medium übertragen.
 
 ## Was sollte ich vorbereiten?
 
-Sie sollten für diesen Workshop einigermaßen sicher im Umgang mit Sketch oder Figma sein und die Aufgaben aus den Basic-Workshop in einem angemessenen Tempo gelöst bekommen.
-Damit Sie in diesem Workshop arbeitsfähig sind, ist es wichtig, dass Sie papierbasierte Wireframes mitbringen, die Sie, entweder in dem Workshop „Layouts mit Wireframes” oder für ihr Projekt, erstellt haben.
+Sie sollten für diesen Workshop sicher im Umgang mit Sketch oder Figma sein. Damit Sie in diesem Workshop arbeitsfähig sind, ist es wichtig, dass Sie papierbasierte Wireframes mitbringen, die Sie, entweder in dem Workshop „Layouts mit Wireframes” oder für ihr Projekt, erstellt haben.
 
 ## Aufgaben
 

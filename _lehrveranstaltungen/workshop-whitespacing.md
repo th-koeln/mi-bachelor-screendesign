@@ -1,15 +1,15 @@
 ---
-titel: Layouts für verschiedene Endgeräte
+titel: Systematische Proportionen und Abstände
 kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-01-10 11:00|0.501, 2019-01-10 14:00|0.501, 2019-01-10 16:00|0.501
+termine: 2019-01-17 11:00|0.501, 2019-01-17 14:00|0.501, 2019-01-17 16:00|0.501
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 120
 raum: 3.216
-info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungsfläche und Interaktionsmöglichkeiten. Wie entwickle ich dafür Layoutkonzepte?
+info: Wie gehen wir systematisch mit Größen und Abständen um?
 ---
 
 ## Der Workshop:

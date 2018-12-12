@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 90
 raum: 3.102
-info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. 
+info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
 ---
 
 ## Worum geht es?
