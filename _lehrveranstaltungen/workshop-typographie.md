@@ -20,7 +20,15 @@ Heute befassen wir uns mit Typographie und Schriftsatz, wer hätte es gedacht :)
 - Kenntnisse in Sketch oder Figma
 
 ## Material
+- [Aufgaben Typographie](../../download/workshops/typo/aufgaben-typographie.pdf)
 
+## Typo Games
+- [Shape Game](https://shape.method.ac/)
+- [Kerning Game](https://type.method.ac/)
+- [Shot the Serif](https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/)
+- [TypeWar](http://typewar.com/)
+- [Type Connection](http://www.typeconnection.com/)
+- [Rag Game](https://fathom.info/ragtime/game.html)
 
 
 ## Sie haben keinen Rechner?
