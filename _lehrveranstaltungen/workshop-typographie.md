@@ -1,5 +1,5 @@
 ---
-titel: Typographie und Textsatz
+titel: Typographie & Textsatz
 kuerzel: w-elmw
 verantwortlich: cn
 typ: workshop
