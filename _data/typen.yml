@@ -4,7 +4,7 @@ training:
 
 workshop:
   name: Workshop
-  max-teilnehmer: 40
+  max-teilnehmer: 30
 
 ganztagesworkshop:
   name: Workshop
