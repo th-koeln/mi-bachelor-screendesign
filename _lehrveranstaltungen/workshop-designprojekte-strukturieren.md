@@ -4,7 +4,7 @@ kuerzel: w-ds
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2018-12-20 11:00|0.501, 2018-12-20 14:00|0.501, 2018-12-20 16:00|0.501
+termine: 2018-12-20 11:00|0.501, 2018-12-20 14:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -17,17 +17,13 @@ In dem Workshop lernen wir verschiedene Designprozess-Modelle bzw. Vorgehensweis
 
 Im Anschluss übertragen wir das Gelernte in ein Anschreiben an unsere Auftraggeber und beginnen unser praktisches Projekt zu segmentieren und in Projektphasen zu unterteilen, die im Anschluss zeitlich geschätzt werden sollten.
 
-## Aufgaben:
-- Recherchieren Sie Designprozesse oder Vorgehensweisen im Design.
-- Sammeln Sie die entscheidenden Schlüsselworte, die im Anschreiben enthalten sein sollten und clustern Sie die Begriffe auf der Pinnwand.
-- Formulieren Sie einen Text für Ihr Anschreiben an den Auftraggeber.
-- Machen Sie eine Übersicht über die Projektphasen Ihres konkreten Projekts. Schätzen Sie die Dauer der unterschiedlichen Phasen und erläutern Sie die Funktion der jeweiligen Phase.
-
 ## Was muss ich mitbringen?
 - eigener Rechner mit Sketch oder Figma
 - Kenntnisse in Sketch oder Figma
 
 ## Material
+- [Arbeitsaufträge](../../download/workshops/designprozesse-strukturieren)
+- [Maße Briefpapier DIN 5008](../../download/workshops/typo/briefpapier-vorlage.pdf)
 - [Thinking Design - Design, Prozesse, Method](https://thinking-design.de/2-designprozess-einfuehrung/)
 - [https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation](Free E-Book: The Guide to UX Design Process & Documentation)
 
