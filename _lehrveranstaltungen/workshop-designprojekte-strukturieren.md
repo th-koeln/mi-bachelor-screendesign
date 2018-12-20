@@ -22,7 +22,7 @@ Im Anschluss übertragen wir das Gelernte in ein Anschreiben an unsere Auftragge
 - Kenntnisse in Sketch oder Figma
 
 ## Material
-- [Arbeitsaufträge](../../download/workshops/designprozesse-strukturieren)
+- [Arbeitsaufträge](../../download/workshops/designprozesse-strukturieren/aufgabe-designprojekte-strukturieren.pdf)
 - [Maße Briefpapier DIN 5008](../../download/workshops/typo/briefpapier-vorlage.pdf)
 - [Thinking Design - Design, Prozesse, Method](https://thinking-design.de/2-designprozess-einfuehrung/)
 - [https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation](Free E-Book: The Guide to UX Design Process & Documentation)
