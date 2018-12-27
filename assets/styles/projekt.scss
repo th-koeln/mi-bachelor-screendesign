@@ -1,6 +1,5 @@
----
 --- 
-
+--- 
 //
 // IMPORTS
 //
@@ -100,7 +99,7 @@ html {}
 /* hsla(281,91,81,1), hsla(281,91,81,0) */
 .is-header {
   background-size: cover;
-  background-image: linear-gradient(to left, rgba(0,0,0,0 ), rgba(0,0,0, 1)), url(/mi-bachelor-screendesign/assets/images/projekt-2018-hero.jpg);
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/mi-bachelor-screendesign/assets/images/projekt-2018-hero.jpg);
 
   .title {
     font-weight: 700;
@@ -213,12 +212,21 @@ html {}
       font-weight: 600;
     }
 
+    hr {
+      margin-top: $bfs/2;
+      margin-bottom: $bfs/2;
+    }
+
     .no-border {
 
       th,
       td {
         border: none;
       }
+    }
+
+    tr > th, tr > td{
+      padding-left: 0;
     }
   }
 
@@ -558,6 +566,6 @@ pre code {
 /* Overrides  */
 /**************/
 
-.hero.is-info{
-	background-color: #000 !important;
+.hero.is-info {
+  background-color: #000 !important;
 }
