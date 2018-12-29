@@ -4,57 +4,35 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2019-01-03 09:00|0.501, 2019-01-03 12:00|0.501, 2019-01-03 15:00|0.501
+termine: 2019-01-03 14:00|0.501|https://bit.ly/2BK9Te5
 empfohlene-voraussetzungen: 
 published: true
-raum: 3.217
+raum: 0.501
 dauer: 150
-info: Wie können wir papierbasierte Layouts in Sketch oder Figma systematisch übertragen?
+info: Wie können wir Prototypen in Sketch systematisch aufbauen?
 ---
 
 ## Worum geht es?
 
-In diesem Training geht es darum, dass Sie den Umgang mit Sketch und Figma festigen und bestimmte Workflows, zur Erstellung von Entwürfen, erlernen.
-Als Übung werden Sie dazu papierbasierte Layouts bzw. Wireframes in Form von Grey Box-Wireframes konkretisieren und damit systematisch in ein digitales Medium übertragen.
+In diesem Training befassen wir uns mit der Erstellung von Protoypen in Sketch und Figma.
+Wir werden uns mit Techniken beschäfigen und lernen Funktionen von Sketch und Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. In diesem Zusammenhang beschäftigen uns intensiver mit Komponenten und Symbolen.
 
-## Was sollte ich vorbereiten?
 
-Sie sollten für diesen Workshop sicher im Umgang mit Sketch oder Figma sein. Damit Sie in diesem Workshop arbeitsfähig sind, ist es wichtig, dass Sie papierbasierte Wireframes mitbringen, die Sie, entweder in dem Workshop „Layouts mit Wireframes” oder für ihr Projekt, erstellt haben.
+## Was muss ich mitbringen?
+- eigener Rechner mit Sketch oder Figma
+- sicherer Umgang in Sketch oder Figma
+
+## Sie haben keinen Rechner?
+Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
 
 ## Aufgaben
 
-* Erzeugen Sie zunächst ein Frame in Figma oder ein Artboard in Sketch mit den Maßen eines Smartphone Displays.
-* Analysieren Sie ihre Wireframes und erstellen Sie ein geeignetes Raster für ihr Frame oder Artboard.
-* Übertragen Sie nun ihre papierbasierten Wireframes Stück für Stück in das Frame oder Artboard.
-* Erzeugen Sie für jedes einzelne Wireframe ein Frame oder Artboard.
-* Optimieren Sie Ihren Entwurf ggf. in einer Iteration.
-
-### Worauf sollten Sie achten?
-
-* Wichtig ist, dass Sie immer möglichst präzise und konsistent arbeiten:
-  * Richten Sie alle Elemente an dem Raster aus und positionieren Sie sie pixelgenau.
-  * Achten Sie darauf, dass die Abstände zwischen einzelnen Elementen nicht willkürlich sind und bestimmten Gesetzmäßigkeiten folgen.
-  * Alle Elemente sollen einer einheitlichen Form- und Farbsprache folgen. Das heißt, Elemente, die die gleiche Funktion haben, haben das gleiche Erscheinungsbild. Hierzu können Sie von einzelnen Elementen Components bzw. Symbols erstellen, um diese wieder zu verwenden.
-  * Alle Elemente, die zu einer Gruppe gehören, haben die gleichen Abstände zueinander und das gleiche Erscheinungsbild
-
-* Versuche Sie Ihr Layout für das mobile Endgerät anzupassen:
-  * Die zur Verfügung stehende Arbeitsfläche ist relativ klein. Nutzen Sie diese deshalb möglichst gut aus. Lassen Sie beispielsweise am linken und rechten Rand nicht zu viel Weißraum stehen. 
-  * Schaltflächen oder Links dürfen nicht zu klein sein, so dass Sie mit dem Finger noch zu benutzen sind.
-  * Texte sollten nicht zu schmal laufen und Bilder dürfen nicht zu klein werden. In den meisten Fällen  erstreckt sich ein Text oder Bild über die gesamte Bildschirmbreite.
-  * Auch wenn wir hier noch in einer frühen Entwurfsphase sind, behalten Sie schon im Hinterkopf, dass auf dem Smartphone Effekte oder Interaktionen via Mouseover nicht funktionieren.
-
-* Passen Sie die Typografie so an, dass die Texte gut strukturiert und lesbar sind
-  * Überschriften und Fließtexte müssen sich weit genug voneinander unterscheiden. Hierbei müssen sich hierarchische Strukturen bilden: Headlines sind wichtiger als Subheadlines und Subheadlines sind wichtiger als Fließtexte.
-  * Sorgen Sie für eine optimale Schriftgröße. Zu kleiner Text ist schwer oder gar nicht zu lesen aber auch zu großer Text stört den Lesefluss.
-  * Die Relation zwischen Schriftgröße, Zeilenlänge,  Wort- und Zeilenabstand muss stimmig sein.
+Folgen noch.
 
 
-## Material / Upload
+## Material
 
-[Folien zum Training](../../download/training-layouts-digitalisieren/training-layouts-digitalisieren.pdf)
-
-[Upload Wireframes](https://th-koeln.sciebo.de/index.php/s/t98e81x6qAg0z8C)
-
+Folgt noch.
 
 
 
