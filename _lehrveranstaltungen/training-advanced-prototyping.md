@@ -47,7 +47,8 @@ Duplizieren Sie anschließend das Frame oder Artboard und stellen Sie es auf die
 
 ## Material
 
-- [Aufgaben](../../download/trainings/advanced-prototyping/training-advanced-prototyping/training-advanced-prototyping.zip)
+- [Aufgaben](../../download/trainings/advanced-prototyping/training-advanced-prototyping.zip)
+
 ## Tutorials
 ### Figma
 - [Components and Instances](https://help.figma.com/article/66-components/)
