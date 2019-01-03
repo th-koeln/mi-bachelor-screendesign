@@ -31,18 +31,18 @@ Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie eine
 
 ## Aufgaben
 ### Aufgabe 1
-Laden Sie das Material herunter und öffnen Sie das Projekt in Sketch oder importieren Sie es in Figma.
+Laden Sie das Material herunter und öffnen Sie das enthaltene Projekt in Sketch oder importieren Sie es in Figma.
 
 Zunächst geht es darum die Struktur der vorhanden View und darin enthaltenen Elemente zu verbessern. 
 Beachten Sie dabei folgende Punkte:  
 * Gruppieren Sie Elemente die logisch zusammen gehören und geben Sie den Gruppen und ggf. den einzelnen Elementen aussagekräftige Namen.
-* Sortieren Sie die Gruppen und Elemente in der Ebenenleiste nach einem bestimmten Schema. Eine Möglichkeit ist, die Elemente, in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen zu sortieren, und zwar von oben nach unten.  
-* Erzeugen Sie  Komponenten bzw. Symbole für Elemente, die mehrfach vorkommen. 
-  Diese helfen dabei ein konsistentes Layout, auch über mehrere Views hinaus, zu schaffen, in dem Elemente wieder verwendet werden können.
+* Sortieren Sie die Gruppen und Elemente in der Ebenenleiste nach einem bestimmten Schema. Eine Möglichkeit ist, die Elemente in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen, zu sortieren, und zwar von oben nach unten.  
+* Erzeugen Sie Komponenten bzw. Symbole für Elemente, die mehrfach vorkommen. 
+  Diese helfen dabei ein konsistentes Layout, auch über mehrere Views hinaus, zu ermöglichen.
 
 ### Aufgabe 2
 Nun soll für die vorhandene View ein Layout für das iPad mini erzeugt werden.
-Konfigurieren Sie dazu zunächst die Elemente so, dass sie sich anpassen, wenn die Größe der View geändert wird.
+Konfigurieren Sie dazu zunächst die Elemente so, dass sie sich automatisch anpassen, wenn die Größe der View geändert wird.
 Duplizieren Sie anschließend das Frame oder Artboard und stellen Sie es auf die Größe des iPad mini ein.
 
 ## Material
