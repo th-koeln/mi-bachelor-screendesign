@@ -46,5 +46,5 @@ Wenn Sie bereits fit im Umgang mit Sketch oder Figma sind, dann bringt Ihnen das
 - [Figma Basiscs](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
 
 ### Übungsaufgaben
-- [Übungsaufgaben](../../download/sketch-figma-training-material.zip)
+- [Übungsaufgaben](../../download/trainings/sketch-figma/sketch-figma-training-material.zip)
 
