@@ -4,12 +4,12 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-01-17 11:00|0.501, 2019-01-17 14:00|0.501, 2019-01-17 16:00|0.501
+termine: 2019-01-17 09:00|0.501, 2019-01-17 12:00|0.501, 2019-01-17 15:00|0.501
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
-dauer: 120
+dauer: 150
 raum: 3.216
-info: Wie gehen wir systematisch mit Größen und Abständen um?
+info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluß auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
 ---
 
 ## Der Workshop:
