@@ -12,20 +12,26 @@ raum: 3.216
 info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungsfläche und Interaktionsmöglichkeiten. Wie entwickle ich dafür Layoutkonzepte?
 ---
 
-## Der Workshop:
-<!--In dem Workshop sprechen wir über responsives Design, die notwendigen Grundlagen und Design-Pattern.
-Im Anschluss wenden wir das Erlernte praktisch auf ihr Projekt an.
+## Worum geht es?
+Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltungsstrategien für die Gestaltung von GUIs für verschiedene Endgeräte an. 
 
-<p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/workshop-layouts-fuer-verschiedene-endgeraete/layouts_fuer_verschiedene_endgeraete.pdf">Download der Workshop Slides als PDF</a></p>-->
+## Was muss ich mitbringen?
+- eigener Rechner mit Sketch oder Figma
+- Kenntnisse in Sketch oder Figma
 
-## Was brauchen Sie?
-- Einen eigenen Computer bzw. mindestens einen Rechner pro Team
-- Papier und Stifte
+## Material
+- [Folien: Layout und Raster](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layout-und-raster.pdf)
+- [Folien: Layouts mit Wireframes](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layouts-mit-wireframes.pdf)
+- [Folien: Layouts für verschiedene Endgeräte, inkl. Aufgabe](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layouts-fuer-verschiedene-endgeraete.pdf)
+- [Materialpaket: Pic of the day](../../download/workshops/layouts-fuer-verschiedene-endgeraete/pic-of-the-day.zip)
+- [Rasterpapier iPad](../../download/workshops/layouts-fuer-verschiedene-endgeraete/rasterpapier-ipad.pdf)
+- [Rasterpapier iPhone](../../download/workshops/layouts-fuer-verschiedene-endgeraete/rasterpapier-iphone.pdf)
 
-## Weiterer Input:
-<!--
-<p><a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns">Responsive Web Design Patterns</a></p>
 
-<p><a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/">Responsives Webdesign: Grundlagen</a></p>
+## Weiterführendes Material
+- [Designing for Different Screens and Devices: 7 Steps to Creating A Great UX](https://theblog.adobe.com/designing-for-different-screens-and-devices-7-steps-to-creating-a-great-ux/)
+- [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+- [50 Examples and Best Practices](https://designmodo.com/responsive-design-examples/)
 
-<p><a href="https://responsivedesign.is/">Responsive Web Design</a></p>-->
+## Sie haben keinen Rechner?
+Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
