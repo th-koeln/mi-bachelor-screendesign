@@ -82,6 +82,9 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt. 
 
+Anmeldezeitraum im PSSO vom **25.02.2019** bis **04.03**.
+
+
 ## Eingesetzte Software
 
 Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Sketch](https://sketchapp.com/) oder [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Sketch und Figma ein.
