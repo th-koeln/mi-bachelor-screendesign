@@ -12,20 +12,24 @@ raum: 3.216
 info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluß auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
 ---
 
-## Der Workshop:
-<!--In dem Workshop sprechen wir über responsives Design, die notwendigen Grundlagen und Design-Pattern.
-Im Anschluss wenden wir das Erlernte praktisch auf ihr Projekt an.
+## Worum geht es?
+Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen verschiedene Propotionsregeln sowie harmonische Zahlenreihen kennen und versuchen das Ganze systematisch beim Screendesign einzusetzen.
 
-<p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/workshop-layouts-fuer-verschiedene-endgeraete/layouts_fuer_verschiedene_endgeraete.pdf">Download der Workshop Slides als PDF</a></p>-->
+## Was muss ich mitbringen?
+- eigener Rechner mit Sketch oder Figma
+- Kenntnisse in Sketch oder Figma
 
-## Was brauchen Sie?
-- Einen eigenen Computer bzw. mindestens einen Rechner pro Team
-- Papier und Stifte
+## Material
+- [Folien: Systematische Proportionen und Abstände](../../download/workshops/systematische-proportionen-und-abstaende/systematische-proportionen-und-abstaende.pdf)
+- [Materialpaket: Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip)
 
-## Weiterer Input:
-<!--
-<p><a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns">Responsive Web Design Patterns</a></p>
+## Weiterführendes Material
+- [White space in UI design](https://uxplanet.org/white-space-in-ui-design-8647d4f685a7)
+- [How to design with white space](https://blog.prototypr.io/importance-of-white-space-in-design-5a40c0e65bfd)
+- [Golden Ratio Examples? - Art & Architecture](https://www.geogebra.org/m/nmuaSXrK)
+- [Den Weißraum als Gestaltungselement richtig nutzen](https://www.unternehmer-impulse.de/start/item/den-weissraum-als-gestaltungselement-richtig-nutzen)
+- [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
+- [Anders gesehen – Die Kunst des Negativraums](https://www.justinmind.com/blog/10-examples-of-white-space-design-websites-youll-want-to-copy/)
 
-<p><a href="https://developers.google.com/web/fundamentals/design-and-ui/responsive/">Responsives Webdesign: Grundlagen</a></p>
-
-<p><a href="https://responsivedesign.is/">Responsive Web Design</a></p>-->
+## Sie haben keinen Rechner?
+Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
