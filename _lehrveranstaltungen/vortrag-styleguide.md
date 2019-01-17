@@ -1,5 +1,5 @@
 ---
-titel: Designsysteme dokumentieren und nutzbar machen & Wie geht's hier überhaupt weiter?
+titel: Infoveranstaltung zu den Vertiefungsmodulen im MI Bachelor 
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 60
 raum: 3.102
-info: Um ein Designkonzept alleine oder im Team nachhaltig und konstent nutzbar zu machen helfen Styleguides und Patternlabs. Wie das geht schauen wir uns heute an. Außerdem wird erläutert, wie das Modul weiter geht, welche Beratungsangebote in der vorlesungsfreien Zeit zur Verfügung stehen usw.
+info: Heute stellen wir das Konzept der Vertiefungsmodule und die Module als solches vor. Die Vertiefungsmodule können nur vor Studierenden der BPO4 gewählt werden. Im Rahmen der Veranstaltung werden die einzelnen Vertiefungsmodule vorgestellt und erklärt was in den Modulen inhaltllich und organisatorisch passiert. 
 ---
 
 ## Worum geht es?
