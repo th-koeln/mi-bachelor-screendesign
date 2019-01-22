@@ -4,7 +4,7 @@ kuerzel: t-sm
 verantwortlich: vs, js
 typ: training
 pflicht: false
-termine: 2019-01-31 10:30|0.501, 2019-01-31 16:30|0.501
+termine: 2019-01-31 15:00|0.501, 2019-01-31 15:00|0.502
 empfohlene-voraussetzungen:
 published: true
 raum: 3.217

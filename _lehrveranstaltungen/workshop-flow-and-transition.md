@@ -14,18 +14,20 @@ info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Scr
 
 In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Schwerpunkt Interaktionsabläufe und Übergänge. In den meisten Anwendungen haben wir idealerweise keine Abfolge von statischen Screens, sondern versuchen den Nutzer mit Hilfe von sinnvollen Übergängen und Hervorhebungen die Benutzung zu erleichtern und seine Aufmerksamkeit zu lenken.
 
-## Vorbereitung zum Workshop
+## Was muss ich mitbringen?
+- eigener Rechner mit Keynote, Powerpoint oder [Protopie](https://www.protopie.io/)
+- rudimentäre Kenntnisse in oben genannter Software
 
-An diesem Workshop sollte Sie nur teilnehmen, wenn Sie bereits fit im Umgang mit den basalen Tools wie Sketch oder Figma sind. Darüber hinaus sollten Sie sich im Vorfeld mit einem Animationstool vertraut machen. Dies kann ein spezialisiertes Tool sein (siehe Liste unter Tool & Tutorials) aber auch ein Präsentationstool wie Keynote oder Powerpoint leisten hier ausreichend gute Dienste. Die Folgenden Aufgaben sollten Sie beherrschen:
-- Erstellung passender Arbeitsflächen
-- Übergänge zwischen Screens erzeugen
-- Übergänge steuern (Klick, Zeit, Abhängigkeiten)
-- Elemente animieren
+## Material
+- [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
 
-**Bitte bringen Sie, wenn möglich, einen eigenen Rechner mit.**
+## Weiterführendes Material
+- [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
+- [Understanding motion](https://material.io/guidelines/motion/material-motion.html)
 
 
 ## Tools & Tutorials
+- [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
 - [Flinto for Mac: sehr ausgereiftes GUI Design Animation Tool](https://www.flinto.com)
 - [Flinto Tutorials](https://www.flinto.com/tutorial_videos)
 - [Invision: Online Tool für User Flows und Animationen](https://www.invisionapp.com/)
@@ -35,17 +37,6 @@ An diesem Workshop sollte Sie nur teilnehmen, wenn Sie bereits fit im Umgang mit
 - [Adobe Experience Design: noch ein schönes Animations-/ Prototyping Tool](http://www.adobe.com/de/products/experience-design.html)
 - [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
 
-## Material & Input
-- [Download der Workshop Slides als PDF](../../download/workshop-flow-and-transition/workshop-flow-and-transition.pdf)
-- [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-- [Google Motion Guidelines](https://material.io/guidelines/motion/material-motion.html)
-- [Übersicht gängiger Easings](http://easings.net/de)
-- [Artikel aus dem Smashing Magazine zu Transistions](https://www.smashingmagazine.com/2013/10/smart-transitions-in-user-experience-design/)
-- [Enhance Your User Experience with Animated Transitions](https://medium.com/yummygum-journal/enhance-your-user-experience-with-animated-transitions-a30267ca376c)
-- [Landingpage zum Thema Transitions auf uxdesign.cc](https://uxdesign.cc/ui-inspiration-b019453058d7)
-- [Material Icons](https://material.io/icons/)
-- [Brand Icons](https://www.smashingmagazine.com/2013/03/free-brand-icons-color-style-guides-icons/#download-the-set-for-free)
-
 ## Beispiele:
 - [Climber Interactive Production Company](http://www.climber.io/)
 - [Mobee Dick](http://mobeedick.com/)
@@ -53,3 +44,8 @@ An diesem Workshop sollte Sie nur teilnehmen, wenn Sie bereits fit im Umgang mit
 - [Showcase von UX Designer Leo Leung](http://abduzeedo.com/ui-transitions-leo-leung)
 - [Showcase von Six UX](http://sixux.com/)
 - [Showcase auf CAPPTIVATE.co](http://capptivate.co)
+
+
+## Sie haben keinen Rechner?
+Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
+
