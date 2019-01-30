@@ -31,6 +31,14 @@ Bitte vorab Screenmovie anschauen.
 
 Inspiration und Beispiele zum Thema finden Sie unter dem Tag „Screendesign“ bei den [Links](https://th-koeln.github.io/mi-bachelor-screendesign/links/).
 
+## Aufgabe
+Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis einen Styleguide.
+Berücksichtigen Sie dabei bitte alle Punkte aus dem Screencast, beziehungsweise aus den Folien zu „Interface Inventar aufbauen und dokumentieren”, welche für die Screens relevant.
+Falls Sie innerhalb der Screens oder übergreifende Inkonsitenzen festellen, bspw. bezüglich Abstände Nichteinahltung des Rasters etc., optimieren Sie das Layout dahingegend.
+
+[Sketchdatei mit den Screens zur Aufgabe](../../download/training/styleguide-aufbauen/podcast-player.sketch)
+
+
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
