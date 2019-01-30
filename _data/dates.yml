@@ -100,3 +100,33 @@ week-17:
     start: "09:00"
     end: "18:00"
     name: Donnerstag
+week-18:
+  day-1:
+    datum: 2019-02-07
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-19:
+  day-1:
+    datum: 2019-02-14
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-20:
+  day-1:
+    datum: 2019-02-21
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-21:
+  day-1:
+    datum: 2019-02-28
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-22:
+  day-1:
+    datum: 2019-03-07
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
