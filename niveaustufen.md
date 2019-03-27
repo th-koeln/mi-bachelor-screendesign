@@ -111,7 +111,7 @@ Angebot und Anschreiben müssen als PDF am Übergabepunkt hinterlegt werden. Bit
 - Angebot und Anschreiben sind sauber, gut gestaltet, professionell und vertrauensbildend.
 
 **Gute Lösung**
-- Das Angebot enthält wichtige Arbeitsschritte/-pakete mit verständlichen und präzisen Beschreibungen, sowie mit Preisen (Aufwandsschätzungen).
+- Das Angebot enthält wichtige Arbeitsschritte/-pakete mit kurzen Beschreibungen, sowie mit Preisen (Aufwandsschätzungen).
 - Das Anschreiben spiegelt die wesentlichen Punkte des Kundengespräches/-briefings wieder.
 - Angebot und Anschreiben enthalten alle notwendigen Angaben.
 - Angebot und Anschreiben sind übersichtlich, sprachlich gut und enthalten wenige Fehler.
@@ -177,7 +177,8 @@ Das Mockup muss als PDF und die einzelnen Screens als *.jpg Datein am Übergabep
 - Erfüllt alle notwendigen Anforderungen und ein bisschen mehr.
 - Bettet sich gestalterisch und funktional perfekt in das bestehende Design ein oder ergänzt es sinnvoll.
 - Ist schlüssig und wurde gut gegenüber anderen Lösungsansätzen argumentiert.
-- Berücksichtigt unterschiedliche Kontexte.
+- Die Domäne, der Anwendungskontext, die Funktionen und der Content wurden durchdrungen und entsprechende Ableitungen wurden in der Lösung berücksichtigt.
+- Bietet ein konsistentes Gestaltungskonzept für unterschiedliche Kontexte.
 - Ist sauber und umfassend ausgearbeitet.
 - Wurde professionell und überzeugend präsentiert.
 
