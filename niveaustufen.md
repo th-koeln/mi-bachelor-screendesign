@@ -253,7 +253,7 @@ Die resultierende Übersicht muss als PDF Dokument am Übergabepunkt hinterlegt 
 
 **Beste Lösung**
 - Gestaltungselemente und -regeln sind systematisch dargestellt
-- die Übersicht ist sauber ausgearbeitet und aufbereitet
+- die Übersicht ist gut gestaltet, sauber ausgearbeitet und aufbereitet
 - die Übersicht ist kompakt und schnell erfassbar
 - wesentliche Elemente sind kommentiert
 - schematische Darstellung werden zum Verständnis der zugrundeliegenden Gestaltungsregeln angeboten
@@ -262,12 +262,14 @@ Die resultierende Übersicht muss als PDF Dokument am Übergabepunkt hinterlegt 
 
 **Gute Lösung**
 - Gestaltungselemente und -regeln sind systematisch dargestellt
+- die Übersicht ist überwiegend gut gestaltet, sauber ausgearbeitet und aufbereitet
 - die Übersicht ist kompakt und schnell erfassbar
 - die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind im Einklang mit dem finalen Entwurf
 - die Übersicht ist weitgehend vollständig
 
 **Passable Lösung**
 - wesentliche Gestaltungselemente und -regeln sind systematisch dargestellt
+- die Übersicht ist systematisch und schnell erfassbar
 - die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind im Einklang mit dem finalen Entwurf
 
 **Akzeptable Lösung**
