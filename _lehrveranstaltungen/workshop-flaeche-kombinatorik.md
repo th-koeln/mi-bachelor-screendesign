@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2018-10-25 11:00|0.501|https://bit.ly/2R94L9A, 2018-10-25 14:00|0.501|https://bit.ly/2pSOzh4, 2018-10-25 16:00|0.501|https://bit.ly/2ErGLNo
+termine: 2019-10-24 11:00|0.501|https://bit.ly/2R94L9A, 2019-10-24 14:00|0.501|https://bit.ly/2pSOzh4, 2019-10-24 16:00|0.501|https://bit.ly/2ErGLNo
 empfohlene-voraussetzungen:
 published: true
 dauer: 120

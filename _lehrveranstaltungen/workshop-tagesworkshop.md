@@ -4,7 +4,7 @@ kuerzel: w-gtw
 verantwortlich: alle
 typ: ganztagesworkshop
 pflicht: true
-termine: 2018-11-29 09:00
+termine: 2019-11-28 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 540

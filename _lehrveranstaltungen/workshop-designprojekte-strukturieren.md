@@ -4,7 +4,7 @@ kuerzel: w-ds
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2018-12-20 11:00|0.501|https://bit.ly/2PiN3iD, 2018-12-20 14:00|0.501|https://bit.ly/2RxfzPl
+termine: 2019-12-19 11:00|0.501|https://bit.ly/2PiN3iD, 2019-12-19 14:00|0.501|https://bit.ly/2RxfzPl
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120

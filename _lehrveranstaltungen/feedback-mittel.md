@@ -4,7 +4,7 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
 pflicht: true
-termine: 2019-01-24 16:00|0.501|https://bit.ly/2sFJ5aX, 2019-01-24 16:00|0.502|https://bit.ly/2FI1nkq, 2019-01-17 15:00|0.502|https://bit.ly/2FBMT4J, 2019-02-07 16:30|0.504|https://bit.ly/2MQKVik, 2019-02-07 16:30|0.504|https://bit.ly/2HUkmdl, 2019-02-21 15:00|0.504|https://bit.ly/2TC4j5e, 2019-03-07 15:00|0.504|https://bit.ly/2DbiWWe
+termine: 2020-01-16 16:00|0.501, 2020-01-23 16:00|0.501, 2020-01-30 16:30|0.501, 2020-02-13 15:00|0.501, 2020-02-27 15:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

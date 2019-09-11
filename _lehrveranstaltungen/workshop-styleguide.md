@@ -1,14 +1,14 @@
 ---
-titel: Styleguide aufbauen und in Sketch oder Figma umsetzen
-kuerzel: t-sm
-verantwortlich: vs, js
-typ: training
+titel: Styleguide aufbauen und in Figma umsetzen
+kuerzel: w-sg
+verantwortlich: alle
+typ: workshop
 pflicht: false
-termine: 2019-01-31 15:00|0.501|https://bit.ly/2Wc947e, 2019-01-31 15:00|0.502|https://bit.ly/2CQscPx
+termine: 2020-01-30 11:00|0.501|https://bit.ly/2Wc947e, 2020-01-30 14:00|0.501|https://bit.ly/2CQscPx
 empfohlene-voraussetzungen:
 published: true
 raum: 3.217
-dauer: 120
+dauer: 150
 info: Wie können wir unser Designsystem dokumentieren und systematisch in Sketch oder Figma abbilden?
 ---
 

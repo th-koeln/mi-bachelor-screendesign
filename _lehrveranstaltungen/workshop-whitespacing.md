@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-01-17 09:00|0.501|https://bit.ly/2Rqv93g, 2019-01-17 12:00|0.501|https://bit.ly/2RPcwFs, 2019-01-17 15:00|0.501|https://bit.ly/2AHl3jV
+termine: 2020-01-09 09:00|0.501|https://bit.ly/2Rqv93g, 2020-01-09 12:00|0.501|https://bit.ly/2RPcwFs, 2020-01-09 15:00|0.501|https://bit.ly/2AHl3jV
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 150

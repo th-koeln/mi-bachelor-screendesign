@@ -1,30 +1,30 @@
 ---
-titel: Advanced Prototyping with Sketch & Figma
+titel: Advanced Prototyping
 kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2019-01-03 14:00|0.501|https://bit.ly/2BK9Te5
+termine: 2019-11-14 09:00|0.501, 2019-11-14 13:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 raum: 0.501
 dauer: 150
-info: Wie können wir Prototypen in Sketch oder Figma systematisch aufbauen?
+info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---
 
 ## Worum geht es?
 
-In diesem Training befassen wir uns mit der Erstellung von Protoypen in Sketch und Figma. 
+In diesem Training befassen wir uns mit der Erstellung von Protoypen in Figma. 
 Sobald die Kompexität der Views und damit die Anzahl der benutzten Elemente zunimmt, steigt auch die Gefahr, dass die  Struktur des Projektes sich verschlechtert und irgendwann die Übersicht verloren geht.
 
 Verstärkt wird die Problematik noch, wenn viele unterschiedliche Views in dem Projekt hinzukommen und zur jeder View noch angepasste Views für unterschiedliche Endgeräte oder Varianten.
 
-Wir werden uns mit Techniken beschäfigen und lernen Funktionen von Sketch und Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
+Wir werden uns mit Techniken beschäfigen und lernen Funktionen von Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
 
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- sicherer Umgang in Sketch oder Figma
+- eigener Rechner mit Figma
+- sicherer Umgang in Figma
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.

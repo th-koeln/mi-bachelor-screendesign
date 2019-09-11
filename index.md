@@ -11,7 +11,7 @@ titel: Über das Modul
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben in der Regel drei Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste Veranstaltung ist am **11.10.2018** um **9:00 Uhr**. Der letzte Termin ist am **31.01.2019**.
+Die erste Veranstaltung ist am **10.10.2019** um **9:00 Uhr**. Der letzte Termin ist am **30.01.2020**.
 
 ## Worum geht es?
 
@@ -51,7 +51,7 @@ Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier 
 
 Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. Von diesen Terminen müssen zwei wahrgenommen werden. Damit wir als Betreuer und Dozenten sehen können, dass die Studierenden auf dem richtigen Weg sind, gibt es zusätzlich zwei verpflichtende Zwischenpräsentationen. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{ilias}} angemeldet werden.
 
-Das Projekt wird in Zweierteams durchgeführt. Im Projekt befassen wir uns dieses Jahr mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/).
+Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns dieses Jahr mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/). -->
 
 
 
@@ -87,9 +87,7 @@ Anmeldezeitraum im PSSO vom **25.02.2019** bis **04.03**.
 
 ## Eingesetzte Software
 
-Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Sketch](https://sketchapp.com/) oder [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Sketch und Figma ein.
-
-Sketch kann für Studierende zum halben Preis (ca. 50$) erworben werden. Auf den Rechnern im MI Pool sind Sketch Lizenzen vorhanden. Für private Rechner können wir leider keine Lizenzen herausgeben. Figma ist für Studierende kostenlos nutzbar. 
+Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein.
 
 Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gimp.org/downloads/)
 
@@ -97,7 +95,6 @@ Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gim
 ## Wie kann ich mich vorbereiten?
 
 Bitte bereiten Sie sich für die Workshops in einem der Tools vor:
-- [Learn Sketch](https://sketchapp.com/docs/)
 - [Learn Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
 
 Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:

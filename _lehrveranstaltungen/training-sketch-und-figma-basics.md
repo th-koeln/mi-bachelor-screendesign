@@ -4,7 +4,7 @@ kuerzel: t-sb
 verantwortlich: vs, js, ch
 typ: training
 pflicht: false
-termine: 2018-10-11 11:00|0.501|http://bit.ly/2zDmrE9, 2018-10-11 14:00|0.501|http://bit.ly/2PgG9Lj, 2018-10-11 16:00|0.501|http://bit.ly/2ODPPCN
+termine: 2019-10-10 11:00|0.501|http://bit.ly/2zDmrE9, 2019-10-10 14:00|0.501|http://bit.ly/2PgG9Lj, 2019-10-10 16:00|0.501|http://bit.ly/2ODPPCN
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
