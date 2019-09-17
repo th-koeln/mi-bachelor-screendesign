@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-10-31 11:00|0.501|https://bit.ly/2R94L9A, 2019-10-31 14:00|0.501|http://bit.ly/2OvdeH9,  2019-10-31 16:00|0.501|https://bit.ly/2ErGLNo
+termine: 2019-10-31 11:00|0.501, 2019-10-31 14:00|0.501,  2019-10-31 16:00|0.501
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -16,8 +16,8 @@ info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltge
 Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wundervollen Gestaltgesetzen. Damit bekommen wir mehr Ordnung und Struktur in unsere Gestaltungskonzepte.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Gute Übung in Sketch oder Figma
+- eigener Rechner mit Figma
+- Gute Übung in Figma
 
 ## Material und Links
 - [Aufgaben Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/aufgabe-raum-gestaltgesetze.pdf)
