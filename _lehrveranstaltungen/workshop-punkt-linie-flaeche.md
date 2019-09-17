@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-10-17 11:00|0.501|http://bit.ly/2Iq1Iq8, 2019-10-17 14:00|0.501|http://bit.ly/2OvdeH9, 2019-10-17 16:00|0.501|http://bit.ly/2J6K2QY
+termine: 2019-10-17 11:00|0.501, 2019-10-17 14:00|0.501, 2019-10-17 16:00|0.501
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -16,8 +16,8 @@ info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund 
 Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidimensionaler Gestaltung: dem Punkt, der Linie und der Fläche. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Basiskenntnisse in Sketch oder Figma
+- eigener Rechner mit Figma
+- Basiskenntnisse in Figma
 
 ## Material
 - [Semiotik](../../download/workshops/punkt-linie-flaeche/010-theorie-semiotik.pdf)
