@@ -4,12 +4,12 @@ kuerzel: w-sg
 verantwortlich: alle
 typ: workshop
 pflicht: false
-termine: 2020-01-30 11:00|0.501|https://bit.ly/2Wc947e, 2020-01-30 14:00|0.501|https://bit.ly/2CQscPx
+termine: 2020-01-30 11:00|0.501, 2020-01-30 14:00|0.501
 empfohlene-voraussetzungen:
 published: true
 raum: 3.217
 dauer: 150
-info: Wie können wir unser Designsystem dokumentieren und systematisch in Sketch oder Figma abbilden?
+info: Wie können wir unser Designsystem dokumentieren und systematisch in Figma abbilden?
 ---
 
 
@@ -23,8 +23,8 @@ Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbi
 Bitte vorab Screenmovie anschauen.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Kenntnisse in Sketch oder Figma
+- eigener Rechner mit Figma
+- Kenntnisse in Figma
 
 ## Material
 - [Folien: Interface Inventar aufbauen und dokumentieren](../../download/workshops/interface-inventar-aufbauen/Interface-inventar-aufbauen-und-visualisieren.pdf)
@@ -34,7 +34,7 @@ Inspiration und Beispiele zum Thema finden Sie unter dem Tag „Screendesign“ 
 ## Aufgabe
 Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis einen Styleguide.
 Berücksichtigen Sie dabei bitte alle Punkte aus dem Screencast, beziehungsweise aus den Folien zu „Interface Inventar aufbauen und dokumentieren”, welche für die Screens relevant.
-Falls Sie innerhalb der Screens oder übergreifende Inkonsitenzen festellen, bspw. bezüglich Abstände Nichteinahltung des Rasters etc., optimieren Sie das Layout dahingegend.
+Falls Sie innerhalb der Screens übergreifende Inkonsitenzen festellen, bspw. bezüglich Abstände, Nichteinhaltung des Rasters etc., optimieren Sie das Layout dahingegend.
 
 [Sketchdatei mit den Screens zur Aufgabe](../../download/trainings/styleguide-aufbauen/podcast-player.sketch)
 
