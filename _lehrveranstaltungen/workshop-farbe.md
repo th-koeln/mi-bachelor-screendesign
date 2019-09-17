@@ -4,7 +4,7 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-12-05 11:00|0.501|https://bit.ly/2PiN3iD, 2019-12-05 14:00|0.501|https://bit.ly/2RxfzPl, 2019-12-05 16:00|0.501|https://bit.ly/2QvZ8FP
+termine: 2019-12-05 11:00|0.501, 2019-12-05 14:00|0.501, 2019-12-05 16:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -13,11 +13,11 @@ info: Wie entwickle ich ein Farbklima?
 ---
 
 ## Worum geht es?
-Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrere Farbklimata und variieren diese. Darüber hinaus lernen wir einige neue Funktionen in Sketch und Figma kennen und befassen uns zum ersten Mal systematisch mit Bildern.
+Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrere Farbklimata und variieren diese. Darüber hinaus lernen wir einige neue Funktionen in Figma kennen und befassen uns zum ersten Mal systematisch mit Bildern.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Kenntnisse in Sketch oder Figma
+- eigener Rechner mit Figma
+- Kenntnisse in Figma
 
 ## Material
 - [Aufgaben Farbe](../../download/workshops/farbe/aufgabe-farbklima.pdf)
