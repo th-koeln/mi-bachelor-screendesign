@@ -4,7 +4,7 @@ kuerzel: w-ds
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-12-19 11:00|0.501|https://bit.ly/2PiN3iD, 2019-12-19 14:00|0.501|https://bit.ly/2RxfzPl
+termine: 2019-12-19 11:00|0.501, 2019-12-19 14:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -18,8 +18,8 @@ In dem Workshop lernen wir verschiedene Designprozess-Modelle bzw. Vorgehensweis
 Im Anschluss übertragen wir das Gelernte in ein Anschreiben an unsere Auftraggeber und beginnen unser praktisches Projekt zu segmentieren und in Projektphasen zu unterteilen, die im Anschluss zeitlich geschätzt werden sollten.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Kenntnisse in Sketch oder Figma
+- eigener Rechner mit Figma
+- Kenntnisse in Figma
 
 ## Material
 - [Arbeitsaufträge](../../download/workshops/designprozesse-strukturieren/aufgabe-designprojekte-strukturieren.pdf)
