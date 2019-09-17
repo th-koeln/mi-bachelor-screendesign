@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2020-01-09 09:00|0.501|https://bit.ly/2Rqv93g, 2020-01-09 12:00|0.501|https://bit.ly/2RPcwFs, 2020-01-09 15:00|0.501|https://bit.ly/2AHl3jV
+termine: 2020-01-09 09:00|0.501, 2020-01-09 12:00|0.501, 2020-01-09 15:00|0.501
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 150
@@ -16,8 +16,8 @@ info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluß auf die Wirk
 Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen verschiedene Propotionsregeln sowie harmonische Zahlenreihen kennen und versuchen das Ganze systematisch beim Screendesign einzusetzen.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Kenntnisse in Sketch oder Figma
+- eigener Rechner mit Figma
+- Kenntnisse in Figma
 
 ## Material
 - [Folien: Systematische Proportionen und Abstände](../../download/workshops/systematische-proportionen-und-abstaende/systematische-proportionen-und-abstaende.pdf)
