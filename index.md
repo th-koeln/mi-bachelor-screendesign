@@ -9,7 +9,7 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
 
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben in der Regel drei Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel drei Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
 Die erste Veranstaltung ist am **10.10.2019** um **9:00 Uhr**. Der letzte Termin ist am **30.01.2020**.
 
@@ -19,7 +19,7 @@ Das Modul "Screendesign" ist für den Medieninformatik Bachelor im dritten Fachs
 
 Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker und keine Designer. Als Medieninformatiker arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
 - die Ziele eines Gestaltungskonzepts verstehen
-- in der Lage sind die zugrundeliegenden Gestaltungsregeln zu verstehen und ggf. abzubilden
+- in der Lage sind, die zugrundeliegenden Gestaltungsregeln zu verstehen und ggf. abzubilden
 - wissen, welche Implementierungsmöglichkeiten zur Verfügung stehen
 - fachlich argumentieren und diskutieren können
 - ein Gestaltungssystem so aufbereiten können, dass es implementierbar ist
@@ -41,7 +41,7 @@ In interdisziplinären Projektteams nehmen Medieninformatiker oftmals eine Schni
 
 ## Wie funktioniert das Modul?
 
-Das Modul "Screendesign" teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige praktische Übungen und Workshops machen. Typische Fragen sind z.B.: wie gehen wir mit Schrift um, was sind sinnvolle Proportionen, wie entwickeln wir ein gemeinsames Zielbild, wie lassen sich Entwürfe angemessen visualisieren, etc. 
+Das Modul "Screendesign" teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige praktische Übungen und Workshops machen. Typische Fragen sind z.B.: Wie gehen wir mit Schrift um? Was sind sinnvolle Proportionen? Wie entwickeln wir ein gemeinsames Zielbild? Wie lassen sich Entwürfe angemessen visualisieren? 
 
 Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. Die Ergebnisse müssen von den Studierenden in einem Gestaltungsportfolio gesammelt werden und zwei dieser Ergebnisse müssen im Rahmen der Portfoliopräsentation in einer 7 minütigen Präsentation vorgestellt und argumentiert werden.
 
@@ -60,15 +60,15 @@ Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns d
 
 ### Veranstaltungsarten
 
-**Vorträge** geben Überblick über ein Themengebiet, zeigen theoretische Grundlagen und jede Menge Beispiele, sind interaktiv und initiieren Diskurs, legen die Basis für die professionelle Auseinandersetzung mit dem Projekt, bauen das Vokabular für die Prüfung auf. Die Teilnahme wird dringend empfohlen. Eine Anmeldung ist nicht erforderlich.
+**Vorträge** geben Überblick über ein Themengebiet, zeigen theoretische Grundlagen und jede Menge Beispiele, sind interaktiv und initiieren Diskurs, legen die Basis für die professionelle Auseinandersetzung mit dem Projekt und bauen das Vokabular für die Prüfung auf. Die Teilnahme wird dringend empfohlen. Eine Anmeldung ist nicht erforderlich.
 
-**Workshops** bringen Theorie und Praxis zusammen, schulen und trainieren in einem bestimmten Themenfeld, erfordern den sicheren Umgang mit den trainierten Softwaretools, erfordern das Grundwissen aus den Vorträgen. Die Teilnahme wird dringend empfohlen. Zu Workshops muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
+**Workshops** bringen Theorie und Praxis zusammen, schulen und trainieren in einem bestimmten Themenfeld, erfordern den sicheren Umgang mit den trainierten Softwaretools und erfordern das Grundwissen aus den Vorträgen. Die Teilnahme wird dringend empfohlen. Zu den Workshops muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
 Der **Ganztagsworkshop** bildet den Einstieg in das Projekt. Hier legen wir die Basis für die spätere Projektarbeit. Dies ist ein Pflichttermin. 
 
-**Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit, müssen durch Screenmovies vorbereitet werden. Zu Trainings muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
+**Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit und müssen durch Screenmovies vorbereitet werden. Zu den Trainings muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
-**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen; müssen von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Es müssen zwei Termine wahrgenommen werden. Es dürfen aber auch mehr Termine genutzt werden. Zu Feedback- und Supporttermine müssen Sie sich nicht anmelden.
+**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Es müssen zwei Termine wahrgenommen werden. Es dürfen aber auch mehr Termine genutzt werden. Zu Feedback- und Supporttermine müssen Sie sich nicht anmelden.
 
 Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltung](angebote/) im Rahmen des Moduls.
 
@@ -87,14 +87,14 @@ Anmeldezeitraum im PSSO vom **02.03.2020** bis **06.03.2020**.
 
 ## Eingesetzte Software
 
-Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein.
+Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein. Die Nutzung von Figma für Studenten ist kostenlos und erfordert lediglich eine Verifizierung. Weitere Infos dazu sind auf [Figma](https://www.figma.com/pricing-faq/) zu finden.
 
-Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gimp.org/downloads/)
+Außerdem benötigen Sie einen einfachen Bildeditor wie z.B. [Gimp](https://www.gimp.org/downloads/)
 
 
 ## Wie kann ich mich vorbereiten?
 
-Bitte bereiten Sie sich für die Workshops in einem der Tools vor:
+Bitte bereiten Sie sich für die Workshops mit folgendem Tool vor:
 - [Learn Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
 
 Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:
