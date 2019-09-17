@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-10-24 11:00|0.501|https://bit.ly/2R94L9A, 2019-10-24 14:00|0.501|https://bit.ly/2pSOzh4, 2019-10-24 16:00|0.501|https://bit.ly/2ErGLNo
+termine: 2019-10-24 11:00|0.501, 2019-10-24 14:00|0.501, 2019-10-24 16:00|0.501
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -18,8 +18,8 @@ Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir dami
 Handwerklich erweitern wir das Knowhow heute um Masken, die Pipette und komplexere Raster.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Fingerfertigkeit in Sketch oder Figma
+- eigener Rechner mit Figma
+- Fingerfertigkeit in Figma
 
 ## Material und Links
 - [Folien und Aufgabe zur Fläche](../../download/workshops/flaeche-kombinatorik/010-Flaeche.pdf)
