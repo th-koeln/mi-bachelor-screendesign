@@ -80,9 +80,9 @@ Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, d
 
 Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und Bewertung finden Sie bei der Erläuterung des [Niveaustufenmodells](niveaustufen/).   
 
-Die Prüfungen finden in den Tagen vom **25.03.2019** bis **28.03.2019** statt. 
+Die Prüfungen finden in den Tagen vom **23.03.2020** bis **26.03.2020** statt. 
 
-Anmeldezeitraum im PSSO vom **25.02.2019** bis **04.03**.
+Anmeldezeitraum im PSSO vom **02.03.2020** bis **06.03.2020**.
 
 
 ## Eingesetzte Software
