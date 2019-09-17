@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2020-01-16 09:00|0.501|https://bit.ly/2QuFVjt, 2020-01-16 13:00|0.501|https://bit.ly/2ReN78V
+termine: 2020-01-16 09:00|0.501, 2020-01-16 13:00|0.501
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 180
@@ -16,8 +16,8 @@ info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungs
 Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltungsstrategien für die Gestaltung von GUIs für verschiedene Endgeräte an. 
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Sketch oder Figma
-- Kenntnisse in Sketch oder Figma
+- eigener Rechner mit Figma
+- Kenntnisse in Figma
 
 ## Material
 - [Folien: Layout und Raster](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layout-und-raster.pdf)
