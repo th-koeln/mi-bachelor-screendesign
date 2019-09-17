@@ -17,7 +17,7 @@ info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wi
 
 Sobald es darum geht mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu platzieren wird es leider kompliziert (siehe Wahrnehmungsarbeit). Heute schauen wir uns einige Konzepte und Ansätze an, wie wir dieser Komplexität begegnen können. 
 
-Außerdem gibt es heute Feedback zu den Übungsaufgaben vom letzten Termin und die Spielregeln als auch einige Tipps für Portfoliopräsentation am 15. November.
+Außerdem gibt es heute Feedback zu den Übungsaufgaben vom letzten Termin und die Spielregeln als auch einige Tipps für die Portfoliopräsentation am 15. November.
 
 ## Material
 - [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
