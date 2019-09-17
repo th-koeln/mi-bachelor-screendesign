@@ -31,7 +31,7 @@ Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie eine
 
 ## Aufgaben
 ### Aufgabe 1
-Laden Sie das Material herunter und öffnen Sie das enthaltene Projekt in Sketch oder importieren Sie es in Figma.
+Laden Sie das Material herunter und importieren Sie das enthaltene Projekt in Figma.
 
 Zunächst geht es darum die Struktur der vorhanden View und darin enthaltenen Elemente zu verbessern. 
 Beachten Sie dabei folgende Punkte:  
@@ -55,8 +55,3 @@ Duplizieren Sie anschließend das Frame oder Artboard und stellen Sie es auf die
 - [Styles](https://help.figma.com/category/221-styles)
 - [Constraints](https://help.figma.com/article/54-constraints)
 
-### Sketch
-- [Symbols](https://www.sketchapp.com/docs/symbols/)
-- [Text Styles](https://www.sketchapp.com/docs/text/text-styles/)
-- [Layer Styles](https://www.sketchapp.com/docs/styling/shared-styles/)
-- [Constraings](https://www.sketchapp.com/docs/layer-basics/constraints/)
