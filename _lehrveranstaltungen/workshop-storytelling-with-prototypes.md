@@ -16,7 +16,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 
 ## Vorbereitung zum Workshop
 
-An diesem Workshop sollte Sie nur teilnehmen, wenn Sie bereits fit im Umgang mit den basalen Tools wir Sketch oder Figma sind. Darüber hinaus sollten Sie sich im Vorfeld mit einem Animationstool vertraut machen. Dies kann ein spezialisiertes Tool sein (siehe Liste unter Tool & Tutorials) aber auch ein Präsentationstool wie Keynote oder Powerpoint leisten hier ausreichend gute Dienste. Die Folgenden Aufgaben sollten Sie beherrschen:
+An diesem Workshop sollte Sie nur teilnehmen, wenn Sie bereits fit im Umgang mit den basalen Tools wie Figma sind. Darüber hinaus sollten Sie sich im Vorfeld mit einem Animationstool vertraut machen. Dies kann ein spezialisiertes Tool sein (siehe Liste unter Tool & Tutorials) aber auch ein Präsentationstool wie Keynote oder Powerpoint leisten hier ausreichend gute Dienste. Die Folgenden Aufgaben sollten Sie beherrschen:
 - Erstellung passender Arbeitsflächen
 - Übergänge zwischen Screens erzeugen
 - Übergänge steuern (Klick, Zeit, Abhängigkeiten)
