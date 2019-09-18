@@ -34,9 +34,9 @@ Inspiration und Beispiele zum Thema finden Sie unter dem Tag „Screendesign“ 
 ## Aufgabe
 Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis einen Styleguide.
 Berücksichtigen Sie dabei bitte alle Punkte aus dem Screencast, beziehungsweise aus den Folien zu „Interface Inventar aufbauen und dokumentieren”, welche für die Screens relevant.
-Falls Sie innerhalb der Screens übergreifende Inkonsitenzen festellen, bspw. bezüglich Abstände, Nichteinhaltung des Rasters etc., optimieren Sie das Layout dahingegend.
+Falls Sie innerhalb der Screens übergreifende Inkonsitenzen feststellen, bspw. bezüglich Abstände, Nichteinhaltung des Rasters etc., optimieren Sie das Layout dahingehend.
 
-[Sketchdatei mit den Screens zur Aufgabe](../../download/trainings/styleguide-aufbauen/podcast-player.sketch)
+[Datei mit den Screens zur Aufgabe](../../download/trainings/styleguide-aufbauen/podcast-player.sketch)
 
 
 
