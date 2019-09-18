@@ -9,13 +9,13 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
 
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul "Screendesign". Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel drei Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel mehrere Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
 Die erste Veranstaltung ist am **10.10.2019** um **9:00 Uhr**. Der letzte Termin ist am **30.01.2020**.
 
 ## Worum geht es?
 
-Das Modul "Screendesign" ist für den Medieninformatik Bachelor im dritten Fachsemester verankert und baut auf das Modul "Mensch-Computer Interaktion" auf. Im Rahmen des Moduls sollen die Studierenden die Kompetenz erlangen, in interdisziplinären Teams die Design-Perspektive zu verstehen und einzunehmen. Sie sollen in die Lage versetzt werden, einen bestehenden Gestaltungskontext zu analysieren und zu erweitern. Darüber hinaus sollen die Studierenden eine gestalterische Grundkompetenz aufbauen.
+Das Modul „Screendesign” ist für den Medieninformatik Bachelor im dritten Fachsemester verankert und baut in Teilen auf das Modul „Mensch-Computer Interaktion” auf. Im Rahmen des Moduls sollen die Studierenden die Kompetenz erlangen, in interdisziplinären Teams die Design-Perspektive zu verstehen und einzunehmen. Sie sollen in die Lage versetzt werden, einen bestehenden Gestaltungskontext zu analysieren und zu erweitern. Darüber hinaus sollen die Studierenden eine gestalterische Grundkompetenz aufbauen.
 
 Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker und keine Designer. Als Medieninformatiker arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
 - die Ziele eines Gestaltungskonzepts verstehen
@@ -28,7 +28,7 @@ Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind
 
 Mit dem Modul sollen die folgenden Lernziele erreicht werden:
 
-- Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
+- Die Studierenden kennen wesentliche Begriffe des Screendesigns und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
 
 - Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumentieren, diskutieren, dokumentieren und bewerten, um eigene Lösungen innerhalb eines Gestaltungskontextes generieren zu können.
 
@@ -41,7 +41,7 @@ In interdisziplinären Projektteams nehmen Medieninformatiker oftmals eine Schni
 
 ## Wie funktioniert das Modul?
 
-Das Modul "Screendesign" teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige praktische Übungen und Workshops machen. Typische Fragen sind z.B.: Wie gehen wir mit Schrift um? Was sind sinnvolle Proportionen? Wie entwickeln wir ein gemeinsames Zielbild? Wie lassen sich Entwürfe angemessen visualisieren? 
+Das Modul „Screendesign” teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu auch einige praktische Übungen und Workshops machen. Typische Fragen sind z.B.: Wie gehen wir mit Schrift um? Was sind sinnvolle Proportionen? Wie entwickeln wir ein gemeinsames Zielbild? Wie lassen sich Entwürfe angemessen visualisieren? 
 
 Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. Die Ergebnisse müssen von den Studierenden in einem Gestaltungsportfolio gesammelt werden und zwei dieser Ergebnisse müssen im Rahmen der Portfoliopräsentation in einer 7 minütigen Präsentation vorgestellt und argumentiert werden.
 
@@ -49,11 +49,9 @@ Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. 
 
 Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. Wir starten mit einem Ganztagsworkshop in das Projektthema. Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
-Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. Von diesen Terminen müssen zwei wahrgenommen werden. Damit wir als Betreuer und Dozenten sehen können, dass die Studierenden auf dem richtigen Weg sind, gibt es zusätzlich zwei verpflichtende Zwischenpräsentationen. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{ilias}} angemeldet werden.
+Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielen meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{ilias}} angemeldet werden.
 
 Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns dieses Jahr mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/). -->
-
-
 
 ![Projekt als roter Faden](images/projekt.svg 'Projekt als roter Faden')
 
@@ -64,17 +62,17 @@ Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns d
 
 **Workshops** bringen Theorie und Praxis zusammen, schulen und trainieren in einem bestimmten Themenfeld, erfordern den sicheren Umgang mit den trainierten Softwaretools und erfordern das Grundwissen aus den Vorträgen. Die Teilnahme wird dringend empfohlen. Zu den Workshops muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
-Der **Ganztagsworkshop** bildet den Einstieg in das Projekt. Hier legen wir die Basis für die spätere Projektarbeit. Dies ist ein Pflichttermin. 
+Der **Ganztagsworkshop** bildet den Einstieg in das Projekt. Hier legen wir die Basis für die spätere Projektarbeit. **Dies ist ein Pflichttermin**. 
 
 **Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit und müssen durch Screenmovies vorbereitet werden. Zu den Trainings muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
-**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Es müssen zwei Termine wahrgenommen werden. Es dürfen aber auch mehr Termine genutzt werden. Zu Feedback- und Supporttermine müssen Sie sich nicht anmelden.
+**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im {{ilias}} anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im Ilias hochgeladen wurden.
 
 Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltung](angebote/) im Rahmen des Moduls.
 
 ## Prüfung & erforderliche Artefakte
 
-Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Entscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{ilias-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten.
+Die Prüfungsform ist eine Projektpräsentationsprüfung. Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Prüfung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im {{ilias-pruefung}} buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten.
 
 Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, das die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung erstellt wurden. 
 
