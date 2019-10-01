@@ -11,10 +11,10 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 
 |  Artefakt |  Nomenklatur |  Beispiel  |
 |---|---|---|
-| Gestaltungsportfolio (je Aufgabe) | sd-201819-gestaltungsportfolio-NACHNAME-AUFGABENNUMMER.png  | sd-201819-gestaltungsportfolio-noss-1.png  |
-| Angebot & Anschreiben |  sd-201819-anschreiben-NACHNAME1-NACHNAME2.pdf |  sd-201819-anschreiben-noss-schaefer.pdf |
-| Designkonzept als Mockup  |  sd-201819-designkonzept-NACHNAME1-NACHNAME2-SCREENNAME-NR.png |  sd-201819-designkonzept-noss-schaefer-startscreen-01.png |
-| Patternlab/Styleguide  | sd-201819-styleguide-NACHNAME1-NACHNAME2.pdf  |  sd-201819-styleguide-noss-schaefer.pdf |
+| Gestaltungsportfolio (je Aufgabe) | sd-201920-gestaltungsportfolio-NACHNAME-AUFGABENNUMMER.png  | sd-201920-gestaltungsportfolio-noss-1.png  |
+| Angebot & Anschreiben |  sd-201920-anschreiben-NACHNAME1-NACHNAME2.pdf |  sd-201920-anschreiben-noss-schaefer.pdf |
+| Designkonzept als Mockup  |  sd-201920-designkonzept-NACHNAME1-NACHNAME2-SCREENNAME-NR.png |  sd-201819-designkonzept-noss-schaefer-startscreen-01.png |
+| Patternlab/Styleguide  | sd-201920-styleguide-NACHNAME1-NACHNAME2.pdf  |  sd-201920-styleguide-noss-schaefer.pdf |
 
 </div>
 
@@ -22,15 +22,15 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 
 Die Benamung von Dateien und Archiven muss folgendem Muster folgen:
 
-> sd-201819-ARTEFAKTNAME-NACHNAME1-NACHNAME2.DATEIENDUNG
+> sd-201920-ARTEFAKTNAME-NACHNAME1-NACHNAME2.DATEIENDUNG
 
 Am Beispiel eines Einzelartefakts würde das so aussehen:
 
-> sd-201819-angebot-und-anschreiben-noss.pdf
+> sd-201920-angebot-und-anschreiben-noss.pdf
 
 Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
 
-> sd-201819-styleguide-noss-schaefer.pdf
+> sd-201920-styleguide-noss-schaefer.pdf
 
 -->
 
