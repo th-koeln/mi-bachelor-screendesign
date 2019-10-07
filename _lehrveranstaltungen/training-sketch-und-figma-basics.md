@@ -4,7 +4,7 @@ kuerzel: t-sb
 verantwortlich: vs, js, ch
 typ: training
 pflicht: false
-termine: [2019-10-10 11:00|0.501](https://ilias.th-koeln.de/ilias.php?ref_id=1351452&cmd=infoScreen&cmdClass=ilrepositorygui&cmdNode=w2&baseClass=ilRepositoryGUI), [2019-10-10 16:00|0.501](https://ilias.th-koeln.de/ilias.php?ref_id=1351454&cmd=infoScreen&cmdClass=ilrepositorygui&cmdNode=w2&baseClass=ilRepositoryGUI)
+termine: 2019-10-10 11:00|0.501|https://bit.ly/2Mn3fzB, 2019-10-10 16:00|0.501|https://bit.ly/358N3dX
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
