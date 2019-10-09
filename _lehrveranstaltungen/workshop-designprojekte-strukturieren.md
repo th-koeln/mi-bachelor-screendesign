@@ -21,12 +21,13 @@ Im Anschluss übertragen wir das Gelernte in ein Anschreiben an unsere Auftragge
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
+<!--
 ## Material
 - [Arbeitsaufträge](../../download/workshops/designprozesse-strukturieren/aufgabe-designprojekte-strukturieren.pdf)
 - [Maße Briefpapier DIN 5008](../../download/workshops/typo/briefpapier-vorlage.pdf)
 - [Thinking Design - Design, Prozesse, Method](https://thinking-design.de/2-designprozess-einfuehrung/)
 - [https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation](Free E-Book: The Guide to UX Design Process & Documentation)
-
+-->
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.

@@ -26,10 +26,10 @@ Bitte vorab Screenmovie anschauen.
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
-## Material
+<!--## Material
 - [Folien: Interface Inventar aufbauen und dokumentieren](../../download/workshops/interface-inventar-aufbauen/Interface-inventar-aufbauen-und-visualisieren.pdf)
 
-Inspiration und Beispiele zum Thema finden Sie unter dem Tag „Screendesign“ bei den [Links](https://th-koeln.github.io/mi-bachelor-screendesign/links/).
+Inspiration und Beispiele zum Thema finden Sie unter dem Tag „Screendesign“ bei den [Links](https://th-koeln.github.io/mi-bachelor-screendesign/links/). -->
 
 ## Aufgabe
 Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis einen Styleguide.

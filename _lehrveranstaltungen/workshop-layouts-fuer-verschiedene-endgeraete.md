@@ -19,6 +19,7 @@ Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltung
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
+<!--
 ## Material
 - [Folien: Layout und Raster](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layout-und-raster.pdf)
 - [Folien: Layouts mit Wireframes](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layouts-mit-wireframes.pdf)
@@ -26,7 +27,7 @@ Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltung
 - [Materialpaket: Pic of the day](../../download/workshops/layouts-fuer-verschiedene-endgeraete/pic-of-the-day.zip)
 - [Rasterpapier iPad](../../download/workshops/layouts-fuer-verschiedene-endgeraete/rasterpapier-ipad.pdf)
 - [Rasterpapier iPhone](../../download/workshops/layouts-fuer-verschiedene-endgeraete/rasterpapier-iphone.pdf)
-
+-->
 
 ## Weiterführendes Material
 - [Designing for Different Screens and Devices: 7 Steps to Creating A Great UX](https://theblog.adobe.com/designing-for-different-screens-and-devices-7-steps-to-creating-a-great-ux/)

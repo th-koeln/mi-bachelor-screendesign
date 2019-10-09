@@ -19,8 +19,10 @@ Heute befassen wir uns mit Typographie und Schriftsatz, wer hätte es gedacht :)
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
+<!--
 ## Material
 - [Aufgaben Typographie](../../download/workshops/typo/aufgaben-typographie.pdf)
+-->
 
 ## Typo Games
 - [Shape Game](https://shape.method.ac/)

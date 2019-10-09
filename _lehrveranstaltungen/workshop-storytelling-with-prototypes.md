@@ -35,7 +35,7 @@ An diesem Workshop sollte Sie nur teilnehmen, wenn Sie bereits fit im Umgang mit
 - [Adobe Experience Design: noch ein schönes Animations-/ Prototyping Tool](http://www.adobe.com/de/products/experience-design.html)
 - [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
 
-## Material & Input
+<!--## Material & Input
 - [Download der Workshop Slides als PDF](../../download/workshop-flow-and-transition/workshop-flow-and-transition.pdf)
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 - [Google Motion Guidelines](https://material.io/guidelines/motion/material-motion.html)
@@ -44,7 +44,7 @@ An diesem Workshop sollte Sie nur teilnehmen, wenn Sie bereits fit im Umgang mit
 - [Enhance Your User Experience with Animated Transitions](https://medium.com/yummygum-journal/enhance-your-user-experience-with-animated-transitions-a30267ca376c)
 - [Landingpage zum Thema Transitions auf uxdesign.cc](https://uxdesign.cc/ui-inspiration-b019453058d7)
 - [Material Icons](https://material.io/icons/)
-- [Brand Icons](https://www.smashingmagazine.com/2013/03/free-brand-icons-color-style-guides-icons/#download-the-set-for-free)
+- [Brand Icons](https://www.smashingmagazine.com/2013/03/free-brand-icons-color-style-guides-icons/#download-the-set-for-free)-->
 
 ## Beispiele:
 - [Climber Interactive Production Company](http://www.climber.io/)

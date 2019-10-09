@@ -18,9 +18,11 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - eigener Rechner mit Keynote, Powerpoint oder [Protopie](https://www.protopie.io/)
 - rudimentäre Kenntnisse in oben genannter Software
 
+<!--
 ## Material
 - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
 - [Materialpaket: pic-of-the-day-2.zip](../../download/workshops/flow-and-transition/pic-of-the-day-2.zip)
+-->
 
 ## Weiterführendes Material
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)

@@ -19,11 +19,12 @@ Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrer
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
+<!--
 ## Material
 - [Aufgaben Farbe](../../download/workshops/farbe/aufgabe-farbklima.pdf)
 - [Color Wheel](https://color.adobe.com/de/create/color-wheel/)
 - [Multicolor Tool](http://labs.tineye.com/multicolr/)
-
+-->
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.

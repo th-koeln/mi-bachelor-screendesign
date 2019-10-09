@@ -19,9 +19,11 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 - eigener Rechner mit Figma
 - Gute Übung in Figma
 
+<!--
 ## Material und Links
 - [Aufgaben Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/aufgabe-raum-gestaltgesetze.pdf)
 - [Materialpaket Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/material-raum-gestaltgesetze.zip)
+-->
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.

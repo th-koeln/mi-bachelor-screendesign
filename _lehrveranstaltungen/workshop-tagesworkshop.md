@@ -33,9 +33,11 @@ Arbeiten Sie bitte auch das Kapitel "Design Brief" von Figma durch:
 
 Eine Aufgabe innerhalb des Workshop wird die Entwicklung und Erstellung von Moodboards sein. Bitte bringen Sie alles mit, was hierfür sinnvoll sein könnte: Scheren, Zeitschriften, Stifte, Kleber, etc. Berücksichtigen Sie dabei bitte den Projektgegenstand, dabei geht es weniger um die inhaltliche Dimension der Werke von Lucas Cranach, als vielmehr um die gestalterische Anmutung und die Funktionen, die ein wissenschaftliches Online Archiv im Bereich Kunst/ Restauration bereitstellen muss.
 
+<!--
 ## Material
 - [How a Web Design Mood Board impacts User Experience Design](https://www.protofuse.com/blog/details/how-web-design-mood-board-impacts-ux/)
 - [20 pro tips for creating inspirational mood boards](https://www.creativebloq.com/graphic-design/mood-boards-812470)
 - [Inspirierende Moodboards mit Canva entwickeln](https://www.canva.com/de_de/erstellen/moodboards/)
 - [What Is a Mood Board, and How Can It Influence My Website Design?](https://www.smartbugmedia.com/blog/what-is-a-mood-board-and-how-can-it-influence-my-website-design)
 
+-->
