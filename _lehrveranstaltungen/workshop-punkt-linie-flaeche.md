@@ -25,7 +25,7 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 - [Punkt, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/020-punkt.pdf)
 - [Eindeutigkeit](../../download/workshops/punkt-linie-flaeche/030-eindeutigkeit.pdf)
 - [Linie, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
--->¡
+-->
 
 
 ## Sie haben keinen Rechner?
