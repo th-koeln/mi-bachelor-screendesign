@@ -77,13 +77,14 @@
       <div class="column">
         {% include /functions/resolve-types.html typ=veranstaltung.typ %}
         <a href="{{site.baseurl}}{{veranstaltung.url}}">
-          <div class="veranstaltung {{veranstaltung.typ}}" style="margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
+          <div class="veranstaltung {{veranstaltung.typ}}"
+            style="margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
             {% assign verantwortlich = veranstaltung.verantwortlich %}
             {% if dozent != "" and dozent != nil %}
             {% assign verantwortlich = dozent %}
             {% endif %}
             {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
-            <p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{typ-name}}:
+            <p class="title">{{typ-name}}:
               {{veranstaltung.titel}}</p>
 
             {% if (veranstaltung.raum | append: "") != "" %}
@@ -98,7 +99,8 @@
 
             {% assign check = typ-max-teilnehmer | strip_newlines %}
             {% if check != "" %}
-            <p class="subtitle">{{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if termine.size > 1 %}
+            <p class="subtitle">{{termin | date: '%d. %B %Y // %H:%M'}} <br>
+              {{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if termine.size > 1 %}
               ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // Raum {{raumnummer}}{% endif %}</p>
             {% endif %}
 

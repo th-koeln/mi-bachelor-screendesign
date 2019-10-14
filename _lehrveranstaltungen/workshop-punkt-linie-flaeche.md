@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-10-17 11:00|0.501, 2019-10-17 14:00|0.501, 2019-10-17 16:00|0.501
+termine: 2019-10-17 11:00|0.501, 2019-10-17 12:00|0.502
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -25,7 +25,7 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 - [Punkt, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/020-punkt.pdf)
 - [Eindeutigkeit](../../download/workshops/punkt-linie-flaeche/030-eindeutigkeit.pdf)
 - [Linie, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
--->
+-->¡
 
 
 ## Sie haben keinen Rechner?
