@@ -28,5 +28,9 @@ Handwerklich erweitern wir das Knowhow heute um Masken, die Pipette und komplexe
 - [Folien zu Figur und Grund](../../download/workshops/flaeche-kombinatorik/020-figur-und-grund.pdf)
 -->
 
+## Upload
+Die Ergebnisse können im [Ilias](https://bit.ly/2JcACon) hochgeladen werden. 
+
+
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
