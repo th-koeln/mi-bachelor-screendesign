@@ -19,13 +19,13 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 - eigener Rechner mit Figma
 - Basiskenntnisse in Figma
 
-<!--
+
 ## Material
 - [Semiotik](../../download/workshops/punkt-linie-flaeche/010-theorie-semiotik.pdf)
 - [Punkt, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/020-punkt.pdf)
 - [Eindeutigkeit](../../download/workshops/punkt-linie-flaeche/030-eindeutigkeit.pdf)
 - [Linie, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
--->
+
 
 
 ## Sie haben keinen Rechner?
