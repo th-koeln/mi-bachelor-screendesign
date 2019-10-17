@@ -27,6 +27,9 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 - [Linie, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
 
 
+##Upload
+Die Ergebnisse können im [Ilias](https://bit.ly/2JcACon) hochgeladen werden. 
+
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
