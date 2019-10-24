@@ -109,6 +109,8 @@ collections:
     output: false
   news:
     output: false
+  aufgaben:
+    output: true
 
 defaults:
   -
@@ -123,3 +125,9 @@ defaults:
       type: faq
     values:
       layout: faq
+  -
+    scope:
+      path: ""
+      type: aufgaben
+    values:
+      layout: aufgabe

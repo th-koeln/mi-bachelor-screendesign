@@ -8712,3 +8712,15 @@ pre code {
   height: 100%;
   position: absolute;
 }
+
+/**************/
+/* Aufgaben     */
+/**************/
+.aufgaben .title {
+  font-size: 2vW;
+}
+.aufgaben p {
+  font-size: 1.5vW;
+  line-height: 120%;
+  max-width: none;
+}

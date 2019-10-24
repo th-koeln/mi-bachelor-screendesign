@@ -1,14 +1,11 @@
 ---
 ---
 
-//
-// IMPORTS
-//
 @import "variables";
 @import "bulma";
 @import "overrides";
 
-// Syntax highlighting @import is at the bottom of this file
+//  Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
@@ -48,7 +45,7 @@ html {
   border-top: solid 1px $mi-pink;
 
   .menu-list {
-    li + li {
+    li+li {
       border-top: solid 1px rgba(0, 0, 0, 0.2);
     }
 
@@ -159,7 +156,7 @@ $tt-grid-height: 60px;
         line-height: 110%;
       }
 
-      .title + .subtitle {
+      .title+.subtitle {
         margin-top: $bfs * -0.8;
       }
 
@@ -209,7 +206,7 @@ $tt-grid-height: 60px;
     &.is-training .card-header {
       background-color: $mi-lila;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -218,13 +215,14 @@ $tt-grid-height: 60px;
       flex-grow: 1;
 
       dl.overview-card {
+
         dd,
         dt {
           display: inline-block;
           float: none;
         }
 
-        dd + dt:before {
+        dd+dt:before {
           content: " // ";
           font-weight: 100;
           color: #999;
@@ -235,7 +233,7 @@ $tt-grid-height: 60px;
     &.is-workshop .card-header {
       background-color: $mi-gruen;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -243,7 +241,7 @@ $tt-grid-height: 60px;
     &.is-ganztagesworkshop .card-header {
       background-color: $mi-gruen;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -251,7 +249,7 @@ $tt-grid-height: 60px;
     &.is-vortrag .card-header {
       background-color: $mi-pink;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -259,7 +257,7 @@ $tt-grid-height: 60px;
     &.is-feedback .card-header {
       background-color: $mi-blau;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -267,7 +265,7 @@ $tt-grid-height: 60px;
     &.is-pruefung .card-header {
       background-color: $mi-black;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -275,7 +273,7 @@ $tt-grid-height: 60px;
     &.is-support-all .card-header {
       background-color: $mi-grau;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -313,7 +311,7 @@ $tt-grid-height: 60px;
     &.is-training .card-header {
       background-color: $mi-lila;
 
-      > .card-header-title {
+      >.card-header-title {
         color: #fff;
       }
     }
@@ -323,13 +321,14 @@ $tt-grid-height: 60px;
       padding: $bfs;
 
       dl.overview-card {
+
         dd,
         dt {
           display: inline-block;
           float: none;
         }
 
-        dd + dt:before {
+        dd+dt:before {
           content: " // ";
           font-weight: 100;
           color: #999;
@@ -370,7 +369,7 @@ $tt-grid-height: 60px;
   color: $mi-pink;
 }
 
-.link-overview .link-overview__item + .link-overview__item {
+.link-overview .link-overview__item+.link-overview__item {
   border-top: solid 1px $mi-grau;
   margin-top: 1rem;
   padding-top: 1rem;
@@ -398,6 +397,7 @@ $tt-grid-height: 60px;
 }
 
 .content {
+
   p,
   li,
   table {
@@ -463,6 +463,7 @@ $tt-grid-height: 60px;
   }
 
   table {
+
     a,
     a:not(.button) {
       border: none;
@@ -473,6 +474,7 @@ $tt-grid-height: 60px;
     }
 
     .no-border {
+
       th,
       td {
         border: none;
@@ -489,7 +491,7 @@ $tt-grid-height: 60px;
       width: 40%;
     }
 
-    th + th + th {
+    th+th+th {
       width: 20%;
     }
   }
@@ -554,7 +556,7 @@ $tt-grid-height: 60px;
 
   .content {
     @media (min-width: 999px) {
-      > * {
+      >* {
         margin-left: 50% !important;
       }
 
@@ -565,9 +567,9 @@ $tt-grid-height: 60px;
         line-height: 130%;
       }
 
-      & > h1,
-      & > h2,
-      & > h3 {
+      &>h1,
+      &>h2,
+      &>h3 {
         margin-left: 0 !important;
         float: left;
         width: 48%;
@@ -577,16 +579,16 @@ $tt-grid-height: 60px;
         hyphens: none;
       }
 
-      & > h4,
-      & > h5,
-      & > h6 {
+      &>h4,
+      &>h5,
+      &>h6 {
         font-weight: 600;
         margin-top: $bfs;
         margin-bottom: $bfs / 2;
       }
 
-      & > h1,
-      & > h2 {
+      &>h1,
+      &>h2 {
         /*border-top: dotted 1px #aaa; */
         padding-top: $bfs;
         text-align: left;
@@ -594,12 +596,12 @@ $tt-grid-height: 60px;
         padding-left: 0;
       }
 
-      & > h1 + p,
-      & > h2 + p {
+      &>h1+p,
+      &>h2+p {
         margin-top: $bfs * 4 !important;
       }
 
-      & > h2:not(:first-child) {
+      &>h2:not(:first-child) {
         margin-top: $bfs * 3 !important;
       }
     }
@@ -612,8 +614,7 @@ $tt-grid-height: 60px;
     padding-top: $bfs;
   }
 
-  .content {
-  }
+  .content {}
 }
 
 .faq {
@@ -664,8 +665,10 @@ $tt-grid-height: 60px;
 }
 
 @media (max-width: 999px) {
+
   html,
   body {
+
     /*font-size: 60%;
 		line-height: 110%;*/
     .content {
@@ -703,6 +706,7 @@ $tt-grid-height: 60px;
 }
 
 @media print {
+
   section.hero,
   .is-non-print {
     display: none;
@@ -767,4 +771,22 @@ pre code {
   width: 100%;
   height: 100%;
   position: absolute;
+}
+
+
+/**************/
+/* Aufgaben     */
+/**************/
+
+.aufgaben {
+
+  .title{
+    font-size: 2vW;
+  }
+
+  p{
+    font-size: 1.5vW;
+    line-height: 120%;
+    max-width: none;
+  }
 }
