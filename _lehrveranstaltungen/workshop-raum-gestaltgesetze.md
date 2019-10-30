@@ -19,11 +19,9 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 - eigener Rechner mit Figma
 - Gute Übung in Figma
 
-<!--
 ## Material und Links
 - [Aufgaben Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/aufgabe-raum-gestaltgesetze.pdf)
-- [Materialpaket Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/material-raum-gestaltgesetze.zip)
--->
+- [Materialpaket Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/material-raum-gestaltgesetze-variante.zip)
 
 ## Upload
 Die Ergebnisse können im [Ilias](https://bit.ly/2JcACon) hochgeladen werden. 
