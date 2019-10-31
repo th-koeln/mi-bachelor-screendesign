@@ -4,7 +4,7 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2019-11-07 09:00|0.501, 2019-11-07 09:00|0.502, 2019-11-07 12:00|0.501, 2019-11-07 12:00|0.502
+termine: 2019-11-07 09:00|0.501|https://bit.ly/2C0C7Si, 2019-11-07 09:00|0.502|https://bit.ly/2WsysGg, 2019-11-07 12:00|0.501|https://bit.ly/2C4t1E1, 2019-11-07 12:00|0.502|https://bit.ly/33dgY3z
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
