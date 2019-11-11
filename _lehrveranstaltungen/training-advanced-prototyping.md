@@ -4,7 +4,7 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2019-11-14 09:00|0.501, 2019-11-14 13:00|0.501
+termine: 2019-11-14 09:00|0.501|https://bit.ly/33xHnsO, 2019-11-14 13:00|0.501|https://bit.ly/2Q4F903
 empfohlene-voraussetzungen: 
 published: true
 raum: 0.501
