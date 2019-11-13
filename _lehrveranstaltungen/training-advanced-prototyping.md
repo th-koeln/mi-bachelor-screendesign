@@ -14,12 +14,12 @@ info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 
 ## Worum geht es?
 
-In diesem Training befassen wir uns mit der Erstellung von Protoypen in Figma. 
+In diesem Training befassen wir uns mit der Erstellung von Prototypen in Figma. 
 Sobald die Kompexität der Views und damit die Anzahl der benutzten Elemente zunimmt, steigt auch die Gefahr, dass die  Struktur des Projektes sich verschlechtert und irgendwann die Übersicht verloren geht.
 
-Verstärkt wird die Problematik noch, wenn viele unterschiedliche Views in dem Projekt hinzukommen und zur jeder View noch angepasste Views für unterschiedliche Endgeräte oder Varianten.
+Verstärkt wird die Problematik noch, wenn viele unterschiedliche Views in dem Projekt hinzukommen und zu jeder View noch angepasste Views für unterschiedliche Endgeräte oder Varianten.
 
-Wir werden uns mit Techniken beschäfigen und lernen Funktionen von Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
+Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
 
 
 ## Was muss ich mitbringen?
