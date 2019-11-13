@@ -33,25 +33,26 @@ Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie eine
 ### Aufgabe 1
 Laden Sie das Material herunter und importieren Sie das enthaltene Projekt in Figma.
 
-Zunächst geht es darum die Struktur der vorhanden View und darin enthaltenen Elemente zu verbessern. 
+Zunächst geht es darum die Struktur der vorhandenen Views und darin enthaltenen Elemente zu verbessern. 
 Beachten Sie dabei folgende Punkte:  
 * Gruppieren Sie Elemente die logisch zusammen gehören und geben Sie den Gruppen und ggf. den einzelnen Elementen aussagekräftige Namen.
 * Sortieren Sie die Gruppen und Elemente in der Ebenenleiste nach einem bestimmten Schema. Eine Möglichkeit ist, die Elemente in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen, zu sortieren, und zwar von oben nach unten.  
-* Erzeugen Sie Komponenten bzw. Symbole für Elemente, die mehrfach vorkommen. 
+* Erzeugen Sie Komponenten für Elemente, die mehrfach vorkommen und Styles die mehrfach verwendet werden.
   Diese helfen dabei ein konsistentes Layout, auch über mehrere Views hinaus, zu ermöglichen.
 
 ### Aufgabe 2
-Nun soll für die vorhandene View ein Layout für das iPad mini erzeugt werden.
-Konfigurieren Sie dazu zunächst die Elemente so, dass sie sich automatisch anpassen, wenn die Größe der View geändert wird.
-Duplizieren Sie anschließend das Frame oder Artboard und stellen Sie es auf die Größe des iPad mini ein.
-
+Nun soll für die vorhandenen Views ein Layout für das iPad mini, im Portrait Format, erzeugt werden.
+Konfigurieren Sie dazu zunächst die Elemente so, dass sie sich automatisch anpassen, wenn die Größe der View bzw. der einzelnen Elemente, geändert wird.
+Duplizieren Sie anschließend die Frames und stellen Sie es auf die Größe des iPad mini ein. Passen Sie anschließend die Elemente an die neue Framegröße an.
 ## Material
 
 - [Aufgaben](../../download/trainings/advanced-prototyping/training-advanced-prototyping.zip)
 
-## Tutorials
-### Figma
+## Tutorials und Readings
 - [Components and Instances](https://help.figma.com/article/66-components/)
 - [Styles](https://help.figma.com/category/221-styles)
 - [Constraints](https://help.figma.com/article/54-constraints)
 
+- [How to construct a design system](https://www.freecodecamp.org/news/how-to-construct-a-design-system-864adbf2a117/)
+- [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
+- [Best practices: components, styles, and shared libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
