@@ -8112,7 +8112,6 @@ label.panel-block:hover {
 /* hsla(281,91,81,1), hsla(281,91,81,0) */
 .is-header {
   background-size: cover;
-  background-image: linear-gradient(to left, rgba(0, 0, 0, 0), black), url(/mi-bachelor-screendesign/assets/images/projekt-2018-hero.jpg);
 }
 .is-header .title {
   font-weight: 700;
@@ -8216,7 +8215,8 @@ label.panel-block:hover {
 .content table .no-border td {
   border: none;
 }
-.content table tr > th, .content table tr > td {
+.content table tr > th,
+.content table tr > td {
   padding-left: 0;
 }
 .content table.tab-schwerpunktmodule th {

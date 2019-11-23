@@ -21,11 +21,9 @@ se
 ###############################################################{% endcomment %}
 
 {% if include.path %}
-<!-- Slider main container -->
 <div class="swiper-container">
-  <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
-    <!-- Slides -->
+  
     {% for image in site.static_files %}
     {% if image.path contains include.path %}
     {% assign img-name = image.path | replace: "-", " " %}
@@ -43,17 +41,13 @@ se
     {% endfor %}
 
   </div>
-  <!-- If we need pagination -->
   <div class="swiper-pagination"></div>
-
-  <!-- If we need navigation buttons -->
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
 
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
-<!-- Initialize Swiper -->
 <script>
   var swiper = new Swiper('.swiper-container', {
     pagination: {
