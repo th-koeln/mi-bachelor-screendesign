@@ -20,6 +20,11 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 - ab ca. 11:30 Uhr: Freies Arbeiten der Teams in den Arbeitsräumen
 - 15:00 Uhr: Präsentation der Ergebnisse im Raum 0.501
 
+## Was muss ich mitbringen?
+- eigenen Rechner
+- Post-its, Papier, Stifte
+
+
 <!--
 ## Material
 Auf folgenden Seiten finden Sie Beispiele zur Umsetzung von Timelines:
