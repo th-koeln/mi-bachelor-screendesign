@@ -1,10 +1,10 @@
 ---
 titel: Flow & Transition
 kuerzel: w-fat
-verantwortlich: cn
+verantwortlich: ch
 typ: workshop
 pflicht: false
-termine: 2020-01-23 09:00|0.501, 2020-01-23 13:00|0.501
+termine: 2020-01-23 09:00|0.501, 2020-01-23 11:00|0.502
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 180

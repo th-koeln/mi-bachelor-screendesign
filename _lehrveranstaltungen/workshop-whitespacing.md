@@ -4,10 +4,10 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2020-01-09 09:00|0.501, 2020-01-09 12:00|0.501, 2020-01-09 15:00|0.501
+termine: 2019-12-19 11:00|0.501, 2019-12-19 12:00|0.502
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
-dauer: 150
+dauer: 120
 raum: 3.216
 info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluß auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
 ---
