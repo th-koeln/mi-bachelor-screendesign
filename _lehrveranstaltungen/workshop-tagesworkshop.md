@@ -21,6 +21,11 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 - 15:00 Uhr: Präsentation der Ergebnisse im Raum 0.501
 
 <!--
+## Material
+@Janina: hier bitte Links einkleben
+
+-->
+<!--
 ## Projektgegenstand
 Im Projekt befassen wir uns mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/).
 
