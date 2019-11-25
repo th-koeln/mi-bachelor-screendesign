@@ -7,7 +7,7 @@ pflicht: true
 termine: 2019-11-28 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 540
+dauer: 480
 raum: 3.102
 info: Dies ist ein Pflichttermin. An diesem Tag arbeiten wir uns in das Projektthema ein.
 ---
@@ -17,10 +17,10 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 
 ## Zeitplan
 - 9:00 Uhr:  Kick-Off, Raum 3.102
-- ab 10:30 Uhr: Freies Arbeiten der [Teams in den Arbeitsräumen](https://ilias.th-koeln.de/goto.php?target=file_1207658_download&client_id=ILIAS_FH_Koeln).
-- 17:00 Uhr: Präsentation der Ergebnisse im Raum <del>3.102</del> 0.405
-- ab ca. 18:00 Uhr: Kickern, Tischtennis und Feierabendbier im Hauptgebäude. Falls jemand mitmachen will, bitte in diese <a href="https://ilias.th-koeln.de/goto.php?target=sess_1205110&client_id=ILIAS_FH_Koeln">Liste</a> eintragen, damit wir besser planen können.
+- ab ca. 11:30 Uhr: Freies Arbeiten der Teams in den Arbeitsräumen
+- 15:00 Uhr: Präsentation der Ergebnisse im Raum 0.501
 
+<!--
 ## Projektgegenstand
 Im Projekt befassen wir uns mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/).
 
@@ -32,6 +32,7 @@ Arbeiten Sie bitte auch das Kapitel "Design Brief" von Figma durch:
 - [Design Brief](https://www.figma.com/resources/learn-design/design-brief/).
 
 Eine Aufgabe innerhalb des Workshop wird die Entwicklung und Erstellung von Moodboards sein. Bitte bringen Sie alles mit, was hierfür sinnvoll sein könnte: Scheren, Zeitschriften, Stifte, Kleber, etc. Berücksichtigen Sie dabei bitte den Projektgegenstand, dabei geht es weniger um die inhaltliche Dimension der Werke von Lucas Cranach, als vielmehr um die gestalterische Anmutung und die Funktionen, die ein wissenschaftliches Online Archiv im Bereich Kunst/ Restauration bereitstellen muss.
+-->
 
 <!--
 ## Material
