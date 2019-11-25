@@ -43,9 +43,242 @@ subtitle: Lucas Cranach Timeline
     <div class="content">
       <h2>Lucas Cranach Timeline</h2>
       <p>
+        Die folgenden Informationen wurden von einem Projektteam im Master erarbeitet. 
+        Dies geschah in Form von verschiedenen Interviews mit assoziierten Partnern 
+        (z.B. <a href="https://www.th-koeln.de/personen/gunnar.heydenreich/">Prof. Dr. Gunnar Heydenreich </a>, 
+        dem Leiter des <a href="http://lucascranach.org/index.php">Digital Archives</a>), als auch in Form eines einwöchigen Design Sprints.
+      </p>
+
+      <h3>Cranach und seine Werke</h3>
+      <p>
+        Der Name Lucas Cranach beschreibt zwei Personen, Lucas Cranach den Älteren und seinen Sohn Lucas Cranach den Jüngeren, 
+        wobei sich dieses Projekt vorwiegend auf ersteren bezieht. Dieser lebte im Zeitalter der Renaissance und 
+        war neben der Malerei auch als Grafiker und Buchdrucker tätig. Zu diesem Zwecke gründete er ein Unternehmen mit vielen Angestellten, 
+        welches als erstes seiner Art in Deutschland die Massenproduktion von Bildern fokussierte. Zusätzlich begeisterte er sich für 
+        die Politik, was durch den engen Kontakt zu Matin Luther unterstützt wurde. Dies spiegelte sich auch unter anderem in seinen Werken wieder. 
+        Häufig sind zudem religiöse Motive aufzufinden, da ein Großteil seiner Auftraggeber religiös geprägt oder die Kirche selbst waren.
+        <br><br>
+        Im <a href="http://lucascranach.org/index.php">Cranach Digital Archive</a> befinden sich zur Zeit knapp 2000 Werke unterschiedlicher Kategorien. Zu diesen Kategorien 
+        gehören momentan Gemälde, Archivalien und alte, als auch neue Literatur rund um das Thema Cranach. In Zukunft sollen diese Kategorien 
+        jedoch um Drucke erweitert werden. Zu jedem Gemälde finden sich zudem unterschiedliche Ansichten des Gemäldes, hier auch Infrarotaufnahmen, 
+        welche unterliegende Schichten sichtbar machen und so den Erstellungsprozess dokumentieren.
+      </p>
+
+      <h3>Zielsetzung des Projektes</h3>
+      <p>
+        In diesem Projekt soll eine alternative Ansicht der Werke in Form eines Zeitrahls geschaffen werden, welche als Ergänzung zum bestehenden 
+        Archiv fungiert. Hier ist besonders die Masse an Werken, sowie die Navigation durch diese zu beachten. Neben der reinen Darstellung soll 
+        jedoch auch eine Kontextualisierung der Werke stattfinden. Im Gegensatz zum <a href="http://lucascranach.org/index.php">Cranach Digital Archive</a>, 
+        in welchem Werke nur innerhalb der Kategorien separiert vorliegen, gilt es hier die verschiedenen Kategorien miteinander in Bezug zu bringen. 
+        Weiterhin ist eine Anreicherung der bestehenden Daten mit weiteren Informationen erwünscht, sodass beispielsweise historische Rahmenbedingungen,  
+        Ereignisse oder Personen in Verbindung zu den Werken gebracht werden könnten (mehr hierzu in späteren Kapiteln). Allgemein sollte jedoch zunächst 
+        darauf geachtet werden die bereits vorhandenen Informationen einzubetten, bevor mit einer Anreicherung begonnen wird. Da die Kategorie "Literatur" 
+        vorwiegend aktuelle Forschungsergebnisse beinhaltet, gilt auch diese eher als ergänzendes Material. Somit sollte sie nicht in dem Zeitstrahl selbst 
+        visualisiert jedoch von zugehörigen Werken referenziert werden. Die ganze Webseite soll allgemein in zwei Ebenen aufgeteilt sein. Die Einstiegsseite, 
+        welche den Zeitstrahl und lediglich die wichtigsten Informationen bereitstellt, sowie eine Detailebene, welche weiterführende Informationen und Verbindungen beinhaltet.
+        <br><br>
+        Wichtig ist zudem, dass dieser Zeitstrahl und die ihn umgebende Webseite eine Ergänzung zum <a href="http://lucascranach.org/index.php">Cranach Digital Archive</a> darstellen soll, demnach entgültig 
+        für Detailinformationen zu einem Werk auf das bestehende Archiv verweisen / verlinken sollte. Es gilt nicht die bestehende Seite zu ersetzen. 
+        Durch diese Alternative / Erweiterung soll neben einer <b>gezielten Suche</b> einzelner Werke auch eine <b>explorative Erkundung</b> unterstützt werden. Hierdurch wird 
+        sich eine Nutzung der Seite durch ein größeres Nutzerspektrum erhofft, was auch Kunstlaien / Personen anderer Fachgebiete einbeziehen soll (ebenfalls in einem späteren Abschnitt erläutert).
+        <br><br>
+        Sie müssen hier lediglich ein potentielles Design erarbeiten und sich nicht mit der tatsächlichen Datenerweiterung oder Ähnlichem befassen.
+      </p>
+
+      <h3>Datenstrukturen der öffentlichen API</h3>
+      <p>
+        Momentan ist die öffentliche API noch nicht vollständig implementiert. Damit sie dennoch eine Vorstellung davon haben, welche Daten ihnen bereitstehen und 
+        welche sie somit in ihr Design einbeziehen können, folgt eine Auflistung der wichtigsten Eigenschaften eines Werks:
+        <ul>
+          <li>
+            <p><b>Titel</b></p>
+          </li>
+          <li>
+            <p>Zuschreibung</p>
+          </li>
+          <li>
+            <p><b>Bild URLs</b></p>
+          </li>
+          <li>
+            <p><b>Signatur / Datierung</b> (Datierungen sind selten eindeutig und stellen somit meist eine Zeitspanne dar)</p>
+          </li>
+          <li>
+            <p><b>Eigentümer / Besitzer / Standort</b></p>
+          </li>
+          <li>
+            <p>Maße</p>
+          </li>
+          <li>
+            <p>Bildträger</p>
+          </li>
+          <li>
+            <p>Inschriften / Stempel / Siegel / Beschriftungen</p>
+          </li>
+          <li>
+            <p>Kurzbeschreibung</p>
+          </li>
+          <li>
+            <p>Provenienz</p>
+          </li>
+          <li>
+            <p>Ausstellungen</p>
+          </li>
+          <li>
+            <p>Quellen / Publikationen</p>
+          </li>
+        </ul>
+        <br>
+        Dies sind lediglich Hinweise und stellen die Informationen nicht in ihrer Gänze dar. Eine eigene Recherche ist somit immernoch benötigt. 
+        Markierte (dick geschriebene) Eigenschaften gelten für Kunstexperten laut Gunnar Heydenreich als wichtigste Informationen für den ersten 
+        Eindruck.
+      </p>
+
+      <h3>Stakeholder</h3>
+      <p>
+        Durch das Interview mit <a href="https://www.th-koeln.de/personen/gunnar.heydenreich/">Prof. Dr. Gunnar Heydenreich </a> und weiterführende 
+        Recherchen wurden folgende Stakeholder ermittelt:
+        <table class="table">
+          <thead>
+            <tr>
+              <th width="17%">Stakeholder</th>
+              <th width="30%">Kontext und Ziel der Nutzung</th>
+              <th width="17%">Art der Suche</th>
+              <th width="36%">Benötigte Informationen</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Museen / Kunstmuseum Düsseldorf</td>
+              <td>Marketing, Gewinn neuer Kunden</td>
+              <td></td>
+              <td></td>
+            </tr>
+
+            <tr>
+              <td>Kunsthistoriker & Kunstexperten</td>
+              <td>Informationssammlung, eigene Rückschlüsse ziehen können</td>
+              <td>gezielt</td>
+              <td>Informationen zu historischen Zusammenhängen (Bilder, Ereignisse, Beziehungen, Archivalien ...)</td>
+            </tr>
+
+            <tr>
+              <td>Kunstinteressierte Laien</td>
+              <td>Bilder betrachten und spezifische Informationen durchlesen um einen Überblick zu erhalten</td>
+              <td>explorativ</td>
+              <td>Wissen zu Bildern anzeigen, evtl. historische Zusammenhänge verdeutlichen (Bilder, Hintergrundinformationen, visuelle Verbindungen, Verlinkungen ...)</td>
+            </tr>
+
+            <tr>
+              <td>Schüler & Studenten</td>
+              <td>Informationssammlung für eigene Ausarbeitungen / Aufsätze etc.</td>
+              <td>explorativ</td>
+              <td>Unterschiedliche Ansätze erfordern eine große Varietät der Daten (Hintergrundinformationen, Ort, Datum, Kontext, ggf. Rangfolge der Bilder ...)</td>
+            </tr>
+
+            <tr>
+              <td>Bühnenbildner</td>
+              <td>Informationssammlung und Vergleiche für die Erstellung von Bühnenbildern</td>
+              <td>explorativ / gezielt</td>
+              <td>Informationen zu Einrichtungen und Umgebungen einer bestimmten Zeit (Jahreszahlen, Bilder, Orte ...)</td>
+            </tr>
+
+            <tr>
+              <td>Maler</td>
+              <td>Inspirationen & Techniken für eigene Werke</td>
+              <td>explorativ / gezielt</td>
+              <td>Informationen zu Maltechniken und Erstellung der Bilder sowie die Bilder selbst (Infrarotaufnahmen, Glossar über Techniken und Materialien, Bilder ...)</td>
+            </tr>
+
+            <tr>
+              <td><b>Kostümdesigner</b></td>
+              <td>Informationssammlung und Vergleich alter Kleidung für eigene Kreationen</td>
+              <td>explorativ / gezielt</td>
+              <td>Informationen zur Kleidung und Accessoires bestimmter Personengruppen zu einer bestimmten Zeit (Jahreszahlen, Bilder, abgebildete Personen, Ort ...)</td>
+            </tr>
+          </tbody>
+        </table>
+        Auch hier ist nur ein Teil aller möglichen Nutzergruppen abgebildet. Laut Ergebnissen von Google Analytics gilt jedoch die Gruppe der <b>Kostümdesigner</b> momentan als 
+        die größte Nutzergruppe.
+      </p>
+
+      <h3>Exploration und Anreicherung von Informationen</h3>
+      <p>
+        Wie bereits erläutert soll eine explorative Durchsuchung des Themenfeldes ermöglicht werden. Hierzu zählt neben der visuellen Verbindung 
+        zusammengehöriger Daten auch die Anreicherung und Verlinkung eben jener Datensätze / Werke. Die folgende Tabelle listet einige der möglichen 
+        Anhaltspunkte zur Schaffung solcher Verbindungen auf. Keine dieser Anreicherungen ist ein Muss und es können stets auch eigene Ideen verwendet werden.
+        <table class="table">
+            <thead>
+              <tr>
+                <th width="33%">Mögliche Informationsergänzungen</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Personen</td>
+                <td>
+                  Personen, mit welchen Cranach in Kontakt stand, könnten seine Werke geprägt haben. Hierzu zählen Freunde, Auftraggeber, Motive und viele weitere.
+                  Drei große Persöhnlichkeiten, mit welchen Cranach viel Kontakt hatte, waren <a href="https://de.wikipedia.org/wiki/Friedrich_III._(Sachsen)">König Friedrich der Weise</a> 
+                  (einer seiner größten Auftraggeber), <a href="https://de.wikipedia.org/wiki/Martin_Luther">Martin Luther</a> (ein enger Freund) und Luthers "Gegenspieler" 
+                  <a href="https://de.wikipedia.org/wiki/Albrecht_von_Brandenburg">Albrecht von Brandenburg</a>.
+                </td>
+              </tr>
+
+              <tr>
+                <td>Ereignisse</td>
+                <td>
+                  Historische Ereignisse zu Lebzeiten Cranachs könnten sich in seinen Werken wiederspiegeln. Hierzu zählen seine eigenen "Lebensmeilensteine", jedoch auch 
+                  ihn umgebende Ereignisse wie Kriege, Krankheiten, Machtverhältnisse und allgemeine Umstände / Lebensbedingungen. Solche Informationen könnten neben Motiven auch seinen allgemeinen Zeichen / 
+                  Malstil beeinflusst haben.
+                </td>
+              </tr>
+
+              <tr>
+                <td>Gemälde / Kunstwerke der selben Zeit</td>
+                <td>
+                  Die Gemälde / Kunstwerke anderer Künstler der selben Zeit könnten Aufschluss über Cranachs Malstil bieten. Hier sollten, laut Gunnar Heydenreich, jedoch 
+                  lediglich Künstler aus Europa berücksichtigt werden.
+                </td>
+              </tr>
+
+              <tr>
+                <td>Geographische Informationen</td>
+                <td>
+                  Für die Analyse eines Werks kann der Ort, in welchem dieses Werk entstand, von hoher Bedeutung sein. Ebenso könnte der heutige Aufenthaltsort für eine Großzahl 
+                  von Nutzern interessant sein (z.B. Wo befinden sich am meisten Bilder die ich bei meinem nächsten Urlaub sehen möchte?).
+                </td>
+              </tr>
+
+              <tr>
+                <td>Heutige wissenschaftliche Erkenntnisse</td>
+                <td>
+                  Heutige wissenschaftliche Erkenntnisse könnten Laien etwas mehr über den Kontext eines Werks verraten. Hier wurde jedoch davon abgeraten eigene Recherchen 
+                  anzustellen und gesagt, man solle zu diesem Zwecke lieber die vorhandenen Literaturen des Archivs nutzen.
+                </td>
+              </tr>
+            </tbody>
+        </table>
+      </p>
+
+      <h3>Funktionsumfang</h3>
+      <p>
         AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
       </p>
 
+      <h3>Endgeräte</h3>
+      <p>
+        AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
+      </p>
+
+      <h3>Herausforderungen</h3>
+      <p>
+        AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
+      </p>
+
+      <h3>Marktbeispiele</h3>
+      <p>
+        AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
+      </p>
 
     </div>
   </div>
