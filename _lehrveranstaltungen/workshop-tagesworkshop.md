@@ -22,8 +22,16 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 
 <!--
 ## Material
-@Janina: hier bitte Links einkleben
-
+Auf folgenden Seiten finden Sie Beispiele zur Umsetzung von Timelines:
+- [Anne Frank](https://www.annefrank.org/en/anne-frank/the-timeline/)
+- [Gramercy Park Hotel](https://www.gramercyparkhotel.com/hotel/history)
+- [Invaluable](https://www.invaluable.com/blog/art-history-timeline/)
+- [Lois Jeans](http://www.loisjeans.com/web2012/es)
+- [Delhi Timeline](https://delhi-timeline.in/)
+- [Timeline Index](http://www.timelineindex.com/content/select/729/1023,729)
+- [Blazepress](https://blazepress.com/2014/08/top-5-medical-discoveries-ever/)
+- [Timetoast](https://www.timetoast.com/timelines/the-most-famous-painters-in-history)
+- [Union History](http://www.unionhistory.info/timeline/timeline.php)
 -->
 <!--
 ## Projektgegenstand
