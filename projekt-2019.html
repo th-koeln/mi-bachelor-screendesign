@@ -41,7 +41,7 @@ subtitle: Lucas Cranach Timeline
 <section class="section">
   <div class="container">
     <div class="content">
-      <h2>Lucas Cranach Timeline</h2>
+      <h1>Lucas Cranach Timeline</h1>
       <p>
         Die folgenden Informationen wurden von einem Projektteam im Master erarbeitet. 
         Dies geschah in Form von verschiedenen Interviews mit assoziierten Partnern 
@@ -49,7 +49,7 @@ subtitle: Lucas Cranach Timeline
         dem Leiter des <a href="http://lucascranach.org/index.php">Digital Archives</a>), als auch in Form eines einwöchigen Design Sprints.
       </p>
 
-      <h3>Cranach und seine Werke</h3>
+      <h2>Cranach und seine Werke</h2>
       <p>
         Der Name Lucas Cranach beschreibt zwei Personen, Lucas Cranach den Älteren und seinen Sohn Lucas Cranach den Jüngeren, 
         wobei sich dieses Projekt vorwiegend auf ersteren bezieht. Dieser lebte im Zeitalter der Renaissance und 
@@ -64,7 +64,7 @@ subtitle: Lucas Cranach Timeline
         welche unterliegende Schichten sichtbar machen und so den Erstellungsprozess dokumentieren.
       </p>
 
-      <h3>Zielsetzung des Projektes</h3>
+      <h2>Zielsetzung des Projektes</h2>
       <p>
         In diesem Projekt soll eine alternative Ansicht der Werke in Form eines Zeitrahls geschaffen werden, welche als Ergänzung zum bestehenden 
         Archiv fungiert. Hier ist besonders die Masse an Werken, sowie die Navigation durch diese zu beachten. Neben der reinen Darstellung soll 
@@ -82,11 +82,11 @@ subtitle: Lucas Cranach Timeline
         Durch diese Alternative / Erweiterung soll neben einer <b>gezielten Suche</b> einzelner Werke auch eine <b>explorative Erkundung</b> unterstützt werden. Hierdurch wird 
         sich eine Nutzung der Seite durch ein größeres Nutzerspektrum erhofft, was auch Kunstlaien / Personen anderer Fachgebiete einbeziehen soll (ebenfalls in einem späteren Abschnitt erläutert).
         <br><br>
-        Ihre Aufgabe beschränkt sich hedoch auf die Recherche potentieller Informationen, sowie die Konzipierung eines potentiellen Designs. Sie müssen sich 
+        Ihre Aufgabe beschränkt sich jedoch auf die Recherche potentieller Informationen, sowie die Konzipierung eines Designs. Sie müssen sich 
         nicht mit der tatsächlichen Datenanreicherung oder Ähnlichem befassen.
       </p>
 
-      <h3>Datenstrukturen der öffentlichen API</h3>
+      <h2>Datenstrukturen der öffentlichen API</h2>
       <p>
         Momentan ist die öffentliche API noch nicht vollständig implementiert. Damit sie dennoch eine Vorstellung davon haben, welche Daten ihnen bereitstehen und 
         welche sie somit in ihr Design einbeziehen können, folgt eine Auflistung der wichtigsten Eigenschaften eines Werks:
@@ -134,7 +134,7 @@ subtitle: Lucas Cranach Timeline
         Eindruck.
       </p>
 
-      <h3>Stakeholder</h3>
+      <h2>Stakeholder</h2>
       <p>
         Durch das Interview mit <a href="https://www.th-koeln.de/personen/gunnar.heydenreich/">Prof. Dr. Gunnar Heydenreich </a> und weiterführende 
         Recherchen wurden folgende Stakeholder ermittelt:
@@ -202,7 +202,7 @@ subtitle: Lucas Cranach Timeline
         die größte Nutzergruppe.
       </p>
 
-      <h3>Exploration und Anreicherung von Informationen</h3>
+      <h2>Exploration und Anreicherung von Informationen</h2>
       <p>
         Wie bereits erläutert soll eine explorative Durchsuchung des Themenfeldes ermöglicht werden. Hierzu zählt neben der visuellen Verbindung 
         zusammengehöriger Daten auch die Anreicherung und Verlinkung eben jener Datensätze / Werke. Die folgende Tabelle listet einige der möglichen 
@@ -263,24 +263,271 @@ subtitle: Lucas Cranach Timeline
         mit den vorhandenen Daten durch ein geeignetes Design und geeignete stilistische Mittel erreicht werden!
       </p>
 
-      <h3>Funktionsumfang</h3>
+      <h2>Funktionsumfang und Eigenschaften</h2>
       <p>
-        AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
+        Bei der Erstellung ihrer Konzepte sollten Sie gewisse Funktionalitäten und Eigenschaften einbeziehen. Hierzu wurden in dem Interview einige unumgängliche Funktionalitäten 
+        ermittelt, sowie weitere mögliche Funktionserweiterungen herausgearbeitet.
+        <table class="table">
+          <thead>
+            <tr>
+              <th width="33%">Must-Have</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Übersichtlichkeit</td>
+              <td>
+                Es findet sich eine Masse von Daten, welche es zu visualisieren gilt. Dennoch sollte die Darstellung die sie wählen einen Überblick über diese Daten ermöglichen 
+                und den Nutzer nicht überfordern. Das Produkt ist für ein großes Spektrum von Nutzern gedacht und nicht nur für "PC-Profis".
+              </td>
+            </tr>
+
+            <tr>
+              <td>Navigation</td>
+              <td>
+                Eine einfache und natürliche Navigation durch den Zeitstrahl ist ein Muss. Um gezielte Suchen zu unterstützen muss demnach auch ein gezielter Zeitraum ausgewählt 
+                werden können. Für explorative Ansätze könnte ein Zoom und ein Scrolling durch den Zeitstrahl hilfreich sein. 
+              </td>
+            </tr>
+
+            <tr>
+              <td>Filterung</td>
+              <td>
+                Als Ergänzung zur Navigationen sollten Filter ermöglicht werden, welche den angezeigten Datenbestand weiter eingrenzen. So könnte eine Schlagwortsuche sinnvoll sein, 
+                ebenso wie weitere Felder, welche die Filterung anhand von Kategorien ermöglichen. Es gibt beispielsweise bereits eine Auswahl der 100 "besten" Bilder. Weitere 
+                mögliche Anhaltspunkte sind der Entstehungs- und Aufbewahrungsort, der Auftraggeber, das Motiv, die Zuschreibung und was ihnen sonst noch einfällt.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Exploration vs. gezielte Suche</td>
+              <td>
+                Wie bereits angesprochen sollte neben einer gezielten Suche auch die Exploration des Datenbestandes ermöglicht werden. Die gezielte Suche richtet sich hierbei mehr 
+                an das Feld der Kunstexperten und Künstler, während explorative Ansätze zu einer gesteigerten Nutzung der Webseite durch Kunstlaien führen sollen.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Einbindung der Literatur</td>
+              <td>
+                Die bestehende Literatur sollte weiterhin eingebunden und von thematisierten Werken referenziert werden. Sie sollte nicht im Zeitstrahl selbst auftauchen.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Vergleich der Werke</td>
+              <td>
+                Für eine Großzahl von Nutzern bildet der Vergleich mehrerer Werke das eigentliche Nutzungsziel dieser Seite. Solche Vergleiche sollten von ihnen demnach 
+                gezielt unterstützt werden.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <table class="table">
+          <thead>
+            <tr>
+              <th width="33%">Nice-To-Have</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Glossar</td>
+              <td>
+                In einer Art Glossar sollten Informationen zu Mal- und Produktionstechniken geboten werden. Diese gilt es anschließend innerhalb der Informationsseite eines Werkes zu 
+                referenzieren. Weitere mögliche Glossareinträge könnten Farben / Pigmente, Materialien oder Ähnliches beschreiben. Es muss hierbei kein herkömmliches Glossar 
+                eingebunden werden. Überlegen sie sich eine Möglichkeit solche Informationen ihrem Design entsprechend einzubinden.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Momentane Standorte</td>
+              <td>
+                Zu jedem Werk wird ein momentaner Aufenthaltsort angegeben. Es könnte hierbei für gewisse Nutzergruppen sinnvoll sein, diese Standorte zentralisiert darzustellen, um somit 
+                einen Überblick zu ermöglichen. Dies könnte beispielsweise genutzt werden, um eine der folgenden Fragen zu beantworten:
+                <ul>
+                  <li>
+                    Wo befinden sich die meisten Werke, welche ich in meinem nächsten Urlaub anschauen möchte?
+                  </li>
+                  <li>
+                    Welche Werke kann ich in meiner Umgebung finden?
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+            <tr>
+              <td>Auf Neuerungen hinweisen</td>
+              <td>
+                Nutzer, welche die Seite in regelmäßigen Abständen aufrufen, könnten auf neue Inhalte oder Funktionen hingewiesen werden. Dies könnte über dedizierte Bereiche innerhalb der 
+                Webseite geschen, aber auch beispielsweise über Mechanismen wie Newsletter.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Erstellung eigener Listen</td>
+              <td>
+                Für unterschiedliche Nutzer könnte es sinnvoll sein, Werke eigenen Listen zuordnen zu können, um so bei einem späteren Seitenaufruf schneller an diese Daten zu gelangen. 
+                Beispiele hierfür wären Künstler, welche Inspirationen unterschiedlicher Malstile suchen oder Schüler, welche über eine begrenzte Auswahl von Werken einen Aufsatz schreiben 
+                müssen.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Europaweiter vergleich prägnanter Gemälde</td>
+              <td>
+                Wie bereits in vorherigen Abschnitten angesprochen, könnte ein Vergleich der Werke Cranachs zu den Werken anderer Künstler Europas die Möglichkeit eröffnen, Rückschlüsse aus 
+                Malstilen und derem Wandel zu ziehen.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Presets</td>
+              <td>
+                Für unterschiedliche Stakeholder sind unterschiedliche Aspekte relevant. So könnten für unterschiedliche Nutzungsziele auch unterschiedliche Voreinstellungen angeboten werden.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <b>Auch hier gilt wieder:</b> Dies sind lediglich Vorschläge. Die Must-Have Punkte sollten in irgendeiner Form vertreten sein, jedoch können sie anstatt der hier aufgelisteten Nice-To-Have 
+        Funktionalitäten auch eigene Ideen einbringen.
+        
+        <b>Wichtig ist jedoch:</b> Dieses Produkt soll nicht kommerziell genutzt werden. Werbung oder dergleichen ist dementsprechend unerwünscht.
       </p>
 
-      <h3>Endgeräte</h3>
+      <h2>Endgeräte</h2>
       <p>
-        AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
+        Für ein Produktdesign ist stets entscheidend, auf welche Art von Gerät es zugeschnitten ist. Folgend finden sie einige Anforderungen an zu unterstützende Endgeräte:
+        <table class="table">
+          <thead>
+            <tr>
+              <th width="33%">Endgerät</th>
+              <th>Nutzungsumfang</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>PC / Laptop</td>
+              <td>
+                Dies ist das hauptsächliche Endgerät für Experten und viele andere Nutzergruppen. Aufgrund der großflächigen Visualisierungsmöglichkeiten sollte hier der volle 
+                Funktionsumfang eingebracht werden. 
+              </td>
+            </tr>
+
+            <tr>
+              <td>Tablets</td>
+              <td>
+                Ähnlich den PCs und Laptops bieten Tablets heutzutage viel Fläche und demnach auch ebensoviele Möglichkeiten. Gerade für Künstler jeglicher Art könnte dieses Endgerät eine 
+                größere Rolle spielen. Demnach kann überlegt werden, denselben Funktionsumfang einzubeziehen, gegebenenfalls mit kleinen Abstrichen.
+              </td>
+            </tr>
+
+            <tr>
+              <td>Smartphone</td>
+              <td>
+                Smartphones werden von den befragten Experten nur sehr selten zur Recherche eingesetzt. Sie nutzen diese lediglich, um auf die Schnelle spezifische Gemälde aufzurufen. 
+                Für diese Nutzergruppe benötigt solch eine Version also nur ein stark reduziertes Feature Set. Jedoch könnte gerade für die Gruppe der Kunstlaien solch ein Endgerät eine 
+                größere Rolle darstellen (gerade für Schüler / Studenten). Hier gilt es zu überlegen, ob solch eine Version sinnvoll wäre und wie man die Informationen, trotz der stark 
+                reduzierten Oberfläche, sinnvoll und übersichtlich präsentieren kann.
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </p>
 
-      <h3>Herausforderungen</h3>
+      <h2>Herausforderungen</h2>
       <p>
-        AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
+        In einem Designsprint wurden bereits einige der größten Herausforderungen herausgearbeitet. Das Ergebnis dieses Prozesses ist in folgenden Fragen zusammengefasst:
+        <ul>
+          <li>
+            Wie kann man die Menge an Daten übersichtlich darstellen?
+          </li>
+
+          <li>
+            Wie kann man Werke miteinander in Bezug setzen, um so den Kontext hervorzuheben und Rückschlüsse zu ermöglichen?
+          </li>
+
+          <li>
+            Wie kann man die verschiedenen Zielgruppen geeignet und differenziert ansprechen?
+          </li>
+
+          <li>
+            Kann man ein einheitliches Design finden, welches alle Nutzergruppen abdeckt?
+          </li>
+
+          <li>
+            Wie kann man eine gezielte Suche / Filterung / Navigation unterstützen? Welche Filter werden hierfür benötigt?
+          </li>
+
+          <li>
+            Welche sind die wichtigsten Informationen und wie kann man diese besonders hervorheben?
+          </li>
+
+          <li>
+            Wie kann man sowohl eine gezielte, als auch eine explorative Nutzung unterstützen?
+          </li>
+
+          <li>
+            Welche zusätzlichen Informationen werden benötigt, um den Kontext eines Werkes erschließbar zu machen? Wie können diese Informationen angereichert werden?
+          </li>
+        </ul>
       </p>
 
-      <h3>Marktbeispiele</h3>
+      <h2>Marktbeispiele</h2>
       <p>
-        AKTUELLER STAND DER BEARBEITUNG DURCH DAS PROJEKT IM MASTER.
+        Da sie sich hier mit einem potentiell vollständig neuen Umfeld befassen müssen, sind folglich einige bestehende Webseiten als Beispiele aufgelistet. Hier können 
+        sie ggf. Inspirationen für ihr Konzept gewinnen. Und noch ein Hinweis: Man muss nicht immer das Rad neu erfinden!
+        <ul>
+          <li>
+            <a href="http://lucascranach.org/">Cranach Digital Archive</a>
+          </li>
+
+          <li>
+            <a href="https://www.timemachine.eu/">Time Machine EU</a>
+          </li>
+
+          <li>
+            <a href="https://wege-zu-cranach.de/index.html">Wege zu Cranach</a>
+          </li>
+
+          <li>
+            <a href="http://rembrandtdatabase.org/">Rembrandt Database</a>
+          </li>
+
+          <li>
+            <a href="https://www.rct.uk/collection/search#/page/1">Royal Collection Trust London</a>
+          </li>
+
+          <li>
+            <a href="https://www.metmuseum.org/">Metropolitan Museum of Art</a>
+          </li>
+
+          <li>
+            <a href="https://histography.io/">Histography</a>
+          </li>
+
+          <li>
+            <a href="http://cranach.ub.uni-heidelberg.de/wiki/index.php/Hauptseite">Cranach.net</a>
+          </li>
+
+          <li>
+            <a href="https://www.dhm.de/lemo/">Lemo</a>
+          </li>
+
+          <li>
+            <a href="https://www.wdl.org/en/">World Digital Library</a>
+          </li>
+
+          <li>
+            <a href="https://timeline.knightlab.com/">Timeline.js</a>
+          </li>
+
+          <li>
+            <a href="https://www.timescape.io/login">Timescape</a>
+          </li>
+        </ul>
       </p>
 
     </div>
@@ -527,8 +774,8 @@ subtitle: Lucas Cranach Timeline
   <div class="container">
     <div class="content">
 
-      <h2 class="title">Ganztagesworkshop</h2>
-      <h3 class="subtitle">28. November 2019, 9:00 - 16:00 Uhr</h3>
+      <h1 class="title">Ganztagesworkshop</h1>
+      <h2 class="subtitle">28. November 2019, 9:00 - 16:00 Uhr</h2>
       <p>
         Am Ganztagesworkshop wird das Fundament für die spätere Projektarbeit gelegt. Hier wird die Projektaufgabe,
         sowie Gegenstand und Kontext des Vorhabens vorgestellt. 
@@ -621,7 +868,7 @@ subtitle: Lucas Cranach Timeline
 <section class="section">
   <div class="container ">
     <div class="content">
-      <h3>Tagesplan</h3>
+      <h2>Tagesplan</h2>
 
       <table class="table">
 
