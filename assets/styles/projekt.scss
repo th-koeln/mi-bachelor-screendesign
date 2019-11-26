@@ -1,5 +1,6 @@
---- 
---- 
+---
+---
+
 //
 // IMPORTS
 //
@@ -99,8 +100,7 @@ html {}
 /* hsla(281,91,81,1), hsla(281,91,81,0) */
 .is-header {
   background-size: cover;
-  background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url(/mi-bachelor-screendesign/assets/images/projekt-2018-hero.jpg);
-
+  background-position: center center;
   .title {
     font-weight: 700;
     font-size: $bfs * 3;
@@ -225,7 +225,8 @@ html {}
       }
     }
 
-    tr > th, tr > td{
+    tr>th,
+    tr>td {
       padding-left: 0;
     }
   }
