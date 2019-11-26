@@ -8112,6 +8112,7 @@ label.panel-block:hover {
 /* hsla(281,91,81,1), hsla(281,91,81,0) */
 .is-header {
   background-size: cover;
+  background-position: center center;
 }
 .is-header .title {
   font-weight: 700;
