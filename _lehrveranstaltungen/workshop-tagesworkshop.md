@@ -26,6 +26,7 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 
 ## Material
 - [Projektseite Lucas Cranach Timeline](/mi-bachelor-screendesign/projekt-2019/)
+- [Cranach Digital Archive](http://lucascranach.org/)
 
 <!--
 ## Material
