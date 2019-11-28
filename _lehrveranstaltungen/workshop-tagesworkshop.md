@@ -68,6 +68,7 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 * Tahe Sirajeddin Mouitehid
 * Julian Se?????
 * Anton Kolesnikov
+* Burak Köse
 
 ### Team 5 // Raum 0.502
 * Hatice Sevim
