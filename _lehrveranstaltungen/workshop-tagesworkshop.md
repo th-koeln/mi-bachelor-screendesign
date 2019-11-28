@@ -24,6 +24,18 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 - eigenen Rechner
 - Post-its, Papier, Stifte
 
+## Teameinteilung
+
+### Team 1 // Raum 0.501
+### Team 2 // Raum 0.501
+### Team 3 // Raum 0.501
+### Team 4 // Raum 0.501
+### Team 5 // Raum 0.502
+### Team 6 // Raum 0.502
+### Team 7 // Raum 0.502
+### Team 8 // Raum 0.502
+
+
 ## Material
 - [Projektseite Lucas Cranach Timeline](/mi-bachelor-screendesign/projekt-2019/)
 - [Cranach Digital Archive](http://lucascranach.org/)
