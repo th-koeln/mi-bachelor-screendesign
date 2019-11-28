@@ -35,6 +35,7 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 * Luca Kilp
 * L. Axthammer
 * Thuy-Nhi Dinh
+* Meriam Hachicha
 
 ### Team 2 // Raum 0.501
 * Ermira Miljus
@@ -45,6 +46,7 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 * Christian Dedy
 * Nils Polarek
 * Simon Schulte
+* Mert Mutlu
 
 ### Team 3 // Raum 0.501
 * Niklas Groß
