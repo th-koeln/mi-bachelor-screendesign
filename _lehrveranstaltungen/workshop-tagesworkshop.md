@@ -27,13 +27,77 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 ## Teameinteilung
 
 ### Team 1 // Raum 0.501
+* Emre Bulut
+* Sebastian Bauknecht
+* Thomas Krieger
+* Denise Büning
+* Lining Bao
+* Luca Kilp
+* L. Axthammer
+* Thuy-Nhi Dinh
+
 ### Team 2 // Raum 0.501
+* Ermira Miljus
+* Florian Berghahn
+* Aileen Jurkosek
+* Frederik Hausen
+* Oya Aydin
+* Christian Dedy
+* Nils Polarek
+* Simon Schulte
+
 ### Team 3 // Raum 0.501
-### Team 4 // Raum 0.501
+* Niklas Groß
+* Christopher Waffler
+* Allesandro Frank
+* Keyvan Nauta
+* Lorin Kilic
+* Ylli Loshaj
+* Frederik Löhmann
+* Dardan ???
+
+### Team 4 // Raum 0.502
+* Büsra Sancak
+* George Lyanee
+* Kevin Grote
+* Merve Karagóz
+* Eda-Nur Serrtas
+* Tahe Sirajeddin Mouitehid
+* Julian Se?????
+* Anton Kolesnikov
+
 ### Team 5 // Raum 0.502
+* Hatice Sevim
+* Kimberly Plackenhohn
+* Sebastian Seibt
+* Vincent Luciano
+* Esther Engelbertz
+* Selina Schröder
+* Simon Wöhler
+* Sükriye Yildiz
+
 ### Team 6 // Raum 0.502
+* Dominik Wegner
+* Yilmaz Enes
+* Christian Mbengi
+* Leonard Petzer
+* Methusshan Elankumaran
+* Luzie Ewert
+* Busra Sonuksun
+* Katrin Schweitzer
+* 
+
+
 ### Team 7 // Raum 0.502
-### Team 8 // Raum 0.502
+* Finn Nils Gedrath
+* Janine Doliwa
+* Tim Nehmke
+* Sara Thomas
+* Sabine Kapinos
+* Nico Thometzki
+* Marvin Kemper
+* Alexander Garzke
+
 
 
 ## Material
