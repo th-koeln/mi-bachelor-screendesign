@@ -57,6 +57,7 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 * Ylli Loshaj
 * Frederik Löhmann
 * Dardan ???
+* Ferdi Yüce
 
 ### Team 4 // Raum 0.502
 * Büsra Sancak
