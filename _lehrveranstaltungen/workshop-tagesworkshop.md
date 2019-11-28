@@ -18,7 +18,7 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 ## Zeitplan
 - 9:00 Uhr:  Kick-Off, Raum 3.102
 - ab ca. 11:30 Uhr: Freies Arbeiten der Teams in den Arbeitsräumen 0.501 und 0.502
-- 15:30 Uhr: Präsentation der Ergebnisse im Raum 0.501
+- 15:30 Uhr: Präsentation der Ergebnisse und Fragen im Raum 0.501
 
 ## Was muss ich mitbringen?
 - eigenen Rechner
