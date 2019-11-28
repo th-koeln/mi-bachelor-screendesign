@@ -24,6 +24,8 @@ Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen be
 - eigenen Rechner
 - Post-its, Papier, Stifte
 
+## Material
+- [Projektseite Lucas Cranach Timeline](/mi-bachelor-screendesign/projekt-2019/)
 
 <!--
 ## Material
