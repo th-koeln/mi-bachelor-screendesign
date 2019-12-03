@@ -4,7 +4,7 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-12-05 11:00|0.501, 2019-12-05 12:00|0.502
+termine: 2019-12-05 11:00|0.501|https://bit.ly/2LiKAp7, 2019-12-05 12:00|0.502|https://bit.ly/2rPdxSM
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
