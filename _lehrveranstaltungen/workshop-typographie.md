@@ -19,10 +19,16 @@ Heute befassen wir uns mit Typographie und Schriftsatz, wer hätte es gedacht :)
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
-<!--
 ## Material
-- [Aufgaben Typographie](../../download/workshops/typo/aufgaben-typographie.pdf)
--->
+- [Folien Textsatz](../../download/inputs/woche-10/textsatz.pdf)
+- [Folien Typographie am Bildschirm](../../download/inputs/woche-10/typographie-am-bildschirm.pdf)
+- [Folien Typographie](../../download/inputs/woche-10/typographie.pdf)
+- [Aufgabe Typo 1](/mi-bachelor-screendesign/assignments/typo-1/)
+- [Aufgabe Typo 2](/mi-bachelor-screendesign/assignments/typo-2/)
+- [Aufgabe Typo 3](/mi-bachelor-screendesign/assignments/typo-3/)
+- [Aufgabe Typo 4](/mi-bachelor-screendesign/assignments/typo-4/)
+- [Aufgabe Typo 5](/mi-bachelor-screendesign/assignments/typo-5/)
+
 
 ## Typo Games
 - [Shape Game](https://shape.method.ac/)
