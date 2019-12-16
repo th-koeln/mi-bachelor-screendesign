@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-12-19 11:00|0.501, 2019-12-19 12:00|0.502
+termine: 2019-12-19 11:00|0.501|https://bit.ly/2EA1hsx, 2019-12-19 12:00|0.502|https://bit.ly/2EpCrLK
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 120
@@ -33,6 +33,9 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 - [Den Weißraum als Gestaltungselement richtig nutzen](https://www.unternehmer-impulse.de/start/item/den-weissraum-als-gestaltungselement-richtig-nutzen)
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [Anders gesehen – Die Kunst des Negativraums](https://www.justinmind.com/blog/10-examples-of-white-space-design-websites-youll-want-to-copy/)
+
+## Upload
+Die Ergebnisse können im [Ilias](https://bit.ly/2Pnya0k) hochgeladen werden. 
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
