@@ -85,7 +85,7 @@ Einzel- oder Teamartefakt
 : {{site.data.abgaben.artefakt1.gruppe}}
 
 Übergabepunkt
-: [{{site.data.abgaben.artefakt2.uebergabepunkt-text}}]({{site.data.abgaben.artefakt1.uebergabepunkt-link}})
+: [{{site.data.abgaben.artefakt1.uebergabepunkt-text}}]({{site.data.abgaben.artefakt1.uebergabepunkt-link}})
 
 Das wesentliche Deliverable des Projekts ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/ Kontexte umfasst.
 
@@ -163,7 +163,7 @@ Einzel- oder Teamartefakt
 : {{site.data.abgaben.artefakt2.gruppe}}
 
 Übergabepunkt
-: [{{site.data.abgaben.artefakt3.uebergabepunkt-text}}]({{site.data.abgaben.artefakt2.uebergabepunkt-link}})
+: [{{site.data.abgaben.artefakt2.uebergabepunkt-text}}]({{site.data.abgaben.artefakt2.uebergabepunkt-link}})
 
 Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einem Styleguide oder einer Pattern Library systematisch dokumentiert werden.
 
@@ -229,7 +229,7 @@ Einzel- oder Teamartefakt
 : {{site.data.abgaben.artefakt3.gruppe}}
 
 Übergabepunkt
-: [{{site.data.abgaben.artefakt1.uebergabepunkt-text}}]({{site.data.abgaben.artefakt3.uebergabepunkt-link}})
+: [{{site.data.abgaben.artefakt3.uebergabepunkt-text}}]({{site.data.abgaben.artefakt3.uebergabepunkt-link}})
 
 Die Funktion der Online Dokumentation ist, das Projektergebnis und die zugrunde liegenden Ideen gegenüber dem Kunden und anderen Teams knapp und sachlich zu erläutern.
 
