@@ -1,10 +1,10 @@
 ---
-titel: Layouts für verschiedene Endgeräte
+titel: Komplexe Layouts entwicklen
 kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2020-01-16 09:00|0.501, 2020-01-16 11:00|0.502
+termine: 2020-01-09 09:00|0.501, 2020-01-09 11:00|0.502
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 180
@@ -17,7 +17,7 @@ Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltung
 
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
-- Sehr gute Kenntnisse in Figma
+- Kenntnisse in Figma
 
 <!--
 ## Material

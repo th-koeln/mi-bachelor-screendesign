@@ -256,7 +256,7 @@ Das Artefakt soll Professionalität ausstrahlen und vertrauensbildend sein. Es w
 - Die Dokumentation ist ordentlich und wirkt recht professionell.
 
 **Passable Lösung**
-- Die Dokumentation ist überwiegend systematisch und strukturiert.
+- Die Dokumentation ist überwiegend systematisch und5 strukturiert.
 - Die Dokumentation spiegelt einige Punkte des Gestaltungskonzepts/ Auftrags wider.
 - Die Dokumentation enthält viele, notwendige Erläuterungen.
 - Die Dokumentation enthält wenige Fehler.
@@ -273,3 +273,5 @@ Das Artefakt soll Professionalität ausstrahlen und vertrauensbildend sein. Es w
 - Die Dokumentation fehlt oder referenziert nicht auf das Gestaltungskonzept oder den Auftrag.
 - Die Dokumentation unsauber, ungestaltet und wirkt nicht professionell.
 - Die Dokumentation ist sprachlich schlecht und enthält übermäßig viele Fehler.
+
+**Achtung:** Hierzu wird noch ein Tutorial und eine Vorlage geliefert.
