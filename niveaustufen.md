@@ -242,21 +242,21 @@ Mit der Online Dokumentation soll erläutert werden:
 Das Artefakt soll Professionalität ausstrahlen und vertrauensbildend sein. Es wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
-- Die Dokumentation ist seht gut gestaltet.
+- Die Dokumentation ist sehr systematisch, pointiert und sehr gut strukturiert.
 - Die Dokumentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider.
 - Die Dokumentation enthält alle, notwendige Erläuterungen.
 - Die Dokumentation ist sehr übersichtlich, sprachlich sehr gut und fehlerfrei.
 - Die Dokumentation ist sauber, gut gestaltet, professionell und vertrauensbildend.
 
 **Gute Lösung**
-- Die Dokumentation ist recht gut gestaltet.
+- Die Dokumentation ist systematisch und gut strukturiert.
 - Die Dokumentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider.
 - Die Dokumentation enthält alle, notwendige Erläuterungen.
 - Die Dokumentation ist übersichtlich, sprachlich gut und enthält wenige Fehler.
 - Die Dokumentation ist ordentlich und wirkt recht professionell.
 
 **Passable Lösung**
-- Die Dokumentation lässt Gestaltungswillen erkennen.
+- Die Dokumentation ist überwiegend systematisch und strukturiert.
 - Die Dokumentation spiegelt einige Punkte des Gestaltungskonzepts/ Auftrags wider.
 - Die Dokumentation enthält viele, notwendige Erläuterungen.
 - Die Dokumentation enthält wenige Fehler.
