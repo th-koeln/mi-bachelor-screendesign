@@ -6,17 +6,8 @@ artefakt0:
   gruppe: Einzelartefakt
   uebergabepunkt-text: Ilias
   uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
-
-artefakt1:
-  name: Angebot & Anschreiben
-  date: 2020-03-22 00:00
-  format: PDF und Ausdruck zur Präsentation
-  gruppe: Teamartefakt
-  anteil: 1/5
-  uebergabepunkt-text: Ilias
-  uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
   
-artefakt2:
+artefakt1:
   name: Designkonzept als Mockup
   date: 2020-03-22 00:00
   format: zip Archiv mit Einzelscreens als Bilddateien (*.jpg,*.png) und einer PDF mit allen Screens
@@ -25,11 +16,20 @@ artefakt2:
   uebergabepunkt-text: Ilias
   uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
   
-artefakt3:
-  name: Patternlab/ StyleGuide
+artefakt2:
+  name: Patternlab
   date: 2020-03-22 00:00
-  format: PDF
+  format: SVG
   gruppe: Teamartefakt
   anteil: 1/5
-  uebergabepunkt-text: Ilias
-  uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
+  uebergabepunkt-text: GitHub
+  uebergabepunkt-link: none
+
+artefakt3:
+  name: Online Dokumentation
+  date: 2020-03-22 00:00
+  format: HTML/ Merge Request
+  gruppe: Teamartefakt
+  anteil: 1/5
+  uebergabepunkt-text: GitHub
+  uebergabepunkt-link: none

@@ -70,7 +70,7 @@ Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 
 --- 
 
-## Angebot & Anschreiben
+## Designkonzept als Mockup
 
 Abgabe
 : {{site.data.abgaben.artefakt1.format}}
@@ -86,76 +86,6 @@ Einzel- oder Teamartefakt
 
 Übergabepunkt
 : [{{site.data.abgaben.artefakt1.uebergabepunkt-text}}]({{site.data.abgaben.artefakt1.uebergabepunkt-link}})
-
-Die Funktion des Anschreibens ist, das Projekt gegenüber dem "Kunden" nochmals zu spiegeln, also knapp und sachlich zu erläutern, wie das Team den Projektauftrag verstanden hat.
-
-Das Angebot zeigt dann, wie das Team das Projekt strukturiert. Mit dem Angebot soll erläutert werden:
-- welche Arbeitspakete gibt es?
-- welches Arbeitspaket hat welche Funktion, bzw. was ist die Notwendigkeit eines Arbeitspakets?
-- ggf. was ist das Ergebnis eines Arbeitspakets?
-- wie aufwändig sind die einzelnen Arbeitspakete?
-
-Beide Artefakte sollten inhaltlich und formal Professionalität ausstrahlen und vertrauensbildend sein. Idealerweise kann der "Kunde" nach der Durchsicht von Angebot und Anschreiben folgende Fragen positiv beantworten:
-- das Team hat die Aufgabe gut und in meinem Sinne aufgefasst und ggf. erweitert oder fokussiert
-- das Team weiß was zu tun ist
-- das Team stellt die richtigen Fragen um Lücken im Briefing zu schließen
-- das Team macht einen aufgeräumten und professionellen Eindruck und ist in der Lage das Projekt in meinem Sinne zu bearbeiten
-
-Angebot und Anschreiben müssen als PDF am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Sie werden entsprechend der folgenden Niveaustufen bewertet:
-
-**Beste Lösung**
-- Das Angebot enthält alle notwendigen Arbeitsschritte/-pakete mit verständlichen und präzisen Beschreibungen, sowie mit Preisen (Aufwandsschätzungen).
-- Das Anschreiben spiegelt die wesentlichen Punkte des Kundengespräches/-briefings wieder.
-- Angebot und Anschreiben enthalten alle notwendigen Angaben.
-- Angebot und Anschreiben sind sehr übersichtlich, sprachlich sehr gut und fehlerfrei.
-- Angebot und Anschreiben sind sauber, gut gestaltet, professionell und vertrauensbildend.
-
-**Gute Lösung**
-- Das Angebot enthält wichtige Arbeitsschritte/-pakete mit kurzen Beschreibungen, sowie mit Preisen (Aufwandsschätzungen).
-- Das Anschreiben spiegelt die wesentlichen Punkte des Kundengespräches/-briefings wieder.
-- Angebot und Anschreiben enthalten alle notwendigen Angaben.
-- Angebot und Anschreiben sind übersichtlich, sprachlich gut und enthalten wenige Fehler.
-- Angebot und Anschreiben sind ordentlich und wirken recht professionell.
-
-**Passable Lösung**
-- Das Angebot ist in Arbeitsschritte/-pakete segmentiert, die kurze Beschreibungen, sowie Preise (Aufwandsschätzungen) enthalten.
-- Das Anschreiben spiegelt einige Punkte des Kundengespräches/-briefings wieder.
-- Angebot und Anschreiben enthalten nahezu alle notwendigen Angaben.
-- Angebot und Anschreiben enthalten wenige Fehler.
-- Angebot und Anschreiben sind weitgehend ordentlich und professionell.
-
-**Akzeptable Lösung**
-- Das Angebot ist in Arbeitsschritte/-pakete segmentiert, die kurze Beschreibungen, sowie Preise (Aufwandsschätzungen) enthalten.
-- Das Anschreiben spiegelt einige Punkte des Kundengespräches/-briefings wieder.
-- Angebot und Anschreiben enthalten viele notwendigen Angaben.
-- Angebot und Anschreiben enthalten wenige Fehler.
-- Angebot und Anschreiben sind halbwegs ordentlich und professionell.
-
-**Schlechte Lösung**
-- Angebot ist undifferenziert und unverständlich.
-- Anschreiben fehlt oder referenziert nicht auf das Kundengespräch.
-- Angebot und Anschreiben sind unvollständig.
-- Angebot und Anschreiben sind nicht sauber, ungestaltet und wirken nicht professionell.
-- Angebot und Anschreiben sind sprachlich schlecht und enthalten übermäßig viele Fehler.
-
-----
-
-## Designkonzept als Mockup
-
-Abgabe
-: {{site.data.abgaben.artefakt2.format}}
-
-Anteil in der Gesamtnote
-: {{site.data.abgaben.artefakt2.anteil}}
-
-Abgabetermin
-: {{site.data.abgaben.artefakt2.date | date: '%d.%m.%Y'}}
-
-Einzel- oder Teamartefakt
-: {{site.data.abgaben.artefakt2.gruppe}}
-
-Übergabepunkt
-: [{{site.data.abgaben.artefakt2.uebergabepunkt-text}}]({{site.data.abgaben.artefakt2.uebergabepunkt-link}})
 
 Das wesentliche Deliverable des Projekts ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/ Kontexte umfasst.
 
@@ -218,22 +148,22 @@ Das Mockup muss als PDF und die einzelnen Screens als *.jpg Datein am Übergabep
 
 ---
 
-## Patternlab/ Styleguide
+## Patternlab
 
 Abgabe
-: {{site.data.abgaben.artefakt3.format}}
+: {{site.data.abgaben.artefakt2.format}}
 
 Anteil in der Gesamtnote
-: {{site.data.abgaben.artefakt3.anteil}}
+: {{site.data.abgaben.artefakt2.anteil}}
 
 Abgabetermin
-: {{site.data.abgaben.artefakt3.date | date: '%d.%m.%Y'}}
+: {{site.data.abgaben.artefakt2.date | date: '%d.%m.%Y'}}
 
 Einzel- oder Teamartefakt
-: {{site.data.abgaben.artefakt3.gruppe}}
+: {{site.data.abgaben.artefakt2.gruppe}}
 
 Übergabepunkt
-: [{{site.data.abgaben.artefakt3.uebergabepunkt-text}}]({{site.data.abgaben.artefakt3.uebergabepunkt-link}})
+: [{{site.data.abgaben.artefakt2.uebergabepunkt-text}}]({{site.data.abgaben.artefakt2.uebergabepunkt-link}})
 
 Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einem Styleguide oder einer Pattern Library systematisch dokumentiert werden.
 
@@ -281,3 +211,65 @@ Die resultierende Übersicht muss als PDF Dokument am Übergabepunkt hinterlegt 
 - die Darstellung ist eher chaotisch
 - die Übersicht ist unsauber
 - die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind nicht im finalen Entwurf erkennbar
+
+---
+
+## Online Dokumentation
+
+Abgabe
+: {{site.data.abgaben.artefakt3.format}}
+
+Anteil in der Gesamtnote
+: {{site.data.abgaben.artefakt3.anteil}}
+
+Abgabetermin
+: {{site.data.abgaben.artefakt3.date | date: '%d.%m.%Y'}}
+
+Einzel- oder Teamartefakt
+: {{site.data.abgaben.artefakt3.gruppe}}
+
+Übergabepunkt
+: [{{site.data.abgaben.artefakt3.uebergabepunkt-text}}]({{site.data.abgaben.artefakt3.uebergabepunkt-link}})
+
+Die Funktion der Online Dokumentation ist, das Projektergebnis und die zugrunde liegenden Ideen gegenüber dem Kunden und anderen Teams knapp und sachlich zu erläutern.
+
+Mit der Online Dokumentation soll erläutert werden:
+- was war die Ausgangsbasis/ der Auftrag?
+- welche Elemente, Screens und Regeln wurden entwickelt?
+- wie wurden die Kommunikationsziele umgesetzt?
+- welche Systematik liegt hinter dem Gestaltungskonzept?
+
+Das Artefakt soll Professionalität ausstrahlen und vertrauensbildend sein. Es wird entsprechend der folgenden Niveaustufen bewertet:
+
+**Beste Lösung**
+- Die Dokumentation ist seht gut gestaltet.
+- Die Dokumentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider.
+- Die Dokumentation enthält alle, notwendige Erläuterungen.
+- Die Dokumentation ist sehr übersichtlich, sprachlich sehr gut und fehlerfrei.
+- Die Dokumentation ist sauber, gut gestaltet, professionell und vertrauensbildend.
+
+**Gute Lösung**
+- Die Dokumentation ist recht gut gestaltet.
+- Die Dokumentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider.
+- Die Dokumentation enthält alle, notwendige Erläuterungen.
+- Die Dokumentation ist übersichtlich, sprachlich gut und enthält wenige Fehler.
+- Die Dokumentation ist ordentlich und wirkt recht professionell.
+
+**Passable Lösung**
+- Die Dokumentation lässt Gestaltungswillen erkennen.
+- Die Dokumentation spiegelt einige Punkte des Gestaltungskonzepts/ Auftrags wider.
+- Die Dokumentation enthält viele, notwendige Erläuterungen.
+- Die Dokumentation enthält wenige Fehler.
+- Die Dokumentation ist weitgehend ordentlich und professionell.
+
+**Akzeptable Lösung**
+- Die Dokumentation spiegelt einige Punkte des Gestaltungskonzepts/ Auftrags wider.
+- Die Dokumentation enthält einige, notwendige Erläuterungen.
+- Die Dokumentation enthält wenige Fehler.
+- Die Dokumentation ist halbwegs ordentlich und professionell.
+
+**Schlechte Lösung**
+- Die Dokumentation ist sehr lückenhaft oder nur in Bruchstücken vorhanden.
+- Die Dokumentation fehlt oder referenziert nicht auf das Gestaltungskonzept oder den Auftrag.
+- Die Dokumentation unsauber, ungestaltet und wirkt nicht professionell.
+- Die Dokumentation ist sprachlich schlecht und enthält übermäßig viele Fehler.

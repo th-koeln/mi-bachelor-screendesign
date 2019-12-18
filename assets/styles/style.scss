@@ -375,6 +375,16 @@ $tt-grid-height: 60px;
   padding-top: 1rem;
 }
 
+.assignment-overview .assignment-overview__item+.assignment-overview__item {
+  border-top: solid 1px $mi-grau;
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+.assignment-overview__item h2{
+  margin-bottom: 0 !important;
+}
+
 /**************/
 /* Content    */
 /**************/
@@ -396,7 +406,7 @@ $tt-grid-height: 60px;
   margin-bottom: $bfs * 2;
 }
 
-.content {
+.content.is-simple {
 
   p,
   li,
@@ -544,6 +554,38 @@ $tt-grid-height: 60px;
   .lighten {
     * {
       color: #aaa;
+    }
+  }
+}
+
+.content.is-large{
+
+  @media screen and (min-width: $desktop){
+
+    h1{
+      font-size: $bfs;
+    }
+
+    h2{
+      padding-top: $bfs *2;
+      font-size: $bfs * 2.2;
+    }
+
+    h3{
+      font-size: $bfs * 2;
+    }
+
+    h1, h2, h3{
+      font-weight: bold;
+    }
+
+    p, li, td, code, pre{
+      font-size: $bfs * 1.8;
+      line-height: 130%;
+    }
+
+    code{
+      font-size: $bfs * 1.4;
     }
   }
 }

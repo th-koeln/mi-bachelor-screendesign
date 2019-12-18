@@ -109,7 +109,7 @@ collections:
     output: false
   news:
     output: false
-  aufgaben:
+  assignments:
     output: true
 
 defaults:
@@ -131,3 +131,9 @@ defaults:
       type: aufgaben
     values:
       layout: aufgabe
+  -
+    scope:
+      path: ""
+      type: assignments
+    values:
+      layout: assignment

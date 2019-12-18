@@ -4,7 +4,7 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2019-12-05 11:00|0.501, 2019-12-05 12:00|0.502
+termine: 2019-12-05 11:00|0.501|https://bit.ly/2LiKAp7, 2019-12-05 12:00|0.502|https://bit.ly/2rPdxSM
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -19,12 +19,13 @@ Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrer
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
-<!--
 ## Material
 - [Aufgaben Farbe](../../download/workshops/farbe/aufgabe-farbklima.pdf)
 - [Color Wheel](https://color.adobe.com/de/create/color-wheel/)
 - [Multicolor Tool](http://labs.tineye.com/multicolr/)
--->
+
+## Upload
+Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
