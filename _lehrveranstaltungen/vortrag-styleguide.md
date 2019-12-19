@@ -1,5 +1,5 @@
 ---
-titel: Design Systems & Storytelling
+titel: Gestaltungssysteme & Dokumentation
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 90
 raum: 3.102
-info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und nutzbar machen?
+info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und nachhaltig nutzbar machen?
 ---
 
 ## Worum geht es?

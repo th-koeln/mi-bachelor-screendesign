@@ -4,11 +4,11 @@ kuerzel: w-sg
 verantwortlich: alle
 typ: workshop
 pflicht: false
-termine: 2020-01-30 11:00|0.501, 2020-01-30 14:00|0.501
+termine: 2020-01-30 11:00|0.501, 2020-01-30 12:00|0.502
 empfohlene-voraussetzungen:
 published: true
 raum: 3.217
-dauer: 150
+dauer: 120
 info: Wie können wir unser Designsystem dokumentieren und systematisch in Figma abbilden?
 ---
 

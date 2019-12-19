@@ -20,11 +20,14 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 - Kenntnisse in Figma
 
 
-<!--
+
 ## Material
 
 - [Folien: Systematische Proportionen und Abstände](../../download/workshops/systematische-proportionen-und-abstaende/systematische-proportionen-und-abstaende.pdf)
-- [Materialpaket: Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip)-->
+- [Materialpaket: Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip)
+- [Aufgabe Negativraum](/mi-bachelor-screendesign/assignments/whitespacing-1/)
+- [Aufgabe Systematische Abstände](/mi-bachelor-screendesign/assignments/whitespacing-2/)
+
 
 ## Weiterführendes Material
 - [White space in UI design](https://uxplanet.org/white-space-in-ui-design-8647d4f685a7)
