@@ -29,15 +29,6 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Google Sheets Link Plugin](https://www.figma.com/proto/VtXf9HikcehWB7FJrJmApl/Google-Sheets-Sync-%E2%80%93-Documentation?scaling=min-zoom&node-id=3%3A2)
 - [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
 
-<!--
-- [Folien: Layout und Raster](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layout-und-raster.pdf)
-- [Folien: Layouts mit Wireframes](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layouts-mit-wireframes.pdf)
-- [Folien: Layouts für verschiedene Endgeräte, inkl. Aufgabe](../../download/workshops/layouts-fuer-verschiedene-endgeraete/layouts-fuer-verschiedene-endgeraete.pdf)
-- [Materialpaket: Pic of the day](../../download/workshops/layouts-fuer-verschiedene-endgeraete/pic-of-the-day.zip)
-- [Rasterpapier iPad](../../download/workshops/layouts-fuer-verschiedene-endgeraete/rasterpapier-ipad.pdf)
-- [Rasterpapier iPhone](../../download/workshops/layouts-fuer-verschiedene-endgeraete/rasterpapier-iphone.pdf)
--->
-
 ## Weiterführendes Material
 - [14 layout design trends](https://webflow.com/blog/layout-design)
 - [Design Systems](https://www.designsystems.com/)
