@@ -28,6 +28,8 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Share Files with Collaborators](https://help.figma.com/article/385-share-files)
 - [Google Sheets Link Plugin](https://www.figma.com/proto/VtXf9HikcehWB7FJrJmApl/Google-Sheets-Sync-%E2%80%93-Documentation?scaling=min-zoom&node-id=3%3A2)
 - [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+- [Design Better Cards](https://uxdesign.cc/design-better-cards-c0d12ab581c4)
+- [8 rules for a perfect card design](https://uxdesign.cc/8-rules-for-perfect-card-design-4fb7eef32e09)
 
 ## Weiterführendes Material
 - [14 layout design trends](https://webflow.com/blog/layout-design)
