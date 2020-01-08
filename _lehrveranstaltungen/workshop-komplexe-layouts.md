@@ -36,6 +36,10 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Design Systems](https://www.designsystems.com/)
 - [Space, Grids, and Layouts](https://www.designsystems.com/space-grids-and-layouts/)
 
+
+## Aufgaben
+- [Complex Layouts](../../assignments/complex-layouts/)
+
 ## Upload
 Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
 
