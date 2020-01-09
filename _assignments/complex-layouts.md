@@ -15,7 +15,7 @@ Einige Gestaltungslemente sind bereits definiert. Alle Schriftgrößen und Abst�
 
 ## Aufgabenpaket 1: Cards
 
-Bitte entwickeln Sie die unten aufgeführten Card-Typen jeweils 4 verschiedene Layouts: zwei Layoutvarianten und diese jeweils als hell-dunkel und dunkel-hell Variante. Überprüfen Sie Ihre Layouts mit Hilfe des [Google Sheets Link Plugins](https://www.figma.com/proto/VtXf9HikcehWB7FJrJmApl/Google-Sheets-Sync-%E2%80%93-Documentation?scaling=min-zoom&node-id=3%3A2).
+Bitte entwickeln Sie die unten aufgeführten Card-Typen jeweils 4 verschiedene Layouts: zwei Layoutvarianten und diese jeweils als hell-dunkel und dunkel-hell Variante. Überprüfen Sie Ihre Layouts mit Hilfe des [Google Sheets Link Plugins](https://www.figma.com/proto/VtXf9HikcehWB7FJrJmApl/Google-Sheets-Sync-%E2%80%93-Documentation?scaling=min-zoom&node-id=3%3A2). Wir machen um 10:30 Uhr (Workshop 1) und 12:30 Uhr (Workshop 2) einen kurzen Schulterblick.
 
 
 ### Typ 1: Slim Card
@@ -39,6 +39,8 @@ Erzeugen Sie mit den Simple, Medium und Extended Cards eine Übersicht für eine
 
 Platzieren Sie eine sinnvolle Anzahl der Slimcards auf der [Weltkarte](../images/weltkarte.jpg) um die Verortung der jeweiligen Grafik zu visualisieren. Entwickeln Sie sinnvolle Regeln zur Platzierung und ein Konzept zur Verknüpfung der Card mit dem Standort.
 
+---
 
+Die (Zwischen-)Ergebnisse werden um 11:45 Uhr (Workshop 1) und um 13:45 Uhr (Workshop 2) vorgestellt. Die Endergebnisse werden am Anfang der Workshops nächste Woche vorgestellt.
 
 
