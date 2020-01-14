@@ -7,7 +7,7 @@ Heute entwickeln wir in 3er Teams in 3 Stunden Komponenten und komplette Layouts
 
 Als Datenbasis steht folgende Tabelle zur Verfügung: [Stammdaten Cranach Grafiken](https://docs.google.com/spreadsheets/d/1T8-dNZ3tzjTfWEBIOKQ9T9W2DakeFC0ohKwd2e8o90Y/edit?usp=sharing).
 
-Einige Gestaltungslemente sind bereits definiert. Alle Schriftgrößen und Abstände folgen der [Renard 20 Serie](https://en.wikipedia.org/wiki/Renard_series). Das Farbschema kann auch invertiert werden, sprich: weiße Schrift auf weißem Grund.
+Einige Gestaltungslemente sind bereits definiert. Alle Schriftgrößen und Abstände folgen der [Renard 10 Serie](https://en.wikipedia.org/wiki/Renard_series). Das Farbschema kann auch invertiert werden, sprich: weiße Schrift auf weißem Grund.
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FedZxrUWHFScWr3jQhmGAxy%2FBase-v2-Copy%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
