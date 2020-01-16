@@ -10,7 +10,7 @@ Hierfür gilt es Layouts für folgende Geräteklassen jeweils für Porträt und 
 - Tablet: iPad Pro 11" (834x1194)
 - Desktop (1440x1024)
 
-Weitere Informationen zu der Anwendungen finden Sie auf der [Mindmap zur Cranach Graphics App](https://mm.tt/1398833317?t=aBegrpB5hv). Nutzen Sie als Iconset bitte die (Material Icons)[https://material.io/resources/icons/?style=baseline] hierzu gibt es ein (Material Design Icons Plugin für Figma)[https://www.figma.com/c/plugin/740272380439725040/Material-Design-Icons].
+Weitere Informationen zu der Anwendungen finden Sie auf der [Mindmap zur Cranach Graphics App](https://mm.tt/1398833317?t=aBegrpB5hv). Nutzen Sie als Iconset bitte die [Material Icons](https://material.io/resources/icons/?style=baseline) hierzu gibt es ein [Material Design Icons Plugin für Figma](https://www.figma.com/c/plugin/740272380439725040/Material-Design-Icons).
 
 Falls ihr Material aus dem «Workshop komplexe Layouts» nicht ausreicht, können Sie auch die unten dargestellte Version verwenden. Zur Nutzung auf den Pfeil oben in der Titelleiste neben view only gehen und aus dem Dropdown Feld *Duplicate to your Drafts* auswählen. Dann kann mit der Vorlage im persönlichen Bereich in Figma gearbeitet werden.
 
