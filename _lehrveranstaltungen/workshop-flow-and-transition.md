@@ -15,14 +15,14 @@ info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Scr
 In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Schwerpunkt Interaktionsabläufe und Übergänge. In den meisten Anwendungen haben wir idealerweise keine Abfolge von statischen Screens, sondern versuchen den Nutzer mit Hilfe von sinnvollen Übergängen und Hervorhebungen die Benutzung zu erleichtern und seine Aufmerksamkeit zu lenken.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Keynote, Powerpoint oder [Protopie](https://www.protopie.io/)
-- rudimentäre Kenntnisse in oben genannter Software
+- eigener Rechner mit Figma
+- Sehr gute Kenntnisse in Figma
 
-<!--
+
 ## Material
 - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
-- [Materialpaket: pic-of-the-day-2.zip](../../download/workshops/flow-and-transition/pic-of-the-day-2.zip)
--->
+- [Aufgabe Flow & Transition](../../assignments/flow-transition)
+
 
 ## Weiterführendes Material
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
