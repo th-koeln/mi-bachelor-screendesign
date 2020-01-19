@@ -21,7 +21,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 
 ## Material
 - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
-- [Aufgabe Flow & Transition](../../assignments/flow-transition)
+- [Aufgabe: Flow & Transition](../../assignments/flow-transition)
 
 
 ## Weiterführendes Material
