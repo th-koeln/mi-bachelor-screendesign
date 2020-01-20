@@ -4,7 +4,7 @@ kuerzel: w-fat
 verantwortlich: ch
 typ: workshop
 pflicht: false
-termine: 2020-01-23 09:00|0.501, 2020-01-23 12:00|0.501
+termine: 2020-01-23 09:00|0.501|https://bit.ly/36cQdfW, 2020-01-23 12:00|0.501|https://bit.ly/2G4Qyab
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 180
@@ -48,6 +48,8 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Showcase von Six UX](http://sixux.com/)
 - [Showcase auf CAPPTIVATE.co](http://capptivate.co)
 
+## Upload
+Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
