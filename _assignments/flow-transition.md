@@ -16,4 +16,4 @@ Nutzen Sie als Iconset bitte die [Material Icons](https://material.io/resources/
 
 Falls ihr Material aus dem [Workshop Layouts für verschiedene Endgeräte](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/workshop-layouts-fuer-verschiedene-endgeraete/) nicht ausreicht, können Sie auch die unten dargestellte Version verwenden. Zur Nutzung auf den Pfeil oben in der Titelleiste neben view only gehen und aus dem Dropdown Feld *Duplicate to your Drafts* auswählen. Dann kann mit der Vorlage im persönlichen Bereich in Figma gearbeitet werden.
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Ff8NEVOGxr24qBIJwPIufEG%2Flayouts-fuer-div-endgeraete%3Fnode-id%3D36%253A5431" allowfullscreen></iframe>
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXanqGLbDUueSFgy2HCAppV%2Flayouts-fuer-div-endgeraete-demo%3Fnode-id%3D214%253A6030" allowfullscreen></iframe>
