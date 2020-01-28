@@ -4,7 +4,7 @@ kuerzel: w-sg
 verantwortlich: alle
 typ: workshop
 pflicht: false
-termine: 2020-01-30 11:00|0.501, 2020-01-30 12:00|0.502
+termine: 2020-01-30 11:00|0.501|https://bit.ly/3aZunR0, 2020-01-30 12:00|0.502|https://bit.ly/2UeXt99
 empfohlene-voraussetzungen:
 published: true
 raum: 3.217
@@ -38,7 +38,8 @@ Falls Sie innerhalb der Screens übergreifende Inkonsitenzen feststellen, bspw. 
 
 [Datei mit den Screens zur Aufgabe](../../download/trainings/styleguide-aufbauen/podcast-player.sketch)
 
-
+## Upload
+Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
 
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
