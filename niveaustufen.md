@@ -169,7 +169,7 @@ Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einem Styleguid
 
 Die resultierende Übersicht soll:
 - das Gestaltungssystem erfassen strukturieren, bewerten, ggf. Lücken und Inkonsistenzen zeigen und schließen
-- dem "Kunden" zeigen, dass man das Design verstanden hat
+- dem "Kunden" zeigen, dass man die Kommunikationsziele verstanden hat
 - als Basis für die weitere Projektbearbeitung durch ein anderes Team fungieren
 - zeigen, dass der Gestaltung eine Systematik zugrunde liegt
 
