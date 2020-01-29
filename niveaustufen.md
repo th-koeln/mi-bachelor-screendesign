@@ -179,7 +179,8 @@ Pattern Library bzw. Styleguide sollen möglichst vollständig und sauber ausgea
 - mit Hilfe des Mockups und der Library könnte im nächsten Prozessschritt ein Entwicklerteam weiter arbeiten
 - das Gestaltungssystem ist für den Anwendungsfall/ Projektauftrag vollständig
 
-Die resultierende Übersicht muss als PDF Dokument am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Die resultierende Übersicht muss als SVG exportiert und in die Online Dokumentation eingebunden werden. Hierzu wird noch ein Video folgen.
+
 
 **Beste Lösung**
 - Gestaltungselemente und -regeln sind systematisch dargestellt

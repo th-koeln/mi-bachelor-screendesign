@@ -15,31 +15,20 @@ info: Wie können wir unser Designsystem dokumentieren und systematisch in Figma
 
 
 ## Worum geht es?
-Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbiges in Form eines Styleguides. Auf dieser Basis können wir oder ein anderes Team und auf Basis einer Beispielanwendung eigene, konsistente Anwendungen oder Erweiterungen entwickeln. Dabei ist eine möglichst einfache und stringente Systematik Ihres Designkonzepts enorm hilfreich, da hierdurch die Regelsätze kurz und einfach bleiben.
+Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbiges in Form einer Pattern Library. Auf dieser Basis können wir oder ein anderes Team eigene, konsistente Anwendungen oder Erweiterungen entwickeln. Dabei ist eine möglichst einfache und stringente Systematik Ihres Designkonzepts enorm hilfreich, da hierdurch die Regelsätze kurz und einfach bleiben.
 
-## Was muss ich vorbereiten?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/201D2OjY3HA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 12px"></iframe>
-
-Bitte vorab Screenmovie anschauen.
 
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
-<!--## Material
+## Material
 - [Folien: Interface Inventar aufbauen und dokumentieren](../../download/workshops/interface-inventar-aufbauen/Interface-inventar-aufbauen-und-visualisieren.pdf)
 
-Inspiration und Beispiele zum Thema finden Sie unter dem Tag „Screendesign“ bei den [Links](https://th-koeln.github.io/mi-bachelor-screendesign/links/). -->
 
 ## Aufgabe
-Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis einen Styleguide.
-Berücksichtigen Sie dabei bitte alle Punkte aus dem Screencast, beziehungsweise aus den Folien zu „Interface Inventar aufbauen und dokumentieren”, welche für die Screens relevant.
-Falls Sie innerhalb der Screens übergreifende Inkonsitenzen feststellen, bspw. bezüglich Abstände, Nichteinhaltung des Rasters etc., optimieren Sie das Layout dahingehend.
+Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis eine Pattern Library.
+Berücksichtigen Sie dabei bitte die Punkte aus den Folien zu „Interface Inventar aufbauen und dokumentieren”, welche für die Screens relevant sind. Falls Sie innerhalb der Screens übergreifende Inkonsitenzen feststellen, bspw. bezüglich Abstände, Nichteinhaltung des Rasters etc., optimieren Sie das Layout dahingehend.
 
-[Datei mit den Screens zur Aufgabe](../../download/trainings/styleguide-aufbauen/podcast-player.sketch)
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1xksYgFoAyCz1RBGG7SbOa%2FeWallet%3Fnode-id%3D0%253A678" allowfullscreen></iframe>
 
-## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
-
-## Sie haben keinen Rechner?
-Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
