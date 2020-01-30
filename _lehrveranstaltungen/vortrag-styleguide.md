@@ -27,6 +27,13 @@ Die Pattern Library soll möglichst vollständig und sauber ausgearbeitet sein. 
 - mit Hilfe des Mockups und der Library könnte im nächsten Prozessschritt ein Entwicklerteam weiter arbeiten
 - das Gestaltungssystem ist für den Anwendungsfall/ Projektauftrag vollständig
 
+## Links
+- [Dornseifer](https://www.dornseifer.de/)
+- [Hyperbubble](http://www.hyperbubble.net/)
+- [Walhalla](https://walhalla-guesthouse.ch/en/)
+- [C&A](https://www.c-and-a.com/de/de/shop)
+- [Fans 1991](https://www.fans1991.de/)
+
 ## Material
 - [Warum braucht man eine Pattern Library?](https://www.produktbezogen.de/bauanleitung-pattern-library-1/)
 - [Pattern Library von OTTO](https://www.otto.de/pattern-library/index.html)
