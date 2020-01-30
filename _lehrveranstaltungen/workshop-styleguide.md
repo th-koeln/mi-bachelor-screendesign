@@ -32,3 +32,5 @@ Berücksichtigen Sie dabei bitte die Punkte aus den Folien zu „Interface Inven
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1xksYgFoAyCz1RBGG7SbOa%2FeWallet%3Fnode-id%3D0%253A678" allowfullscreen></iframe>
 
+[eWalle Screens ind Figma](https://www.figma.com/file/1xksYgFoAyCz1RBGG7SbOa/eWallet?node-id=0%3A1)
+
