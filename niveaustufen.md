@@ -275,8 +275,9 @@ Das Artefakt soll Professionalität ausstrahlen und vertrauensbildend sein. Es w
 - Die Dokumentation unsauber, ungestaltet und wirkt nicht professionell.
 - Die Dokumentation ist sprachlich schlecht und enthält übermäßig viele Fehler.
 
+### Hinweise zur Online Dokumentation 
 
-Bitte nutzen Sie dieses [Repo für Ihre Online Dokumentation](https://github.com/th-koeln/mi-bachelor-screendesign-doku) und befolgen Sie die Vorgaben und Hinweise aus den folgenden beiden Videos:
+> Bitte nutzen Sie dieses [Repo für Ihre Online Dokumentation](https://github.com/th-koeln/mi-bachelor-screendesign-doku) und befolgen Sie die Vorgaben und Hinweise aus den folgenden beiden Videos:
 
 ### Wie funktioniert die Online Dokumentation?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gZ2tvfwC7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
