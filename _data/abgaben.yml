@@ -9,7 +9,7 @@ artefakt0:
   
 artefakt1:
   name: Designkonzept als Mockup
-  date: 2020-03-22 00:00
+  date: 2020-03-31 00:00
   format: zip Archiv mit Einzelscreens als Bilddateien (*.jpg,*.png) und einer PDF mit allen Screens
   gruppe: Teamartefakt
   anteil: 2/5
@@ -18,7 +18,7 @@ artefakt1:
   
 artefakt2:
   name: Patternlab
-  date: 2020-03-22 00:00
+  date: 2020-03-31 00:00
   format: SVG
   gruppe: Teamartefakt
   anteil: 1/5
@@ -27,7 +27,7 @@ artefakt2:
 
 artefakt3:
   name: Online Dokumentation
-  date: 2020-03-22 00:00
+  date: 2020-03-31 00:00
   format: HTML/ Merge Request
   gruppe: Teamartefakt
   anteil: 1/5
