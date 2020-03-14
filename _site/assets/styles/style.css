@@ -8518,9 +8518,19 @@ html {
   border-top: dotted 1px #b5b5b5;
   padding-top: 1rem;
 }
+.zweispalter .content > div:first-child {
+  font-size: 1.3rem;
+  line-height: 120%;
+}
 @media (min-width: 999px) {
   .zweispalter .content > * {
     margin-left: 50% !important;
+  }
+  .zweispalter .content > div:first-child {
+    margin-left: 0 !important;
+    font-size: 1.6rem;
+    line-height: 130%;
+    max-width: 75%;
   }
   .zweispalter .content h3 {
     font-size: 1rem;
@@ -8549,7 +8559,7 @@ html {
     padding-right: 10%;
     padding-left: 0;
   }
-  .zweispalter .content > h1 + p, .zweispalter .content > h2 + p {
+  .zweispalter .content > h1 + p, .zweispalter .content > h2 + p, .zweispalter .content > h2 + blockquote {
     margin-top: 4rem !important;
   }
   .zweispalter .content > h2:not(:first-child) {
@@ -8756,4 +8766,20 @@ pre code {
   font-size: 1.5vW;
   line-height: 120%;
   max-width: none;
+}
+
+/* ######################################################################### */
+/* ######################################################################### */
+.content div.highlighter-rouge {
+  margin-bottom: 2rem;
+}
+.content div.highlighter-rouge .highlight {
+  background-color: #efefef;
+  padding: 0 1rem;
+}
+.content div.highlighter-rouge .highlight code {
+  font-family: "Courier New", Courier, monospace;
+  color: #000;
+  margin: 0;
+  padding: 0;
 }

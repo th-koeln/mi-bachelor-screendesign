@@ -597,9 +597,23 @@ $tt-grid-height: 60px;
   }
 
   .content {
+
+    >div:first-child{
+      font-size: $bfs * 1.3;
+      line-height: 120%;
+      //max-width: 800px;
+    }
+
     @media (min-width: 999px) {
       >* {
         margin-left: 50% !important;
+      }
+
+      >div:first-child{
+        margin-left:0 !important;
+        font-size: $bfs * 1.6;
+        line-height: 130%;
+        max-width: 75%;
       }
 
       h3 {
@@ -639,7 +653,8 @@ $tt-grid-height: 60px;
       }
 
       &>h1+p,
-      &>h2+p {
+      &>h2+p,
+      &>h2+blockquote {
         margin-top: $bfs * 4 !important;
       }
 
@@ -830,5 +845,29 @@ pre code {
     font-size: 1.5vW;
     line-height: 120%;
     max-width: none;
+  }
+}
+
+/* ######################################################################### */
+// Code
+/* ######################################################################### */
+
+.content{
+
+  div.highlighter-rouge{
+
+    margin-bottom: $bfs *2;
+
+    .highlight{
+      background-color: $mi-bg;
+      padding: 0 $bfs;
+  
+      code{
+        font-family: $family-mono;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      }
+    }
   }
 }

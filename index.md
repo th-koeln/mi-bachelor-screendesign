@@ -9,9 +9,15 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
 
+<div>
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel mehrere Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
 Die erste Veranstaltung ist am **10.10.2019** um **9:00 Uhr**. Der letzte Termin ist am **30.01.2020**.
+</div>
+
+## Kontaktlose Prüfung aufgrund der Covid-19 Problematik
+> Aufgrund der aktuellen Lage (Stand 14. März 2020) gilt es [Präsenzveranstaltung und -prüfungen](https://www.th-koeln.de/hochschule/coronavirus_73114.php) bis auf Weiteres möglichst zu vermeiden. Daher werden wir im Modul Screendesign in der kommenden Prüfungsphase von einer mündlichen Projektpräsentationsprüfung auf eine **Video-Projektpräsentationsprüfung** wechseln. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Video-Projektpräsentationsprüfung](video-projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1167751&cmd=showThreads&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilRepositoryGUI).
+
 
 ## Worum geht es?
 
