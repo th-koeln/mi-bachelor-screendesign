@@ -10,7 +10,7 @@ titel: Informationen zur Screendesign Video-Projektpräsentationsprüfung
 {% assign ilias = link %}
 
 <div>
-Aufgrund der aktuellen Lage (Stand 14. März 2020) gilt es [Präsenzveranstaltung und -prüfungen](https://www.th-koeln.de/hochschule/coronavirus_73114.php) bis auf Weiteres möglichst zu vermeiden. Daher werden wir im Modul Screendesign in der kommenden Prüfungsphase von einer mündlichen Projektpräsentationsprüfung auf eine **Video-Projektpräsentationsprüfung** wechseln. Dazu haben wir hier Informationen zur Screendesign Video-Projektpräsentationsprüfung zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1167751&cmd=showThreads&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilRepositoryGUI).
+Aufgrund der aktuellen Lage (Stand 14. März 2020) gilt es [Präsenzveranstaltung und -prüfungen](https://www.th-koeln.de/hochschule/coronavirus_73114.php) bis auf Weiteres möglichst zu vermeiden. Daher werden wir im Modul Screendesign in der kommenden Prüfungsphase von einer mündlichen Projektpräsentationsprüfung auf eine **Video-Projektpräsentationsprüfung** wechseln. Dazu haben wir hier Informationen zur Screendesign Video-Projektpräsentationsprüfung zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
 </div>
 
 ## Was ändert sich?
@@ -34,7 +34,7 @@ Aber es gibt auch noch eine ganze Reihe anderer Möglichkeiten. Versuchen Sie hi
 
 ### Wie und bis wann muss das Projektpräsentationsvideo und die anderen Artefakte abgegeben werden?
 
-Bitte legen Sie Ihr Projektpräsentationsvideo, die Einzelscreens als *.jpg Dateien und ggf. weiteres Material, z.B. die Präsentation in Ihrem Sciebo Account ab und tragen Sie die Freigabe-URL im Ilias unter dem Punkt [Teams & Artefakte für die Prüfung](https://ilias.th-koeln.de/ilias.php?ref_id=1456545&table_id=256&tableview_id=255&cmd=post&cmdClass=ildclrecordeditgui&cmdNode=w4:lc:9q&baseClass=ilRepositoryGUI&fallbackCmd=create&rtoken=7a3a0defbe70eb441a567ff80b852979) ein.
+Bitte legen Sie Ihr Projektpräsentationsvideo, die Einzelscreens als *.jpg Dateien und ggf. weiteres Material, z.B. die Präsentation in Ihrem Sciebo Account ab und tragen Sie die Freigabe-URL im Ilias unter dem Punkt [Teams & Artefakte für die Prüfung](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln) ein.
 
 Hier laden Sie bitte auch die ausgefüllte [Eigenständigkeitserklärung](/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) hoch und verlinken Ihre [Online Dokumentation](/mi-bachelor-screendesign/niveaustufen/#online-dokumentation).
 

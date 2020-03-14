@@ -16,7 +16,7 @@ Die erste Veranstaltung ist am **10.10.2019** um **9:00 Uhr**. Der letzte Termin
 </div>
 
 ## Kontaktlose Prüfung aufgrund der Covid-19 Problematik
-> Aufgrund der aktuellen Lage (Stand 14. März 2020) gilt es [Präsenzveranstaltung und -prüfungen](https://www.th-koeln.de/hochschule/coronavirus_73114.php) bis auf Weiteres möglichst zu vermeiden. Daher werden wir im Modul Screendesign in der kommenden Prüfungsphase von einer mündlichen Projektpräsentationsprüfung auf eine **Video-Projektpräsentationsprüfung** wechseln. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Video-Projektpräsentationsprüfung](video-projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1167751&cmd=showThreads&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilRepositoryGUI).
+> Aufgrund der aktuellen Lage (Stand 14. März 2020) gilt es [Präsenzveranstaltung und -prüfungen](https://www.th-koeln.de/hochschule/coronavirus_73114.php) bis auf Weiteres möglichst zu vermeiden. Daher werden wir im Modul Screendesign in der kommenden Prüfungsphase von einer mündlichen Projektpräsentationsprüfung auf eine **Video-Projektpräsentationsprüfung** wechseln. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Video-Projektpräsentationsprüfung](video-projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
 
 
 ## Worum geht es?
