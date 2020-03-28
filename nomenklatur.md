@@ -6,7 +6,7 @@ titel: Nomenklatur für Dateiabgaben
 Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
 
 ## Dateinamen
-
+<!--
 <div id="nomenklatur">
 
 |  Artefakt |  Nomenklatur |  Beispiel  |
@@ -17,8 +17,7 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 | Patternlab/Styleguide  | sd-201920-styleguide-NACHNAME1-NACHNAME2.pdf  |  sd-201920-styleguide-noss-schaefer.pdf |
 
 </div>
-
-<!--
+-->
 
 Die Benamung von Dateien und Archiven muss folgendem Muster folgen:
 
@@ -26,14 +25,15 @@ Die Benamung von Dateien und Archiven muss folgendem Muster folgen:
 
 Am Beispiel eines Einzelartefakts würde das so aussehen:
 
-> sd-201920-angebot-und-anschreiben-noss.pdf
+> sd-201920-gestaltungsportfolio-noss-1.png
 
 Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
 
 > sd-201920-styleguide-noss-schaefer.pdf
 
--->
 
 Bitte verwenden Sie in den Dateinamen nur folgende Zeichen: [0-9] [a-z] [A-Z] -_\.
 
+<!--
 > Bitte keine Archive (*.zip, *.tar, *.rar oder Ähnliches) hochladen, sondern ausschließlich einzelene Dateien. Wir nehmen ausschlißelich PNG und PDF Dateien an. Die PNG Files bitte in zweifacher Größe (2x) exportieren.
+-->
