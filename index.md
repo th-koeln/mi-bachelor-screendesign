@@ -14,7 +14,7 @@ Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner 
 
 Aufgrund der Covid-19 Problematik ist die Vorlesungszeit im {{ site.semester }} um einen Monat verkürzt. Somit starten die Vorlesungen, Seminare und Workshops bei Screendesign erst Anfang November.
 
-Die erste Veranstaltung ist am **05.11.2020** um **9:00 Uhr**. Der letzte Termin ist am **04.02.2021**.
+Der [Kick-Off ist am 07. Oktober 2020](/mi-bachelor-screendesign/lehrveranstaltungen/000-vortrag-kick-off/), die erste reguläre Veranstaltung  am **05. November 2020** um **9:00 Uhr**. Der letzte Termin ist am **04. Februar 2021**.
 </div>
 
 ## Kontaktlose Veranstaltung und Prüfung aufgrund der Covid-19 Problematik
