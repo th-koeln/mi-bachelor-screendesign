@@ -8,7 +8,7 @@ termine: 2019-11-28 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: 3.102
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Dies ist ein Pflichttermin. An diesem Tag arbeiten wir uns in das Projektthema ein.
 ---
 

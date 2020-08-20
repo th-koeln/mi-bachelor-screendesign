@@ -8,7 +8,7 @@ termine: 2017-04-28 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum: 3.102
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: 
 ---
 

@@ -8,7 +8,7 @@ termine: 2017-05-04 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: 3.102
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Wie funktioniert visuelle Wahrnehmung und welche Rückschlüsse können wir daraus für unsere Gestaltung ziehen?
 ---
 

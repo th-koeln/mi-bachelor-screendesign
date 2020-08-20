@@ -4,11 +4,11 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
 pflicht: true
-termine: 2020-01-16 15:00|0.501, 2020-01-23 15:00|0.501, 2020-01-30 15:00|0.501, 2020-02-13 15:00|0.501, 2020-02-27 15:00|0.501
+termine: 2021-01-07 13:00, 2021-01-14 13:00, 2021-01-28 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: 0.504
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 anzahl: 20 Teilnehmer
 info: 
 ---

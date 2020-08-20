@@ -8,7 +8,7 @@ termine: 2017-06-30 16:30||http://bit.ly/2tJRyJd, 2017-07-14 12:30||http://bit.l
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: 0.504
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 anzahl: 20 Teilnehmer
 info: 
 ---

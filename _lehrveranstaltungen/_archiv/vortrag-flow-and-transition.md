@@ -8,7 +8,7 @@ termine: 2019-01-24 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: 3.102
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Im Screendesign geht nicht nur um die Gestaltung von statischen Screens, sondern oftmals auch um die Gestaltung von Übergängen und Interaktionen zwischen verschiedenen Zuständen von Screens.
 ---
 

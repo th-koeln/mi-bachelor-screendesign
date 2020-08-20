@@ -1,0 +1,23 @@
+I"U<h2 id="worum-geht-es">Worum geht es?</h2>
+<p>Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbiges in Form einer Pattern Library. Auf dieser Basis können wir oder ein anderes Team eigene, konsistente Anwendungen oder Erweiterungen entwickeln. Dabei ist eine möglichst einfache und stringente Systematik Ihres Designkonzepts enorm hilfreich, da hierdurch die Regelsätze kurz und einfach bleiben.</p>
+
+<h2 id="was-muss-ich-mitbringen">Was muss ich mitbringen?</h2>
+<ul>
+  <li>eigener Rechner mit Figma</li>
+  <li>Kenntnisse in Figma</li>
+</ul>
+
+<h2 id="material">Material</h2>
+<ul>
+  <li><a href="../../download/workshops/interface-inventar-aufbauen/Interface-inventar-aufbauen-und-visualisieren.pdf">Folien: Interface Inventar aufbauen und dokumentieren</a></li>
+</ul>
+
+<h2 id="aufgabe">Aufgabe</h2>
+<p>Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis eine Pattern Library.
+Berücksichtigen Sie dabei bitte die Punkte aus den Folien zu „Interface Inventar aufbauen und dokumentieren”, welche für die Screens relevant sind. Falls Sie innerhalb der Screens übergreifende Inkonsitenzen feststellen, bspw. bezüglich Abstände, Nichteinhaltung des Rasters etc., optimieren Sie das Layout dahingehend.</p>
+
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1xksYgFoAyCz1RBGG7SbOa%2FeWallet%3Fnode-id%3D0%253A678" allowfullscreen=""></iframe>
+
+<p><a href="https://www.figma.com/file/1xksYgFoAyCz1RBGG7SbOa/eWallet?node-id=0%3A1">eWalle Screens ind Figma</a></p>
+
+:ET

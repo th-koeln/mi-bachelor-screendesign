@@ -8,7 +8,7 @@ termine: 2017-04-28 14:00|3.217|http://bit.ly/2qbGguR, 2017-04-28 16:00|3.217|ht
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
-raum: 3.217
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Wie können mit Sketch, einem vektorbasierten Zeichenprogramm für den Mac, Mockups für grafische Benutzeroberflächen und Interfaces erstellt werden?
 ---
 

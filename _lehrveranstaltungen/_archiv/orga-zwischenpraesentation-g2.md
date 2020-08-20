@@ -8,7 +8,7 @@ termine: 22019-01-10 09:00|0.501, 22019-01-10 09:00|0.502, 22019-01-10 12:00|0.5
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: 0.501
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 anzahl: 15 Teams
 info: Dies ist ein Pflichttermin. Die Anwesenheit ist für das Bestehen des Moduls erforderlich. Weitere Infos folgen.
 ---

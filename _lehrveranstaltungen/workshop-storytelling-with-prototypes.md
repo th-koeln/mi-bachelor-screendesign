@@ -8,7 +8,7 @@ termine: 2019-01-24 11:00|0.501, 2019-01-24 14:30|0.501
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 180
-raum: 0.505
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 ---
 

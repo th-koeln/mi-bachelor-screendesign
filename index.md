@@ -12,11 +12,15 @@ titel: Über das Modul
 <div>
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel mehrere Slots mit Trainings oder Workshops, von denen Sie einen besuchen sollten. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste Veranstaltung ist am **10.10.2019** um **9:00 Uhr**. Der letzte Termin ist am **30.01.2020**.
+Aufgrund der Covid-19 Problematik ist die Vorlesungszeit im {{ site.semester }} um einen Monat verkürzt. Somit starten die Vorlesungen, Seminare und Workshops bei Screendesign erst Anfang November.
+
+Die erste Veranstaltung ist am **05.11.2020** um **9:00 Uhr**. Der letzte Termin ist am **04.02.2021**.
 </div>
 
-## Kontaktlose Prüfung aufgrund der Covid-19 Problematik
-> Aufgrund der aktuellen Lage (Stand 14. März 2020) gilt es [Präsenzveranstaltung und -prüfungen](https://www.th-koeln.de/hochschule/coronavirus_73114.php) bis auf Weiteres möglichst zu vermeiden. Daher werden wir im Modul Screendesign in der kommenden Prüfungsphase von einer mündlichen Projektpräsentationsprüfung auf eine **Video-Projektpräsentationsprüfung** wechseln. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Video-Projektpräsentationsprüfung](video-projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
+## Kontaktlose Veranstaltung und Prüfung aufgrund der Covid-19 Problematik
+ Aufgrund der weiterhin bestehenden Covid-19 Problematik wird das Modul inkl. Prüfung komplett online angewickelt. Wir haben auf dieser Seite nicht alle Beschreibungen und Erklärungen auf die neue Situation angepasst. Im {{ site.semester }} werden alle Vorlesungen, Workshops, Trainings und Feedbacktermine über Zoom abgebildet. Die entsprechenden Links finden Sie im [Zeitplan](./timetable/). 
+ 
+ Auch in der kommenden Prüfungsphase nutzen wir für das Modul statt einer mündlichen Projektpräsentationsprüfung eine **Video-Projektpräsentationsprüfung**. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Video-Projektpräsentationsprüfung](video-projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
 
 
 ## Worum geht es?
@@ -53,7 +57,7 @@ Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. 
 
 ### Projekt
 
-Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. Wir starten mit einem Ganztagsworkshop in das Projektthema. Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
+Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. <!-- Wir starten mit einem Ganztagsworkshop in das Projektthema.--> Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
 Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielen meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{ilias}} angemeldet werden.
 
@@ -68,7 +72,7 @@ Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns d
 
 **Workshops** bringen Theorie und Praxis zusammen, schulen und trainieren in einem bestimmten Themenfeld, erfordern den sicheren Umgang mit den trainierten Softwaretools und erfordern das Grundwissen aus den Vorträgen. Die Teilnahme wird dringend empfohlen. Zu den Workshops muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
-Der **Ganztagsworkshop** bildet den Einstieg in das Projekt. Hier legen wir die Basis für die spätere Projektarbeit. **Dies ist ein Pflichttermin**. 
+<!-- Der **Ganztagsworkshop** bildet den Einstieg in das Projekt. Hier legen wir die Basis für die spätere Projektarbeit. **Dies ist ein Pflichttermin**. -->
 
 **Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit und müssen durch Screenmovies vorbereitet werden. Zu den Trainings muss sich im {{ilias}} angemeldet werden. Wenn möglich, sollte hier ein eigener Rechner mitgebracht werden.
 
@@ -84,9 +88,7 @@ Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, d
 
 Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und Bewertung finden Sie bei der Erläuterung des [Niveaustufenmodells](niveaustufen/).   
 
-<del>Die Prüfungen finden in den Tagen vom **23.03.2020** bis **26.03.2020** statt.</del>
-
-Anmeldezeitraum im PSSO vom **02.03.2020** bis **06.03.2020**.
+Anmeldezeitraum im PSSO vom **01.02.2021** bis **01.03.2021**.
 
 
 ## Eingesetzte Software

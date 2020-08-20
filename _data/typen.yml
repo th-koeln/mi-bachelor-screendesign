@@ -1,6 +1,6 @@
 training:
   name: Training
-  max-teilnehmer: 40
+  max-teilnehmer: 120
 
 workshop:
   name: Workshop
@@ -28,6 +28,9 @@ pruefung:
 
 other:
   name: Orga 
+
+selbstlernphase:
+  name: Selbstlernphase
 
 
   

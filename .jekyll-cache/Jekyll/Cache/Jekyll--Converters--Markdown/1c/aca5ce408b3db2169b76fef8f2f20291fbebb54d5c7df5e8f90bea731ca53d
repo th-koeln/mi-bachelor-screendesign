@@ -1,0 +1,53 @@
+I"�<h2 id="worum-geht-es">Worum geht es?</h2>
+
+<p>In diesem Training befassen wir uns mit der Erstellung von Prototypen in Figma. 
+Sobald die Kompexität der Views und damit die Anzahl der benutzten Elemente zunimmt, steigt auch die Gefahr, dass die  Struktur des Projektes sich verschlechtert und irgendwann die Übersicht verloren geht.</p>
+
+<p>Verstärkt wird die Problematik noch, wenn viele unterschiedliche Views in dem Projekt hinzukommen und zu jeder View noch angepasste Views für unterschiedliche Endgeräte oder Varianten.</p>
+
+<p>Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen.</p>
+
+<h2 id="was-muss-ich-mitbringen">Was muss ich mitbringen?</h2>
+<ul>
+  <li>eigener Rechner mit Figma</li>
+  <li>sicherer Umgang in Figma</li>
+</ul>
+
+<h2 id="sie-haben-keinen-rechner">Sie haben keinen Rechner?</h2>
+<p>Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.</p>
+
+<h2 id="aufgaben">Aufgaben</h2>
+<h3 id="aufgabe-1">Aufgabe 1</h3>
+<p>Laden Sie das Material herunter und importieren Sie das enthaltene Projekt in Figma.</p>
+
+<p>Zunächst geht es darum die Struktur der vorhandenen Views und darin enthaltenen Elemente zu verbessern. 
+Beachten Sie dabei folgende Punkte:</p>
+<ul>
+  <li>Gruppieren Sie Elemente die logisch zusammen gehören und geben Sie den Gruppen und ggf. den einzelnen Elementen aussagekräftige Namen.</li>
+  <li>Sortieren Sie die Gruppen und Elemente in der Ebenenleiste nach einem bestimmten Schema. Eine Möglichkeit ist, die Elemente in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen, zu sortieren, und zwar von oben nach unten.</li>
+  <li>Erzeugen Sie Komponenten für Elemente, die mehrfach vorkommen und Styles die mehrfach verwendet werden.
+Diese helfen dabei ein konsistentes Layout, auch über mehrere Views hinaus, zu ermöglichen.</li>
+</ul>
+
+<h3 id="aufgabe-2">Aufgabe 2</h3>
+<p>Nun soll für die vorhandenen Views ein Layout für das iPad mini, im Portrait Format, erzeugt werden.
+Konfigurieren Sie dazu zunächst die Elemente so, dass sie sich automatisch anpassen, wenn die Größe der View bzw. der einzelnen Elemente, geändert wird.
+Duplizieren Sie anschließend die Frames und stellen Sie es auf die Größe des iPad mini ein. Passen Sie anschließend die Elemente an die neue Framegröße an.</p>
+<h2 id="material">Material</h2>
+
+<ul>
+  <li><a href="../../download/trainings/advanced-prototyping/training-advanced-prototyping.zip">Aufgaben</a></li>
+</ul>
+
+<h2 id="tutorials-und-readings">Tutorials und Readings</h2>
+<ul>
+  <li><a href="https://help.figma.com/article/66-components/">Components and Instances</a></li>
+  <li><a href="https://help.figma.com/category/221-styles">Styles</a></li>
+  <li>
+    <p><a href="https://help.figma.com/article/54-constraints">Constraints</a></p>
+  </li>
+  <li><a href="https://www.freecodecamp.org/news/how-to-construct-a-design-system-864adbf2a117/">How to construct a design system</a></li>
+  <li><a href="http://atomicdesign.bradfrost.com">Atomic Design by Brad Frost</a></li>
+  <li><a href="https://www.figma.com/best-practices/components-styles-and-shared-libraries/">Best practices: components, styles, and shared libraries</a></li>
+</ul>
+:ET

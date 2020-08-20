@@ -8,7 +8,7 @@ termine: 2017-05-12 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: 3.102
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Wie gehen wir mit Farbe und Typographie um?
 ---
 

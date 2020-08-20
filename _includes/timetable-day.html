@@ -95,11 +95,10 @@
             {% assign raumnummer = raum | append: "" %}
             {% endif %}
 
-
-
             {% assign check = typ-max-teilnehmer | strip_newlines %}
             {% if check != "" %}
-            <p class="subtitle">{{termin | date: '%d. %B %Y // %H:%M'}} <br>
+            {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
+            <p class="subtitle">{{t}} <br>
               {{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if termine.size > 1 %}
               ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // Raum {{raumnummer}}{% endif %}</p>
             {% endif %}

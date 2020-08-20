@@ -8,7 +8,7 @@ termine: 2017-05-05 14:00|0.505|http://bit.ly/2owRPAr, 2017-05-05 16:00|0.505|ht
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: 0.505
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 anzahl: 30 Teilnehmer
 info: Wie analysiere ich systematisch ein bestehendes Gestaltungssystem und wie kann ich es bewerten?
 ---

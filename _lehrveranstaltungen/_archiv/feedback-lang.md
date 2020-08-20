@@ -8,7 +8,7 @@ termine: 2017-05-05 16:00|3.217|http://bit.ly/2q6pLAP, 2017-05-12 13:30|3.217|ht
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: 3.217
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 anzahl: 20 Teilnehmer
 info: 
 ---

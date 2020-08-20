@@ -8,7 +8,7 @@ termine: 2039-12-19 11:00|0.501, 2039-12-19 16:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: 0.501
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Wie strukturiere und plane ich ein Designprojekt? Welche Projektphasen gibt es und welche Funktion haben sie? Wie kann ein Designprojekt kalkuliert werden?
 ---
 

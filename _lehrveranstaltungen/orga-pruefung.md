@@ -8,7 +8,7 @@ termine: 2020-03-23 9:00|3.216, 2020-03-24 9:00|3.216, 2020-03-25 9:00|3.216, 20
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: 3.216
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 anzahl: 10 Teams
 info: Projektpräsentationsprüfungen
 ---

@@ -8,7 +8,7 @@ termine: 2019-01-10 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: 3.102
+raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
 info: Wir funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erzielen und wie setzen wir Farbe am sinnvoll ein?
 ---
 
