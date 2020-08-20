@@ -220,6 +220,13 @@ $tt-grid-height: 60px;
         dt {
           display: inline-block;
           float: none;
+          margin-left: auto;
+        }
+
+        dt:after{
+          content: ": ";
+          display: inline-block;
+          margin-right: $bfs / 4;
         }
 
         dd+dt:before {

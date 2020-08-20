@@ -9365,6 +9365,13 @@ html {
 .is-tab-wrap .card .card-content dl.overview-card dt {
   display: inline-block;
   float: none;
+  margin-left: auto;
+}
+
+.is-tab-wrap .card .card-content dl.overview-card dt:after {
+  content: ": ";
+  display: inline-block;
+  margin-right: 0.25rem;
 }
 
 .is-tab-wrap .card .card-content dl.overview-card dd + dt:before {
