@@ -4,7 +4,7 @@ kuerzel: o-t
 verantwortlich: vs
 typ: selbstlernphase
 pflicht: false
-termine: 2020-10-14 09:00, 2020-10-21 09:00, 2020-10-29 09:00
+termine: 2020-10-15 09:00, 2020-10-22 09:00, 2020-10-29 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480

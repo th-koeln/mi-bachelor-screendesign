@@ -4,7 +4,7 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2020-11-25 09:00|0.501|https://bit.ly/2C0C7Si, 2020-11-25 09:00|0.502|https://bit.ly/2WsysGg, 2020-11-25 12:00|0.501|https://bit.ly/2C4t1E1, 2020-11-25 12:00|0.502|https://bit.ly/33dgY3z
+termine: 2020-11-26 09:00|0.501|https://bit.ly/2C0C7Si, 2020-11-26 09:00|0.502|https://bit.ly/2WsysGg, 2020-11-26 12:00|0.501|https://bit.ly/2C4t1E1, 2020-11-26 12:00|0.502|https://bit.ly/33dgY3z
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
