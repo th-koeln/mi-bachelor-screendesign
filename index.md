@@ -78,7 +78,7 @@ Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns d
 
 **Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im {{ilias}} anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im Ilias hochgeladen wurden.
 
-Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltung](angebote/) im Rahmen des Moduls.
+Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltungen](angebote/) im Rahmen des Moduls.
 
 ## Prüfung & erforderliche Artefakte
 
