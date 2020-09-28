@@ -14,7 +14,7 @@ Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner 
 
 Aufgrund der Covid-19 Problematik ist die Vorlesungszeit im {{ site.semester }} um einen Monat verkürzt. Somit starten die Vorlesungen, Seminare und Workshops bei Screendesign erst Anfang November.
 
-Der [Kick-Off ist am 07. Oktober 2020](/mi-bachelor-screendesign/lehrveranstaltungen/000-vortrag-kick-off/), die erste reguläre Veranstaltung  am **05. November 2020** um **9:00 Uhr**. Der letzte Termin ist am **04. Februar 2021**.
+Der [Kick-Off ist am 08. Oktober 2020](/mi-bachelor-screendesign/lehrveranstaltungen/000-vortrag-kick-off/), die erste reguläre Veranstaltung  am **05. November 2020** um **9:00 Uhr**. Der letzte Termin ist am **04. Februar 2021**.
 
 Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln) an.
 </div>
