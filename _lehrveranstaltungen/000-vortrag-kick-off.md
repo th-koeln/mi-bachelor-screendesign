@@ -24,3 +24,7 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 ## Material
 * [Folien zum Modulablauf](../../download/inputs/woche-1/000-about-screendesign.pdf)
+
+## Aufgaben
+- [About me](/mi-bachelor-screendesign/assignments/basics-austoben/)
+- [Analytische Sammlung](/mi-bachelor-screendesign/assignments/basics-analytische-sammlung/)
