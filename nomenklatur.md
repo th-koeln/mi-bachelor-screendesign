@@ -21,15 +21,15 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 
 Die Benamung von Dateien und Archiven muss folgendem Muster folgen:
 
-> sd-201920-ARTEFAKTNAME-NACHNAME1-NACHNAME2.DATEIENDUNG
+> sd-202021-ARTEFAKTNAME-NACHNAME1-NACHNAME2.DATEIENDUNG
 
 Am Beispiel eines Einzelartefakts würde das so aussehen:
 
-> sd-201920-gestaltungsportfolio-noss-1.png
+> sd-202021-gestaltungsportfolio-noss-1.png
 
 Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
 
-> sd-201920-styleguide-noss-schaefer.pdf
+> sd-202021-styleguide-noss-schaefer.pdf
 
 
 Bitte verwenden Sie in den Dateinamen nur folgende Zeichen: [0-9] [a-z] [A-Z] -_\.
