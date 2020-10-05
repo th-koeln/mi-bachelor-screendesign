@@ -20,7 +20,16 @@ layout: reduced
   
   <div class="container">
     <div class="content is-large">
-      {{ content }}
+      {{ page.content }}
+
+      {% if (page.upload != null) %}
+      <div class="notification is-info">
+        <p class="content">Laden Sie ihre Ergebnisse
+          {% if (page.deadline != null) %} bis zum <strong>{{ page.deadline | date: "%-d. %B %Y" }}</strong> {% endif %} im
+          <a href="{{ page.upload }}" title="Upload-Bereich im Ilias-Kurs" target="_blank">Ilias-Kurs</a>
+          hoch.</p>
+      </div>
+      {% endif %}
     </div>
   </div>
 </section>
