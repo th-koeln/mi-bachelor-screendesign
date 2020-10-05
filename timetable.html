@@ -32,7 +32,7 @@ let startingWeek = startingDate.getWeek();
 let today = new Date();
 let thisWeek = today.getWeek();
 
-let diffWeek = thisWeek - startingWeek;
+let diffWeek = thisWeek - startingWeek + 1;
 let scrollTarget = `#week-${diffWeek}`;
 
 document.querySelector(scrollTarget).scrollIntoView({ 
