@@ -18,3 +18,6 @@ Aufgrund der Covid-19 Problematik ist die Vorlesungszeit im Wintersemester 2020/
 ## Aufgaben
 - [About me](/mi-bachelor-screendesign/assignments/basics-austoben/)
 - [Analytische Sammlung](/mi-bachelor-screendesign/assignments/basics-analytische-sammlung/)
+
+## Feedback & Support
+Zwischen 11:00 und 13:00 Uhr stehen wir in folgendem [https://us02web.zoom.us/j/86170884718](Zoom Raum für Feedback und Support) (Passwort steht im Ilias) zur Verfügung.
