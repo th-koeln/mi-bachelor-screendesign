@@ -8,7 +8,7 @@ termine: 2021-01-28 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 240
-raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
 info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungsfläche und Interaktionsmöglichkeiten. Wie entwickle ich dafür Layoutkonzepte?
 ---
 

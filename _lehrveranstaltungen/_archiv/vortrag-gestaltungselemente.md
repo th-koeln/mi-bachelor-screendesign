@@ -8,7 +8,7 @@ termine: 2017-05-11 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
 info: Wie können wir aus den Erkenntnissen zur visuellen Wahrnehmung Gestaltungsregeln ableiten
 ---
 

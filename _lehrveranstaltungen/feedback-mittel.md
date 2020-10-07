@@ -8,7 +8,7 @@ termine: 2021-01-07 13:00, 2021-01-14 13:00, 2021-01-28 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
 anzahl: 20 Teilnehmer
 info: 
 ---

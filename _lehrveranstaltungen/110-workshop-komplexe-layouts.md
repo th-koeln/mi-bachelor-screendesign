@@ -8,7 +8,7 @@ termine: 2021-01-21 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 240
-raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
 info: Heute entwickeln wir zum ersten mal ein komplexes Layout mit verschiedenen Layout Bausteinen.
 ---
 

@@ -7,7 +7,7 @@ pflicht: false
 termine: 2021-01-07 09:00
 empfohlene-voraussetzungen: 
 published: true
-raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
 dauer: 240
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---

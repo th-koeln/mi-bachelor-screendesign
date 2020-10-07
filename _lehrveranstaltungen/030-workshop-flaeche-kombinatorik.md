@@ -8,7 +8,7 @@ termine: 2020-11-12 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: https://us02web.zoom.us/j/86170884718 (Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
 info: Komplexere Konzepte und Übungen zu den Themem Fläche und Kombinatorik.
 ---
 
