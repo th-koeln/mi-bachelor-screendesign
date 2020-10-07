@@ -1,9 +1,0 @@
-# Strytan, Iceland
-
-In the North of Iceland, not far from Iceland’s second largest town Akureyri, is a very special dive site: Strýtan. Located in the middle of the Eyjafjörður and at a depth of about 70 meters, a hot spring has been releasing hot water into the ocean for approximately 11,000 years. The dissolved minerals in the hot fresh water coagulate as soon as they come into contact with the cold ocean water. This process has created a 55 meter tall limestone chimney that reaches up to 15 meters under the surface. Since 2001, Strýtan has rightly been a protected natural reserve.
-
-Here divers can explore the flora and fauna that have developed and settled under these special circumstances and even feel the hot water that wells out of Strýtan. Apart from all the little creatures scurrying about, divers might see schools of cod swimming up and down along the chimney.
-
-The Strýtan area has a number of dive sites. Most spectacular is probably the big Strýtan due to its sheer size. However, the site we refer to as “little Strýtan” has a maximum depth of 25 meters and a number of small chimneys on and around a 25 by 25 meter underwater hill. This hill is probably the most densely packed area of different varieties of marine life in Iceland. On our dives we see pretty much everything concerning fish and critters Iceland has to offer.
-
-However, this dive site is only for advanced divers! Divers that decide to take a trip to this fantastic phenomenon need to be in very good control of their buoyancy in order to not come in to contact with anything. They also need to be physically fit since the currents can be strong.
