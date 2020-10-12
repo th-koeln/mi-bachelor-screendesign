@@ -8,7 +8,7 @@ termine: 2019-11-28 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 480
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Dies ist ein Pflichttermin. An diesem Tag arbeiten wir uns in das Projektthema ein.
 ---
 

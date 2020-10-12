@@ -8,7 +8,7 @@ termine: 2020-11-19 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wie können wir diese im Designprozess einsetzen?
 ---
 

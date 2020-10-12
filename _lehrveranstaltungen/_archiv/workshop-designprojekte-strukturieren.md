@@ -8,7 +8,7 @@ termine: 2039-12-19 11:00|0.501, 2039-12-19 16:00|0.501
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Wie strukturiere und plane ich ein Designprojekt? Welche Projektphasen gibt es und welche Funktion haben sie? Wie kann ein Designprojekt kalkuliert werden?
 ---
 

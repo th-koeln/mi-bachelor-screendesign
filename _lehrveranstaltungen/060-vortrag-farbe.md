@@ -8,7 +8,7 @@ termine: 2020-12-03 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Wie funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erzielen und wie setzen wir Farbe am sinnvoll ein?
 ---
 

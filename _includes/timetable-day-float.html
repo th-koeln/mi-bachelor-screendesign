@@ -38,6 +38,9 @@
 			{% for veranstaltung in lehrveranstaltungen %}
 			
 				{% assign termine = veranstaltung.termine | split: "," %}
+
+				{% assign default-data = veranstaltung.raum | split: "|" %}
+				{% assign default-raum = default-data[0] %}
 								
 				{% for entry in termine %}
 					
@@ -64,8 +67,8 @@
 								{% include /functions/resolve-names.html verantwortlich=veranstaltung.verantwortlich %}
 								<p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{veranstaltung.titel}}</p>
 
-								{% if (veranstaltung.raum | append: "") != "" %}
-								{% assign raumnummer = veranstaltung.raum | append: "" %}
+								{% if (default-raum | append: "") != "" %}
+								{% assign raumnummer = default-raum | append: "" %}
 								{% endif %}
 								
 								{% if raum.size > 1 %}

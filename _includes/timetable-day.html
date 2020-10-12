@@ -54,6 +54,9 @@
 
       {% assign termine = veranstaltung.termine | split: "," %}
 
+      {% assign default-data = veranstaltung.raum | split: "|" %}
+      {% assign default-raum = default-data[0] %}
+
       {% for entry in termine %}
 
       {% assign entry-data = entry | split: "|" %}
@@ -87,8 +90,8 @@
             <p class="title">{{typ-name}}:
               {{veranstaltung.titel}}</p>
 
-            {% if (veranstaltung.raum | append: "") != "" %}
-            {% assign raumnummer = veranstaltung.raum | append: "" %}
+            {% if (default-raum | append: "") != "" %}
+            {% assign raumnummer = default-raum | append: "" %}
             {% endif %}
 
             {% if raum.size > 1 %}

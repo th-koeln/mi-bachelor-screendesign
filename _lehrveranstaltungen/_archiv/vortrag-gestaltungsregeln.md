@@ -8,7 +8,7 @@ termine: 2017-05-12 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Wie gehen wir mit Farbe und Typographie um?
 ---
 
