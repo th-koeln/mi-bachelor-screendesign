@@ -20,5 +20,5 @@ Aufgrund der Covid-19 Problematik ist die Vorlesungszeit im Wintersemester 2020/
 - [Analytische Sammlung](/mi-bachelor-screendesign/assignments/basics-analytische-sammlung/)
 
 ## Feedback & Support
-Zwischen 11:00 und 13:00 Uhr stehen wir in folgendem [Zoom Raum für Feedback und Support](https://us02web.zoom.us/j/86170884718) zur Verfügung. Das Passwort finden Sie im Ilias.
+Zwischen 11:00 und 13:00 Uhr stehen wir in folgendem [Zoom Raum für Feedback und Support](https://th-koeln.zoom.us/j/86238751739) zur Verfügung. Das Passwort finden Sie im Ilias.
 
