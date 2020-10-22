@@ -34,7 +34,7 @@ Verknüpfen Sie die einzelnen Motive über die Navigation. Nutzen Sie dabei eine
 
 Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
-```sd-aufgabe-punkt-2-NACHNAME.png```
+```sd-aufgabe-linie-2-NACHNAME.png```
 
 Hier ein kleines Beispiel einer möglichen Ausgangsposition:
 
