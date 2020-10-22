@@ -4,7 +4,12 @@ titel: Niveaustufen und Deliverables
 ---
 
 
-Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden.
+Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden:
+
+1. [Gestaltungsportfolio](#gestaltungsportfolio)
+2. [Designkonzept als Mockup](#designkonzept-als-mockup)
+3. [Patternlab](#patternlab)
+4. [Online Dokumentation](#online-dokumentation)
 
 ------
 
