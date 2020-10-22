@@ -22,13 +22,15 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 
 ## Material
 - [Semiotik](../../download/workshops/punkt-linie-flaeche/010-theorie-semiotik.pdf)
-- [Punkt, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/020-punkt.pdf)
+- [Punkt](../../download/workshops/punkt-linie-flaeche/020-punkt.pdf)
 - [Eindeutigkeit](../../download/workshops/punkt-linie-flaeche/030-eindeutigkeit.pdf)
-- [Linie, inkl. Aufgaben](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
+- [Linie](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
 
 
-## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2JcACon) hochgeladen werden. 
+## Aufgaben
+In der heutigen Session sollen vollgende Aufgaben bearbeitet werden, die Sie im Ilias hochladen können:
+- [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
+- [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
 
 
 ## Sie haben keinen Rechner?
