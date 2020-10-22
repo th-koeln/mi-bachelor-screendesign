@@ -5,7 +5,7 @@ upload: https://ilias.th-koeln.de/goto.php?target=exc_1654031&client_id=ILIAS_FH
 deadline: 2020-11-11
 ---
 
-Heute beschäftigen wir uns mit dem Gestaltungselement Punkt. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/).
+Heute beschäftigen wir uns mit dem Gestaltungselement Punkt. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/).
 
 ---
 
