@@ -1,5 +1,5 @@
 ---
-titel: Punkt, Linie & Fläche
+titel: Punkt & Linie
 kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
@@ -9,11 +9,11 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 180
 raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
-info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um Punkt, Linie und Fläche.
+info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um Punkt & Linie.
 ---
 
 ## Worum geht es?
-Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidimensionaler Gestaltung: dem Punkt, der Linie und der Fläche. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
+Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidimensionaler Gestaltung: dem Punkt und der Linie. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
 
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
@@ -21,10 +21,10 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 
 
 ## Material
-- [Semiotik](../../download/workshops/punkt-linie-flaeche/010-theorie-semiotik.pdf)
-- [Punkt](../../download/workshops/punkt-linie-flaeche/020-punkt.pdf)
-- [Eindeutigkeit](../../download/workshops/punkt-linie-flaeche/030-eindeutigkeit.pdf)
-- [Linie](../../download/workshops/punkt-linie-flaeche/040-Linie.pdf)
+- [Semiotik](../../download/workshops/punkt-linie/010-theorie-semiotik.pdf)
+- [Punkt](../../download/workshops/punkt-linie/020-punkt.pdf)
+- [Eindeutigkeit](../../download/workshops/punkt-linie/030-eindeutigkeit.pdf)
+- [Linie](../../download/workshops/punkt-linie/040-Linie.pdf)
 
 
 ## Aufgaben

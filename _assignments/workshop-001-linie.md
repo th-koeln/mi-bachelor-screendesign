@@ -5,7 +5,7 @@ upload: https://ilias.th-koeln.de/goto.php?target=exc_1654031&client_id=ILIAS_FH
 deadline: 2020-11-11
 ---
 
-Heute beschäftigen wir uns mit dem Gestaltungselement Linie. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie-flaeche/).
+Heute beschäftigen wir uns mit dem Gestaltungselement Linie. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/).
 
 ---
 
@@ -19,7 +19,7 @@ Bitte schreiben Sie Ihren Namen auf die graue Fläche. Exportieren Sie das Motiv
 
 ```sd-aufgabe-linie-1-NACHNAME.png```
 
-<img src="../../download/workshops/punkt-linie-flaeche/beispiel-linie-1.png" alt="Beispiel zur Aufgabe 1" style="max-height:80vh">
+<img src="../../download/workshops/punkt-linie/beispiel-linie-1.png" alt="Beispiel zur Aufgabe 1" style="max-height:80vh">
 
 
 ## Linie 2: Die vier Jahreszeiten
@@ -34,6 +34,6 @@ Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwen
 
 ```sd-aufgabe-punkt-2-NACHNAME.png```
 
-<img src="../../download/workshops/punkt-linie-flaeche/beispiel-linie-2.png" alt="Beispiel zur Aufgabe 2" style="max-height:80vh">
+<img src="../../download/workshops/punkt-linie/beispiel-linie-2.png" alt="Beispiel zur Aufgabe 2" style="max-height:80vh">
 
 ---
