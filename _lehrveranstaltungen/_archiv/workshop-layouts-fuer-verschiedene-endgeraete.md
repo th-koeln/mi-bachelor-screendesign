@@ -8,7 +8,7 @@ termine: 2018-12-20 11:00|0.501, 2018-12-20 14:00|0.501, 2018-12-20 16:00|0.501
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 120
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungsfläche und Interaktionsmöglichkeiten. Wie entwickle ich dafür Layoutkonzepte?
 ---
 

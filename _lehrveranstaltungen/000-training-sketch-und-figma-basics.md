@@ -8,7 +8,7 @@ termine: 2020.10.08 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/89267184782 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/89267184782
 info: Basistraining für den Umgang mit Figma
 ---
 
@@ -28,13 +28,8 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 ## Material
 
-### Software
-- [Figma](https://www.figma.com)
-
-### Figma Tutorials
-- [Figma Help](https://help.figma.com)
-- [Figma Basiscs](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
-
-### Übungsaufgaben
-- [Übungsaufgaben](../../download/trainings/sketch-figma/sketch-figma-training-material.zip)
+- [Figma - Website](https://www.figma.com)
+- [Figma - Help](https://help.figma.com)
+- [Figma - Tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
+- [Übungsaufgaben](/mi-bachelor-screendesign/assignments/basics-figma/)
 

@@ -8,8 +8,8 @@ termine: 2020-11-12 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
-info: Komplexere Konzepte und Übungen zu den Themem Fläche und Kombinatorik.
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+info: Komplexere Konzepte und Übungen zu den Themem Fläche und Form.
 ---
 
 ## Worum geht es?
@@ -23,13 +23,14 @@ Handwerklich erweitern wir das Knowhow heute um Masken, die Pipette und komplexe
 
 
 ## Material und Links
-- [Folien und Aufgabe zur Fläche](../../download/workshops/flaeche-kombinatorik/010-Flaeche.pdf)
-- [Folien und Aufgabe zu Flächenaufteilungen](../../download/workshops/flaeche-kombinatorik/030-flaechenaufteilung.pdf)
-- [Folien zu Figur und Grund](../../download/workshops/flaeche-kombinatorik/020-figur-und-grund.pdf)
+- [Gestaltungselement Fläche & Form](../../download/workshops/flaeche-kombinatorik/010-flaeche-und-form.pdf)
+- [Figur und Grund](../../download/workshops/flaeche-kombinatorik/020-figur-und-grund.pdf)
 
 
-## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2JcACon) hochgeladen werden. 
+## Aufgaben
+In der heutigen Session sollen vollgende Aufgaben bearbeitet werden, die Sie im Ilias hochladen können:
+- [Gestaltungselement Fläche](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/)
+- [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
 
 
 ## Sie haben keinen Rechner?

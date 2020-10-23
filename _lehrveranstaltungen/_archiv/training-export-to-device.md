@@ -8,7 +8,7 @@ termine: 2017-06-08 14:00||http://bit.ly/2qXH0no, 2017-06-08 16:00||http://bit.l
 empfohlene-voraussetzungen: t-fb,t-sb
 published: true
 dauer: 120
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Wie können wir unsere Entwürfe aus Sketch oder Figma auf verschiedenen Devices anschauen und überprüfen? Wie sehen Tools und komplette Workflows dafür aus?
 ---
 

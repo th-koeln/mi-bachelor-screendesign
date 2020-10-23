@@ -8,7 +8,7 @@ termine: 2021-02-04 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und nachhaltig nutzbar machen?
 ---
 

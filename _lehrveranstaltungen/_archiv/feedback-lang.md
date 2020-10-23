@@ -8,7 +8,7 @@ termine: 2017-05-05 16:00|3.217|http://bit.ly/2q6pLAP, 2017-05-12 13:30|3.217|ht
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 anzahl: 20 Teilnehmer
 info: 
 ---

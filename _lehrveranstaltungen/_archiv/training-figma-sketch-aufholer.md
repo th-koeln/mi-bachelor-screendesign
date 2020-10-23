@@ -8,7 +8,7 @@ termine: 2017-11-29 16:00|0.501
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
-raum: https://th-koeln.zoom.us/j/86238751739(Passwort steht im Ilias)
+raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Wie komme ich endlich mit Figma klar?
 ---
 
