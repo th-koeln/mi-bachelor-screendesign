@@ -32,6 +32,7 @@ In der heutigen Session sollen vollgende Aufgaben bearbeitet werden, die Sie im 
 - [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
 - [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
 
-
+<!--
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
+-->
