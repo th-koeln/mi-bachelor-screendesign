@@ -9,7 +9,7 @@ Diese Aufgabe ist Teil der Selbstlernphase. Die Abgabe über das Ilias ist verpf
 
 ---
 
-## Analytische Sammlung (Pflichtaufgabe)
+## Analytische Sammlung (Pflichtabgabe)
 
 Sammeln, dokumentieren und analysieren Sie Designbeispiele von Unternehmen/ Organisationen von zwei Sparten. Finden Sie bitte mindestens fünf Unternehmen/ Organisationen pro Sparte und dokumentieren Sie das Screendesign des Unternehmens mit etwa drei Screenshots. Fertigen Sie **pro Sparte ein Plakat** auf einer Arbeitsläche von **1191 x 1684 pt** an. Exportieren Sie die Plakate als PNG 2x und laden Sie es im Ilias hoch.
 
