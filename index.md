@@ -95,7 +95,7 @@ Anmeldezeitraum im PSSO vom **01.02.2021** bis **01.03.2021**.
 
 ## Eingesetzte Software
 
-Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein. Die Nutzung von Figma für Studenten ist kostenlos und erfordert lediglich eine Verifizierung. Weitere Infos dazu sind auf [Figma](https://www.figma.com/pricing-faq/) zu finden.
+Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein. Die Nutzung von Figma für Studenten ist kostenlos und [erfordert lediglich eine Verifizierung](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-Education-status). Weitere Infos dazu sind auf [Figma](https://www.figma.com/pricing-faq/) zu finden.
 
 Außerdem benötigen Sie einen einfachen Bildeditor wie z.B. [Gimp](https://www.gimp.org/downloads/)
 
