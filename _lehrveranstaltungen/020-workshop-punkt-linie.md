@@ -28,7 +28,7 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 
 
 ## Aufgaben
-In der heutigen Session sollen vollgende Aufgaben bearbeitet werden, die Sie im Ilias hochladen können:
+In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im Ilias hochladen können:
 - [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
 - [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
 

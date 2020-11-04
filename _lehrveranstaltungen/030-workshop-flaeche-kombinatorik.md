@@ -28,7 +28,7 @@ Handwerklich erweitern wir das Knowhow heute um Masken, die Pipette und komplexe
 
 
 ## Aufgaben
-In der heutigen Session sollen vollgende Aufgaben bearbeitet werden, die Sie im Ilias hochladen können:
+In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im Ilias hochladen können:
 - [Gestaltungselement Fläche](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/)
 - [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
 
