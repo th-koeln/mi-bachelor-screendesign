@@ -1,8 +1,6 @@
 ---
 titel: Gestaltungselement Punkt
 tags: Basics
-upload: https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln
-deadline: 2020-11-11
 ---
 
 Heute beschäftigen wir uns mit dem Gestaltungselement Punkt. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/).

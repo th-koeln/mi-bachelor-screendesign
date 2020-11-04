@@ -1,8 +1,6 @@
 ---
 titel: Flächenaufteilung
 tags: Basics
-upload: https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln
-deadline: 2020-11-18
 ---
 
 Heute beschäftigen wir uns mit dem Flächenaufteilung. Dazu gibt es eine Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-kombinatorik/).
