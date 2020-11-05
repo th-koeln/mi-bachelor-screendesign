@@ -9,7 +9,7 @@ Heute beschäftigen wir uns mit dem Gestaltungselement Punkt. Dazu gibt es zwei 
 
 ## Punkt 1: Begriffsdarstellung
 
-Erzeugen Sie auf einer schwarzen Fläche von **600x800 Pixeln** ein weißes Quadrat von **400x400 Pixeln**. Stellen Sie auf dieser Fläche mit jeweils **16 gleich großen schwarzen Punkten** diese sechs Begriffe dar:
+Erzeugen Sie auf einer schwarzen Fläche von **600x800 Pixeln** (hochformat) ein weißes Quadrat von **400x400 Pixeln**. Stellen Sie auf dieser Fläche mit jeweils **16 gleich großen schwarzen Punkten** diese sechs Begriffe dar:
 
  <!-- Streuung -->
  - Ansammlung
@@ -37,7 +37,7 @@ Erzeugen Sie auf einer dunkelgrauen Fläche von **1024x768 Pixeln** vier weiße 
 
 Bitte schreiben Sie Ihren Namen und den Titel „Die vier Jahreszeiten“ auf die dunkelgraue Fläche.--> 
 
-Erzeugen Sie auf einer dunkelgrauen Fläche von 1024x768 Pixeln zwei weiße Quadrate von 280x280 Pixeln. Erzeugen Sie auf diesen Flächen mit beliebig vielen, beliebig großen schwarzen Punkten die Begriffspaare: 
+Erzeugen Sie auf einer dunkelgrauen Fläche von **1024x768 Pixeln** zwei weiße Quadrate von **280x280 Pixeln**. Erzeugen Sie auf diesen Flächen mit beliebig vielen, beliebig großen schwarzen Punkten die Begriffspaare: 
 - leicht/schwer
 - chaotisch/geordnet
 - beschleunigen/bremsen 
