@@ -30,7 +30,7 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 ## Aufgaben
 In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
 - [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
-- [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
+<!--- [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/) -->
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **12.11.2020 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
