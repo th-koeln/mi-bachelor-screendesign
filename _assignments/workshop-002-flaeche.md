@@ -3,7 +3,7 @@ titel: Gestaltungselement Fläche
 tags: Basics
 ---
 
-Heute beschäftigen wir uns mit dem Gestaltungselement Fläche. Dazu gibt es drei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-kombinatorik/).
+Heute beschäftigen wir uns mit dem Gestaltungselement Fläche. Dazu gibt es drei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-form/).
 
 ---
 
@@ -31,10 +31,10 @@ Erzeugen Sie eine Arbeitsfläche von **128x128 Pixeln**. Setzen Sie ein weißes 
 
 Erzeugen Sie nun eine weiße Montagefläche von **768x1024 Pixeln**. Erstellen Sie darauf ein Raster von fünf Reihen mit jeweils fünf Quadraten der selben Größe. Die Quadrate sind weiß mit einem schwarzen Rand von einem Pixel Stärke. Montieren Sie nun die zuvor erstellen Buchstabenkompositionen so auf die Montagefläche, dass eine interessante Gesamtkomposition entsteht.
 
+![Ausgangsform der Farbflächen](../../download/workshops/flaeche-form/beispiel-flaeche-2.png)
+
 Bitte schreiben Sie Ihren Namen und Schriftfamilie auf die Montagefläche.
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:  
 
 ```sd-aufgabe-flaeche-2-NACHNAME.png```
-
----

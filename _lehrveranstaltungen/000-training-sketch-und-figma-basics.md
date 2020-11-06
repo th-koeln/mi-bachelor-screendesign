@@ -31,5 +31,5 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 - [Figma - Website](https://www.figma.com)
 - [Figma - Help](https://help.figma.com)
 - [Figma - Tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
-- [Übungsaufgaben](/mi-bachelor-screendesign/assignments/basics-figma/)
+- [Übungsaufgaben](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
 

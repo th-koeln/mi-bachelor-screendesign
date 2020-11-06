@@ -1,6 +1,6 @@
 ---
-titel: Aufgabe Flow & Transition
-tags: Animation
+titel: Flow & Transition
+tags: Fortgeschritten
 ---
 
 Die Basis für den heutigen Workshop bilden die Ergebnisse aus dem [Workshop Layouts für verschiedene Endgeräte](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/workshop-layouts-fuer-verschiedene-endgeraete/). Wir nutzen die **Ergebnisliste** im Phone-Layout der Cranach Graphics App, für die wir heute einen animierten Prototypen entwickeln.

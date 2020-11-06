@@ -1,6 +1,6 @@
 ---
-titel: Warm-up // Analytische Sammlung
-tags: Basics
+titel: Analytische Sammlung
+tags: Warm-up
 upload: https://ilias.th-koeln.de/goto.php?target=exc_1654031&client_id=ILIAS_FH_Koeln
 deadline: 2020-11-11
 ---

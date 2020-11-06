@@ -1,6 +1,6 @@
 ---
-titel: Aufgabe Systematische Abstände
-tags: Whitespacing
+titel: Systematische Abstände
+tags: Fortgeschritten
 ---
 
 Erzeugen Sie eine Arbeitsfläche von 414x736 Pixeln. Legen Sie nach einer Zahlenreihe verschiedene Flächen für die Repräsentation von Abständen an und benennen Sie diese nach T-Shirt Größen. Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket: Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden: Bild des Autors, Zitat, Name des Autors, Beruf/ Position des Autors, Location des Autors, Mengentext zum Autor, Audiosteuerung für das Abspielen des dargestellten Textes mit folgenden Funktionen: Play/Stop, Skip forward, Skip backward. Das Bild und das Zitat sollen dabei besonders hervorgehoben werden. Gestaltungsziel ist ein möglichst einfaches und reduziertes Design. Verwenden Sie für alle Abstände und Größen nur Werte der Zahlenreihe.

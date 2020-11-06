@@ -39,5 +39,3 @@ Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwen
 Hier ein kleines Beispiel einer möglichen Ausgangsposition:
 
 <img src="../../download/workshops/punkt-linie/beispiel-linie-2.png" alt="Beispiel zur Aufgabe 2" style="max-height:80vh">
-
----
