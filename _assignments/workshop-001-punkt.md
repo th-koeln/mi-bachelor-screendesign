@@ -46,4 +46,6 @@ Fügen Sie den Motiven das Begriffspaar hinzu. Bitte schreiben Sie Ihren Namen a
 
 Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
-```sd-aufgabe-punkt-2-NACHNAME.png```
+```sd-aufgabe-punkt-2-NACHNAME-LAUFNUMMER.png```
+
+---
