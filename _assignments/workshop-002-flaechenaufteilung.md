@@ -9,7 +9,7 @@ Heute beschäftigen wir uns mit dem Flächenaufteilung. Dazu gibt es eine Aufgab
 
 ## Flächenaufteilung
 
-Erzeugen Sie eine weiße Arbeitsfläche von **220x220 Pixeln**. Darauf platzieren Sie vier Quadrate, ebenfalls 220x220 Pixel groß und platzieren diese so, dass sich die Spitzen in der Mitte der Arbeitsfläche treﬀen. Füllen Sie die Quadrate im Uhrzeigersinn beginnend mit links oben mit folgenden Farbwerten: `#2F59DA`, `#ED1B65`, `#00AB42`, `#9829C8`. Platzieren Sie ebenfalls ein 220x220 Pixel großes, ungefülltes Quadrat mit einem schwarzen Rahmen randbündig auf der Fläche. Entwicklen Sie nun durch Verschieben der Flächen 16 spannende und interessante Flächenaufteilungen.
+Erzeugen Sie eine weiße Arbeitsfläche von **220x220 Pixeln**. Darauf platzieren Sie vier Quadrate, ebenfalls 220x220 Pixel groß und platzieren diese so, dass sich die Spitzen in der Mitte der Arbeitsfläche treﬀen. Füllen Sie die Quadrate im Uhrzeigersinn beginnend mit links oben mit folgenden Farbwerten: `#363636`, `#2F59DA`, `#ED1B65`, `#9829C8`. Platzieren Sie ebenfalls ein 220x220 Pixel großes, ungefülltes Quadrat mit einem schwarzen Rahmen randbündig auf der Fläche. Entwicklen Sie nun durch Verschieben der Flächen 16 spannende und interessante Flächenaufteilungen.
 
 ![Ausgangsform der Farbflächen](../../download/workshops/flaeche-form/beispiel-flaechenaufteilung-a.png)
 
