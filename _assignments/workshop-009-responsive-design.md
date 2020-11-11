@@ -1,6 +1,6 @@
 ---
-titel: Aufgabe Responsive Design
-tags: Layout
+titel: Responsive Design
+tags: Fortgeschritten
 ---
 
 Die Basis für den heutigen Workshop bilden die Ergebnisse aus dem [Workshop komplexe Layouts](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/workshop-komplexe-layouts/). Wir nutzen die Cards für die **Ergebnisliste** der Cranach Graphics App, für die wir heute die Layouts entwickeln.

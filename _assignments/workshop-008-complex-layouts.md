@@ -1,6 +1,6 @@
 ---
-titel: Aufgabe Komplexe Layouts
-tags: Layout
+titel: Komplexe Layouts
+tags: Fortgeschritten
 ---
 
 Heute entwickeln wir in 3er Teams in 3 Stunden Komponenten und komplette Layouts für das Cranach Digital Archive. Die Gestaltungsziele sind bereits auf der [Seite zum diesjährigen Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2019/) dokumentiert (siehe Kommunikationsziele/ Leitplanken).

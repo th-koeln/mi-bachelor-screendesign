@@ -1,6 +1,6 @@
 ---
-titel: Warm-up // About me
-tags: Basics
+titel: About me
+tags: Warm-up
 upload: https://ilias.th-koeln.de/goto.php?target=exc_1654031&client_id=ILIAS_FH_Koeln
 deadline: 2020-11-04
 ---
@@ -15,7 +15,7 @@ Bei dieser Aufgabe ist **austoben** angesagt :) Bei zukünftigen Aufgaben werden
 
 Bitte entwickeln Sie ein Plakat bzw. eine Collage, die Sie vorstellt und uns einen kleinen Einblick in Ihr Leben und Ihre Persönlichkeit gibt. Erstellen Sie das Plakat in Figma auf einer Arbeitsfläche von **1191 x 1684 pt**. Exportieren Sie das Plakat als PNG 2x und laden Sie es im Ilias hoch. Verwenden Sie beim Dateinamen bitte folgende Nomenklatur, NACHNAME ersetzen Sie natürlich durch Ihren Nachnamen:
 
-```sd-warm-up-NACHNAME.png```
+```sd-Warm-up-NACHNAME.png```
 
 Das Plakat sollte mindestens folgende Inhalte enthalten:
 - Ihren Vornamen

@@ -19,12 +19,11 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 - eigener Rechner mit Figma
 - Gute Übung in Figma
 
-## Material und Links
-- [Aufgaben Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/aufgabe-raum-gestaltgesetze.pdf)
-- [Materialpaket Hierarchisierung & Gestaltgesetze](../../download/workshops/raum-gestaltgesetze/material-raum-gestaltgesetze-variante.zip)
+## Aufgaben
+In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
+- [Raum & Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
 
-## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2JcACon) hochgeladen werden. 
-
+<!--
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
+-->

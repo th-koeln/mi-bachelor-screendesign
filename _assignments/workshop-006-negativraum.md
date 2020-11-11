@@ -1,6 +1,6 @@
 ---
-titel: Aufgabe Negativraum
-tags: Whitespacing
+titel: Negativraum
+tags: Fortgeschritten
 ---
 
 Erzeugen Sie eine Arbeitsfläche von 1440x900 Pixeln. Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket: Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden: Bild des Autors, Zitat, Name des Autors, Beruf/ Position des Autors, Location des Autors, Mengentext zum Autor. Das Bild und das Zitat sollen dabei besonders hervorgehoben werden. Gestaltungsziel ist ein möglichst einfaches, reduziertes aber spannendes Design.
