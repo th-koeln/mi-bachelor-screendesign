@@ -3,7 +3,7 @@ titel: Gestaltungselement Punkt
 tags: Basics
 ---
 
-Heute beschäftigen wir uns mit dem Gestaltungselement Punkt. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/).
+Heute beschäftigen wir uns mit dem Gestaltungselement Punkt. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
 
 ---
 
@@ -47,5 +47,3 @@ Fügen Sie den Motiven das Begriffspaar hinzu. Bitte schreiben Sie Ihren Namen a
 Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
 ```sd-aufgabe-punkt-2-NACHNAME.png```
-
----

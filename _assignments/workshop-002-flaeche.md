@@ -3,7 +3,7 @@ titel: Gestaltungselement Fläche
 tags: Basics
 ---
 
-Heute beschäftigen wir uns mit dem Gestaltungselement Fläche. Dazu gibt es drei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-kombinatorik/).
+Heute beschäftigen wir uns mit dem Gestaltungselement Fläche. Dazu gibt es drei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-kombinatorik/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
 
 ---
 
