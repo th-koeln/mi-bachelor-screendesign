@@ -11,7 +11,7 @@ Heute beschäftigen wir uns mit dem Gestaltungselement Fläche. Dazu gibt es dre
 
 Erzeugen Sie eine Montagefläche von **1440x990 Pixeln**. Erzeugen Sie ein dreispaltiges Raster (Spaltenbreite 320 Pixel, Spaltenabstand 20px) und setzen Sie in zwei Reihen jeweils drei weiße Quadrate mit einem schwarzen Rand als Grundflächen ins Raster.
 
-Platzieren Sie in der oberen Reihe in jeden Rahmen ein schwarz gefülltes Quadrat (210x210 Pixel) und in die untere Reihe in jeden Rahmen einen schwarzen Kreis (220x220 Pixel). Positionieren Sie die Elemente im Anschnitt auf der jeweiligen Grundfläche., aber nur soweit, dass die Ursprungsform erkennbar bleibt. Versuchen Sie dabei eine interessante und gut ausbalancierte Gesamtkomposition zu erzielen. Wenn Sie mit der Position zufrieden sind, maskieren Sie die Form mit der Grundfläche und ziehen einen neuen Rahmen um die Grundfläche. Bitte schreiben Sie Ihren Namen auf die Montagefläche.
+Platzieren Sie in der oberen Reihe in jeden Rahmen ein schwarz gefülltes Quadrat (210x210 Pixel) und in die untere Reihe in jeden Rahmen einen schwarzen Kreis (220x220 Pixel). Positionieren Sie die Elemente im Anschnitt auf der jeweiligen Grundfläche, aber nur soweit, dass die Ursprungsform erkennbar bleibt. Versuchen Sie dabei eine interessante und gut ausbalancierte Gesamtkomposition zu erzielen. Wenn Sie mit der Position zufrieden sind, maskieren Sie die Form mit der Grundfläche und ziehen einen neuen Rahmen um die Grundfläche. Bitte schreiben Sie Ihren Namen auf die Montagefläche.
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
