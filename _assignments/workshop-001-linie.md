@@ -9,9 +9,9 @@ Heute beschäftigen wir uns mit dem Gestaltungselement Linie. Dazu gibt es zwei 
 
 ## Linie 1: Kompositionen
 
-Legen Sie eine Arbeitsfläche mit einer Größe von **1440x1024 Pixeln** an. Legen Sie darauf ein Spaltenraster mit 6 Spalten an. Die Spalten haben einen Spaltenabstand von 16 Pixeln und der Abstand der äußeren Spalten zum Rand beträgt 32 Pixel. Legen Sie nun horizontale Hilfslinien an, mit denen Sie mittig ausgerichtet 3 Reihen erzeugen, deren Höhe der Spaltenbreite entspricht. Legen Sie in die erste und dritte Zeile je drei Quadrate, in der linken Spalte beginnend. Nutzen Sie aber nur jede zweite Spalte. In die mittlere Reihe legen Sie ebenfalls drei Quadrate, beginnen aber mit der zweiten Spalte. Legen Sie nun ein randschlüssiges Rechteck in die Arbeitsfläche, füllen Sie es mit einem mittleren grau und ziehen die kleinen Quadrate vor der Fläche ab.
+Legen Sie eine Arbeitsfläche mit einer Größe von **1440x1024 Pixeln** an. Legen Sie darauf ein Spaltenraster mit 6 Spalten an. Die Spalten haben einen Spalten- und Zeilenabstand von 16 Pixeln und der Abstand der äußeren Spalten zum Rand beträgt 32 Pixel. Legen Sie nun horizontale Hilfslinien an, mit denen Sie mittig ausgerichtet 3 Reihen erzeugen, deren Höhe der Spaltenbreite entspricht. Legen Sie in die erste und dritte Zeile je drei Quadrate, in der linken Spalte beginnend. Nutzen Sie aber nur jede zweite Spalte. In die mittlere Reihe legen Sie ebenfalls drei Quadrate, beginnen aber mit der zweiten Spalte. Legen Sie nun ein randschlüssiges Rechteck in die Arbeitsfläche, füllen Sie es mit einem mittleren grau und ziehen die kleinen Quadrate vor der Fläche ab.
 
-Erzeugen Sie nun mit 9 schwarzen Linien von gleicher Stärke und Länge neun verschiedene Kompositionen. 
+Erzeugen Sie nun mit jeweils 9 schwarzen Linien von gleicher Stärke und Länge neun verschiedene Kompositionen. 
 
 Bitte schreiben Sie Ihren Namen auf die graue Fläche. Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
