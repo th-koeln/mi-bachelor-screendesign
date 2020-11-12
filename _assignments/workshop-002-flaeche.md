@@ -13,7 +13,7 @@ Erzeugen Sie eine Montagefläche von **1440x990 Pixeln**. Erzeugen Sie ein dreis
 
 Platzieren Sie in der oberen Reihe in jeden Rahmen ein schwarz gefülltes Quadrat (210x210 Pixel) und in die untere Reihe in jeden Rahmen einen schwarzen Kreis (220x220 Pixel). Positionieren Sie die Elemente im Anschnitt auf der jeweiligen Grundfläche, aber nur soweit, dass die Ursprungsform erkennbar bleibt. Versuchen Sie dabei eine interessante und gut ausbalancierte Gesamtkomposition zu erzielen. Wenn Sie mit der Position zufrieden sind, maskieren Sie die Form mit der Grundfläche und ziehen einen neuen Rahmen um die Grundfläche. Bitte schreiben Sie Ihren Namen auf die Montagefläche.
 
-Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
+Exportieren Sie die Montagefläche als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
 ```sd-aufgabe-flaeche-1a-NACHNAME.png```
 
@@ -21,7 +21,7 @@ Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias h
 
 Duplizieren Sie die in [Aufgabe Fläche 1a](#fläche-1a-formen-im-anschnitt) erstellte Montagefläche und füllen Sie die sechs Grundflächen mit verschiedenen Farben. Nutzen Sie dabei ein Farbschema von Kuler: https://color.adobe.com/de/explore
 
-Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
+Exportieren Sie die Montagefläche als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
 ```sd-aufgabe-flaeche-1b-NACHNAME.png```
 
