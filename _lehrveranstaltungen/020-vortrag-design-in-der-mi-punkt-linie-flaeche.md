@@ -28,3 +28,5 @@ Außerdem befassen wir uns als Vorbereitung für den Workshop mit den basalen Ge
 
 ## Material
 - [Folien zu Design in der Medieninformatik](../../download/inputs/woche-2/010-design-in-der-mi.pdf)
+- [Film: was ist gutes Design?](https://www.youtube.com/watch?v=A2OS6m6PfXQ&t=131s)
+- [Film: die Braun Story](https://www.youtube.com/watch?v=RVmQMe45-mY&t=4s)
