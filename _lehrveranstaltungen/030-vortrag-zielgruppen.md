@@ -24,3 +24,4 @@ Das sind die Kernfragen in dieser Woche.
 * [Folien zu Wahrnehmungsarbeit](../../download/inputs/woche-3/010-wahrnehmungsarbeit.pdf)
 * [Folien zu Körper und Umwelterfahrungen](../../download/inputs/woche-3/020-koerper-und-umwelterfahrung.pdf)
 * [Folien zu Proportionen](../../download/inputs/woche-3/030-proportion.pdf)
+* [Film: Aufmerksamkeitstest](https://www.youtube.com/watch?v=flxmavrgMAo)
