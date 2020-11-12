@@ -27,7 +27,7 @@ Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias h
 
 ## Fläche 2: Schriftkomposition
 
-Erzeugen Sie eine Arbeitsfläche von **128x128 Pixeln**. Setzen Sie ein weißes Quadrat von der selben Größe auf die Fläche. Setzen Sie nun einen Buchstaben in einer Serifenschrift in schwarz auf die Fläche. Vektorisieren Sie den Buchstaben und setzen ihn so in den Anschnitt, dass eine interessante Komposition entsteht. Maskieren Sie dann den Buchstaben und gruppieren Sie die Elemente. Wiederholen Sie den Vorgang mit verschiedenen Buchstaben 30 mal. Verwenden Sie immer dieselbe Schrift.
+Erzeugen Sie eine Arbeitsfläche von **128x128 Pixeln**. Setzen Sie ein weißes Quadrat von der selben Größe auf die Fläche. Setzen Sie nun einen Buchstaben in einer Serifenschrift in schwarz auf die Fläche. Vektorisieren Sie den Buchstaben und setzen ihn so in den Anschnitt, dass eine interessante Komposition entsteht. Maskieren Sie dann den Buchstaben und gruppieren Sie die Elemente. Wiederholen Sie den Vorgang mindestens 30 mal. Verwenden Sie immer dieselbe Schrift.
 
 Erzeugen Sie nun eine weiße Montagefläche von **768x1024 Pixeln**. Erstellen Sie darauf ein Raster von fünf Reihen mit jeweils fünf Quadraten der selben Größe. Die Quadrate sind weiß mit einem schwarzen Rand von einem Pixel Stärke. Montieren Sie nun die zuvor erstellen Buchstabenkompositionen so auf die Montagefläche, dass eine interessante Gesamtkomposition entsteht.
 
