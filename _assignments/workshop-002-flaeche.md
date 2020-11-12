@@ -17,7 +17,7 @@ Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias h
 
 ```sd-aufgabe-flaeche-1a-NACHNAME.png```
 
-## Fläche 1b: Farbige Formen im Anschnitt
+## Fläche 1b: Formen im Anschnitt mit Farbe
 
 Duplizieren Sie die in [Aufgabe Fläche 1a](#fläche-1a-formen-im-anschnitt) erstellte Montagefläche und füllen Sie die sechs Grundflächen mit verschiedenen Farben. Nutzen Sie dabei ein Farbschema von Kuler: https://color.adobe.com/de/explore
 
