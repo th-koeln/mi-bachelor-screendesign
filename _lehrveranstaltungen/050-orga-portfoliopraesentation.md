@@ -4,7 +4,7 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2020-11-26 09:00|Zoom-Gruppe A: https://th-koeln.zoom.us/j/86238751739|https://th-koeln.zoom.us/j/86238751739, 2020-11-26 09:00|Zoom-Gruppe B: https://th-koeln.zoom.us/j/86025262142|https://th-koeln.zoom.us/j/86025262142, 2020-11-26 12:00|Zoom-Gruppe A: https://th-koeln.zoom.us/j/86238751739|https://th-koeln.zoom.us/j/86238751739, 2020-11-26 12:00|Zoom-Gruppe B: https://th-koeln.zoom.us/j/86025262142|https://th-koeln.zoom.us/j/86025262142
+termine: 2020-11-26 09:00|Zoom-Gruppe A – https://th-koeln.zoom.us/j/86238751739|https://th-koeln.zoom.us/j/86238751739, 2020-11-26 09:00|Zoom-Gruppe B –  https://th-koeln.zoom.us/j/86025262142|https://th-koeln.zoom.us/j/86025262142, 2020-11-26 12:00|Zoom-Gruppe A – https://th-koeln.zoom.us/j/86238751739|https://th-koeln.zoom.us/j/86238751739, 2020-11-26 12:00|Zoom-Gruppe B – https://th-koeln.zoom.us/j/86025262142|https://th-koeln.zoom.us/j/86025262142
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
