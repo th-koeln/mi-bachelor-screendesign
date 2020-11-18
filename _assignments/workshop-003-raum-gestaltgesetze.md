@@ -40,7 +40,7 @@ Erzeugen Sie eine schwarze Montagefläche von **1440x1440 Pixeln** und platziere
 
 ### Gestaltungsaufgabe
 
-Duplizieren Sie das Setup 15 mal und erzeugen Sie für fünf verschiedene Gestaltgesetze jeweils drei verschiedene, interessante Kompositionen. Dabei muss folgende Regeln eingehalten werden:
+Duplizieren Sie das Setup 15 mal und erzeugen Sie für fünf verschiedene Gestaltgesetze jeweils drei verschiedene, interessante Kompositionen. Dabei müssen folgende Regeln eingehalten werden:
 - alle Quadrate müssen sichtbar sein
 - die Quadrate dürfen nicht verzerrt werden
 
