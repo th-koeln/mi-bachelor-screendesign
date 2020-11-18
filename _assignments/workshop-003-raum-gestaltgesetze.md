@@ -7,7 +7,7 @@ Heute beschäftigen wir uns mit Raum & Gestaltgesetzen. Dazu gibt es zwei Aufgab
 
 ---
 
-## Räumlichkeit erzeugen
+## Aufgabe 1: Räumlichkeit erzeugen
 
 ### Basis Setup
 
@@ -30,7 +30,7 @@ Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias h
 
 <hr>
 
-## Gestaltgesetze
+## Aufgabe 2: Gestaltgesetze
 
 ### Erweitertes Setup
 Erzeugen Sie eine schwarze Montagefläche von **1440x1440 Pixeln** und platzieren Sie die weiße Arbeitsfläche aus der vorherigen Aufgabe, inkl. Basis Setup, oben randbündig auf der Montagefläche.
