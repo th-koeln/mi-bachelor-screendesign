@@ -19,7 +19,7 @@ Heute wird das [Gestaltungsportfolio](../../gestaltungsportfolio/) vorgestellt. 
 
 ## Vorbereitung & Anmeldung
 
-Laden Sie **alle** Artefakte rechtzeitig in der [Ilias-Übung](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Melden Sie sich dann zu einem [Slot im Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1697422&client_id=ILIAS_FH_Koeln) an. Pro Termin sind nur 30 Studierende möglich.
+Laden Sie **alle** Artefakte rechtzeitig bis zum **25.11.2020 23:59 Uhr** in der [Ilias-Übung](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Melden Sie sich dann zu einem [Slot im Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1697422&client_id=ILIAS_FH_Koeln) an. Pro Termin sind nur 30 Studierende möglich.
 
 ## Weitere Informationen
 

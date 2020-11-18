@@ -28,7 +28,7 @@ Die Portfolios werden auf Basis des Niveaustufenmodells bewertet. Hier finden Si
 
 ## Portfoliopräsentation (Pflichttermin)
 
-Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum Präsentationstermin zwei Ihrer Artefakte präsentieren. Dazu bitte im [Ilias einen Termin](https://ilias.th-koeln.de/goto.php?target=fold_1697422&client_id=ILIAS_FH_Koeln) buchen. Es stehen drei Zeitslots zur Verfügung und in jedem Zeitslot gibt es zwei parallele Tracks. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die fristgerecht hochgeladen wurden. 
+Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum Präsentationstermin zwei Ihrer Artefakte präsentieren. Dazu bitte im [Ilias einen Termin](https://ilias.th-koeln.de/goto.php?target=fold_1697422&client_id=ILIAS_FH_Koeln) buchen. Es stehen drei Zeitslots zur Verfügung und in jedem Zeitslot gibt es zwei parallele Tracks. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die [fristgerecht hochgeladen](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) wurden. 
 
 Wählen Sie zwei Artefakte aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer stehen fünf Minuten Präsentationszeit zur Verfügung. 
 
