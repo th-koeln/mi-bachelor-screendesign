@@ -42,6 +42,7 @@ Erzeugen Sie eine schwarze Montagefläche von **1440x1440 Pixeln** und platziere
 
 Duplizieren Sie das Setup 15 mal und erzeugen Sie für fünf verschiedene Gestaltgesetze jeweils drei verschiedene, interessante Kompositionen. Dabei muss folgende Regeln eingehalten werden:
 - alle Quadrate müssen sichtbar sein
+- die Quadrate dürfen nicht verzerrt werden
 
 Beschriften Sie die Montagefläche mit Ihrem Namen und dem oder den Gestaltgesetzen, die Sie visualisiert haben. Halten Sie sich bei der Beschriftung an folgenden Regelsatz:
 - als Schriftarten nur **Roboto** oder **Roboto Slab** nutzen
