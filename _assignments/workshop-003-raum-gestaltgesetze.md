@@ -3,7 +3,7 @@ titel: Raum & Gestaltgesetze
 tags: Basics
 ---
 
-Heute beschäftigen wir uns mit Raum & Gestaltgesetzen. Dazu gibt es zwei Aufgaben. Den theoretischen Hintergrund bekommen Sie der [dazu vorgesehenen Lehrveranstaltung](/mi-bachelor-screendesign/lehrveranstaltungen/040-workshop-raum-gestaltgesetze/).
+Heute beschäftigen wir uns mit Raum & Gestaltgesetzen. Dazu gibt es zwei Aufgaben. Den theoretischen Hintergrund bekommen Sie in der [dazu vorgesehenen Lehrveranstaltung](/mi-bachelor-screendesign/lehrveranstaltungen/040-workshop-raum-gestaltgesetze/).
 
 ---
 
