@@ -20,7 +20,7 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 - Gute Übung in Figma
 
 ## Material
-- [Figma Shortcuts für die deutsche Tastatur](https://www.figma.com/proto/q2OVHiUu6hdDiOZLzDmUL9/Shortcuts-(International)?scaling=contain&node-id=9%3A146
+- [Figma Shortcuts für die deutsche Tastatur](https://www.figma.com/proto/q2OVHiUu6hdDiOZLzDmUL9/Shortcuts-(International)?scaling=contain&node-id=9%3A146)
 
 ## Aufgaben
 In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
