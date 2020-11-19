@@ -46,7 +46,7 @@ Duplizieren Sie das Setup 15 mal und erzeugen Sie für fünf verschiedene Gestal
 
 Beschriften Sie die Montagefläche mit Ihrem Namen und dem oder den Gestaltgesetzen, die Sie visualisiert haben. Halten Sie sich bei der Beschriftung an folgenden Regelsatz:
 - als Schriftarten nur **Roboto** oder **Roboto Slab** nutzen
-- Schriften nur **schwarz** oder in **Graustufen** setzen
+- Schriften nur **weiß** oder in **Graustufen** setzen
 - keine Schatten oder sonstigen Effekte nutzen
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
