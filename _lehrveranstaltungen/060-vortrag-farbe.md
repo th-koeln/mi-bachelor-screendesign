@@ -21,5 +21,6 @@ Genau darum geht es heute: Farbe, eines der wirkungsvollsten Gestaltungsmittel. 
 Außerdem gibt es heute Feedback zur Porfoliopräsentation und den abgegebenen Artefakten.
 
 ## Material
+- [How to create a better UI color palette](https://blog.prototypr.io/tips-for-creating-a-better-color-palette-c69d9c20ae37)
 - [Folien zu Moodboards](../../download/inputs/woche-9/semantisches-differenzial-moodboards.pdf)
 - [Folien zu Farbe](../../download/inputs/woche-9/farbe.pdf)
