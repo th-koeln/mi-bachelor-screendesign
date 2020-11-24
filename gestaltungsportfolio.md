@@ -13,7 +13,7 @@ Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeu
 
 ## Inhalt des Portfolios
 
-Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie **das jeweils Ihre beste Lösung** aus: 
+Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie **jeweils Ihre beste Lösung** aus: 
 
 - eine Lösung zu den Aufgaben [Punkt 1 und Punkt 2](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
 - eine Lösung zu den Aufgaben [Linie 1 und Linie 2](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
