@@ -24,8 +24,14 @@ Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrer
 - [Color Wheel](https://color.adobe.com/de/create/color-wheel/)
 - [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
-## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
+## Aufgaben
+In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
+- [Farbe](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
 
+## Upload
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **10.12.2020 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
+
+<!--
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
+-->
