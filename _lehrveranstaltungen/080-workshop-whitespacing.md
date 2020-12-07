@@ -19,8 +19,6 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
 
-
-
 ## Material
 
 - [Folien: Systematische Proportionen und Abstände](../../download/workshops/systematische-proportionen-und-abstaende/systematische-proportionen-und-abstaende.pdf)

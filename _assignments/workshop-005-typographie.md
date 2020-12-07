@@ -48,6 +48,7 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias h
 ```sd-aufgabe-typo-2.1-schwarz-NACHNAME.png``` \
 ```sd-aufgabe-typo-2.2-schwarz-NACHNAME.png``` \
 ```sd-aufgabe-typo-2.3-schwarz-NACHNAME.png``` \
+usw.
 
 ## Typographie 3
 
@@ -73,6 +74,7 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias h
 ```sd-aufgabe-typo-4.3-NACHNAME.png``` \
 ```sd-aufgabe-typo-4.4-NACHNAME.png``` \
 ```sd-aufgabe-typo-4.5-NACHNAME.png``` \
+usw.
 
 
 ## Typographie 5
@@ -85,3 +87,4 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias h
 ```sd-aufgabe-typo-5.2-NACHNAME.png``` \
 ```sd-aufgabe-typo-5.3-NACHNAME.png``` \
 ```sd-aufgabe-typo-5.4-NACHNAME.png``` \
+usw.

@@ -20,12 +20,11 @@ Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrer
 - Kenntnisse in Figma
 
 ## Material
-- [Aufgaben Farbe](../../download/workshops/farbe/aufgabe-farbklima.pdf)
-- [Color Wheel](https://color.adobe.com/de/create/color-wheel/)
+- [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
 - [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
 ## Aufgaben
-In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
+In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
 - [Farbe](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
 
 ## Upload
