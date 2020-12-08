@@ -61,7 +61,7 @@ Exportieren Sie die Arbeitsfläche als PNGs (2x) und laden Sie diese im Ilias ho
 
 ## Typographie 4
 
-Erzeugen Sie eine Arbeitsfläche von **600x300 Pixeln**. Setzen Sie nur den Unternehmensnamen aus der [ersten Aufgabe](#typgraphie-1) auf die Fläche. Falls erforderlich passen Sie die Größe an. Eventuell muss das Kerning optimiert werden.
+Erzeugen Sie eine Arbeitsfläche von **600x300 Pixeln**. Setzen Sie nur den Unternehmensnamen aus der [ersten Aufgabe](#typographie-1) auf die Fläche. Falls erforderlich passen Sie die Größe an. Eventuell muss das Kerning optimiert werden.
 
 Wählen Sie nun eine Farbe, die zum Unternehmen passt und füllen Sie den Hintergrund damit. Falls erforderlich invertieren Sie die Schriftfarbe.
 
