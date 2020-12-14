@@ -9,7 +9,7 @@ Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden:
 1. [Gestaltungsportfolio](#gestaltungsportfolio)
 2. [Designkonzept als Mockup](#designkonzept-als-mockup)
 3. [Patternlab](#patternlab)
-4. [Online Dokumentation](#online-dokumentation)
+4. [Präsentation und Kurzdokumentation](#online-dokumentation)
 
 ------
 
@@ -45,35 +45,35 @@ Weitere Infos finden Sie unter [Gestaltungsportfolio](../gestaltungsportfolio/)
 Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
-- Die Arbeiten wurden handwerklich sehr sauber und präzise umgesetzt.
-- Die Dateinamen sind sprechend und verständlich.
-- In den Arbeiten lässt sich eine intensive Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign erkennen.
-- Die Lösungen sind variantenreich (sofern es die Aufgabe erfordert).
-- Die Lösungen lassen ein gutes Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
+- die Arbeiten wurden handwerklich sehr sauber und präzise umgesetzt
+- die Dateinamen sind sprechend und verständlich
+- in den Arbeiten lässt sich eine intensive Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign erkennen
+- die Lösungen sind variantenreich (sofern es die Aufgabe erfordert)
+- die Lösungen lassen ein gutes Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen
 
 **Gute Lösung**
-- Die Arbeiten wurden handwerklich sauber und präzise umgesetzt.
-- Die Dateinamen sind sprechend und verständlich.
-- In den Arbeiten lassen sich wesentliche Konzepte und Vorgehensweisen im Screendesign erkennen.
-- Die Lösungen lassen ein gutes Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
+- die Arbeiten wurden handwerklich sauber und präzise umgesetzt
+- die Dateinamen sind sprechend und verständlich
+- in den Arbeiten lassen sich wesentliche Konzepte und Vorgehensweisen im Screendesign erkennen
+- die Lösungen lassen ein gutes Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen
 
 **Passable Lösung**
-- Die Arbeiten wurden handwerklich überwiegend sauber und präzise umgesetzt.
-- In den Arbeiten lassen sich wesentliche Konzepte und Vorgehensweisen im Screendesign erkennen.
-- Die Lösungen lassen ein Grundverständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
+- die Arbeiten wurden handwerklich überwiegend sauber und präzise umgesetzt
+- in den Arbeiten lassen sich wesentliche Konzepte und Vorgehensweisen im Screendesign erkennen
+- die Lösungen lassen ein Grundverständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen
 
 **Akzeptable Lösung**
-- Die Arbeiten wurden handwerklich teilweise sauber und präzise umgesetzt.
-- In einigen Arbeiten lassen sich Konzepte und Vorgehensweisen im Screendesign erkennen.
-- Die meisten Lösungen lassen ein Grundverständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
+- die Arbeiten wurden handwerklich teilweise sauber und präzise umgesetzt
+- in einigen Arbeiten lassen sich Konzepte und Vorgehensweisen im Screendesign erkennen
+- die meisten Lösungen lassen ein Grundverständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen
 
 **Schlechte Lösung**
-- Die Arbeiten wurden handwerklich unsauber umgesetzt.
-- Die einzelnen Dateien sind unvollständig und chaotisch.
-- Den Arbeiten fehlt jegliche Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign.
-- Die Lösungen lassen kein Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen.
+- die Arbeiten wurden handwerklich unsauber umgesetzt
+- die einzelnen Dateien sind unvollständig und chaotisch
+- den Arbeiten fehlt jegliche Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign
+- die Lösungen lassen kein Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen
 
---- 
+----
 
 ## Designkonzept als Mockup
 
@@ -103,55 +103,45 @@ Das Mockup soll:
 Idealerweise kann der "Kunde" auf Basis des Designkonzepts/ Mockups folgende Fragen positiv beantworten:
 - das Designkonzept erfüllt die Kommunikationsaufgabe
 - die Gestaltung passt gut in den bestehenden Designkontext oder ergänzt ihn sinnvoll
-- das Designkonzept berücksichtigt verschiedene Kontexte
+- das Designkonzept berücksichtigt verschiedene Geräteklassen
 - die Gestaltung ist in sich schlüssig und konsistent
 
-Das Mockup muss als PDF und die einzelnen Screens als *.jpg Datein am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Vom Mockup müssen die einzelnen Screens als *.jpg Datein am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
-- Erfüllt alle notwendigen Anforderungen und ein bisschen mehr.
-- Bettet sich gestalterisch und funktional perfekt in das bestehende Design ein oder ergänzt es sinnvoll.
-- Ist schlüssig und wurde gut gegenüber anderen Lösungsansätzen argumentiert.
-- Die Domäne, der Anwendungskontext, die Funktionen und der Content wurden durchdrungen und entsprechende Ableitungen wurden in der Lösung berücksichtigt.
-- Bietet ein konsistentes Gestaltungskonzept für unterschiedliche Kontexte.
-- Ist sauber und umfassend ausgearbeitet.
-- Wurde professionell und überzeugend präsentiert.
+- erfüllt alle notwendigen Anforderungen und ein bisschen mehr
+- bettet sich gestalterisch und funktional perfekt in das bestehende Design ein oder ergänzt es sinnvoll
+- ist in sich schlüssig und konsistent
+- die Domäne, der Anwendungskontext, die Funktionen und der Content wurden durchdrungen und entsprechende Ableitungen wurden in der Lösung berücksichtigt
+- bietet ein konsistentes Gestaltungskonzept für unterschiedliche Geräteklassen
+- ist sauber, systematisch und umfassend ausgearbeitet und abgelegt
 
 **Gute Lösung**
-- Erfüllt alle notwendigen Anforderungen.
-- Bettet sich gestalterisch und funktional gut in das bestehende Design ein oder ergänzt es sinnvoll.
-- Ist in sich schlüssig.
-- Berücksichtigt unterschiedliche Kontexte.
-- Ist sauber ausgearbeitet.
-- Wurde professionell präsentiert.
+- erfüllt alle notwendigen Anforderungen
+- bettet sich gestalterisch und funktional gut in das bestehende Design ein oder ergänzt es sinnvoll
+- ist in sich schlüssig
+- berücksichtigt unterschiedliche Geräteklassen
+- ist sauber und systematisch ausgearbeitet und abgelegt
 
 **Passable Lösung**
-- Erfüllt wichtige Anforderungen.
-- Bettet sich gestalterisch und funktional, ohne große Störungen oder Inkonsistenzen, in das bestehende Design ein.
-- Ist weitgehend sauber ausgearbeitet.
-- Wurde überwiegend professionell und nachvollziehbar präsentiert.
+- erfüllt wesentliche Anforderungen
+- bettet sich gestalterisch und funktional, ohne große Störungen oder Inkonsistenzen, in das bestehende Design ein
+- ist weitgehend sauber ausgearbeitet
 
 **Akzeptable Lösung**
-- Erfüllt wichtige Anforderungen.
-- Bettet sich gestalterisch und funktional, mit wenigen Störungen oder Inkonsistenzen, in das bestehende Design ein.
-- Ist teilweise sauber ausgearbeitet
-- Wurde mit ein paar Unsicherheiten präsentiert
+- erfüllt wesentliche Anforderungen
+- bettet sich gestalterisch und funktional, mit wenigen Störungen oder Inkonsistenzen, in das bestehende Design ein
+- ist teilweise sauber ausgearbeitet
 
 **Schlechte Lösung**
-- Erfüllt wenige Anforderungen
-- Hat kaum Bezug zur bestehenden Gestaltung und zu vorhandenen Interaktionsabläufen.
-- Ist überwiegend unsauber
-- Wurde wenig überzeugend und professionell präsentiert
+- erfüllt nur wenige bis keine Anforderungen
+- hat keinen Bezug zur bestehenden Gestaltung und zu vorhandenen Interaktionsabläufen
+- ist wenig schlüssig und wurde nicht gegenüber anderen Ansätzen argumentiert
+- vernachlässigt unterschiedliche Geräteklassen
+- ist unsauber und zu flach ausgearbeitet
+- keine systematische Dateiablage
 
-**Schlechteste Lösung**
-- Erfüllt nur wenige bis keine Anforderungen
-- Hat keinen Bezug zur bestehenden Gestaltung und zu vorhandenen Interaktionsabläufen
-- Ist wenig schlüssig und wurde nicht gegenüber anderen Ansätzen argumentiert
-- Vernachlässigt unterschiedliche Kontexte
-- Ist unsauber ausgearbeitet
-- Wurde nicht überzeugend präsentiert.
-
----
+----
 
 ## Patternlab
 
@@ -173,18 +163,18 @@ Einzel- oder Teamartefakt
 Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einem Styleguide oder einer Pattern Library systematisch dokumentiert werden.
 
 Die resultierende Übersicht soll:
-- das Gestaltungssystem erfassen strukturieren, bewerten, ggf. Lücken und Inkonsistenzen zeigen und schließen
+- das Gestaltungssystem erfassen und strukturieren
 - dem "Kunden" zeigen, dass man die Kommunikationsziele verstanden hat
 - als Basis für die weitere Projektbearbeitung durch ein anderes Team fungieren
 - zeigen, dass der Gestaltung eine Systematik zugrunde liegt
 
-Pattern Library bzw. Styleguide sollen möglichst vollständig und sauber ausgearbeitet sein. Mit Hilfe der resultierenden Übersicht über die Designelemente sollten folgende Fragen positiv beantworten werden können:
+Pattern Library bzw. Styleguide sollen möglichst vollständig und sauber ausgearbeitet sein. Mit Hilfe der resultierenden Übersicht über die Designelemente sollten folgende Fragen positiv beantwortet werden können:
 - der Gestaltungskontext des Kunden ist korrekt erfasst
 - der Gestaltung liegt ein erkennbares, verständliches und konsistentes System zugrunde
 - mit Hilfe des Mockups und der Library könnte im nächsten Prozessschritt ein Entwicklerteam weiter arbeiten
 - das Gestaltungssystem ist für den Anwendungsfall/ Projektauftrag vollständig
 
-Die resultierende Übersicht muss als SVG exportiert und in die Online Dokumentation eingebunden werden. Hierzu wird noch ein Video folgen.
+Die resultierende Übersicht muss als SVG exportiert und in die Kurzdokumentation eingebunden werden.
 
 
 **Beste Lösung**
@@ -212,15 +202,15 @@ Die resultierende Übersicht muss als SVG exportiert und in die Online Dokumenta
 - wesentliche Gestaltungselemente und -regeln sind systematisch dargestellt
 - die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind im finalen Entwurf erkennbar
 
-**Schlechteste Lösung**
+**Schlechte Lösung**
 - nur wenige Gestaltungselemente sind dargestellt
 - die Darstellung ist eher chaotisch
 - die Übersicht ist unsauber
 - die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind nicht im finalen Entwurf erkennbar
 
----
+----
 
-## Online Dokumentation
+## Präsentation und Kurzdokumentation
 
 Abgabe
 : {{site.data.abgaben.artefakt3.format}}
@@ -237,55 +227,65 @@ Einzel- oder Teamartefakt
 Übergabepunkt
 : [{{site.data.abgaben.artefakt3.uebergabepunkt-text}}]({{site.data.abgaben.artefakt3.uebergabepunkt-link}})
 
-Die Funktion der Online Dokumentation ist, das Projektergebnis und die zugrunde liegenden Ideen gegenüber dem Kunden und anderen Teams knapp und sachlich zu erläutern.
+Die Funktion von Präsentation und Kurzdokumentation ist, das Projektergebnis und die zugrunde liegenden Ideen gegenüber einem Kunden oder anderen Teams knapp und sachlich zu erläutern.
 
-Mit der Online Dokumentation soll erläutert werden:
-- was war die Ausgangsbasis/ der Auftrag?
+Mit Präsentation und Kurzdokumentation soll erläutert werden:
+- was war die Ausgangsbasis und der Auftrag?
+- welche Kommunikations- und/oder Interaktionsziele sollten erreicht werden und?
 - welche Elemente, Screens und Regeln wurden entwickelt?
-- wie wurden die Kommunikationsziele umgesetzt?
+- wie und in welchem Maße wurden die Kommunikations- und/oder Interaktionsziele erreicht?
 - welche Systematik liegt hinter dem Gestaltungskonzept?
 
-Das Artefakt soll Professionalität ausstrahlen und vertrauensbildend sein. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und vertrauensbildend sein. Sie werden entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
-- Die Dokumentation ist sehr systematisch, pointiert und sehr gut strukturiert.
-- Die Dokumentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider.
-- Die Dokumentation enthält alle, notwendige Erläuterungen.
-- Die Dokumentation ist sehr übersichtlich, sprachlich sehr gut und fehlerfrei.
-- Die Dokumentation ist sauber, gut gestaltet, professionell und vertrauensbildend.
+- die Prüflinge sind sicher im Auftreten und in der Verwendung angemessener Fachsprache
+- die entwickelte Lösung wurde überzeugend vorgestellt und gegenüber anderen Varianten argumentiert
+- die Argumentation ist schlüssig und nachvollziehbar
+- die Präsentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider
+- die Kurzdokumentation ist systematisch, pointiert und sauber ausgearbeitet
+- die Kurzdokumentation fokussiert sich auf die wesentlichen Elemente
+- Präsentation und Kurzdokumentation sind sauber, gut gestaltet, professionell und vertrauensbildend
+- es ist erkennbar, dass die Prüflinge viele Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich verstanden haben, anwenden und reflektieren können
+- die Prüflinge können professionell mit Fragen und Anmerkungen umgehen
 
 **Gute Lösung**
-- Die Dokumentation ist systematisch und gut strukturiert.
-- Die Dokumentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider.
-- Die Dokumentation enthält alle, notwendige Erläuterungen.
-- Die Dokumentation ist übersichtlich, sprachlich gut und enthält wenige Fehler.
-- Die Dokumentation ist ordentlich und wirkt recht professionell.
+- die Prüflinge sind sicher in der Verwendung angemessener Fachsprache
+- die entwickelte Lösung wurde gut vorgestellt
+- die Argumentation ist schlüssig und nachvollziehbar
+- die Präsentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/-auftrags wider
+- die Kurzdokumentation ist systematisch und pointiert
+- die Kurzdokumentation fokussiert sich auf die wesentlichen Elemente
+- Präsentation und Kurzdokumentation sind sauber, recht professionell und vertrauensbildend
+- es ist erkennbar, dass die Prüflinge viele Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich verstanden haben und anwenden können
+- die Prüflinge können professionell mit Fragen und Anmerkungen umgehen
 
 **Passable Lösung**
-- Die Dokumentation ist überwiegend systematisch und5 strukturiert.
-- Die Dokumentation spiegelt einige Punkte des Gestaltungskonzepts/ Auftrags wider.
-- Die Dokumentation enthält viele, notwendige Erläuterungen.
-- Die Dokumentation enthält wenige Fehler.
-- Die Dokumentation ist weitgehend ordentlich und professionell.
+- die Prüflinge sind in der Lage Fachbegriffe zu nutzen
+- die entwickelte Lösung wurde überwiegend nachvollziehbar vorgestellt
+- die Kurzdokumentation ist überwiegend systematisch
+- die Kurzdokumentation fokussiert sich auf die wesentlichen Elemente
+- Präsentation und Kurzdokumentation sind recht sauber und enthalten nur wenige Fehler
+- es ist erkennbar, dass die Prüflinge einige Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich verstanden haben und anwenden können
 
 **Akzeptable Lösung**
-- Die Dokumentation spiegelt einige Punkte des Gestaltungskonzepts/ Auftrags wider.
-- Die Dokumentation enthält einige, notwendige Erläuterungen.
-- Die Dokumentation enthält wenige Fehler.
-- Die Dokumentation ist halbwegs ordentlich und professionell.
+- die Prüflinge sind in der Lage Fachbegriffe zu nutzen
+- die entwickelte Lösung wurde überwiegend nachvollziehbar vorgestellt
+- die Kurzdokumentation ist in Teilen systematisch
+- Präsentation und Kurzdokumentation enthalten nur wenige Fehler
+- es ist erkennbar, dass die Prüflinge einige Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich kennen
 
 **Schlechte Lösung**
-- Die Dokumentation ist sehr lückenhaft oder nur in Bruchstücken vorhanden.
-- Die Dokumentation fehlt oder referenziert nicht auf das Gestaltungskonzept oder den Auftrag.
-- Die Dokumentation unsauber, ungestaltet und wirkt nicht professionell.
-- Die Dokumentation ist sprachlich schlecht und enthält übermäßig viele Fehler.
+- es ist nicht erkennbar, dass die Prüflinge Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich kennen und anwenden können
+- der Präsentation und Kurzdokumentation mangelt es an Fachlichkeit, Sachlichkeit und Objektivität
+- die eingesetzten Materialien sind chaotisch, unsauber und enthalten viele Fehler
 
-### Hinweise zur Online Dokumentation 
+### Hinweise zur Kurzdokumentation 
 
-> Bitte nutzen Sie dieses [Repo für Ihre Online Dokumentation](https://github.com/th-koeln/mi-bachelor-screendesign-doku) und befolgen Sie die Vorgaben und Hinweise aus den folgenden beiden Videos:
+> Bitte nutzen Sie dieses [Repo für Ihre Kurzdokumentation](https://github.com/th-koeln/mi-bachelor-screendesign-doku) und befolgen Sie die Vorgaben und Hinweise aus den folgenden beiden Videos:
 
-### Wie funktioniert die Online Dokumentation?
+### Wie funktioniert die Kurzdokumentation?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gZ2tvfwC7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Wie stelle ich die Online Dokumentation bereit?
+### Wie stelle ich die Kurzdokumentation bereit?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3oskocJp4-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

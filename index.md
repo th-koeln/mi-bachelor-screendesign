@@ -22,7 +22,7 @@ Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.p
 ## Kontaktlose Veranstaltung und Prüfung aufgrund der Covid-19 Problematik
  Aufgrund der weiterhin bestehenden Covid-19 Problematik wird das Modul inkl. Prüfung komplett online angewickelt. Wir haben auf dieser Seite nicht alle Beschreibungen und Erklärungen auf die neue Situation angepasst. Im {{ site.semester }} werden alle Vorlesungen, Workshops, Trainings und Feedbacktermine über Zoom abgebildet. Die entsprechenden Links finden Sie im [Zeitplan](./timetable/). 
  
- Auch in der kommenden Prüfungsphase nutzen wir für das Modul statt einer mündlichen Projektpräsentationsprüfung eine **Video-Projektpräsentationsprüfung**. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Video-Projektpräsentationsprüfung](video-projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
+ Auch die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit wird online, via Zoom abgebildet. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Projektpräsentationsprüfung](projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
 
 
 ## Worum geht es?
