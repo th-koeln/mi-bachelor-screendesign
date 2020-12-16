@@ -9,7 +9,7 @@ Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden:
 1. [Gestaltungsportfolio](#gestaltungsportfolio)
 2. [Designkonzept als Mockup](#designkonzept-als-mockup)
 3. [Patternlab](#patternlab)
-4. [Präsentation und Kurzdokumentation](#online-dokumentation)
+4. [Präsentation und Kurzdokumentation](#präsentation-und-kurzdokumentation)
 
 ------
 
@@ -279,6 +279,8 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 - es ist nicht erkennbar, dass die Prüflinge Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich kennen und anwenden können
 - der Präsentation und Kurzdokumentation mangelt es an Fachlichkeit, Sachlichkeit und Objektivität
 - die eingesetzten Materialien sind chaotisch, unsauber und enthalten viele Fehler
+
+Hier finden Sie weitere [Informationen zur Projektpräsentationsprüfung](/mi-bachelor-screendesign/projektpraesentationspruefung/).
 
 ### Hinweise zur Kurzdokumentation 
 
