@@ -15,9 +15,11 @@ info: Nachdem der Projektkontext ja schon auf dem Ganztagesworkshop vorgestellt 
 
 ## Worum geht es?
 
-Heute wird das konkrete Projektthema vorgestellt. Darüber hinaus gibt es eine Übersicht über typische Abläufe in Designprojekten, die als Grundlage für das Deliverable "Angebot und Anschreiben" dienen soll. Außerdem wiederholen wir noch mal ein paar Inhalte von letzter Woche zum Thema Typographie und Textsatz.
+Heute wird das konkrete Projektthema vorgestellt. Außerdem wiederholen wir noch mal ein paar Inhalte von letzter Woche zum Thema Farbe, Typographie und Textsatz.
 
 ## Material
 
 - [Folien zur Wiederholung von Typographie und Textsatz](../../download/inputs/woche-11/typographie_und_textsatz.pdf)
-- [Folien zu Designprozesse strukturieren](../../download/inputs/woche-11/ws_designprozesse_strukturieren.pdf)
+- [Infos zum Projekt](/mi-bachelor-screendesign/projekt-2020/)
+- [Infos zur Prüfung](/mi-bachelor-screendesign/projektpraesentationspruefung/)
+- [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
