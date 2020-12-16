@@ -5,11 +5,11 @@ verantwortlich: cn
 typ: workshop
 pflicht: false
 termine: 2020-12-17 11:00
-empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
+empfohlene-voraussetzungen: t-sb,t-fb,w-lmw
 published: true
 dauer: 180
 raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
-info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluß auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
+info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluss auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
 ---
 
 ## Worum geht es?
@@ -22,10 +22,6 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 ## Material
 
 - [Folien: Systematische Proportionen und Abstände](../../download/workshops/systematische-proportionen-und-abstaende/systematische-proportionen-und-abstaende.pdf)
-- [Materialpaket: Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip)
-- [Aufgabe Negativraum](/mi-bachelor-screendesign/assignments/whitespacing-1/)
-- [Aufgabe Systematische Abstände](/mi-bachelor-screendesign/assignments/whitespacing-2/)
-
 
 ## Weiterführendes Material
 - [White space in UI design](https://uxplanet.org/white-space-in-ui-design-8647d4f685a7)
@@ -36,8 +32,14 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 - [Anders gesehen – Die Kunst des Negativraums](https://www.justinmind.com/blog/10-examples-of-white-space-design-websites-youll-want-to-copy/)
 - [Get Started With UI Design With These Tips To Speed Up Your Workflow](https://www.smashingmagazine.com/2019/12/ui-design-tips-speed-up-workflow/)
 
-## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2Pnya0k) hochgeladen werden. 
+## Aufgaben
+In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
+- [Negativraum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
+- [Systematische Abstände](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
 
-## Sie haben keinen Rechner?
-Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
+## Upload
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **07.01.2020 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
+
+<!-- ## Sie haben keinen Rechner?
+Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit. -->
+

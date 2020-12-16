@@ -1,5 +1,5 @@
 ---
-titel: Vorstellung der Projektaufgabe // Designprojekte strukturieren
+titel: Vorstellung der Projektaufgabe
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
@@ -9,9 +9,8 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 90
 raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
-info: Nachdem der Projektkontext ja schon auf dem Ganztagesworkshop vorgestellt wurde, wird heute das konkrete Projekt vorgestellt.
+info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
-
 
 ## Worum geht es?
 
@@ -21,5 +20,5 @@ Heute wird das konkrete Projektthema vorgestellt. Außerdem wiederholen wir noch
 
 - [Folien zur Wiederholung von Typographie und Textsatz](../../download/inputs/woche-11/typographie_und_textsatz.pdf)
 - [Infos zum Projekt](/mi-bachelor-screendesign/projekt-2020/)
-- [Infos zur Prüfung](/mi-bachelor-screendesign/projektpraesentationspruefung/)
+- [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
