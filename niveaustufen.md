@@ -8,7 +8,7 @@ Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden:
 
 1. [Gestaltungsportfolio](#gestaltungsportfolio)
 2. [Designkonzept als Mockup](#designkonzept-als-mockup)
-3. [Patternlab](#patternlab)
+3. [Patternlab/Style-Guide](#patternlabstyle-guide)
 4. [Präsentation und Kurzdokumentation](#präsentation-und-kurzdokumentation)
 
 ------
@@ -73,7 +73,7 @@ Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 - den Arbeiten fehlt jegliche Auseinandersetzung mit Konzepten und Vorgehensweisen im Screendesign
 - die Lösungen lassen kein Verständnis der zugrundeliegenden Aufgabe/ Fragestellung erkennen
 
-----
+---
 
 ## Designkonzept als Mockup
 
@@ -92,21 +92,21 @@ Einzel- oder Teamartefakt
 Übergabepunkt
 : [{{site.data.abgaben.artefakt1.uebergabepunkt-text}}]({{site.data.abgaben.artefakt1.uebergabepunkt-link}})
 
-Das wesentliche Deliverable des Projekts ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/ Kontexte umfasst.
+Das wesentliche Deliverable des [Projekts](../projekt-2020/) ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/Kontexte umfasst.
 
 Das Mockup soll:
 - die Umsetzung des Konzeptansatzes erklären und erfahrbar machen
 - so aufbereitet sein, dass es als Basis für eine spätere Implementierung durch ein Entwicklerteam herangezogen werden könnte
-- zeigen wie bestimmte User Journeys abgebildet werden
+- zeigen, wie bestimmte User Journeys abgebildet werden
 - die notwenigen Screens, Interaktionen und Übergänge zeigen
 
-Idealerweise kann der "Kunde" auf Basis des Designkonzepts/ Mockups folgende Fragen positiv beantworten:
+Idealerweise kann der "Kunde" auf Basis des Designkonzepts/Mockups folgende Fragen positiv beantworten:
 - das Designkonzept erfüllt die Kommunikationsaufgabe
 - die Gestaltung passt gut in den bestehenden Designkontext oder ergänzt ihn sinnvoll
 - das Designkonzept berücksichtigt verschiedene Geräteklassen
 - die Gestaltung ist in sich schlüssig und konsistent
 
-Vom Mockup müssen die einzelnen Screens als *.jpg Datein am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Vom Mockup müssen die einzelnen Screens als Bilddateienn (JPG oder PNG) am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
 - erfüllt alle notwendigen Anforderungen und ein bisschen mehr
@@ -143,7 +143,7 @@ Vom Mockup müssen die einzelnen Screens als *.jpg Datein am Übergabepunkt hint
 
 ----
 
-## Patternlab
+## Patternlab/Style-Guide
 
 Abgabe
 : {{site.data.abgaben.artefakt2.format}}
@@ -160,7 +160,7 @@ Einzel- oder Teamartefakt
 Übergabepunkt
 : [{{site.data.abgaben.artefakt2.uebergabepunkt-text}}]({{site.data.abgaben.artefakt2.uebergabepunkt-link}})
 
-Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einem Styleguide oder einer Pattern Library systematisch dokumentiert werden.
+Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einer Patternlab oder  Style-Guide systematisch dokumentiert werden.
 
 Die resultierende Übersicht soll:
 - das Gestaltungssystem erfassen und strukturieren
@@ -168,14 +168,13 @@ Die resultierende Übersicht soll:
 - als Basis für die weitere Projektbearbeitung durch ein anderes Team fungieren
 - zeigen, dass der Gestaltung eine Systematik zugrunde liegt
 
-Pattern Library bzw. Styleguide sollen möglichst vollständig und sauber ausgearbeitet sein. Mit Hilfe der resultierenden Übersicht über die Designelemente sollten folgende Fragen positiv beantwortet werden können:
+Patternlab bzw. Style-Guide sollen möglichst vollständig und sauber ausgearbeitet sein. Mit Hilfe der resultierenden Übersicht über die Designelemente sollten folgende Fragen positiv beantwortet werden können:
 - der Gestaltungskontext des Kunden ist korrekt erfasst
 - der Gestaltung liegt ein erkennbares, verständliches und konsistentes System zugrunde
 - mit Hilfe des Mockups und der Library könnte im nächsten Prozessschritt ein Entwicklerteam weiter arbeiten
-- das Gestaltungssystem ist für den Anwendungsfall/ Projektauftrag vollständig
+- das Gestaltungssystem ist für den Anwendungsfall/Projektauftrag vollständig
 
 Die resultierende Übersicht muss als SVG exportiert und in die Kurzdokumentation eingebunden werden.
-
 
 **Beste Lösung**
 - Gestaltungselemente und -regeln sind systematisch dargestellt
@@ -230,11 +229,11 @@ Einzel- oder Teamartefakt
 Die Funktion von Präsentation und Kurzdokumentation ist, das Projektergebnis und die zugrunde liegenden Ideen gegenüber einem Kunden oder anderen Teams knapp und sachlich zu erläutern.
 
 Mit Präsentation und Kurzdokumentation soll erläutert werden:
-- was war die Ausgangsbasis und der Auftrag?
-- welche Kommunikations- und/oder Interaktionsziele sollten erreicht werden und?
-- welche Elemente, Screens und Regeln wurden entwickelt?
-- wie und in welchem Maße wurden die Kommunikations- und/oder Interaktionsziele erreicht?
-- welche Systematik liegt hinter dem Gestaltungskonzept?
+- Was war die Ausgangsbasis und der Auftrag?
+- Welche Kommunikations- und/oder Interaktionsziele sollten erreicht werden?
+- Welche Elemente, Screens und Regeln wurden entwickelt?
+- Wie und in welchem Maße wurden die Kommunikations- und/oder Interaktionsziele erreicht?
+- Welche Systematik liegt hinter dem Gestaltungskonzept?
 
 Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und vertrauensbildend sein. Sie werden entsprechend der folgenden Niveaustufen bewertet:
 
@@ -242,7 +241,7 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 - die Prüflinge sind sicher im Auftreten und in der Verwendung angemessener Fachsprache
 - die entwickelte Lösung wurde überzeugend vorgestellt und gegenüber anderen Varianten argumentiert
 - die Argumentation ist schlüssig und nachvollziehbar
-- die Präsentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/ Auftrags wider
+- die Präsentation spiegelt die wesentlichen Punkte des Gestaltungskonzepts/Auftrags wider
 - die Kurzdokumentation ist systematisch, pointiert und sauber ausgearbeitet
 - die Kurzdokumentation fokussiert sich auf die wesentlichen Elemente
 - Präsentation und Kurzdokumentation sind sauber, gut gestaltet, professionell und vertrauensbildend
@@ -282,12 +281,21 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 
 Hier finden Sie weitere [Informationen zur Projektpräsentationsprüfung](/mi-bachelor-screendesign/projektpraesentationspruefung/).
 
-### Hinweise zur Kurzdokumentation 
 
+
+<div class="box">
+
+### Hinweise zur Kurzdokumentation
+
+Für die Kurzdokumentation werden wir Ihnen ein dafür vorgesehenes Repository auf GitHub bereitstellen. Wir werden Ihnen hierzu auch zeitnah Vorgaben und Hilfestellungen geben.
+
+</div>
+
+<!--
 > Bitte nutzen Sie dieses [Repo für Ihre Kurzdokumentation](https://github.com/th-koeln/mi-bachelor-screendesign-doku) und befolgen Sie die Vorgaben und Hinweise aus den folgenden beiden Videos:
 
 ### Wie funktioniert die Kurzdokumentation?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gZ2tvfwC7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Wie stelle ich die Kurzdokumentation bereit?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3oskocJp4-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3oskocJp4-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->

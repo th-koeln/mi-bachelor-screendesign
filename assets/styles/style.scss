@@ -417,7 +417,8 @@ $tt-grid-height: 60px;
 
   p,
   li,
-  table {
+  table,
+  .box {
     max-width: $bfs * 36;
   }
 
