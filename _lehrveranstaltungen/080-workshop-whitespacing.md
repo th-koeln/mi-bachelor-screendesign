@@ -31,6 +31,7 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [Anders gesehen – Die Kunst des Negativraums](https://www.justinmind.com/blog/10-examples-of-white-space-design-websites-youll-want-to-copy/)
 - [Get Started With UI Design With These Tips To Speed Up Your Workflow](https://www.smashingmagazine.com/2019/12/ui-design-tips-speed-up-workflow/)
+- [Der Goldene Schnitt - Inspirationen für die Bildgestaltung](https://www.whitewall.com/de/mag/goldener-schnitt) 
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
