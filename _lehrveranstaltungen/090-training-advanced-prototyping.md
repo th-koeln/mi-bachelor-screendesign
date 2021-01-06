@@ -26,9 +26,9 @@ Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kenne
 - sicherer Umgang in Figma
 
 ## Tutorials und Readings
-- [Components and Instances (Figma)](https://help.figma.com/article/66-components/)
-- [Styles (Figma)](https://help.figma.com/category/221-styles)
-- [Constraints (Figma)](https://help.figma.com/article/54-constraints)
+- [Components](https://help.figma.com/hc/en-us/sections/360006233714-Components/)
+- [Styles](https://help.figma.com/hc/en-us/sections/360006268153-Styles)
+- [Dynamic designs with Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
 - [Best practices: components, styles, and shared libraries (Figma)](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
 - [How to construct a design system](https://www.freecodecamp.org/news/how-to-construct-a-design-system-864adbf2a117/)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
