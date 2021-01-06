@@ -18,16 +18,10 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - eigener Rechner mit Figma
 - Sehr gute Kenntnisse in Figma
 
-
-## Material
+##  Material
 - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
-- [Aufgabe: Flow & Transition](../../assignments/flow-transition)
-
-
-## Weiterführendes Material
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 - [Understanding motion](https://material.io/guidelines/motion/material-motion.html)
-
 
 ## Tools & Tutorials
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
@@ -48,9 +42,15 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Showcase von Six UX](http://sixux.com/)
 - [Showcase auf CAPPTIVATE.co](http://capptivate.co)
 
-## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
 
+## Aufgaben
+In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
+- [Flow & Transition](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-007-flow-transition/). Hier reicht es aus, wenn Sie einen Link zu Ihrem Prototypen einfügen.
+
+## Upload
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **21.01.2021 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
+
+<!--
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
-
+-->
