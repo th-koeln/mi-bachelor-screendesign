@@ -20,20 +20,26 @@ layout: default
 
 <script>
 
-Date.prototype.getWeek = function () {
-    var onejan = new Date(this.getFullYear(), 0, 1);
-    return Math.ceil((((this - onejan) / 86400000) + onejan.getDay() + 1) / 7);
-};
+const weeks_between = function (date1, date2) {
+  const ONE_WEEK = 1000 * 60 * 60 * 24 * 7;
+  const date1_ms = date1.getTime();
+  const date2_ms = date2.getTime();
+
+  const difference_ms = Math.abs(date1_ms - date2_ms);
+
+  return Math.floor(difference_ms / ONE_WEEK);
+}
 
 let startingDateData = document.querySelector("[data-starting-date]").dataset.startingDate.replace("date-", "");
 let startingDate = new Date(startingDateData);
-let startingWeek = startingDate.getWeek();
-
 let today = new Date();
-let thisWeek = today.getWeek();
 
-let diffWeek = thisWeek - startingWeek + 1;
+
+// counting starts at 1 & we need to round up
+let diffWeek = weeks_between(startingDate, today) + 2;
 let scrollTarget = `#week-${diffWeek}`;
+
+console.log(diffWeek)
 
 document.querySelector(scrollTarget).scrollIntoView({ 
   behavior: 'smooth' 
