@@ -35,8 +35,8 @@ let startingDate = new Date(startingDateData);
 let today = new Date();
 
 
-// counting starts at 1 & we need to round up
-let diffWeek = weeks_between(startingDate, today) + 2;
+// counting starts at 1
+let diffWeek = weeks_between(startingDate, today) + 1;
 let scrollTarget = `#week-${diffWeek}`;
 
 console.log(diffWeek)
