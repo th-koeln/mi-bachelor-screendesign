@@ -3,7 +3,7 @@ titel: Flow & Transition
 tags: Fortgeschritten
 ---
 
-Die Basis für den heutigen Workshop bilden die Ergebnisse aus dem [Workshop Layouts für verschiedene Endgeräte](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/workshop-layouts-fuer-verschiedene-endgeraete/). Wir nutzen die **Ergebnisliste** im Phone-Layout der Cranach Graphics App, für die wir heute einen animierten Prototypen entwickeln.
+Die Basis für den heutigen Workshop bilden die Ergebnisse aus dem Vorjahr (unten verlinkt). Wir nutzen die **Ergebnisliste** im Phone-Layout der Cranach Graphics App, für die wir heute einen animierten Prototypen entwickeln.
 
 Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende Teilaufgaben gilt es zu erledigen: 
 - Animieren Sie die Funktion **CTA zu Favoriten hinzufügen**. Grundvoraussetzung dafür ist die Verwendung einer Simple, Medium oder Extended Card.
@@ -14,6 +14,6 @@ Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende Teilaufgabe
 
 Nutzen Sie als Iconset bitte die [Material Icons](https://material.io/resources/icons/?style=baseline) hierzu gibt es ein [Material Design Icons Plugin für Figma](https://www.figma.com/c/plugin/740272380439725040/Material-Design-Icons).
 
-Falls ihr Material aus dem [Workshop Layouts für verschiedene Endgeräte](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/workshop-layouts-fuer-verschiedene-endgeraete/) nicht ausreicht, können Sie auch die unten dargestellte Version verwenden. Zur Nutzung auf den Pfeil oben in der Titelleiste neben view only gehen und aus dem Dropdown Feld *Duplicate to your Drafts* auswählen. Dann kann mit der Vorlage im persönlichen Bereich in Figma gearbeitet werden.
+Sie können die unten dargestellte Figma-Datei verwenden. Zur Nutzung auf den Pfeil oben in der Titelleiste neben view only klicken und aus dem Dropdown Feld *Duplicate to your Drafts* auswählen. Dann kann mit der Vorlage im persönlichen Bereich in Figma gearbeitet werden.
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXanqGLbDUueSFgy2HCAppV%2Flayouts-fuer-div-endgeraete-demo%3Fnode-id%3D214%253A6030" allowfullscreen></iframe>
