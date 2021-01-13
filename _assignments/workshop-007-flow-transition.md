@@ -7,7 +7,12 @@ Heute beschäftigen wir uns mit dem Thema Flow & Transition. Dazu gibt es eine A
 
 ---
 
-## Aufgabe
+## Warmup 
+
+Duplizieren Sie sich die Datei [Figma Scroll to Playground](https://www.figma.com/community/file/918189250907220365) aus der Figma-Community und folgen Sie den Anweisungen in der Datei. Diese beschäftigt sich primär mit dem gezielten Scrollen und damit verbundenen Schwierigkeiten und deren Lösung.
+
+
+## Übertragung in den Anwendungskontext
 
 Die Basis für den heutigen Workshop bilden die [Ergebnisse aus dem Vorjahr](#figma-vorlage). Wir nutzen die **Ergebnisliste** im Phone-Layout der Cranach Graphics App, für die wir heute einen animierten Prototypen entwickeln.
 
@@ -17,8 +22,6 @@ Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende Teilaufgabe
 3. Nutzen Sie die Swipe-Funktion in Ihrem Prototypen: 
   - Option A: Implementieren Sie das Löschen eines Favoriten aus der Liste durch Swipen.
   - Option B: Erstellen Sie einen weiteren Frame, der als Detailansicht dient, wenn auf ein Bild in einem Listenelement getappt wird. Simulieren Sie die Anzeige mehrerer Varianten des gewählten Bildes durch Swipen. Eine Schaltfläche bringt den Nutzer wieder zurück zum Ausgangsframe.
-
-Nutzen Sie als Iconset bitte die [Material Icons](https://material.io/resources/icons/?style=baseline) hierzu gibt es ein [Material Design Icons Plugin für Figma](https://www.figma.com/c/plugin/740272380439725040/Material-Design-Icons).
 
 ### Figma Vorlage
 
