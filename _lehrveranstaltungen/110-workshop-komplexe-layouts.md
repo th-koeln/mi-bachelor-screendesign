@@ -37,7 +37,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Flow & Transition](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts/)
+- [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts/)
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **28.01.2021 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
