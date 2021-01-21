@@ -20,7 +20,6 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - Kenntnisse in Figma
 
 ## Material
-- [Constraints in Figma](https://medium.com/@csmnng/constraints-in-figma-ae0032f04dc3)
 - [Using Contraints](https://help.figma.com/article/54-constraints)
 - [Create Dynamic Designs with Auto Layout](https://help.figma.com/article/453-auto-layout)
 - [Design more, resize less, with Auto Layout](https://www.figma.com/blog/announcing-auto-layout/)
@@ -38,7 +37,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 
 
 ## Aufgaben
-- [Complex Layouts](../../assignments/complex-layouts/)
+- [Complex Layouts](../../assignments/workshop-008-complex-layouts/)
 
 ## Upload
 Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
