@@ -28,3 +28,9 @@ Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende Teilaufgabe
 Sie können die unten dargestellte Vorlage verwenden. Zur Nutzung Datei in Figma öffnen, auf den Pfeil oben in der Titelleiste neben *view only* klicken und aus dem Dropdown Feld *Duplicate to your Drafts* auswählen. Dann kann mit der Vorlage im persönlichen Bereich in Figma gearbeitet werden.
 
 <iframe style="border: none; width: 100%; max-height:90vh" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXanqGLbDUueSFgy2HCAppV%2Flayouts-fuer-div-endgeraete-demo%3Fnode-id%3D214%253A6030" allowfullscreen></iframe>
+
+### Lösung
+
+Sie finden je einen möglichen Lösungsansatz für Aufgabe 3 (Option A und B) in dieser Datei:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdYEFAdD2lndRSO1uTYHMrL%2Flayouts-fuer-div-endgeraete-demo-Copy%3Fnode-id%3D786%253A1004" allowfullscreen></iframe>

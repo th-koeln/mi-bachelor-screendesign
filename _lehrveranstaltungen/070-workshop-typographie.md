@@ -34,7 +34,7 @@ Heute befassen wir uns mit Typographie und Schriftsatz, wer hätte es gedacht :)
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Typographie](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-005-typographie/)
+- [Typographie](/mi-bachelor-screendesign/assignments/workshop-005-typographie/)
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **17.12.2020 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.

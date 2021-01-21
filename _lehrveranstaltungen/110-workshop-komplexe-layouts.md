@@ -35,12 +35,14 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Design Systems](https://www.designsystems.com/)
 - [Space, Grids, and Layouts](https://www.designsystems.com/space-grids-and-layouts/)
 
-
 ## Aufgaben
-- [Complex Layouts](../../assignments/workshop-008-complex-layouts/)
+In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
+- [Flow & Transition](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts/)
 
 ## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **28.01.2021 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
 
+<!--
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
+-->

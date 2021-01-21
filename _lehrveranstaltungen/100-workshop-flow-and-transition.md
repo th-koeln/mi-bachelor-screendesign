@@ -45,7 +45,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Flow & Transition](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-007-flow-transition/). Hier reicht es aus, wenn Sie einen Link zu Ihrem Prototypen einfügen.
+- [Flow & Transition](/mi-bachelor-screendesign/assignments/workshop-007-flow-transition/). Hier reicht es aus, wenn Sie einen Link zu Ihrem Prototypen einfügen.
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **21.01.2021 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.

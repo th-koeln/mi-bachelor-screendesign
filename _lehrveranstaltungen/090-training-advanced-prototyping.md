@@ -35,7 +35,7 @@ Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kenne
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Advanced Prototyping](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/training-002-advanced-prototyping/)
+- [Advanced Prototyping](/mi-bachelor-screendesign/assignments/training-002-advanced-prototyping/)
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **14.01.2021 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.

@@ -35,8 +35,8 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Negativraum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
-- [Systematische Abstände](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
+- [Negativraum](/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
+- [Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **07.01.2020 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.

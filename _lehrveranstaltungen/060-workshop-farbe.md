@@ -25,7 +25,7 @@ Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrer
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Farbe](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
+- [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **10.12.2020 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.

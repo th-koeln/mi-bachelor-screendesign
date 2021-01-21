@@ -3,13 +3,17 @@ titel: Komplexe Layouts
 tags: Fortgeschritten
 ---
 
+<<<<<<< HEAD
 Heute entwickeln wir in 3er Teams in 3 Stunden Komponenten und komplette Layouts für das Cranach Digital Archive. Die Gestaltungsziele sind bereits auf der [Seite zum diesjährigen Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2020/) dokumentiert (siehe Kommunikationsziele/ Leitplanken).
+=======
+Heute entwickeln wir in 3er Teams in 3 Stunden Komponenten und komplette Layouts für das Cranach Digital Archive. Die Gestaltungsziele sind bereits auf der [Seite zum diesjährigen Projekt](/mi-bachelor-screendesign/projekt-2020/) dokumentiert (siehe Kommunikationsziele/Leitplanken).
+>>>>>>> f6c8f2bfd6a598745e3636c02f3db200a9c2e61e
 
 Als Datenbasis steht folgende Tabelle zur Verfügung: [Stammdaten Cranach Grafiken](https://docs.google.com/spreadsheets/d/145aSsMSULoTL7sFTraeNI9UI2vo3pVChAC8H3q-h-xU/edit?usp=sharing).
 
 Einige Gestaltungslemente sind bereits definiert. Alle Schriftgrößen und Abstände folgen der [Renard 10 Serie](https://en.wikipedia.org/wiki/Renard_series). Das Farbschema kann auch invertiert werden, sprich: weiße Schrift auf weißem Grund.
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FedZxrUWHFScWr3jQhmGAxy%2FBase-v2-Copy%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: none;" style="width:100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FedZxrUWHFScWr3jQhmGAxy%2FBase-v2-Copy%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ---
 
@@ -38,9 +42,12 @@ Erzeugen Sie mit den Simple, Medium und Extended Cards eine Übersicht für eine
 ## Aufgabenpaket 3: Weltkarte
 
 Platzieren Sie eine sinnvolle Anzahl der Slimcards auf der [Weltkarte](../images/weltkarte.jpg) um die Verortung der jeweiligen Grafik zu visualisieren. Entwickeln Sie sinnvolle Regeln zur Platzierung und ein Konzept zur Verknüpfung der Card mit dem Standort.
+<<<<<<< HEAD
 
 ---
 
 Die Endergebnisse werden am Anfang der Workshops nächste Woche vorgestellt.
 
 
+=======
+>>>>>>> f6c8f2bfd6a598745e3636c02f3db200a9c2e61e
