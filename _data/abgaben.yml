@@ -19,7 +19,7 @@ artefakt1:
 artefakt2:
   name: Patternlab
   date: 2021-03-31 23:59
-  format: SVG
+  format: SVG innerhalb der Kurzdokumentation
   gruppe: Teamartefakt
   anteil: 1/5
   uebergabepunkt-text: GitHub

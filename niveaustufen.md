@@ -160,7 +160,7 @@ Einzel- oder Teamartefakt
 Übergabepunkt
 : [{{site.data.abgaben.artefakt2.uebergabepunkt-text}}]({{site.data.abgaben.artefakt2.uebergabepunkt-link}})
 
-Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einer Patternlab oder  Style-Guide systematisch dokumentiert werden.
+Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einer Patternlab oder Style-Guide systematisch dokumentiert werden.
 
 Die resultierende Übersicht soll:
 - das Gestaltungssystem erfassen und strukturieren
@@ -281,21 +281,9 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 
 Hier finden Sie weitere [Informationen zur Projektpräsentationsprüfung](/mi-bachelor-screendesign/projektpraesentationspruefung/).
 
-
-
-<div class="box">
-
 ### Hinweise zur Kurzdokumentation
 
-Für die Kurzdokumentation werden wir Ihnen ein dafür vorgesehenes Repository auf GitHub bereitstellen. Wir werden Ihnen hierzu auch zeitnah Vorgaben und Hilfestellungen geben.
+Bitte nutzen Sie dieses [Repo für Ihre Kurzdokumentation](https://github.com/th-koeln/mi-bachelor-screendesign-projekte) und befolgen Sie die Vorgaben und Hinweise aus folgendem Video:
 
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SiSSyaRsMss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--
-> Bitte nutzen Sie dieses [Repo für Ihre Kurzdokumentation](https://github.com/th-koeln/mi-bachelor-screendesign-doku) und befolgen Sie die Vorgaben und Hinweise aus den folgenden beiden Videos:
-
-### Wie funktioniert die Kurzdokumentation?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0gZ2tvfwC7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Wie stelle ich die Kurzdokumentation bereit?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3oskocJp4-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
