@@ -16,4 +16,4 @@ ilias:
 
 ilias-pruefung:
   name: Ilias
-  url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln
+  url: https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI
