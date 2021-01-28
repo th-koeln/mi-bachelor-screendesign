@@ -20,7 +20,6 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - Kenntnisse in Figma
 
 ## Material
-- [Constraints in Figma](https://medium.com/@csmnng/constraints-in-figma-ae0032f04dc3)
 - [Using Contraints](https://help.figma.com/article/54-constraints)
 - [Create Dynamic Designs with Auto Layout](https://help.figma.com/article/453-auto-layout)
 - [Design more, resize less, with Auto Layout](https://www.figma.com/blog/announcing-auto-layout/)
@@ -38,7 +37,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Flow & Transition](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts/)
+- [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts/)
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **28.01.2021 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.

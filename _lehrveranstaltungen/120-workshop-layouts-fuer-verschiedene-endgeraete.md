@@ -20,7 +20,7 @@ Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltung
 - Sehr gute Kenntnisse in Figma
 
 ## Material
-- [Aufgabe Responsive Design](../../assignments/responsive-design)
+- [Aufgabe Responsive Design](../../assignments/workshop-009-responsive-design)
 
 ## Weiterführendes Material
 - [Designing for Different Screens and Devices: 7 Steps to Creating A Great UX](https://theblog.adobe.com/designing-for-different-screens-and-devices-7-steps-to-creating-a-great-ux/)
