@@ -130,3 +130,32 @@ week-22:
     start: "09:00"
     end: "18:00"
     name: Donnerstag
+week-23:
+  day-1:
+    datum: 2021-03-11
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-24:
+  day-1:
+    datum: 2021-03-18
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-25:
+  day-1:
+    datum: 2021-03-22
+    start: "15:00"
+    end: "19:00"
+    name: Montag
+  day-2:
+    datum: 2021-03-23
+    start: "15:00"
+    end: "19:00"
+    name: Dienstag
+  day-3:
+    datum: 2021-03-25
+    start: "15:00"
+    end: "19:00"
+    name: Donnerstag
+

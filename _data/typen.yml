@@ -24,7 +24,7 @@ feedback:
 
 pruefung:
   name: Prüfung 
-  max-teilnehmer: 30
+  max-teilnehmer: 16
 
 other:
   name: Orga 
