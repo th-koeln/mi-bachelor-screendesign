@@ -24,6 +24,7 @@ Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbi
 
 ## Material
 - [Folien: Interface Inventar aufbauen und dokumentieren](../../download/workshops/interface-inventar-aufbauen/Interface-inventar-aufbauen-und-visualisieren.pdf)
+- [Folien: Design systematisieren](../../download/workshops/interface-inventar-aufbauen/design-analysieren-und-systematisieren.pdf)
 
 
 ## Aufgabe
