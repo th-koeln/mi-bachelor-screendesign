@@ -10,6 +10,11 @@ published: true
 dauer: 90
 raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 anzahl: 20 Teilnehmer
-info: 
+info:
 ---
 
+## Anmeldung
+
+Für die Termine in der vorlesungsfreien Zeit müssen Sie einen Termin im Ilias buchen. Melden Sie sich hierzu bitte frühzeitig an, sodass wir mit Ihnen planen und rechnen können.
+
+- [Terminbuchung für Feedbacktermine im Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1806598&client_id=ILIAS_FH_Koeln)
