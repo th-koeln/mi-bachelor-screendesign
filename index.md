@@ -84,13 +84,20 @@ Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltungen](angebot
 
 ## Prüfung & erforderliche Artefakte
 
-Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Vorstellung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im [Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten.
+Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Vorstellung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im Ilias buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird und ihre Arbeit entsprechend auszurichten.
 
 Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, das die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung erstellt wurden. 
 
-Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und Bewertung finden Sie bei der Erläuterung des [Niveaustufenmodells](niveaustufen/).   
+Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und Bewertung finden Sie bei der Erläuterung des [Niveaustufenmodells](niveaustufen/).
 
-Anmeldezeitraum im PSSO vom **01.02.2021** bis **01.03.2021**.
+### Die 6 Schritte zur Prüfung
+
+- Step 1: im PSSO anmelden. Die ist vom vom **01.02.2021** bis **01.03.2021** möglich.
+- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI)
+- Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und prünktlich bereit stellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
+- Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereit stellen
+- Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
+- Step 6: Gut vorbereitet zur [Prüfung](lehrveranstaltungen/orga-pruefung/) kommen :)
 
 
 ## Eingesetzte Software
