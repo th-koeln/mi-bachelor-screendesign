@@ -4,7 +4,7 @@ kuerzel: w-sg
 verantwortlich: alle
 typ: workshop
 pflicht: false
-termine: 2021-02-04 11:00
+termine: 2022-01-27 11:00
 empfohlene-voraussetzungen:
 published: true
 raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739

@@ -4,11 +4,11 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2020-11-05 11:00
+termine: 2021-10-14 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: hybrid
 info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um Punkt & Linie.
 ---
 

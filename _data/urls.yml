@@ -17,3 +17,10 @@ ilias:
 ilias-pruefung:
   name: Ilias
   url: https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI
+
+zoom-fd:
+  name: "Zoom (Meeting-ID: 83079515782, Kenncode im Ilias)"
+  url: https://th-koeln.zoom.us/j/83079515782
+
+vor-ort: 
+  name: Raum XYZ

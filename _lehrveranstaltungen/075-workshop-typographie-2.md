@@ -1,13 +1,13 @@
 ---
-titel: Typographie & Textsatz, Teil 1
+titel: Typographie & Textsatz, Teil 2
 kuerzel: w-elmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2021-12-02 11:00
+termine: 2021-12-09 09:00
 empfohlene-voraussetzungen:
 published: true
-dauer: 180
+dauer: 120
 raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 ---

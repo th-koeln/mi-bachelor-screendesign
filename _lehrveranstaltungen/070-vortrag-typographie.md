@@ -1,10 +1,10 @@
 ---
-titel: Typographie & Schriftsatz
+titel: Typographie & Schriftsatz, Teil 1
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2020-12-10 09:00
+termine: 2021-12-02 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

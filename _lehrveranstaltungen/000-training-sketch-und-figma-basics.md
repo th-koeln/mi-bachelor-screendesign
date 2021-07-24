@@ -4,11 +4,11 @@ kuerzel: t-sb
 verantwortlich: vs, js, ch
 typ: training
 pflicht: false
-termine: 2020.10.08 11:00
+termine: 2021.10.07 10:30
 empfohlene-voraussetzungen:
 published: true
-dauer: 120
-raum: https://th-koeln.zoom.us/j/89267184782 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/89267184782
+dauer: 180
+raum: hybrid
 info: Basistraining für den Umgang mit Figma
 ---
 

@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2020-11-19 11:00
+termine: 2021-10-28 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
