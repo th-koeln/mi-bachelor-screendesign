@@ -28,7 +28,7 @@ In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ili
 - [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
 
 ## Upload
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **10.12.2020 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **11.11.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
