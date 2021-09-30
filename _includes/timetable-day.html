@@ -98,12 +98,24 @@
             {% assign raumnummer = raum | append: "" %}
             {% endif %}
 
+            {% include functions/resolve-urls.html target=raumnummer %}
+            {% assign preset-raum = name | append: "" %}
+            {% assign preset-href = url | append: "" %}
+
+            {% if preset-raum != "" %}
+            {% assign resolved-raum = preset-raum %}
+            {% assign resolved-href = preset-href %}
+            {% else %}
+            {% assign resolved-raum = raum %}
+            {% assign resolved-href = href %}
+            {% endif %}
+
             {% assign check = typ-max-teilnehmer | strip_newlines %}
             {% if check != "" %}
             {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
             <p class="subtitle">{{t}} <br>
               {{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if termine.size > 1 %}
-              ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // Raum {{raumnummer}}{% endif %}</p>
+              ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // {{resolved-raum}}{% endif %}</p>
             {% endif %}
 
           </div>

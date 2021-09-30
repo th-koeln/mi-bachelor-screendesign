@@ -8,7 +8,7 @@ termine: 2021-11-04 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: zoom-fd
 info: Wie entwickle ich ein Farbklima? 
 ---
 

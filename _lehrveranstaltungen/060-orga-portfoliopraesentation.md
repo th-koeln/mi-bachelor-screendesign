@@ -4,7 +4,7 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2021-11-18 09:00|Zoom-Gruppe A – https://th-koeln.zoom.us/j/86238751739|https://th-koeln.zoom.us/j/86238751739, 2021-11-18 09:00|Zoom-Gruppe B –  https://th-koeln.zoom.us/j/86025262142|https://th-koeln.zoom.us/j/86025262142, 2021-11-18 12:00|Zoom-Gruppe A – https://th-koeln.zoom.us/j/86238751739|https://th-koeln.zoom.us/j/86238751739, 2021-11-18 12:00|Zoom-Gruppe B – https://th-koeln.zoom.us/j/86025262142|https://th-koeln.zoom.us/j/86025262142
+termine: 2021-11-18 09:00|Gruppe A - 0.501, 2021-11-18 09:00|Gruppe B - 3.102, 2021-11-18 12:00|Gruppe A – 0.501, 2021-11-18 12:00|Zoom-Gruppe B – 0.502
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120

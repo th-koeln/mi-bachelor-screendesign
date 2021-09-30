@@ -8,7 +8,7 @@ termine: 2021-12-23 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 360
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: zoom-fd
 info: Heute entwickeln wir zum ersten mal ein komplexes Layout mit verschiedenen Layout Bausteinen.
 ---
 

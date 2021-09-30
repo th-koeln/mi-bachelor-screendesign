@@ -8,7 +8,7 @@ termine: 2021-12-16 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw
 published: true
 dauer: 300
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: zoom-fd
 info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluss auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
 ---
 

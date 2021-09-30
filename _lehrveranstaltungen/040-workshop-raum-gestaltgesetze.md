@@ -8,7 +8,7 @@ termine: 2021-10-28 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: zoom-fd
 info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltgesetze
 ---
 

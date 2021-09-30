@@ -8,7 +8,7 @@ termine: 2021-12-02 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: hybrid-klein
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 ---
 

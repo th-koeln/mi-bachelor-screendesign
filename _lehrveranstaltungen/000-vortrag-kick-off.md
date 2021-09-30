@@ -8,7 +8,7 @@ termine: 2021-10-07 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: hybrid
+raum: hybrid-gross
 info: Wie funktioniert das Modul?
 ---
 

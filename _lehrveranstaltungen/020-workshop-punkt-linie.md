@@ -8,7 +8,7 @@ termine: 2021-10-14 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: hybrid
+raum: hybrid-klein
 info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um Punkt & Linie.
 ---
 

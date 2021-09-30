@@ -7,7 +7,7 @@ pflicht: false
 termine: 2022-01-27 11:00
 empfohlene-voraussetzungen:
 published: true
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: zoom-fd
 dauer: 180
 info: Wie können wir unser Designsystem dokumentieren und systematisch in Figma abbilden?
 ---

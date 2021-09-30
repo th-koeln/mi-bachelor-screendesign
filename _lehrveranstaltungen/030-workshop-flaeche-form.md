@@ -8,7 +8,7 @@ termine: 2021-10-21 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: hybrid
+raum: hybrid-klein
 info: Komplexere Konzepte und Übungen zu den Themem Fläche und Form.
 ---
 

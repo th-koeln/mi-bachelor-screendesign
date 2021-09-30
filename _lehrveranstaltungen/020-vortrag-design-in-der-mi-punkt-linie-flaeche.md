@@ -8,7 +8,7 @@ termine: 2021-10-14 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: hybrid
+raum: hybrid-gross
 info: Was sind grundlegende Fragen im Design und welche Rolle spielt Design in der Medieninformatik?
 ---
 
