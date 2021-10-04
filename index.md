@@ -91,7 +91,7 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 ### Die 6 Schritte zur Prüfung
 
 - Step 1: im PSSO anmelden. Dies ist vom **01.02.2022** bis **01.03.2022** möglich.
-- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI)
+- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilrepositorygui)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
@@ -111,10 +111,11 @@ Bitte bereiten Sie sich für die Workshops mit folgendem Tool vor:
 - [Learn Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
 
 Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:
-- [Informationsvisualisierung: Web - Print - Signaletik. Erfolgreiches Informationsdesign: Leitsysteme, Wissensvermittlung und Informationsarchitektur / von Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050418640)
-- [Interaction- und Interfacedesign: Web-, Game-, Produkt- und Servicedesign Usability und Interface als Corporate Identity / von Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050392166)
-- [Kompendium der visuellen Information und Kommunikation](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050419679)
+- [Informationsvisualisierung: Web - Print - Signaletik. Erfolgreiches Informationsdesign: Leitsysteme, Wissensvermittlung und Informationsarchitektur / Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050418640)
+- [Interaction- und Interfacedesign: Web-, Game-, Produkt- und Servicedesign Usability und Interface als Corporate Identity / Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050392166)
+- [Kompendium der visuellen Information und Kommunikation / Kerstin Alexander](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050419679)
 - [Simplicity: die zehn Gesetze der Einfachheit / John Maeda](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT015123236)
+- [Webdesign: Screendesign / Peter Bühler, Patrick Schlaich, Dominik Sinner](https://link.springer.com/chapter/10.1007%2F978-3-662-53918-7_3)
 
 ## Wer macht es?
 
