@@ -17,7 +17,7 @@ Laden Sie das [Materialpaket](../../download/trainings/figma/figma-training-mate
 
 Bauen Sie den hier abgebildeten Screen so detailgetreu wie möglich nach. Bitte arbeiten Sie dabei so präzise wie möglich, so dass ihre Layouts der Vorlage 1zu1 entsprechen.
 
-Falls der Font „Robot nicht auf ihrem Rechner installiert ist, finden Sie diesen im Material-Ordner des Aufgabenpakets.
+Falls der Font „Roboto" nicht auf ihrem Rechner installiert ist, finden Sie diesen im Material-Ordner des Aufgabenpakets.
 
 ![Layout](../images/figma-basics-1-1.jpg)
 
@@ -45,7 +45,7 @@ Benutzen Sie als Basis den Screen, den Sie in Aufgabe 1 erstellt haben. Die ben�
 
 ## Figma 3: Landscape
 
-Der Screen aus Aufgabe 2 soll nun in einer Querformat-Ansicht umgesetzt werden. Hierzu müssen fast alle Elemente aus Aufgabe 2 angepasst werden. Erstellen Sie zu B eginn ein neues Frame mit den Maßen 640x360 Pixeln, in dem Sie arbeiten können.
+Der Screen aus Aufgabe 2 soll nun in einer Querformat-Ansicht umgesetzt werden. Hierzu müssen fast alle Elemente aus Aufgabe 2 angepasst werden. Erstellen Sie zu Beginn ein neues Frame mit den Maßen 640x360 Pixeln, in dem Sie arbeiten können.
 
 ![Layout](../images/figma-basics-3-1.jpg)
 
