@@ -9,17 +9,12 @@ titel: Informationen zur Screendesign Projektpräsentationsprüfung
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
 
-<div>
-Aufgrund der aktuellen Lage gilt es Präsenzveranstaltung und -prüfungen möglichst zu vermeiden. Daher findet die Projektpräsentationsprüfung im Modul Screendesign via Zoom statt. Bei Fragen dazu nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
-</div>
-
-<hr>
 
 ### Zielsetzung der Vorstellung
 Mit der Präsentation stellen Sie Ihr Designkonzept vor und zeigen (uns als Prüfern), dass Sie in der Lage sind ihr Gestaltungskonzept fachlich zu argumentieren. Es geht hierbei nicht um Ihren persönlichen Geschmack, sondern das Erreichen von gestalterischen, kommunikativen und funktionalen Zielen im Sinne der [Projektaufgabe](/mi-bachelor-screendesign/projekt-2020/). Konsultieren Sie für eine detailierte Zielbeschreibung bitte die Seite [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen/).
 
 ### Rahmenbedingungen für die Projektpräsentation
-Sie haben **10 Minuten** Zeit um Ihr Projekt vorzustellen. Darauf folgt eine 10 minütige Fragerunde. Bitte stellen Sie sicher, dass Sie guten Ton und wir Sie via WebCam sehen können. Sie müssen sich am Anfang der Prüfung mit Ihrer MultiCa ausweisen. Achten Sie bitte darauf, dass Sie im Team etwa gleiche Präsentations- bzw. Wortanteile haben.
+Sie haben **10 Minuten** Zeit um Ihr Projekt vorzustellen. Darauf folgt eine 10 minütige Fragerunde. Sie müssen sich am Anfang der Prüfung mit Ihrer MultiCa ausweisen. Achten Sie bitte darauf, dass Sie im Team etwa gleiche Präsentations- bzw. Wortanteile haben.
 
 ## Tipps zur Präsentation und den Artefakten
 Hier ein paar Tipps und Hinweise zur Präsentation und den Artefakten. Es hilft ungemein, wenn Sie sich ernsthaft mit den [Niveaustufen](/mi-bachelor-screendesign/niveaustufen/) auseinandersetzen und prüfen, in wie weit Ihre Lösung zu der Stufe passt, die Sie erreichen möchten. Wir bewerten möglichst konsequent entlang dieser Stufen.

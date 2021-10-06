@@ -20,7 +20,7 @@ Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.p
 ## Hybride Veranstaltung und Prüfung aufgrund der Covid-19 Problematik
  Aufgrund der weiterhin bestehenden Covid-19 Problematik wird das Modul inkl. Prüfung hybrid abgewickelt. Im [Zeitplan](./timetable/) finden Sie die Veranstaltungstermine und auch den Ort der jeweiligen Veranstaltung.
  
-Die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit wird online, via Zoom abgebildet. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Projektpräsentationsprüfung](projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
+Die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit findet vor Ort in Gummersbach statt. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Projektpräsentationsprüfung](projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
 
 
 ## Worum geht es?
@@ -95,7 +95,7 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
-- Step 6: Gut vorbereitet zur [Prüfung](lehrveranstaltungen/orga-pruefung/) kommen :)
+- Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 14.03. - 16.03.2022 in Gummersbach statt.
 
 
 ## Eingesetzte Software

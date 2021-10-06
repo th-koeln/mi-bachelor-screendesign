@@ -1,6 +1,6 @@
 artefakt0:
   name: Individuelles Gestaltungsportfolio
-  date: 2020-11-26 23:59
+  date: 2021-11-17 23:59
   format: Sammlung der Übungsergebnisse als Einzeldateien
   anteil: 1/5
   gruppe: Einzelartefakt
@@ -9,7 +9,7 @@ artefakt0:
   
 artefakt1:
   name: Designkonzept als Mockup
-  date: 2021-03-21 23:59
+  date: 2022-03-12 23:59
   format: Einzelscreens als Bilddateien (JPG oder PNG)
   gruppe: Teamartefakt
   anteil: 2/5
@@ -18,7 +18,7 @@ artefakt1:
   
 artefakt2:
   name: Patternlab
-  date: 2021-03-21 23:59
+  date: 2022-03-12 23:59
   format: SVG innerhalb der Kurzdokumentation
   gruppe: Teamartefakt
   anteil: 1/5
@@ -27,7 +27,7 @@ artefakt2:
 
 artefakt3:
   name: Präsentation und Kurzdokumentation
-  date: 2021-03-21 23:59
+  date: 2022-03-12 23:59
   format: mündliche Präsentation, Slides bitte als PDF abgeben; Kurzdokumentation als HTML/Merge Request
   gruppe: Teamartefakt
   anteil: 1/5
