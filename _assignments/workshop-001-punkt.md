@@ -16,8 +16,8 @@ Erzeugen Sie auf einer schwarzen Fläche von **600x800 Pixeln** (hochformat) ein
 2. Ausgrenzung
 3. Flucht
 4. Ankunft
-<!-- 5. Verdrängung
-5. Systematik -->
+<!-- 5. Verdrängung -->
+<!-- 5. Systematik -->
 5. Ordnung
 <!-- 6. Komplexität -->
 6. Konfrontation
