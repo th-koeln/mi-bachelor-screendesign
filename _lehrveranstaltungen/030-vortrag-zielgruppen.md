@@ -7,7 +7,7 @@ pflicht: false
 termine: 2021-10-21 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 60
 raum: hybrid-gross
 info: Für wen gestalten wir und was ist eigentlich Wahrnehmungsarbeit?
 ---
