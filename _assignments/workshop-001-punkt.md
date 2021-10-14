@@ -22,7 +22,7 @@ Erzeugen Sie auf einer schwarzen Fläche von **600x800 Pixeln** (hochformat) ein
 <!-- 6. Komplexität -->
 6. Konfrontation
  
-Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den Begriff und eine Navigation hinzu. Nutzen Sie für die Darstellung des Begriffs eine serifenlosen Schrift im Schriftgrad 12. Bitte schreiben Sie auch Ihren Namen auf die schwarze Fläche. Verknüpfen Sie die einzelnen Motive über die Navigation.
+Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jweiligen Begriff hinzu. Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. Nutzen Sie für die Darstellung des Begriffs eine serifenlose Schrift im Schriftgrad 12. Bitte schreiben Sie auch Ihren Namen auf die schwarze Fläche. 
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
