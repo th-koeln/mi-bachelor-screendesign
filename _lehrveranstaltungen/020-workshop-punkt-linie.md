@@ -32,6 +32,9 @@ In der heutigen Session sollen folgende Aufgaben bearbeitet werden.
 - [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
 - [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
 
+## Mitschnitte
+Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln).
+
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **21.10.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
 
