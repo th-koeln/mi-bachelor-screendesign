@@ -7,7 +7,7 @@ pflicht: false
 termine: 2021-12-23 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
-dauer: 360
+dauer: 240
 raum: zoom-fd
 info: Heute entwickeln wir zum ersten mal ein komplexes Layout mit verschiedenen Layout Bausteinen.
 ---
