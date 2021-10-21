@@ -31,7 +31,7 @@ Erzeugen Sie eine Arbeitsfläche von **128x128 Pixeln**. Setzen Sie ein schwarze
 
 Erzeugen Sie nun eine weiße Montagefläche von **768x1024 Pixeln**. Erstellen Sie darauf ein Raster von fünf Reihen mit jeweils fünf Quadraten der selben Größe. Die Quadrate sind schwarz gefüllt. Montieren Sie nun die zuvor erstellen Buchstabenkompositionen so auf die Montagefläche, dass eine interessante Gesamtkomposition entsteht.
 
-![Ausgangsform der Farbflächen](../images/flaeche-5x5-100x100px.svg)
+![Ausgangsform der Farbflächen](../images/flaeche-5x5-100x100px.png)
 
 Bitte schreiben Sie Ihren Namen und Schriftfamilie auf die Montagefläche.
 
