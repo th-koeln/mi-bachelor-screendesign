@@ -1,5 +1,5 @@
 ---
-titel: Gestaltgesetze, Räumlichkeit & Tipps für die Portfoliopräsentation
+titel: Wahrnehmungsarbeit, Gestaltgesetze & Räumlichkeit
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
