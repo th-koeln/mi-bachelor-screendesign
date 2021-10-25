@@ -1,15 +1,15 @@
 ---
-titel: Prüfung
+titel: Projektpräsentation
 kuerzel: o-p
 verantwortlich: cn
 typ: pruefung
 pflicht: true
-termine: 2021-03-23 11:00
+termine: 2022-03-14 09:00, 2022-03-15 09:00, 2022-03-16 09:00, 2022-03-17 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
-anzahl: 8 Teams
+dauer: 420
+raum: pruefung
+anzahl: 10 Teams
 info: Projektpräsentationsprüfungen
 ---
 

@@ -106,4 +106,56 @@ week-18:
     start: "09:00"
     end: "18:00"
     name: Donnerstag
+week-19:
+  day-1:
+    datum: 2022-02-10
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-20:
+  day-1:
+    datum: 2022-02-17
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-21:
+  day-1:
+    datum: 2022-02-24
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-22:
+  day-1:
+    datum: 2022-03-03
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-23:
+  day-1:
+    datum: 2022-03-10
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+week-24:
+  day-1:
+    datum: 2022-03-14
+    start: "09:00"
+    end: "18:00"
+    name: Montag
+  day-2:
+    datum: 2022-03-15
+    start: "09:00"
+    end: "18:00"
+    name: Dienstag
+  day-3:
+    datum: 2022-03-16
+    start: "09:00"
+    end: "18:00"
+    name: Mittwoch
+  day-4:
+    datum: 2022-03-17
+    start: "09:00"
+    end: "18:00"
+    name: Donnerstag
+
 
