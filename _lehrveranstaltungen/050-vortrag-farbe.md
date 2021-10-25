@@ -1,5 +1,5 @@
 ---
-titel: Farbe
+titel: Farbe & Tipps für die Portfoliopräsentation
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
