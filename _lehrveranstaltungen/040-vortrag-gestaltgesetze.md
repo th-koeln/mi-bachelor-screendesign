@@ -24,4 +24,4 @@ Außerdem gibt es heute Feedback zu den Übungsaufgaben vom letzten Termin und d
 - [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
 - [Folien zu Gestaltgesetzen](../../download/inputs/woche-5/gestaltgesetze.pdf)
 - [Folien zu Räumlichkeit](../../download/inputs/woche-5/raeumlichkeit.pdf)
-- [Folien zu Farbe](../../download/inputs/woche-9/farbe.pdf)
+- [Folien zu Proportionen](../../download/inputs/woche-3/030-proportion.pdf) 
