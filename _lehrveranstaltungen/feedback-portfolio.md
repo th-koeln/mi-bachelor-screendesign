@@ -16,4 +16,4 @@ info:
 ## Anmeldung
 
 
-- [Terminbuchung für Feedbacktermine im Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1806598&client_id=ILIAS_FH_Koeln)
+- [Terminbuchung für Feedbacktermine im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=2068797&cmd=view&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilRepositoryGUI)
