@@ -22,7 +22,7 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [Folien zu Typographie](../../download/inputs/woche-10/typographie.pdf)
 - [Folien zu Typographie am Bildschirm](../../download/inputs/woche-10/typographie-am-bildschirm.pdf)
 - [Folien zu Textsatz](../../download/inputs/woche-10/textsatz.pdf)
-
+- [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
 ## Typo Games
 - [Shape Game](https://shape.method.ac/)
 - [Kerning Game](https://type.method.ac/)
