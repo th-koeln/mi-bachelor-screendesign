@@ -4,7 +4,7 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2021-11-18 09:00|Gruppe A - 0.501, 2021-11-18 09:00|Gruppe B - 3.102, 2021-11-18 12:00|Gruppe A – 0.501, 2021-11-18 12:00|Gruppe B - 3.102
+termine: 2021-11-18 09:00|Gruppe A – 0.501, 2021-11-18 09:00|Gruppe B – 3.102, 2021-11-18 12:00|Gruppe A – 0.501, 2021-11-18 12:00|Gruppe B – 3.102
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
