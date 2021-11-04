@@ -22,8 +22,8 @@ Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias h
 
 Erzeugen Sie eine weiße oder schwarze Montagefläche von **1024×1366 Pixeln**. Legen Sie auf der Fläche ein Spalten und Zeilenraster mit folgenden Maßen an:
 
-- 6 Spalten, zentriert, Spaltenbreite 150px, Spaltenabstand 16px
-- 6 Reihen, oben ausgerichtet, Abstand von oben 36px, Zeilenhöhe 150px, Zeilenabstand 16px
+- 5 Spalten, zentriert, Spaltenbreite 150px, Spaltenabstand 16px
+- 5 Reihen, oben ausgerichtet, Abstand von oben 36px, Zeilenhöhe 150px, Zeilenabstand 16px
 
 Erarbeiten Sie mit Hilfe des [Color Wheels (Adobe)](https://color.adobe.com/de/create/color-wheel/) einen Farbe-an-sich Kontrast mit fünf Farben. Legen Sie für jede Farbe eine Fläche von **150x75 Pixeln** Größe an. Legen Sie die Farbflächen an den unteren Rand der Montagefläche, außerhalb des Zeilenrasters und beschriften Sie das jeweilige Farbfeld mit dem HEX-Wert der entsprechenden Farbe. Montieren Sie die Beschriftung mit einem Abstand von 8 Pixeln unter die Fläche und richten Sie diese linksbündig an der Farbfläche aus. Der Abstand von der Grundlinie der Beschriftung bis zum unteren Ende der Montagefläche sollte mindestens 56px sein.
 
