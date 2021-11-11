@@ -47,7 +47,7 @@ Erzeugen Sie auf einer dunkelgrauen Fläche von **1024x768 Pixeln** zwei weiße 
 
 1. Frühling/ Herbst
 2. Anfang/ Ende
-3. Nervösität/ Gelassenheit
+3. Nervosität/ Gelassenheit
 
 Beschriften Sie die Motiven mit dem Namen des Begriffspaars und Ihrem Namen auf der dunkelgrauen Fläche.
 
