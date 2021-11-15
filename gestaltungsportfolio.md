@@ -17,7 +17,7 @@ Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der G
 
 - eine Lösung zu den Aufgaben [Punkt 1 oder Punkt 2](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
 - eine Lösung zu den Aufgaben [Linie 1 oder Linie 2](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
-- eine Lösung zu den Aufgaben [Fläche 1a, 1b oder Fläche 2](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/) und der Aufgabe [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
+- eine Lösung zu den Aufgaben [Fläche 1a, 1b oder Fläche 2](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/) oder der Aufgabe [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
 - ein Lösung zu den Aufgaben [Räumlichkeit erzeugen oder Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
 - ein Lösung zu den Aufgaben [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
 
