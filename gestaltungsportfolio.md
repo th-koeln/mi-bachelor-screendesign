@@ -15,13 +15,13 @@ Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeu
 
 Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie **jeweils Ihre beste Lösung** aus: 
 
-- eine Lösung zu den Aufgaben [Punkt 1 und Punkt 2](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
-- eine Lösung zu den Aufgaben [Linie 1 und Linie 2](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
-- eine Lösung zu den Aufgaben [Fläche 1a, 1b und Fläche 2](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/) und der Aufgabe [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
-- ein Lösung zu den Aufgaben [Räumlichkeit erzeugen und Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
+- eine Lösung zu den Aufgaben [Punkt 1 oder Punkt 2](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
+- eine Lösung zu den Aufgaben [Linie 1 oder Linie 2](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
+- eine Lösung zu den Aufgaben [Fläche 1a, 1b oder Fläche 2](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/) oder der Aufgabe [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
+- ein Lösung zu den Aufgaben [Räumlichkeit erzeugen oder Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
 - ein Lösung zu den Aufgaben [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
 
-Insgesamt umfasst das Portfolio also Ihre Lösung zu **fünf Aufgaben**. Diese laden Sie bitte fristgerecht im [Ilias unter Prüfungsrelevante Artefakte/Individuelles Gestaltungsportfolio](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) hoch. Berücksichtigen Sie ungebedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
+Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **fünf Aufgaben**. Diese laden Sie bitte fristgerecht im [Ilias unter Prüfungsrelevante Artefakte/Individuelles Gestaltungsportfolio](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) hoch. Berücksichtigen Sie ungebedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
 
 ## Bewertung
 
