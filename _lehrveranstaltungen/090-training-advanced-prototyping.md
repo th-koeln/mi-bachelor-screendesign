@@ -1,28 +1,28 @@
 ---
-titel: Advanced Prototyping
+titel: Advanced Prototyping (Online Training zum Selbstlernen)
 kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2021-11-25 09:00
+termine: 2021-11-25 11:00
 empfohlene-voraussetzungen: 
 published: true
-raum: zoom-fd-vs
-dauer: 240
+raum: zoom-fd
+dauer: 120
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---
 
 ## Worum geht es?
 
-In diesem Training befassen wir uns mit der Erstellung von Prototypen in Figma. 
-Sobald die Kompexität der Views und damit die Anzahl der benutzten Elemente zunimmt, steigt auch die Gefahr, dass die  Struktur des Projektes sich verschlechtert und irgendwann die Übersicht verloren geht.
+In diesem Training befassen wir uns mit der Erstellung von Prototypen in Figma. Sobald die Kompexität der Views und damit die Anzahl der benutzten Elemente zunimmt, steigt auch die Gefahr, dass die  Struktur des Projektes sich verschlechtert und irgendwann die Übersicht verloren geht.
 
 Verstärkt wird die Problematik noch, wenn viele unterschiedliche Views in dem Projekt hinzukommen und zu jeder View noch angepasste Views für unterschiedliche Endgeräte oder Varianten.
 
 Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
 
+Für dieses Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügung. Bitte arbeiten Sie das Material durch. Falls Sie Fragen haben oder unterstützung brauchen, stehen wir Ihnen via Zoom ab 11:00 Uhr zur Verfügung. 
+
 ## Was muss ich mitbringen?
-- eigener Rechner mit Figma
 - sicherer Umgang in Figma
 
 ## Tutorials und Readings
@@ -34,11 +34,9 @@ Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kenne
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
 
 ## Aufgaben
-In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
+In der heutigen Session soll folgende Aufgabe bearbeitet werden:
 - [Advanced Prototyping](/mi-bachelor-screendesign/assignments/training-002-advanced-prototyping/)
 
-## Upload
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **14.01.2021 8:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
