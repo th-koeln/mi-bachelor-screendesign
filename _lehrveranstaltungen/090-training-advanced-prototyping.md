@@ -26,6 +26,7 @@ Für dieses Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügu
 - sicherer Umgang in Figma
 
 ## Tutorials und Readings
+- [Design Systems ertellen und Screens organisieren in Figma](https://www.youtube.com/watch?v=A_bdqGcjuBo)
 - [Components](https://help.figma.com/hc/en-us/sections/360006233714-Components/)
 - [Styles](https://help.figma.com/hc/en-us/sections/360006268153-Styles)
 - [Dynamic designs with Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
