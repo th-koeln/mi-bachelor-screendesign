@@ -22,6 +22,9 @@ Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kenne
 
 Für dieses Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügung. Bitte arbeiten Sie das Material durch. Falls Sie Fragen haben oder unterstützung brauchen, stehen wir Ihnen via Zoom ab 11:00 Uhr zur Verfügung. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_bdqGcjuBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Was muss ich mitbringen?
 - sicherer Umgang in Figma
 
