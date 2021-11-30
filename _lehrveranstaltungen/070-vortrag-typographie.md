@@ -1,5 +1,5 @@
 ---
-titel: Typographie & Schriftsatz, Teil 1
+titel: Typographie
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
@@ -14,14 +14,13 @@ info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendes
 
 ## Worum geht es?
 
-> „Typography is two-dimensional architecture …“ <br><small>Hermann Zapf</small>
+> «Typography is two-dimensional architecture …» <br><small>Hermann Zapf</small>
 
 Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern guter Gestaltung. Auch, oder gerade im Screendesign, ist Text und damit Schrift ein wesentlicher Informationsträger. Hier lauern viele Untiefen, aber auch jede Menge Möglichkeiten für gute Gestaltung.  
 
 ## Material
 - [Folien zu Typographie](../../download/inputs/woche-10/typographie.pdf)
 - [Folien zu Typographie am Bildschirm](../../download/inputs/woche-10/typographie-am-bildschirm.pdf)
-- [Folien zu Textsatz](../../download/inputs/woche-10/textsatz.pdf)
 - [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
 ## Typo Games
 - [Shape Game](https://shape.method.ac/)
