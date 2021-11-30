@@ -23,14 +23,14 @@ usw.
 
 ### Fiktive Unternehmen
 
-- **Personal Health Sciences - Research & Product Development** \
-Kommunikationsziele: Zeitgemäß, Elegant, Leicht
+- **Thomas Rigghorn Healthcare - Life Sciences Research** \
+Kommunikationsziele: Zeitgemäß, Elegant, Leicht, Stark
 
-- **Karl Holland & Söhne - Nachhaltige Textilwirtschaft** \
+- **Carl Holland & Söhne - Nachhaltiger Textilienhandel** \
 Kommunikationsziele: Zeitgemäß, Bodenständig, Verbindlich, Klar
 
-- **Meine Welt - lokale Foto- und Druckprodukte** \
-Kommunikationsziele: Warm, Familär, Verbindlich, Traditionell
+- **Cutting Edge - Next Level Cloud Computing Solutions** \
+Kommunikationsziele: Fortschrittlich, Technisch, Schnell, Professionell
 
 ## Typographie 2
 
