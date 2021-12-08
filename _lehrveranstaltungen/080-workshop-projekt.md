@@ -1,5 +1,5 @@
 ---
-titel: Projektaufgabe und -kontext
+titel: Projektkontext und -briefing
 kuerzel: v-ko
 verantwortlich: cn
 typ: workshop
@@ -20,3 +20,5 @@ Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektk
 - [Infos zum Projekt](/mi-bachelor-screendesign/projekt-2021/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+- [Miro Board für die Einstiegsaufgabe](https://miro.com/app/board/uXjVOcO7ZxE=/?invite_link_id=122169251887)
+<!-- [Miro Board für's Sammeln der Fragen](https://miro.com/app/board/uXjVOcOK8qU=/?invite_link_id=816403664652)-->
