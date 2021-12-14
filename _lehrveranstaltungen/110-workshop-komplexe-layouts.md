@@ -40,7 +40,7 @@ In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ili
 - [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts/)
 
 ## Upload
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **30.12.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **13.01.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
