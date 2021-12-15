@@ -2,11 +2,6 @@
 titel: Systematische Abstände
 tags: Fortgeschritten
 ---
-Heute beschäftigen wir uns mit dem Thema Systematische Abstände. Dazu gibt es eine Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-whitespacing/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
-
----
-
-## Aufgabe
 
 Erzeugen Sie eine Arbeitsfläche von **414x736 Pixeln**. Legen Sie nach einer Zahlenreihe verschiedene Flächen für die Repräsentation von Abständen an und benennen Sie diese nach T-Shirt Größen.
 
@@ -24,6 +19,8 @@ Das Bild und das Zitat sollen dabei besonders hervorgehoben werden. **Gestaltung
 Folgende Einschränkungen gelten: 
 1. Sie dürfen **nur eine Schriftfamilie** und maximal **zwei Schriftstärken** verwenden
 2. es dürfen **nur zwei Schriftgrößen** verwendet werden
+3. es dürfen **keine zusätzlichen Gestaltungselemente** verwendet werden, außer Hintergrundfarben
+4. es muss ein erkennbares **Gestaltungsraster** verwendet werden
 
 Bei allen Autoren stehen mehrere Bilder zur Auswahl. Wählen Sie das Bild, das besten im Rahmen Ihres Gestaltungskonzepts funktioniert. Die Konzepte werden bei der nächsten Veranstaltung vorgestellt.
 

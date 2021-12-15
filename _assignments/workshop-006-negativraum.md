@@ -2,11 +2,6 @@
 titel: Negativraum
 tags: Fortgeschritten
 ---
-Heute beschäftigen wir uns mit dem Thema Negativraum. Dazu gibt es eine Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-whitespacing/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
-
----
-
-## Aufgabe
 
 Erzeugen Sie eine Arbeitsfläche von **1440x900 Pixeln**. Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
 - Bild des Autors

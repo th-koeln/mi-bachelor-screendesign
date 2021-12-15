@@ -34,9 +34,9 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 - [Der Goldene Schnitt - Inspirationen für die Bildgestaltung](https://www.whitewall.com/de/mag/goldener-schnitt) 
 
 ## Aufgaben
-In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Negativraum](/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
-- [Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
+In der heutigen Session soll folgende Aufgabe bearbeitet werden, die aufeinander aufbauen. Laden Sie die Ergebnisse im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln).
+- [Aufgabe 1: Negativraum](/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
+- [Aufgabe 2: Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **23.12.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
