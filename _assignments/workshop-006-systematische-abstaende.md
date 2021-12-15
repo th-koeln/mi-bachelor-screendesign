@@ -17,10 +17,11 @@ Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](.
 Das Bild und das Zitat sollen dabei besonders hervorgehoben werden. **Gestaltungsziel ist ein möglichst einfaches und reduziertes Design.** Verwenden Sie für alle Abstände und Größen nur Werte der Zahlenreihe.
 
 Folgende Einschränkungen gelten: 
-1. Sie dürfen **nur eine Schriftfamilie** und maximal **zwei Schriftstärken** verwenden
-2. es dürfen **nur zwei Schriftgrößen** verwendet werden
+1. es darf **nur eine Schriftfamilie** und maximal **zwei Schriftstärken** verwendet werden
+2. es dürfen nur **zwei Schriftgrößen** verwendet werden
 3. es dürfen **keine zusätzlichen Gestaltungselemente** verwendet werden, außer Hintergrundfarben
-4. es muss ein erkennbares **Gestaltungsraster** verwendet werden
+4. es muss ein erkennbares **Gestaltungsraster/-prinzip** verwendet werden
+5. versuchen Sie mindestens 50% Negativraum zu erzeugen
 
 Bei allen Autoren stehen mehrere Bilder zur Auswahl. Wählen Sie das Bild, das besten im Rahmen Ihres Gestaltungskonzepts funktioniert. Die Konzepte werden bei der nächsten Veranstaltung vorgestellt.
 

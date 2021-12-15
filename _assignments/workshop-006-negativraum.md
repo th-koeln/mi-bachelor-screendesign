@@ -14,7 +14,7 @@ Erzeugen Sie eine Arbeitsfläche von **1440x900 Pixeln**. Entwickeln Sie ein Lay
 Das Bild und das Zitat sollen dabei besonders hervorgehoben werden. **Gestaltungsziel ist ein möglichst einfaches, reduziertes aber spannendes Design.**
 
 Folgende Einschränkungen gelten:
-1. Sie dürfen **nur eine Schriftfamilie** und maximal **zwei Schriftstärken** verwenden
+1. es darf **nur eine Schriftfamilie** und maximal **zwei Schriftstärken** verwendet werden
 2. es dürfen nur **zwei Schriftgrößen** verwendet werden
 3. es dürfen **keine zusätzlichen Gestaltungselemente** verwendet werden, außer Hintergrundfarben
 4. es muss ein erkennbares **Gestaltungsraster** verwendet werden
