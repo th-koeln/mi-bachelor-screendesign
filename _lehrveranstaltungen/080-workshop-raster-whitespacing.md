@@ -15,6 +15,10 @@ info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluss auf die Wirk
 ## Worum geht es?
 Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen verschiedene Propotionsregeln sowie harmonische Zahlenreihen kennen und versuchen das Ganze systematisch beim Screendesign einzusetzen.
 
+> **Evaluation**
+> - URL: [https://evasys.fh-koeln.de/evasys/online/php](https://evasys.fh-koeln.de/evasys/online/php)
+> - Key: K758Fnbn
+
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
@@ -39,6 +43,8 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die aufeinander aufbauen. Laden Sie die Ergebnisse im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln).
 - [Aufgabe 1: Negativraum](/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
 - [Aufgabe 2: Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
+
+
 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **23.12.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
