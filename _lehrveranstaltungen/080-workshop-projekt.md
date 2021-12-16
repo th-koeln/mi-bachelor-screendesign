@@ -17,7 +17,7 @@ info: Das Projekt für dieses Jahr wird vorgestellt.
 Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektkontext.
 
 ## Material
-- [Infos zum Projekt](/mi-bachelor-screendesign/projekt-2021/)
+- [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2021/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
 - [Miro Board für die Einstiegsaufgabe](https://miro.com/app/board/uXjVOcO7ZxE=/?invite_link_id=122169251887)
