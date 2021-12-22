@@ -21,6 +21,8 @@ Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltung
 
 ## Material
 - [Aufgabe Responsive Design](../../assignments/workshop-009-responsive-design)
+- [Design Better Cards](https://uxdesign.cc/design-better-cards-c0d12ab581c4)
+- [8 rules for a perfect card design](https://uxdesign.cc/8-rules-for-perfect-card-design-4fb7eef32e09)
 
 ## Weiterführendes Material
 - [Designing for Different Screens and Devices: 7 Steps to Creating A Great UX](https://theblog.adobe.com/designing-for-different-screens-and-devices-7-steps-to-creating-a-great-ux/)

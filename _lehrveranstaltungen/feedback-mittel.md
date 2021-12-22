@@ -8,8 +8,8 @@ termine: 2021-12-23 13:00, 2022-01-13 12:30, 2022-01-20 13:00, 2022-02-10 09:00,
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
-anzahl: 20 Teilnehmer
+raum: zoom-fd
+anzahl: beliebig Teilnehmer
 info:
 ---
 
