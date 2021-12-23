@@ -33,7 +33,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Design more, resize less, with Auto Layout](https://www.figma.com/blog/announcing-auto-layout/)
 - [Quick tips for Auto Layout in Figma](https://uxdesign.cc/quick-tips-for-auto-layout-in-figma-411c639a51b0)
 
-## Iconssets
+## Iconsets
 - [Font Awesome](https://fontawesome.com)
 - [Material Design Icons](https://fonts.google.com/icons)
 - [Ionicons](http://ionicons.com)
