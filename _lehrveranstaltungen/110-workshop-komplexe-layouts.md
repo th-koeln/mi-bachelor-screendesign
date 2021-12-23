@@ -33,6 +33,13 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Design more, resize less, with Auto Layout](https://www.figma.com/blog/announcing-auto-layout/)
 - [Quick tips for Auto Layout in Figma](https://uxdesign.cc/quick-tips-for-auto-layout-in-figma-411c639a51b0)
 
+## Iconssets
+- [Font Awesome](https://fontawesome.com)
+- [Material Design Icons](https://fonts.google.com/icons)
+- [Ionicons](http://ionicons.com)
+- [Foundation Icons](https://get.foundation/icon-fonts.html)
+- [flaticon](https://www.flaticon.com)
+
 ## Aufgaben
 - [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts-vv/)
 
