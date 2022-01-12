@@ -7,7 +7,7 @@ Heute analysieren wir, ausgerichtet auf das diesjährige Projekt, verschiedene L
 
 Einige Bausteine wurden bereits vorbereitet und finden sich in folgendem Figma Workspace:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAiVorY3EZzbvJWc1ibsDUR%2FLayout%3Fnode-id%3D2%253A707" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FPDKx4byTT9BMvVLQTDm5C2%2FBasis-f%25C3%25BCr-Layout-f%25C3%25BCr-verschiedene-Endger%25C3%25A4te%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ---
 

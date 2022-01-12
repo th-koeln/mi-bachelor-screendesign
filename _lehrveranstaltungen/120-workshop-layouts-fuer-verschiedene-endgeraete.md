@@ -13,24 +13,20 @@ info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungs
 ---
 
 ## Worum geht es?
-Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltungsstrategien für die Gestaltung von GUIs für verschiedene Endgeräte an. 
-
-## Was muss ich mitbringen?
-- eigener Rechner mit Figma
-- Sehr gute Kenntnisse in Figma
-
+Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltungsstrategien und das zugehörige Prototyping für die Gestaltung von GUIs für verschiedene Endgeräte an. 
 ## Material
-- [Aufgabe Responsive Design](../../assignments/workshop-009-responsive-design)
-- [Design Better Cards](https://uxdesign.cc/design-better-cards-c0d12ab581c4)
-- [8 rules for a perfect card design](https://uxdesign.cc/8-rules-for-perfect-card-design-4fb7eef32e09)
+- [Aufgaben Layouts für verschiedene Endgeräte](../../assignments/workshop-009-responsive-design-2022)
+- [Google Sheet mit Content](https://docs.google.com/spreadsheets/d/1rxVeKCox_90fHN5clKYUS6_xhT2Xc9z4HhjXsPl6xxw/edit?usp=sharing)
 
 ## Weiterführendes Material
 - [Designing for Different Screens and Devices: 7 Steps to Creating A Great UX](https://theblog.adobe.com/designing-for-different-screens-and-devices-7-steps-to-creating-a-great-ux/)
 - [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 - [50 Examples and Best Practices](https://designmodo.com/responsive-design-examples/)
+- [Mobile First & Progressive Enhancement](https://kulturbanause.de/blog/mobile-first-progressive-enhancement/)
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+- [Design Better Cards](https://uxdesign.cc/design-better-cards-c0d12ab581c4)
+- [8 rules for a perfect card design](https://uxdesign.cc/8-rules-for-perfect-card-design-4fb7eef32e09)
 
 ## Upload
 Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
 
-## Sie haben keinen Rechner?
-Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
