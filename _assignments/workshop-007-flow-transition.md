@@ -20,8 +20,8 @@ Die Basis für den heutigen Workshop bildet die aktuelle Webseite VINCENT&VOLTAI
 
 Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende Teilaufgaben gilt es zu erledigen: 
 1. Animieren Sie die Funktion **Buch speichern** im Frame **Wishlist**. Nutzen Sie dafür die vorgesehenen Komponenten und deren Varianten. 
-2. Die vom Leser gespeicherten Werke werden im Frame **Bookmarks** gesammelt, welcher die Werke in einer Liste anzeigen soll. Verlinken Sie nun diesen Frame an einer geeigneten Stelle im Frame der **Wishlist** und animieren Sie den Übergang bei einem Tap auf die Schaltfläche.
-3. Nutzen Sie die Swipe-Funktion in Ihrem Prototypen: Implementieren Sie das Löschen eines Favoriten aus der Liste durch Swipen. Nutzen Sie dafür die vorgesehenen Komponenten und deren Varianten. Der Button zum Löschen eines Eintrags soll durch ziehen des Eintrags sichtbar werden. Reagiert der Nutzer nach 2 Sekunden nicht, soll der Eintrag wieder in den Ursprungszustand versetzt werden. Durch einen Klick auf die Löschen-Schaltfläche soll ein Eintrag aus der Liste entfernt werden:
+2. Die vom Leser gespeicherten Werke werden im Frame **Bookmarks** gesammelt, welcher die Werke in einer Liste anzeigen soll. Verlinken Sie nun diesen Frame an einer geeigneten Stelle im Frame **Wishlist** und animieren Sie den Übergang bei einem Tap auf die Schaltfläche.
+3. Nutzen Sie die Swipe-Funktion in Ihrem Prototypen: Implementieren Sie das Löschen eines Favoriten aus der Liste durch Swipen. Nutzen Sie dafür die vorgesehenen Komponenten und deren Varianten. Der Button zum Löschen eines Eintrags soll durch ziehen des Eintrags sichtbar werden. Reagiert der Nutzer nach 2 Sekunden nicht, soll der Eintrag wieder in den Ursprungszustand versetzt werden. Durch einen Klick auf die Löschen-Schaltfläche soll ein Eintrag aus der Liste entfernt werden.
 
 Tipp: Für das entfernen des Eintrags aus der Liste wird ein weiterer Frame benötigt. 
 
@@ -35,4 +35,4 @@ Sie können die unten dargestellte Vorlage verwenden. Zur Nutzung Datei in Figma
 
 Sie finden je einen möglichen Lösungsansatz für die heutigen Aufgaben in dieser Datei:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAJUSQJpScFHEoK3kyVcm0G%2FV-and-V-List-Elements-Solution" allowfullscreen></iframe>
+<iframe style="border: none; width: 100%; max-height:90vh" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAJUSQJpScFHEoK3kyVcm0G%2FV-and-V-List-Elements-Solution" allowfullscreen></iframe>
