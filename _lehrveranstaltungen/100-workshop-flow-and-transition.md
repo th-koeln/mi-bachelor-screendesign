@@ -21,7 +21,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 ##  Material
 - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-- [Understanding motion](https://material.io/guidelines/motion/material-motion.html)
+- [Understanding motion](https://material.io/design/motion/understanding-motion.html#principles)
 
 ## Tools & Tutorials
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
