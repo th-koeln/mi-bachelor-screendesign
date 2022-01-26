@@ -14,23 +14,25 @@ Duplizieren Sie sich die Datei [Figma Scroll to Playground](https://www.figma.co
 
 ## Übertragung in den Anwendungskontext
 
-Die Basis für den heutigen Workshop bilden die [Ergebnisse aus dem Vorjahr](#figma-vorlage). Wir nutzen die **Ergebnisliste** im Phone-Layout der Cranach Graphics App, für die wir heute einen animierten Prototypen entwickeln.
+Die Basis für den heutigen Workshop bildet die aktuelle Webseite VINCENT&VOLTAIRE. Beim stöbern werden dem Leser **ÄHNLICHE PRODUKTE** vorgeschlagen. Wir übertragen diesen Kontext in eine mobile Anwendung, aus der wir heute einen animierten Prototypen entwickeln.
+
+![Beispiel Ähnliche Artikel](../images/vv-flow-transition.png)
 
 Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende Teilaufgaben gilt es zu erledigen: 
-1. Animieren Sie die Funktion **CTA zu Favoriten hinzufügen**. Grundvoraussetzung dafür ist die Verwendung einer Simple, Medium oder Extended Card.
-2. Erstellen Sie einen neuen Frame, welcher die Favoriten des Nutzers in einer Liste anzeigen soll.  Auch hier können Sie ein geeignetes Card-Layout wählen. Verlinken Sie nun diesen Frame an einer geeigneten Stelle im Frame der **Ergebnisliste** und animieren Sie den Übergang bei einem Tap auf die Schaltfläche.
-3. Nutzen Sie die Swipe-Funktion in Ihrem Prototypen: 
-  - Option A: Implementieren Sie das Löschen eines Favoriten aus der Liste durch Swipen.
-  - Option B: Erstellen Sie einen weiteren Frame, der als Detailansicht dient, wenn auf ein Bild in einem Listenelement getappt wird. Simulieren Sie die Anzeige mehrerer Varianten des gewählten Bildes durch Swipen. Eine Schaltfläche bringt den Nutzer wieder zurück zum Ausgangsframe.
+1. Animieren Sie die Funktion **Buch speichern** im Frame **Wishlist**. Nutzen Sie dafür die vorgesehenen Komponenten und deren Varianten. 
+2. Die vom Leser gespeicherten Werke werden im Frame **Bookmarks** gesammelt, welcher die Werke in einer Liste anzeigen soll. Verlinken Sie nun diesen Frame an einer geeigneten Stelle im Frame **Wishlist** und animieren Sie den Übergang bei einem Tap auf die Schaltfläche.
+3. Nutzen Sie die Swipe-Funktion in Ihrem Prototypen: Implementieren Sie das Löschen eines Favoriten aus der Liste durch Swipen. Nutzen Sie dafür die vorgesehenen Komponenten und deren Varianten. Der Button zum Löschen eines Eintrags soll durch ziehen des Eintrags sichtbar werden. Reagiert der Nutzer nach 2 Sekunden nicht, soll der Eintrag wieder in den Ursprungszustand versetzt werden. Durch einen Klick auf die Löschen-Schaltfläche soll ein Eintrag aus der Liste entfernt werden.
+
+Tipp: Für das entfernen des Eintrags aus der Liste wird ein weiterer Frame benötigt. 
 
 ### Figma Vorlage
 
 Sie können die unten dargestellte Vorlage verwenden. Zur Nutzung Datei in Figma öffnen, auf den Pfeil oben in der Titelleiste neben *view only* klicken und aus dem Dropdown Feld *Duplicate to your Drafts* auswählen. Dann kann mit der Vorlage im persönlichen Bereich in Figma gearbeitet werden.
 
-<iframe style="border: none; width: 100%; max-height:90vh" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXanqGLbDUueSFgy2HCAppV%2Flayouts-fuer-div-endgeraete-demo%3Fnode-id%3D214%253A6030" allowfullscreen></iframe>
+<iframe style="border: none; width: 100%; max-height:90vh" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgHThubUjZzAkJnLOnPyaTn%2FV-and-V-List-Elements" allowfullscreen></iframe>
 
 ### Lösung
 
-Sie finden je einen möglichen Lösungsansatz für Aufgabe 3 (Option A und B) in dieser Datei:
+Sie finden je einen möglichen Lösungsansatz für die heutigen Aufgaben in dieser Datei:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdYEFAdD2lndRSO1uTYHMrL%2Flayouts-fuer-div-endgeraete-demo-Copy%3Fnode-id%3D786%253A1004" allowfullscreen></iframe>
+<iframe style="border: none; width: 100%; max-height:90vh" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAJUSQJpScFHEoK3kyVcm0G%2FV-and-V-List-Elements-Solution" allowfullscreen></iframe>
