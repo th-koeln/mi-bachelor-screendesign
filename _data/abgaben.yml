@@ -23,7 +23,7 @@ artefakt2:
   gruppe: Teamartefakt
   anteil: 1/5
   uebergabepunkt-text: GitHub
-  uebergabepunkt-link: none
+  uebergabepunkt-link: https://github.com/th-koeln/mi-bachelor-screendesign-projekte/pulls
 
 artefakt3:
   name: Präsentation und Kurzdokumentation
@@ -32,4 +32,4 @@ artefakt3:
   gruppe: Teamartefakt
   anteil: 1/5
   uebergabepunkt-text: GitHub
-  uebergabepunkt-link: none
+  uebergabepunkt-link: https://github.com/th-koeln/mi-bachelor-screendesign-projekte/pulls
