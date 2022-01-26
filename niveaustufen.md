@@ -92,13 +92,13 @@ Einzel- oder Teamartefakt
 Übergabepunkt
 : [{{site.data.abgaben.artefakt1.uebergabepunkt-text}}]({{site.data.abgaben.artefakt1.uebergabepunkt-link}})
 
-Das wesentliche Deliverable des [Projekts](../projekt-2020/) ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/Kontexte umfasst.
+Das wesentliche Deliverable des Projekts ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/Kontexte umfasst.
 
 Das Mockup soll:
 - die Umsetzung des Konzeptansatzes erklären und erfahrbar machen
 - so aufbereitet sein, dass es als Basis für eine spätere Implementierung durch ein Entwicklerteam herangezogen werden könnte
 - zeigen, wie bestimmte User Journeys abgebildet werden
-- die notwenigen Screens, Interaktionen und Übergänge zeigen
+- die notwendigen Screens, Interaktionen und Übergänge zeigen
 
 Idealerweise kann der "Kunde" auf Basis des Designkonzepts/Mockups folgende Fragen positiv beantworten:
 - das Designkonzept erfüllt die Kommunikationsaufgabe
