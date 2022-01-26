@@ -6,7 +6,7 @@ typ: feedback
 pflicht: true
 termine: 2022-01-27 14:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 120
 raum: zoom-fd
 anzahl: beliebig Teilnehmer
