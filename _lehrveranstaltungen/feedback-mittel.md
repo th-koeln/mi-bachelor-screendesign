@@ -15,6 +15,6 @@ info:
 
 ## Anmeldung
 
-Für die Termine in der vorlesungsfreien Zeit müssen Sie einen Termin im Ilias buchen. Melden Sie sich hierzu bitte frühzeitig an, sodass wir mit Ihnen planen und rechnen können.
+Für die Termine in der **vorlesungsfreien Zeit müssen Sie einen Termin im Ilias buchen**. Melden Sie sich hierzu bitte frühzeitig an, sodass wir mit Ihnen planen und rechnen können.
 
 - [Terminbuchung für Feedbacktermine im Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=2068797&cmd=view&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui)
