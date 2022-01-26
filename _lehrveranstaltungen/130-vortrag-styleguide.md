@@ -6,7 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2022-01-27 09:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 90
 raum: zoom-fd
 info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und nachhaltig nutzbar machen?

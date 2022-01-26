@@ -1,37 +1,40 @@
 ---
-titel: Styleguide aufbauen und in Figma umsetzen
+titel: Designsystem analysieren und Pattern Library aufbauen
 kuerzel: w-sg
 verantwortlich: alle
 typ: workshop
 pflicht: false
-termine: 2022-01-27 11:00
+termine: 2022-01-27 09:00
 empfohlene-voraussetzungen:
 published: true
 raum: zoom-fd
-dauer: 180
-info: Wie können wir unser Designsystem dokumentieren und systematisch in Figma abbilden?
+dauer: 210
+info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und nachhaltig nutzbar machen?
 ---
 
-
-
 ## Worum geht es?
-Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbiges in Form einer Pattern Library. Auf dieser Basis können wir oder ein anderes Team eigene, konsistente Anwendungen oder Erweiterungen entwickeln. Dabei ist eine möglichst einfache und stringente Systematik Ihres Designkonzepts enorm hilfreich, da hierdurch die Regelsätze kurz und einfach bleiben.
+Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbiges in Form einer Pattern Library. Auf dieser Basis können wir oder ein anderes Team eigene, konsistente Anwendungen oder Erweiterungen gestalten und entwickeln. Dabei ist eine möglichst einfache und stringente Systematik Ihres Designkonzepts enorm hilfreich, da hierdurch die Regelsätze kurz und einfach bleiben.
 
+Die resultierende Library soll:
+- das Gestaltungssystem erfassen, strukturieren, bewerten, ggf. Lücken und Inkonsistenzen zeigen und schließen
+- dem "Kunden" zeigen, dass man die Kommunikationsziele verstanden hat
+- als Basis für die weitere Projektbearbeitung durch ein anderes Team fungieren
+- zeigen, dass der Gestaltung eine Systematik zugrunde liegt
 
-## Was muss ich mitbringen?
-- eigener Rechner mit Figma
-- Kenntnisse in Figma
+Die Pattern Library soll möglichst vollständig und sauber ausgearbeitet sein. Mit Hilfe der resultierenden Übersicht über die Designelemente sollten folgende Fragen positiv beantwortet werden können:
+- der Gestaltungskontext des Kunden ist korrekt erfasst
+- der Gestaltung liegt ein erkennbares, verständliches und konsistentes System zugrunde
+- mit Hilfe des Mockups und der Library könnte im nächsten Prozessschritt ein Entwicklerteam weiter arbeiten
+- das Gestaltungssystem ist für den Anwendungsfall/ Projektauftrag vollständig
 
 ## Material
 - [Folien: Interface Inventar aufbauen und dokumentieren](../../download/workshops/interface-inventar-aufbauen/Interface-inventar-aufbauen-und-visualisieren.pdf)
-- [Folien: Design systematisieren](../../download/workshops/interface-inventar-aufbauen/design-analysieren-und-systematisieren.pdf)
+- [Website Style Guide Resources](http://styleguides.io/)
+- [Warum braucht man eine Pattern Library?](https://www.produktbezogen.de/bauanleitung-pattern-library-1/)
+- [Pattern Library von OTTO](https://www.otto.de/pattern-library/index.html)
+- [Mailchimp Pattern Library](https://ux.mailchimp.com/patterns/color)
+- [Pattern Libraries](https://medium.com/@whatjackhasmade/pattern-libraries-abcc45c6144c)
+- [UI Style Guide by Greg Dlubacz](https://cdn.dribbble.com/users/104117/screenshots/2080529/attachments/373853/real-pixels.png)
 
-
-## Aufgabe
-Analysieren Sie die vorgegebenen Screens und erzeugen Sie auf deren Basis eine Pattern Library.
-Berücksichtigen Sie dabei bitte die Punkte aus den Folien zu „Interface Inventar aufbauen und dokumentieren”, welche für die Screens relevant sind. Falls Sie innerhalb der Screens übergreifende Inkonsitenzen feststellen, bspw. bezüglich Abstände, Nichteinhaltung des Rasters etc., optimieren Sie das Layout dahingehend.
-
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1xksYgFoAyCz1RBGG7SbOa%2FeWallet%3Fnode-id%3D0%253A678" allowfullscreen></iframe>
-
-[eWalle Screens in Figma](https://www.figma.com/file/1xksYgFoAyCz1RBGG7SbOa/eWallet?node-id=0%3A1)
-
+## Aufgaben
+- [Interface inventarisieren](../../assignments/workshop-010-patternlab)

@@ -4,7 +4,7 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
 pflicht: true
-termine: 2021-12-23 13:00, 2022-01-13 12:30, 2022-01-20 13:00, 2022-02-10 09:00, 2022-02-24 09:00, 2022-03-03 09:00
+termine: 2021-12-23 13:00, 2022-01-13 12:30, 2022-01-20 13:00, 2022-01-27 13:00, 2022-02-10 09:00, 2022-02-24 09:00, 2022-03-03 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
