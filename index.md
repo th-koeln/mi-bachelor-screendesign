@@ -9,6 +9,12 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}
 
+{% include functions/resolve-urls.html target="semesterprojekt" %}
+{% assign semesterprojekt = link %}
+
+{% include functions/resolve-urls.html target="projekt-repo-frontend" %}
+{% assign projektergebnisse = link %}
+
 <div>
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
@@ -97,6 +103,7 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 - Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
 - Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 14.03. - 16.03.2022 in Gummersbach statt.
 
+Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n veröffentlicht.
 
 ## Eingesetzte Software
 

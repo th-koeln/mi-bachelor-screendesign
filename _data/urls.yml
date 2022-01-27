@@ -43,3 +43,11 @@ vor-ort:
 
 pruefung: 
   name: Raum 3.217
+
+semesterprojekt:
+  name: Projektaufgabe ws21/22
+  url: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2021/
+    
+projekt-repo-frontend:
+  name: Projektergebnisse
+  url: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/
