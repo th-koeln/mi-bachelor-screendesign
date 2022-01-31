@@ -96,12 +96,14 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im PSSO anmelden. Dies ist vom **01.02.2022** bis **01.03.2022** möglich.
-- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilrepositorygui)
+- Step 1: Im [PSSO](https://psso.th-koeln.de/) anmelden. Dies ist vom **01.02.2022** bis **01.03.2022** möglich.
+- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1246408&cmd=render&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilRepositoryGUI)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
-- Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
-- Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
-- Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 14.03. - 16.03.2022 in Gummersbach statt.
+- Step 4: Kurzdokumentation in [GitHub](https://github.com/th-koeln/mi-bachelor-screendesign-projekte/pulls) uploaden
+- Step 5: Artefakte in [Sciebo](https://sciebo.de/) uploaden
+- Step 6: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen
+- Step 7: [Infos im Ilias eintragen und Artefakte mit Eigenständigkeitserklärung bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
+- Step 8: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom **14.03. - 16.03.2022 in Gummersbach** statt.
 
 Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n veröffentlicht.
 
