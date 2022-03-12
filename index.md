@@ -102,9 +102,10 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 - Step 4: Kurzdokumentation in [GitHub](https://github.com/th-koeln/mi-bachelor-screendesign-projekte/pulls) uploaden
 - Step 5: Artefakte in [Sciebo](https://sciebo.de/) uploaden
 - Step 6: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen
-- Step 7: [Infos im Ilias eintragen und Artefakte mit Eigenständigkeitserklärung bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
+- Step 7: [Infos im Ilias eintragen und Artefakte mit Eigenständigkeitserklärung bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln). Hier gelten die [Abgabetermine der Artefakte](niveaustufen/)!
 - Step 8: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom **14.03. - 16.03.2022 in Gummersbach** statt.
 
+**Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**
 Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n veröffentlicht.
 
 ## Eingesetzte Software
