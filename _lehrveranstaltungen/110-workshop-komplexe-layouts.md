@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2021-12-23 09:00
+termine: 2022-12-22 09:00
 published: true
 dauer: 240
 raum: zoom-fd

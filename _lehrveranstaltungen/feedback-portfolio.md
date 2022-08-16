@@ -4,7 +4,7 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
 pflicht: true
-termine: 2021-11-11 9:00|zoom-fd-vs, 2021-11-11 11:00|zoom-fd-vs
+termine: 2022-11-10 9:00|zoom-fd-vs, 2022-11-10 11:00|zoom-fd-vs
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

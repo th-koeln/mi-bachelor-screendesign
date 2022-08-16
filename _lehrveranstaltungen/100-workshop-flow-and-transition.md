@@ -4,7 +4,7 @@ kuerzel: w-fat
 verantwortlich: ch
 typ: workshop
 pflicht: false
-termine: 2022-01-20 09:00
+termine: 2023-01-19 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 240

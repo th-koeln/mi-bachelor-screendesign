@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2021-12-16 09:00
+termine: 2022-12-15 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw
 published: true
 dauer: 300
