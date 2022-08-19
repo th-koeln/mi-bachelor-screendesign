@@ -8,7 +8,7 @@ termine: 2022-11-03 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: zoom-fd
+raum: vor-ort-v
 info: Wie funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erzielen und wie setzen wir Farbe am sinnvoll ein?
 ---
 

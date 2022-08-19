@@ -8,7 +8,7 @@ termine: 2022-12-15 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw
 published: true
 dauer: 300
-raum: hybrid-studio
+raum: vor-ort-w
 info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluss auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
 ---
 

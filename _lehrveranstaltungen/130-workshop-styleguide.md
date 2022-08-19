@@ -7,7 +7,7 @@ pflicht: false
 termine: 2023-01-26 09:00
 empfohlene-voraussetzungen:
 published: true
-raum: zoom-fd
+raum: vor-ort-w
 dauer: 210
 info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und nachhaltig nutzbar machen?
 ---

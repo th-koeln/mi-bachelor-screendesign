@@ -8,7 +8,7 @@ termine: 2022-10-20 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum: hybrid-gross
+raum: vor-ort-v
 info: Für wen gestalten wir und was ist eigentlich Wahrnehmungsarbeit?
 ---
 

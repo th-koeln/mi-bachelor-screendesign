@@ -8,7 +8,7 @@ termine: 2023-01-19 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 240
-raum: zoom-fd
+raum: vor-ort-w
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 ---
 

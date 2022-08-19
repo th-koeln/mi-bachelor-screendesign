@@ -8,7 +8,7 @@ termine: 2022-12-08 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: zoom-fd
+raum: vor-ort-v
 info: Wie setze ich Texte? Wie gehe ich mit Laufweiten, Zeilenabständen und Ausrichtungen um? Diese und ähnliche Fragen werden heute adressiert.
 ---
 

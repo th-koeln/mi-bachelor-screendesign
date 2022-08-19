@@ -8,7 +8,7 @@ termine: 2022-10-06 10:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: hybrid-klein
+raum: vor-ort-w
 info: Basistraining für den Umgang mit Figma
 ---
 

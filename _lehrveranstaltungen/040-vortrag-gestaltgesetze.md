@@ -8,7 +8,7 @@ termine: 2022-10-27 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: zoom-fd
+raum: vor-ort-v
 info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wie können wir diese im Designprozess einsetzen?
 ---
 

@@ -8,7 +8,7 @@ termine: 2022-12-01 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: hybrid-klein
+raum: vor-ort-w
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 ---
 

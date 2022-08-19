@@ -8,7 +8,7 @@ termine: 2022-10-27 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: zoom-fd
+raum: vor-ort-w
 info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltgesetze
 ---
 
