@@ -22,10 +22,12 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [Folien zu Typographie](../../download/inputs/woche-10/typographie.pdf)
 - [Folien zu Typographie am Bildschirm](../../download/inputs/woche-10/typographie-am-bildschirm.pdf)
 - [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
-## Typo Games
+
+## Typo Games & Tools
 - [Shape Game](https://shape.method.ac/)
 - [Kerning Game](https://type.method.ac/)
 - [Shot the Serif](https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/)
 - [TypeWar](http://typewar.com/)
 - [Type Connection](http://www.typeconnection.com/)
 - [Rag Game](https://fathom.info/ragtime/game.html)
+- [Type Terms](https://www.supremo.co.uk/typeterms/)

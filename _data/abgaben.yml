@@ -14,7 +14,7 @@ artefakt1:
   gruppe: Teamartefakt
   anteil: 2/5
   uebergabepunkt-text: Ilias
-  uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
+  uebergabepunkt-link: https://ilias.th-koeln.de/ilias.php?ref_id=1456545&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=wc:ld:9s&baseClass=ilrepositorygui
   
 artefakt2:
   name: Patternlab

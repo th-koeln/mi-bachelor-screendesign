@@ -104,6 +104,8 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 - Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
 - Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 13.03. - 15.03.2023 in Gummersbach statt.
 
+
+**Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**
 Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n veröffentlicht.
 
 ## Eingesetzte Software
