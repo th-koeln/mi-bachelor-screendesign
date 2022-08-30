@@ -7,7 +7,7 @@ pflicht: false
 termine: 2022-10-20 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 60
+dauer: 90
 raum: vor-ort-v
 info: Für wen gestalten wir und was ist eigentlich Wahrnehmungsarbeit?
 ---
