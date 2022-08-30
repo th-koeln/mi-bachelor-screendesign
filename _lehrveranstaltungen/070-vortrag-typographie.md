@@ -4,11 +4,11 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2021-12-02 09:00
+termine: 2022-12-01 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: hybrid-gross
+raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
 ---
 

@@ -4,11 +4,11 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2021-12-09 11:00
+termine: 2022-12-08 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: zoom-fd
+raum: vor-ort-w
 info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
 

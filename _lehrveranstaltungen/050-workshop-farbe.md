@@ -4,11 +4,11 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2021-11-04 11:00
+termine: 2022-11-03 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 180
-raum: zoom-fd
+raum: vor-ort-w
 info: Wie entwickle ich ein Farbklima? 
 ---
 

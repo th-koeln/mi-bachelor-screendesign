@@ -4,11 +4,11 @@ kuerzel: t-sb
 verantwortlich: vs, js, ch
 typ: training
 pflicht: false
-termine: 2021.10.07 10:30
+termine: 2022-10-06 11:00
 empfohlene-voraussetzungen:
 published: true
-dauer: 180
-raum: hybrid-klein
+dauer: 150
+raum: vor-ort-w
 info: Basistraining für den Umgang mit Figma
 ---
 

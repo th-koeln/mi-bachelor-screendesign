@@ -4,11 +4,11 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2021-11-04 09:00
+termine: 2022-11-03 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: zoom-fd
+raum: vor-ort-v
 info: Wie funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erzielen und wie setzen wir Farbe am sinnvoll ein?
 ---
 

@@ -41,6 +41,12 @@ hybrid-studio:
 vor-ort: 
   name: Raum XYZ
 
+vor-ort-v:
+  name: "Raum 3.102"
+
+vor-ort-w:
+  name: "Raum 0.501"
+
 pruefung: 
   name: Raum 3.217
 

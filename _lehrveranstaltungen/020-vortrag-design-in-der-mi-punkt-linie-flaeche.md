@@ -4,11 +4,11 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2021-10-14 09:00
+termine: 2022-10-13 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: hybrid-gross
+raum: vor-ort-v
 info: Was sind grundlegende Fragen im Design und welche Rolle spielt Design in der Medieninformatik?
 ---
 

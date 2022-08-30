@@ -16,15 +16,16 @@ titel: Über das Modul
 {% assign projektergebnisse = link %}
 
 <div>
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste reguläre Veranstaltung ist am **07. Oktober 2021** um **9:00 Uhr**. Der letzte Termin ist am **27. Januar 2022**.
+Die erste reguläre Veranstaltung ist am **06. Oktober 2022** um **9:00 Uhr**. Der letzte Termin ist am **26. Januar 2023**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
 Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln) an.
 </div>
 
-## Hybride Veranstaltung und Prüfung aufgrund der Covid-19 Problematik
- Aufgrund der weiterhin bestehenden Covid-19 Problematik wird das Modul inkl. Prüfung hybrid abgewickelt. Im [Zeitplan](./timetable/) finden Sie die Veranstaltungstermine und auch den Ort der jeweiligen Veranstaltung.
+## Einschränkungen durch Covid-19, Stand 01.09.2022
+
+Wir gehen davon aus, dass wir die Veranstaltung in Präsenz durchführen. Es wird einige Feedbacktermine geben, die wir als Online-Termine anbieten. Im [Zeitplan](./timetable/) finden Sie die Veranstaltungstermine und auch den Ort der jeweiligen Veranstaltung.
  
 Die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit findet vor Ort in Gummersbach statt. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Projektpräsentationsprüfung](projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
 
@@ -96,14 +97,13 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: Im [PSSO](https://psso.th-koeln.de/) anmelden. Dies ist vom **01.02.2022** bis **01.03.2022** möglich.
-- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1246408&cmd=render&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilRepositoryGUI)
+- Step 1: im PSSO anmelden. Dies ist vom **01.02.2023** bis **01.03.2023** möglich.
+- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilrepositorygui)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
-- Step 4: Kurzdokumentation in [GitHub](https://github.com/th-koeln/mi-bachelor-screendesign-projekte/pulls) uploaden
-- Step 5: Artefakte in [Sciebo](https://sciebo.de/) uploaden
-- Step 6: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen
-- Step 7: [Infos im Ilias eintragen und Artefakte mit Eigenständigkeitserklärung bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln). Hier gelten die [Abgabetermine der Artefakte](niveaustufen/)!
-- Step 8: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom **14.03. - 16.03.2022 in Gummersbach** statt.
+- Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
+- Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
+- Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 13.03. - 15.03.2023 in Gummersbach statt.
+
 
 **Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**
 Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n veröffentlicht.
@@ -112,7 +112,7 @@ Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n verö
 
 Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein. Die Nutzung von Figma für Studenten ist kostenlos und [erfordert lediglich eine Verifizierung](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-Education-status). Weitere Infos dazu sind auf [Figma](https://www.figma.com/pricing-faq/) zu finden.
 
-Außerdem benötigen Sie einen einfachen Bildeditor wie z.B. [Gimp](https://www.gimp.org/downloads/)
+Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gimp.org/downloads/).
 
 
 ## Wie kann ich mich vorbereiten?
@@ -126,6 +126,7 @@ Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn D
 - [Kompendium der visuellen Information und Kommunikation / Kerstin Alexander](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050419679)
 - [Simplicity: die zehn Gesetze der Einfachheit / John Maeda](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT015123236)
 - [Webdesign: Screendesign / Peter Bühler, Patrick Schlaich, Dominik Sinner](https://link.springer.com/chapter/10.1007%2F978-3-662-53918-7_3)
+- [Visualizing complexity: Handbuch modulares Informationsdesign / Darjan Hil und Nicole Lachenmeier](https://www.degruyter.com/document/doi/10.1515/9783035625073/html)
 
 ## Wer macht es?
 

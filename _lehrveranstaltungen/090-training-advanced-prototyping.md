@@ -4,7 +4,7 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2021-11-25 11:00
+termine: 2022-11-24 11:00
 empfohlene-voraussetzungen: 
 published: true
 raum: zoom-fd

@@ -4,11 +4,11 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2021-10-14 11:00
+termine: 2022-10-13 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: hybrid-klein
+raum: vor-ort-w
 info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um Punkt & Linie.
 ---
 
