@@ -1,5 +1,5 @@
 ---
-titel: Punkt & Linie
+titel: Punkt
 kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
@@ -9,12 +9,12 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 180
 raum: vor-ort-w
-info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um Punkt & Linie.
+info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um den Punkt.
 ---
 
 ## Worum geht es?
 
-Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidimensionaler Gestaltung: dem Punkt und der Linie. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
+Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidimensionaler Gestaltung: dem Punkt. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
 
 ## Was muss ich mitbringen?
 
@@ -26,18 +26,16 @@ Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidim
 -   [Semiotik](https://cnoss.github.io/slides/presentations/screendesign/semiotik/)
 -   [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
 -   [Eindeutigkeit](../../download/workshops/punkt-linie/030-eindeutigkeit.pdf)
--   [Linie](../../download/workshops/punkt-linie/040-Linie.pdf)
 
 ## Aufgaben
 
 In der heutigen Session sollen folgende Aufgaben bearbeitet werden.
 
 -   [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
--   [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
 
-## Mitschnitte
+<!-- ## Mitschnitte
 
-Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln).
+Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln). -->
 
 ## Upload
 

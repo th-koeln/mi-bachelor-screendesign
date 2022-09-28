@@ -10,6 +10,11 @@ week-2:
     start: "09:00"
     end: "18:00"
     name: Donnerstag
+  day-2:
+    datum: 2022-10-14
+    start: "09:00"
+    end: "18:00"
+    name: Freitag
 week-3:
   day-1:
     datum: 2022-10-20
