@@ -5,30 +5,36 @@ verantwortlich: cn
 typ: workshop
 pflicht: false
 termine: 2022-11-03 11:00
-empfohlene-voraussetzungen: 
+empfohlene-voraussetzungen:
 published: true
 dauer: 180
 raum: vor-ort-w
-info: Wie entwickle ich ein Farbklima? 
+info: Wie entwickle ich ein Farbklima?
 ---
 
 ## Worum geht es?
+
 Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrere Farbklimata und variieren diese. Darüber hinaus lernen wir einige neue Funktionen in Figma kennen und befassen uns zum ersten Mal systematisch mit Bildern.
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Figma
-- Kenntnisse in Figma
+
+-   eigener Rechner mit Figma
+-   Kenntnisse in Figma
 
 ## Material
-- [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
-- [Multicolor Tool](http://labs.tineye.com/multicolr/)
+
+-   [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
+-   [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
 ## Aufgaben
+
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
+
+-   [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
 
 ## Upload
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **11.11.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **10.11.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
 
 <!--
 ## Sie haben keinen Rechner?

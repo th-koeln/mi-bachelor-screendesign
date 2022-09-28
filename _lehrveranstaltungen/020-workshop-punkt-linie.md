@@ -13,30 +13,35 @@ info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund 
 ---
 
 ## Worum geht es?
+
 Heute befassen wir uns mit den absolut grundlegenden Elementen jeglicher zweidimensionaler Gestaltung: dem Punkt und der Linie. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
 
 ## Was muss ich mitbringen?
-- eigener Rechner mit Figma
-- Basiskenntnisse in Figma
 
+-   eigener Rechner mit Figma
+-   Basiskenntnisse in Figma
 
 ## Material
-- [Semiotik](https://cnoss.github.io/slides/presentations/screendesign/semiotik/)
-- [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
-- [Eindeutigkeit](../../download/workshops/punkt-linie/030-eindeutigkeit.pdf)
-- [Linie](../../download/workshops/punkt-linie/040-Linie.pdf)
 
+-   [Semiotik](https://cnoss.github.io/slides/presentations/screendesign/semiotik/)
+-   [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
+-   [Eindeutigkeit](../../download/workshops/punkt-linie/030-eindeutigkeit.pdf)
+-   [Linie](../../download/workshops/punkt-linie/040-Linie.pdf)
 
 ## Aufgaben
+
 In der heutigen Session sollen folgende Aufgaben bearbeitet werden.
-- [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
-- [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
+
+-   [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
+-   [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
 
 ## Mitschnitte
+
 Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln).
 
 ## Upload
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **21.10.2021 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **20.10.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
