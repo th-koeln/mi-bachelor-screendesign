@@ -136,3 +136,7 @@ Verantwortlicher Dozent des Moduls ist Prof. Christian Noss. Das komplette Betre
 - {{betreuer[1].name}}
 {% endif %}
 {% endfor %}
+
+## Willkommen im Wintersemester 2022/23
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nPUuIPBchM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
