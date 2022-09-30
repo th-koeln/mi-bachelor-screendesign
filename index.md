@@ -23,6 +23,37 @@ Die erste reguläre Veranstaltung ist am **06. Oktober 2022** um **9:00 Uhr**. D
 Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln) an.
 </div>
 
+## E-Mail vom 29.09.2022
+Für alle, die sich noch nicht im Ilias Kurs angemeldet haben, hier der Text von der Mail, welche am 29.09.2022 über den Ilias Mailverteiler versendet wurde:
+
+<blockquote>
+Hallo zusammen,
+
+willkommen zum Modul Screendesign. Als Einstieg schaut euch
+bitte folgendes Video an
+https://www.youtube.com/watch?v=5nPUuIPBchM und lest euch
+die Informationen auf dieser Seite durch
+https://th-koeln.github.io/mi-bachelor-screendesign/.
+Falls ihr im Laufe des Semesters Fragen habt, sprecht uns
+bitte direkt in der Veranstaltung an oder nutzt das Forum im
+Ilias Kurs.
+
+Die erste Veranstaltung findet am 06. Oktober um 10:00 Uhr
+in Raum 0.501 und 0.502 statt.
+Verteilt euch bitte gleichmäßig auf diese beiden Räume
+und bringt einen Computer mit. Falls ihr keinen eigenen
+Computer habt, gebt uns bitte über das Forum im Ilias Kurs
+Bescheid.
+
+Wir nutzen in diesem Modul die Software „Figma“. Richtet
+euch als Vorbereitung schon einmal einen Account über
+https://www.figma.com mit eurer TH Mailadresse ein.
+Schaut euch als Nächstes von dieser YouTube Playlist
+mindestens die ersten beiden Videos an
+https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4.
+
+</blockquote>
+
 ## Einschränkungen durch Covid-19, Stand 01.09.2022
 
 Wir gehen davon aus, dass wir die Veranstaltung in Präsenz durchführen. Es wird einige Feedbacktermine geben, die wir als Online-Termine anbieten. Im [Zeitplan](./timetable/) finden Sie die Veranstaltungstermine und auch den Ort der jeweiligen Veranstaltung.
