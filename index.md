@@ -18,7 +18,7 @@ titel: Über das Modul
 <div>
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste reguläre Veranstaltung ist am **06. Oktober 2022** um **9:00 Uhr**. Der letzte Termin ist am **26. Januar 2023**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+Die erste reguläre Veranstaltung ist am **06. Oktober 2022** um **10:00 Uhr**. Der letzte Termin ist am **26. Januar 2023**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
 Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln) an.
 </div>
