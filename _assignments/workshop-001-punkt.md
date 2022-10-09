@@ -14,13 +14,14 @@ Erzeugen Sie auf einer schwarzen Fläche von **700x900 Pixeln** (hochformat) ein
 1. Ansammlung
  <!-- 1. Streuung -->
 2. Ausgrenzung
-3. Flucht
+<!-3. Flucht-->
+3. Unschärfe
 4. Ankunft
-    <!-- 5. Verdrängung -->
+5. Verdrängung
     <!-- 5. Systematik -->
-5. Ordnung
-6. Komplexität
- <!-- 6. Konfrontation -->
+<!--5. Ordnung-->
+<!--6. Komplexität-->
+6. Konfrontation
 
 Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jweiligen Begriff hinzu. Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. Nutzen Sie für die Darstellung des Begriffs eine serifenlose Schrift im Schriftgrad 16. Bitte schreiben Sie auch Ihren Namen auf die schwarze Fläche.
 
@@ -45,13 +46,13 @@ Erzeugen Sie auf einer dunkelgrauen Fläche von **1280x960 Pixeln** zwei weiße 
 2. chaotisch/geordnet
 3. beschleunigen/bremsen -->
 
-<!-- 1. Frühling/ Herbst
+1. Frühling/ Herbst
 2. Anfang/ Ende
-3. Nervosität/ Gelassenheit -->
+3. Nervosität/ Gelassenheit
 
-1. Wärme/ Kälte
+<!-- 1. Wärme/ Kälte
 2. Freude/ Trauer
-3. Lüge/ Wahrheit
+3. Lüge/ Wahrheit -->
 
 Beschriften Sie die Motiven mit dem Namen des Begriffspaars und Ihrem Namen auf der dunkelgrauen Fläche.
 
