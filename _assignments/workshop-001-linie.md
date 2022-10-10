@@ -3,7 +3,7 @@ titel: Gestaltungselement Linie
 tags: Basics
 ---
 
-Heute beschäftigen wir uns mit dem Gestaltungselement Linie. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
+Heute beschäftigen wir uns mit dem Gestaltungselement Linie. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/025-workshop-linie/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
 
 ---
 
