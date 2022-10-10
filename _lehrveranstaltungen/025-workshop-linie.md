@@ -23,7 +23,7 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, 
 
 ## Material
 
--   [Eindeutigkeit](../../download/workshops/punkt-linie/030-eindeutigkeit.pdf)
+-   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 -   [Linie](../../download/workshops/punkt-linie/040-Linie.pdf)
 
 ## Aufgaben
