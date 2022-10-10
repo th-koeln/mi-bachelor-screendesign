@@ -24,7 +24,7 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, 
 ## Material
 
 -   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
--   [Linie](../../download/workshops/punkt-linie/040-Linie.pdf)
+-   [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
 
 ## Aufgaben
 

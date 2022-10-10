@@ -25,7 +25,7 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 
 -   [Semiotik](https://cnoss.github.io/slides/presentations/screendesign/semiotik/)
 -   [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
--   [Eindeutigkeit](../../download/workshops/punkt-linie/030-eindeutigkeit.pdf)
+-   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 
 ## Aufgaben
 
