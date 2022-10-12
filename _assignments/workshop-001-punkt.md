@@ -14,7 +14,7 @@ Erzeugen Sie auf einer schwarzen Fläche von **700x900 Pixeln** (hochformat) ein
 1. Ansammlung
  <!-- 1. Streuung -->
 2. Ausgrenzung
-<!-3. Flucht-->
+<!-- 3. Flucht -->
 3. Unschärfe
 4. Ankunft
 5. Verdrängung
