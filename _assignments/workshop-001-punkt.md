@@ -59,3 +59,7 @@ Beschriften Sie die Motiven mit dem Namen des Begriffspaars und Ihrem Namen auf 
 Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-punkt-2-NACHNAME-BEGRIFFSPAAR.png`
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4W3FmEXGJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
