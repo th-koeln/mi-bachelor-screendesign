@@ -9,7 +9,7 @@ Heute beschäftigen wir uns mit dem Gestaltungselement Fläche. Die theoretische
 
 ## Fläche 1a: Formen im Anschnitt
 
-Erzeugen Sie eine Montagefläche von **1014x1512 Pixel**. Erzeugen Sie ein zweispaltiges Raster (Spaltenbreite 336 Pixel, Spaltenabstand 32px) uns setzen Sie in drei Reihen jeweils zwei weiße Quadrate mit einer schwarzen Kontur als Grundflächen ins Raster.
+Erzeugen Sie eine Montagefläche von **1014x1512 Pixel**. Erzeugen Sie ein zweispaltiges Raster (Spaltenbreite 336 Pixel, Spaltenabstand 32px) und setzen Sie in drei Reihen jeweils zwei weiße Quadrate mit einer schwarzen Kontur als Grundflächen ins Raster.
 
 Platzieren Sie in der linken Spalte in jeden Rahmen ein schwarz gefülltes Quadrat (220x220 Pixel) und in die rechten Spalte in jeden Rahmen einen schwarzen Kreis (210x210 Pixel). Positionieren Sie die Elemente im Anschnitt auf der jeweiligen Grundfläche, aber nur soweit, dass die Ursprungsform erkennbar bleibt. Versuchen Sie dabei eine interessante und gut ausbalancierte Gesamtkomposition zu erzielen. Wenn Sie mit der Position zufrieden sind, maskieren Sie die Form mit der Grundfläche und ziehen einen neuen Rahmen um die Grundfläche. Bitte schreiben Sie Ihren Namen auf die Montagefläche.
 
