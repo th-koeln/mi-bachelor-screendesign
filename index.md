@@ -23,6 +23,7 @@ Die erste reguläre Veranstaltung ist am **06. Oktober 2022** um **10:00 Uhr**. 
 Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln) an.
 </div>
 
+<!--
 ## E-Mail vom 29.09.2022
 Für alle, die sich noch nicht im Ilias Kurs angemeldet haben, hier der Text von der Mail, welche am 29.09.2022 über den Ilias Mailverteiler versendet wurde:
 
@@ -53,6 +54,7 @@ mindestens die ersten beiden Videos an
 https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4.
 
 </blockquote>
+-->
 
 ## Einschränkungen durch Covid-19, Stand 01.09.2022
 
