@@ -160,6 +160,8 @@ Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn D
 - [Simplicity: die zehn Gesetze der Einfachheit / John Maeda](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT015123236)
 - [Webdesign: Screendesign / Peter Bühler, Patrick Schlaich, Dominik Sinner](https://link.springer.com/chapter/10.1007%2F978-3-662-53918-7_3)
 - [Visualizing complexity: Handbuch modulares Informationsdesign / Darjan Hil und Nicole Lachenmeier](https://www.degruyter.com/document/doi/10.1515/9783035625073/html)
+- [Laws of UX: 10 praktische Grundprinzipien für intuitives, menschenzentriertes UX-Design / Yablonski, Jon ; Kommer, Christoph](https://content-select.com/de/portal/media/view/5f4a4d25-f458-43bb-a3a6-0ee6b0dd2d03?forceauth=1)
+
 
 ## Wer macht es?
 
