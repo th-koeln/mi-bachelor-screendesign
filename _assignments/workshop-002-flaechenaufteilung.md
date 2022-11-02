@@ -9,7 +9,7 @@ Heute beschäftigen wir uns mit dem Flächenaufteilung. Dazu gibt es eine Aufgab
 
 ## Flächenaufteilung
 
-Erzeugen Sie eine weiße Arbeitsfläche von **210x210 Pixeln**. Darauf platzieren Sie vier Quadrate, ebenfalls 220x220 Pixel groß und platzieren diese so, dass sich die Spitzen in der Mitte der Arbeitsfläche treﬀen. Füllen Sie die Quadrate im Uhrzeigersinn beginnend mit links oben mit folgenden Farbwerten: `#DECC28`, `#DD1166`, `#28C0DE`, `#363636`<!--`#2C51BF`, `#03A65A`, `#F2AE2E`, `#D94625`-->. Entwicklen Sie nun durch Verschieben der Flächen 16 spannende und interessante Flächenaufteilungen.
+Erzeugen Sie eine weiße Arbeitsfläche von **210x210 Pixeln**. Darauf platzieren Sie vier Quadrate, ebenfalls 210x210 Pixel groß und platzieren diese so, dass sich die Spitzen in der Mitte der Arbeitsfläche treﬀen. Füllen Sie die Quadrate im Uhrzeigersinn beginnend mit links oben mit folgenden Farbwerten: `#DECC28`, `#DD1166`, `#28C0DE`, `#363636`<!--`#2C51BF`, `#03A65A`, `#F2AE2E`, `#D94625`-->. Entwicklen Sie nun durch Verschieben der Flächen 16 spannende und interessante Flächenaufteilungen.
 
 ![Ausgangsform der Farbflächen](../images/flaechenkomposition-changed.png)
 
