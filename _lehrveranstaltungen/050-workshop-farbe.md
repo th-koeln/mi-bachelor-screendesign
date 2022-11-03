@@ -34,7 +34,7 @@ In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ili
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **10.11.2022 0:00 Uhr** im [Ilias]([https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=1179477&cmd=showOverview)) 
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **10.11.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=1179477&cmd=showOverview)
 
 <!--
 ## Sie haben keinen Rechner?
