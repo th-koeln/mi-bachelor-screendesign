@@ -1,10 +1,10 @@
 ---
-titel: Typographie & Markenpersönlichkeit
+titel: Typographie
 kuerzel: w-elmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2022-12-01 11:00
+termine: 2022-11-24 11:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
