@@ -8,7 +8,7 @@ termine: 2022-11-10 9:00|zoom-fd-vs, 2022-11-10 11:00|zoom-fd-vs
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: https://th-koeln.zoom.us/j/86238751739 (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/86238751739
+raum: https://th-koeln.zoom.us/j/kx7H5ZVJ (Passwort steht im Ilias)|https://th-koeln.zoom.us/j/kx7H5ZVJ
 anzahl: 20 Teilnehmer
 info:
 ---
