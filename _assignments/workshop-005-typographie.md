@@ -23,7 +23,7 @@ usw.
 
 ### Fiktive Unternehmen
 
--   **Ich und dein Holz - Wood Manufacture** \
+-   **Ich und Dein Holz - Wood Manufacture** \
     Kommunikationsziele: Jung, Verbindlich, Bodenständig, Zeitgemäß
 
 -   **Wilms Gartencenter - Plants and More** \
