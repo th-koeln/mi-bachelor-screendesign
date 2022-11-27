@@ -1,24 +1,37 @@
 ---
-titel: Variantenbildung
+titel: Variantenbildung am Beispiel von Typographie und Textsatz
 kuerzel: w-vb
 verantwortlich: cn
 typ: workshop
 pflicht: false
 termine: 2022-12-01 11:00
-empfohlene-voraussetzungen: t-sb oder t-fb, t-ld, t-sm
+raum: vor-ort-w
+empfohlene-voraussetzungen:
 published: true
 dauer: 120
-info: Gutes Design entsteht zumeist durch die Auswahl der richtigen Varianten für ein Teilproblem. Doch wie erzeuge ich systematisch Varianten?
+info: Gutes Design entsteht zumeist durch die Auswahl der besten Variante. Doch wie erzeuge ich systematisch Varianten?
 ---
 
-## Der Workshop:
-Die Form ist ein zentrales Element in der Gestaltung und somit die Formfindung ein elementarer Prozess für Gestaltende.
-Wir schauen und den Nutzen der Bildung von Varianten in der Praxis an und starten dann mit Übungen zu z.B. Kombinatorik, Flächenaufteilung und GUI-Varianten.
 
-<p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/workshop-variantenbildung/variantenbildung.pdf">Download der Workshop Slides als PDF</a></p>
+## Worum geht es?
+«Bei der Beschäftigung mit Formen und Gestaltungselementen muss
+berücksichtigt werden,dass es keine eindeutige Vorhersehbarkeit der
+Wirkung eines Entwurfes gibt. Ein Entwurf ist nicht nur deshalb gut,
+weil alle Einzelanforderungen erfüllt sind, sondern vielmehr weil die
+geschaffene Struktur eine Beziehung der Einzelteile zueinander
+definiert und ihnen dafür eine neue Ordnung gibt.
+Das Ausprobieren verschiedenster Möglichkeiten an Hand von Skizzen,
+Zeichnungen und Modellen ist eine notwendige Methode, um die vorher
+erdachten Ideen und Lösungsansätze fortwährend zu überprüfen.»
+– Bert Bielefeld, Architekt
+
+
+<p><a href="/mi-bachelor-screendesign/download/variantenbildung.pdf">Download der Workshop Slides als PDF</a></p>
 
 ## Was brauchen Sie?
-- Einen eigenen Computer bzw. mindestens einen Rechner pro Team
+- Einen eigenen Computer
+- Ergebnisse zu den Aufgaben [Typographie](/mi-bachelor-screendesign/assignments/workshop-005-typographie/)
+- Stift und Papier für Skizzen
 
-## Material
-<p><a href="https://th-koeln.github.io/mi-bachelor-gdvk/download/workshop-variantenbildung/material-variantenbildung.zip">Download des benötigten Materials als ZIP Archiv</a></p>
+## Aufgaben
+- [Variantenbildung am Beispiel von Typographie und Textsatz](/mi-bachelor-screendesign/assignments/workshop-005-typographie-variantenbildung/)
