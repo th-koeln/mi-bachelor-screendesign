@@ -2,7 +2,7 @@
 titel: Layouts für verschiedene Endgeräte
 kuerzel: w-lfve
 verantwortlich: cn
-typ: workshop
+typ: workshop-mit-anmeldung
 pflicht: false
 termine: 2023-01-12 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld

@@ -1,5 +1,5 @@
 ---
-titel: Projektkontext und -briefing
+titel: Projektbriefing und Onboarding Workshop
 kuerzel: v-ko
 verantwortlich: cn
 typ: workshop
@@ -7,7 +7,7 @@ pflicht: false
 termine: 2022-12-08 09:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
+dauer: 150
 raum: vor-ort-w
 info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
@@ -17,8 +17,10 @@ info: Das Projekt für dieses Jahr wird vorgestellt.
 Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektkontext.
 
 ## Material
-- [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2021/)
+- [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2022/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+<!--
 - [Miro Board für die Einstiegsaufgabe](https://miro.com/app/board/uXjVOcO7ZxE=/?invite_link_id=122169251887)
 - [Miro Board für's Sammeln der Fragen](https://miro.com/app/board/uXjVOcOK8qU=/?invite_link_id=816403664652)
+-->

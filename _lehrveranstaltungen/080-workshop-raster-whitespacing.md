@@ -2,12 +2,12 @@
 titel: Systematische Proportionen und Abstände
 kuerzel: w-lfve
 verantwortlich: cn
-typ: workshop
+typ: workshop-mit-anmeldung
 pflicht: false
 termine: 2022-12-15 09:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw
 published: true
-dauer: 300
+dauer: 270
 raum: vor-ort-w
 info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluss auf die Wirkung der Gesamtkomposition. Heute gibt es Basics zum systematischen Aufbau von Abständen und Proportionen. Wie gehen wir systematisch mit Größen und Abständen um?
 ---

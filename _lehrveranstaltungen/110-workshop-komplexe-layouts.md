@@ -7,7 +7,7 @@ pflicht: false
 termine: 2022-12-22 09:00
 published: true
 dauer: 240
-raum: vor-ort-w
+raum: zoom-fd
 info: Heute entwickeln wir zum ersten mal ein komplexes Layout unter Zurhilfename eines Content Inventorys, Wireframes und Figma Komponenten.
 ---
 

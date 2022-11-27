@@ -168,7 +168,7 @@ $tt-grid-height: 60px;
         background-color: $mi-lila;
       }
 
-      &.workshop {
+      &.workshop, &.workshop-mit-anmeldung {
         background-color: $mi-gruen;
       }
 
@@ -729,7 +729,7 @@ $tt-grid-height: 60px;
   }
 }
 
-@media (max-width: 999px) {
+
 
   html,
   body {
@@ -768,7 +768,7 @@ $tt-grid-height: 60px;
       }
     }
   }
-}
+
 
 @media print {
 

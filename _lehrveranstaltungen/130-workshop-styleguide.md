@@ -2,7 +2,7 @@
 titel: Designsystem analysieren und Pattern Library aufbauen
 kuerzel: w-sg
 verantwortlich: alle
-typ: workshop
+typ: workshop-mit-anmeldung
 pflicht: false
 termine: 2023-01-26 09:00
 empfohlene-voraussetzungen:

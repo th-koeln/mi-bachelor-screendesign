@@ -30,6 +30,11 @@ layout: default
 
                 {% capture teilnehmer %}{{typ-max-teilnehmer}} Teilnehmer{% endcapture %} {% if page.anzahl != "" and page.anzahl != nil %} {% assign teilnehmer = page.anzahl %} {% endif %}
 
+                {% assign check = anmeldung | strip_newlines %} {% if check != "" %}
+                <dt>Anmeldung erforderlich</dt>
+                <dd>bitte hier <a href="{{anmeldung}}">anmelden</a></dd>
+                {% endif %} 
+
                 <dt>Maximale Teilnehmerzahl</dt>
                 <dd>{{teilnehmer}}</dd>
                 {% endif %} {% include /functions/resolve-names.html verantwortlich=page.verantwortlich %}
