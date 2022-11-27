@@ -8,7 +8,7 @@ termine: 2022-12-01 11:00
 raum: vor-ort-w
 empfohlene-voraussetzungen:
 published: true
-dauer: 120
+dauer: 150
 info: Gutes Design entsteht zumeist durch die Auswahl der besten Variante. Doch wie erzeuge ich systematisch Varianten?
 ---
 
