@@ -15,10 +15,6 @@ info: Der Weißraum innerhalb einer Gestaltung hat enormen Einfluss auf die Wirk
 ## Worum geht es?
 Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen verschiedene Propotionsregeln sowie harmonische Zahlenreihen kennen und versuchen das Ganze systematisch beim Screendesign einzusetzen.
 
-> **Evaluation**
-> - URL: [https://evasys.fh-koeln.de/evasys/online/php](https://evasys.fh-koeln.de/evasys/online/php)
-> - Key: K758Fnbn
-
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
 - Kenntnisse in Figma
