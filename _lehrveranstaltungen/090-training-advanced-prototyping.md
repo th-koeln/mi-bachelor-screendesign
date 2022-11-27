@@ -4,10 +4,10 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2022-12-08 11:00
+termine: 2022-12-08 11:30
 empfohlene-voraussetzungen: 
 published: true
-raum: zoom-fd
+raum: vor-ort-w
 dauer: 120
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---
