@@ -2,7 +2,7 @@
 titel: Variantenbildung am Beispiel von Typographie und Textsatz
 kuerzel: w-vb
 verantwortlich: cn
-typ: workshop
+typ: workshop-mit-anmeldung
 pflicht: false
 termine: 2022-12-01 11:00
 raum: vor-ort-w
