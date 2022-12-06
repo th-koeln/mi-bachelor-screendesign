@@ -16,11 +16,22 @@ info: Das Projekt für dieses Jahr wird vorgestellt.
 
 Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektkontext.
 
+## Programm
+- [SWOT MI](https://miro.com/app/board/uXjVPC45qUc=/?share_link_id=839800980150)
+- Evaluation Screendesign
+- Einladung [DREA Studie](https://moxd.io/ds)
+- Vorstellung Projekt
+- [Team 1 // Interaktive Karten Design und Interaktion](https://miro.com/app/board/uXjVP8MVJTA=/?moveToWidget=3458764540596648689&cot=14)
+- [Team 2 // Third Party Anbieter & Frameworks](https://miro.com/app/board/uXjVP8MVJTA=/?moveToWidget=3458764540597963494&cot=14)
+- [Team 3 // Interaktive Karten für Kunst und Bilder](https://miro.com/app/board/uXjVP8MVJTA=/?moveToWidget=3458764540599993723&cot=14)
+- [Team 4 // Ortsbezogene Darstellung für kleine Displays](https://miro.com/app/board/uXjVP8MVJTA=/?moveToWidget=3458764540600356107&cot=14)
+- [Team 5 // CDA Designsystem](https://miro.com/app/board/uXjVP8MVJTA=/?moveToWidget=3458764540600529538&cot=14)
+
 ## Material
 - [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2022/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
 <!--
-- [Miro Board für die Einstiegsaufgabe](https://miro.com/app/board/uXjVOcO7ZxE=/?invite_link_id=122169251887)
-- [Miro Board für's Sammeln der Fragen](https://miro.com/app/board/uXjVOcOK8qU=/?invite_link_id=816403664652)
+[Miro Board für die Einstiegsaufgabe](https://miro.com/app/board/uXjVOcO7ZxE=/?invite_link_id=122169251887)
+[Miro Board für's Sammeln der Fragen](https://miro.com/app/board/uXjVOcOK8qU=/?invite_link_id=816403664652)
 -->

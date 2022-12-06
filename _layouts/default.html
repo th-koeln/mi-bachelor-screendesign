@@ -35,10 +35,9 @@
           <div class="nav-right nav-menu">
             {% for item in site.data.nav %}
             {% if item.url contains "http" %}
-            <a class="nav-item" href="{{item.url}}" class="nav-item">{{item.name}}</a>
+            <a class="nav-item" href="{{item.url}}">{{item.name}}</a>
             {% else %}
-            <a class="nav-item" href="{{ site.baseurl }}/{{item.url}}"
-                class="nav-item">{{item.name}}</a>
+            <a class="nav-item" href="{{ site.baseurl }}/{{item.url}}">{{item.name}}</a>
             {% endif %}
             {% endfor %}
           </div>
@@ -87,7 +86,7 @@
             <li><a href="{{ site.baseurl }}/niveaustufen/" class="nav-item">Artefakte & Bewertung</a></li>
             <li><a href="{{ site.baseurl }}/nomenklatur/" class="nav-item">Nomenklatur</a></li>
             <li><a href="{{ site.baseurl }}/gestaltungsportfolio/" class="nav-item">Gestaltungsportfolio</a></li>
-            <li><a href="https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2022/" class="nav-item">Projekt</a></li>
+            <li><a href="https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2022/" class="nav-item">Projekt 2022</a></li>
 
             <!--li><a href="{{ site.baseurl }}/challenge-2017/" class="nav-item">Challenge</a></li-->
             <li><a href="{{ site.baseurl }}/links/" class="nav-item">Links</a></li>
