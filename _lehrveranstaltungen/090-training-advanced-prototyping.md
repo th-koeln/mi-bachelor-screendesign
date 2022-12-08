@@ -36,6 +36,7 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 - [Dynamic designs with Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
 - [Best practices: components, styles, and shared libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
 
+
 - [How to construct a design system](https://www.freecodecamp.org/news/how-to-construct-a-design-system-864adbf2a117/)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
 - [Design Systems ertellen und Screens organisieren in Figma](https://www.youtube.com/watch?v=A_bdqGcjuBo)
