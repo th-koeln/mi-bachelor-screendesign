@@ -41,10 +41,10 @@ In der heutigen Session soll folgende Aufgabe bearbeitet werden, die aufeinander
 - [Aufgabe 2: Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
 
 
-
+<!-- 
 ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **22.12.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
 
-<!-- ## Sie haben keinen Rechner?
+## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit. -->
 
