@@ -5,7 +5,7 @@ tags: Fortgeschritten
 
 Erzeugen Sie eine Arbeitsfläche von **414x736 Pixeln**. Legen Sie nach einer Zahlenreihe verschiedene Flächen für die Repräsentation von Abständen an und benennen Sie diese nach T-Shirt Größen.
 
-Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
+Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes-2022.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
 - Bild des Autors
 - Zitat
 - Name des Autors
@@ -23,8 +23,6 @@ Folgende Einschränkungen gelten:
 4. es muss ein erkennbares **Gestaltungsraster/-prinzip** verwendet werden
 5. versuchen Sie mindestens 50% Negativraum zu erzeugen
 
-Bei allen Autoren stehen mehrere Bilder zur Auswahl. Wählen Sie das Bild, das besten im Rahmen Ihres Gestaltungskonzepts funktioniert. Die Konzepte werden bei der nächsten Veranstaltung vorgestellt.
+Bei allen Autoren stehen mehrere Bilder zur Auswahl. Wählen Sie das Bild, das besten im Rahmen Ihres Gestaltungskonzepts funktioniert. Optimieren Sie die Texte hinsichtlich der Homogenität und Lesbarkeit. Es stehen mitunter mehrere Zitate zur Auswahl. Wählen Sie ein passendes aus.
 
-Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
-
-```sd-aufgabe-abstaende-INDEX-NACHNAME.png```
+Die Konzepte werden im Rahmen des Workshops vorgestellt.
