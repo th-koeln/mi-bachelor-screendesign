@@ -20,7 +20,7 @@ Verstärkt wird die Problematik noch, wenn viele unterschiedliche Views in dem P
 
 Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
 
-Für dieses Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügung. Bitte arbeiten Sie das Material durch. Falls Sie Fragen haben oder unterstützung brauchen, stehen wir Ihnen via Zoom ab 11:00 Uhr zur Verfügung. 
+Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügung. Bitte arbeiten Sie das Material als Vorbereitung durch. Falls Sie Fragen haben nutzen Sie das Ilias Forum oder stellen Sie die Fragen vor Ort im Training.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_bdqGcjuBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,13 +29,17 @@ Für dieses Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügu
 - sicherer Umgang in Figma
 
 ## Tutorials und Readings
-- [Design Systems ertellen und Screens organisieren in Figma](https://www.youtube.com/watch?v=A_bdqGcjuBo)
 - [Components](https://help.figma.com/hc/en-us/sections/360006233714-Components/)
 - [Styles](https://help.figma.com/hc/en-us/sections/360006268153-Styles)
+- [Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-constraints-to-define-how-layers-resize)
+- [Properties](https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties)
 - [Dynamic designs with Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
 - [Best practices: components, styles, and shared libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
+
 - [How to construct a design system](https://www.freecodecamp.org/news/how-to-construct-a-design-system-864adbf2a117/)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
+- [Design Systems ertellen und Screens organisieren in Figma](https://www.youtube.com/watch?v=A_bdqGcjuBo)
+
 
 ## Aufgaben
 In der heutigen Session soll folgende Aufgabe bearbeitet werden:

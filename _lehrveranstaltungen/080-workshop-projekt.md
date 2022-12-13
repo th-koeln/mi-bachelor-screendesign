@@ -17,8 +17,8 @@ info: Das Projekt für dieses Jahr wird vorgestellt.
 Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektkontext.
 
 ## Programm
-- [SWOT MI](https://miro.com/app/board/uXjVPC45qUc=/?share_link_id=839800980150)
 - Evaluation Screendesign
+- [SWOT MI](https://miro.com/app/board/uXjVPC45qUc=/?share_link_id=839800980150)
 - Einladung [DREA Studie](https://moxd.io/ds)
 - Vorstellung Projekt
 - [Team 1 // Interaktive Karten Design und Interaktion](https://miro.com/app/board/uXjVP8MVJTA=/?moveToWidget=3458764540596648689&cot=14)
@@ -31,3 +31,4 @@ Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektk
 - [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2022/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+

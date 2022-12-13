@@ -23,6 +23,7 @@ Folgende Einschränkungen gelten:
 
 Bei allen Autoren stehen mehrere Bilder zur Auswahl. Wählen Sie das Bild, das besten im Rahmen Ihres Gestaltungskonzepts funktioniert. Die Konzepte werden am Ende des Workshops vorgestellt.
 
+<!--
 Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-`sd-aufgabe-negativraum-INDEX-NACHNAME.png`
+`sd-aufgabe-negativraum-INDEX-NACHNAME.png` -->
