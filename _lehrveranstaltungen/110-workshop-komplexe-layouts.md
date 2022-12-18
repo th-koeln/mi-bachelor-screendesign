@@ -24,7 +24,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [14 layout design trends](https://webflow.com/blog/layout-design)
 - [Design Systems](https://www.designsystems.com/)
 - [Share Files with Collaborators](https://help.figma.com/article/385-share-files)
-- [Google Sheets Link Plugin](https://docs.sheetssync.app//)
+- [Google Sheets Link Plugin](https://docs.sheetssync.app/)
 - [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
 
 ## Auto Layout Funktion
@@ -41,12 +41,13 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [flaticon](https://www.flaticon.com)
 
 ## Aufgaben
-- [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts-vv/)
+- [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts-mi/)
 
+<!--
 ## Upload
 Diesmal kein Upload :) Wir machen im nächsten Workshop mit den Ergebnissen weiter.
 
-<!--
+
 ## Sie haben keinen Rechner?
 Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
 -->
