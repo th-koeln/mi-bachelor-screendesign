@@ -13,7 +13,7 @@ Hier ein paar Beispiele, deren Content wir für die Layouts inspizieren:
 - [Artothek](https://www.medieninformatik.th-koeln.de/blog/2022-04-26-artothek/)
 - [Entwicklung eines Systems zur Überwachung und Automatisierung von Aquaponikanlagen](https://www.medieninformatik.th-koeln.de/blog/2022-22-03-aquaponik/)
 
-Bei den inhalten fehlen noch ein paar Stammdaten, die sich bislang im Mengentext verstecken. Diese sollten irgendwo als Liste oder Tabelle hervorgehoben werden. Diese sind:
+Bei den Inhalten fehlen noch ein paar Stammdaten, die sich bislang im Mengentext verstecken. Diese sollten irgendwo als Liste oder Tabelle hervorgehoben werden. Diese sind:
 - Projektrahmen, z.B. Entwicklungsprojekt, Praxisprojekt, etc.
 - Projektinhaber: Namen der Studierenden
 - Projektbetreuer: Namen der Betreuer:innen
@@ -22,7 +22,7 @@ Bei den inhalten fehlen noch ein paar Stammdaten, die sich bislang im Mengentext
 
 Es empfiehlt sich den Content ggf. etwas zu systematisieren und in eine Tabelle zu überführen.
 
-**Bearbeitungszeit: 45 Minuten**
+**Bearbeitungszeit: 30 Minuten**
 
 ---
 
@@ -43,7 +43,7 @@ Dokumentieren Sie Erkenntnisse, Beispiele und Fragen Ihrer Exploration, auf folg
 
 ### Step 3: Mögliche Layouts scribbeln
 
-Scribbeln Sie nun mögliche Layouts (Pen & Paper) für den Content. Versuchen Sie schnell aber ausreichend genau zu sein und entwickeln Sie so 9 verschiedene Layout Varianten. Laden Sie die Scribbles auf das Miroboard.
+Scribbeln Sie nun mögliche Layouts (Pen & Paper) für den Content. Versuchen Sie schnell aber ausreichend genau zu sein und entwickeln Sie so 9 verschiedene Layout Varianten. Idealerweise erzeugen Sie Scribbles von Content Blöcken, z.B. Header, Stammdaten, Einleitung, Kombination Bild & Text, etc. Laden Sie die Scribbles auf das Miroboard.
 
 **Bearbeitungszeit: 30 Minuten**
 
