@@ -39,4 +39,4 @@ Sie finden je einen möglichen Lösungsansatz für die heutigen Aufgaben in dies
 
 In der nächsten Phase existieren weniger Leitplanken. Versuchen Sie das Erlernte sinnvoll in der Weltkartenübersicht einzubinden. Überlegen Sie, welche Arten von Interaktion sinnvoll sein können und wie sie sich in den Prototypen integrieren lassen. Denken Sie daran, den Prototypen nicht zu überladen. 
 
-<iframe style="border: none; width: 100%; max-height:90vh" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCNPviiWxjveIldtZleZTKW%2Flayouts-fuer-verschiedene-endgeraete-cda-meisterwerke-(Copy)%3Fnode-id%3D0%253A1%26t%3DMvvYueGwIh27j2tF-1" allowfullscreen></iframe>
+[Zum Figma-File ...](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FMhV4VPN9tqOjhthKiD1HrZ%2Flayouts-fuer-verschiedene-endgeraete-cda-meisterwerke%3Fnode-id%3D16857%253A3161%26t%3DssOpvzKBf3nZMaBw-1)
