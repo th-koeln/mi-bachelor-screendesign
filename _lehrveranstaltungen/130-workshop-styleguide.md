@@ -15,7 +15,7 @@ info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und n
 ## Worum geht es?
 Um unser Gestaltungssystem nachhaltig nutzbar zu machen, dokumentieren wir selbiges in Form einer Pattern Library. Auf dieser Basis können wir oder ein anderes Team eigene, konsistente Anwendungen oder Erweiterungen gestalten und entwickeln. Dabei ist eine möglichst einfache und stringente Systematik Ihres Designkonzepts enorm hilfreich, da hierdurch die Regelsätze kurz und einfach bleiben.
 
-Die resultierende Library soll:
+Bezogen auf das Screendesign Projekt sollte die resultierende Library:
 - das Gestaltungssystem erfassen, strukturieren, bewerten, ggf. Lücken und Inkonsistenzen zeigen und schließen
 - dem "Kunden" zeigen, dass man die Kommunikationsziele verstanden hat
 - als Basis für die weitere Projektbearbeitung durch ein anderes Team fungieren
@@ -35,6 +35,7 @@ Die Pattern Library soll möglichst vollständig und sauber ausgearbeitet sein. 
 - [Mailchimp Pattern Library](https://ux.mailchimp.com/patterns/color)
 - [Pattern Libraries](https://medium.com/@whatjackhasmade/pattern-libraries-abcc45c6144c)
 - [UI Style Guide by Greg Dlubacz](https://cdn.dribbble.com/users/104117/screenshots/2080529/attachments/373853/real-pixels.png)
+- [Styleguide – so erstellst du ein Design-Manual](https://www.webdesign-journal.de/styleguide/)
 
 ## Aufgaben
 - [Interface inventarisieren](../../assignments/workshop-010-patternlab)
