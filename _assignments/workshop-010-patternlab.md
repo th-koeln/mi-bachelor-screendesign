@@ -15,7 +15,7 @@ In diesem Workshop bauen wir eine basale Pattern Library auf. Dazu bilden wir 2e
 
 ## Step 1:
 
-Bild Sie die Grundelemente (Base, Foundation, o.Ä.) mit Beispielen (Screenshots) in Figma ab, also Schriften, Farben, Abstände, etc. Sie haben 90 Minuten Zeit. Hier soll eine erste grobe Übersicht entstehen.
+Bilden Sie die Grundelemente (Base, Foundation, o.Ä.) mit Beispielen (Screenshots) in Figma ab, also Schriften, Farben, Abstände, etc. Sie haben 90 Minuten Zeit. Hier soll eine erste grobe Übersicht entstehen.
 
 ## Step 2:
 
