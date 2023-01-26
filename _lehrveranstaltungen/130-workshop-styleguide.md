@@ -39,6 +39,3 @@ Die Pattern Library soll möglichst vollständig und sauber ausgearbeitet sein. 
 
 ## Aufgaben
 - [Interface inventarisieren](../../assignments/workshop-010-patternlab)
-
-## Upload
-Die Ergebnisse können im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=1422052&cmd=showOverview) hochgeladen werden.
