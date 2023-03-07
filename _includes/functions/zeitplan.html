@@ -32,6 +32,14 @@
   {% assign day3 = days["day-3"] %}
   {% include /timetable-day.html day=day3 starttime=starttime difftime=difftime time-correction=time-correction %}
   {% endif %}
+
+
+  {% assign check = days["day-4"].datum | strip_newlines %}
+  {% if check != "" %}
+  {% assign day4 = days["day-4"] %}
+  {% include /timetable-day.html day=day4 starttime=starttime difftime=difftime time-correction=time-correction %}
+  {% endif %}
+
   <!--/div-->
 
   {% endif %} {% endfor %}

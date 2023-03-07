@@ -148,19 +148,13 @@ week-24:
     end: "18:00"
     name: Montag
   day-2:
-    datum: 
+    datum: 2023-03-14
     start: "09:00"
     end: "18:00"
     name: Dienstag
   day-3:
-    datum: 2023-03-14
-    start: "09:00"
-    end: "18:00"
-    name: Mittwoch
-  day-4:
     datum: 2023-03-15
     start: "09:00"
     end: "18:00"
-    name: Donnerstag
-
+    name: Mittwoch
 
