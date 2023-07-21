@@ -130,7 +130,7 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im PSSO anmelden. Dies ist vom **01.02.2024** bis **01.03.2024** möglich.
+- Step 1: im PSSO anmelden. Dies ist vom **xx.xx.2024** bis **xx.xx.2024** möglich.
 - Step 2: [Link folgt](#)
 <!-- [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilrepositorygui) -->
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
