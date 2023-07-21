@@ -1,10 +1,10 @@
 ---
 titel: Flow & Transition
 kuerzel: w-fat
-verantwortlich: ch
+verantwortlich: vs
 typ: workshop-mit-anmeldung
 pflicht: false
-termine: 2023-01-19 09:00
+termine: 2023-11-24 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 240

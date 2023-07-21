@@ -16,9 +16,9 @@ titel: Über das Modul
 {% assign projektergebnisse = link %}
 
 <div>
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **10:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste reguläre Veranstaltung ist am **06. Oktober 2022** um **10:00 Uhr**. Der letzte Termin ist am **26. Januar 2023**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+Die erste reguläre Veranstaltung ist am **13. Oktober 2023** um **10:00 Uhr**. Der letzte Termin ist am **09. Februar 2024**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
 Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln) an.
 </div>
@@ -56,12 +56,12 @@ https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4.
 </blockquote>
 -->
 
-## Einschränkungen durch Covid-19, Stand 01.09.2022
+<!-- ## Einschränkungen durch Covid-19, Stand 01.09.2022
 
 Wir gehen davon aus, dass wir die Veranstaltung in Präsenz durchführen. Es wird einige Feedbacktermine geben, die wir als Online-Termine anbieten. Im [Zeitplan](./timetable/) finden Sie die Veranstaltungstermine und auch den Ort der jeweiligen Veranstaltung.
  
 Die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit findet vor Ort in Gummersbach statt. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Projektpräsentationsprüfung](projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
-
+ -->
 
 ## Worum geht es?
 
@@ -130,12 +130,13 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im PSSO anmelden. Dies ist vom **01.02.2023** bis **01.03.2023** möglich.
-- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilrepositorygui)
+- Step 1: im PSSO anmelden. Dies ist vom **01.02.2024** bis **01.03.2024** möglich.
+- Step 2: [Link folgt](#)
+<!-- [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilrepositorygui) -->
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
-- Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 13.03. - 15.03.2023 in Gummersbach statt.
+- Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom xx.xx. - xx.xx.2023 in Gummersbach statt.
 
 
 **Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**
@@ -162,6 +163,8 @@ Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn D
 - [Visualizing complexity: Handbuch modulares Informationsdesign / Darjan Hil und Nicole Lachenmeier](https://www.degruyter.com/document/doi/10.1515/9783035625073/html)
 - [Laws of UX: 10 praktische Grundprinzipien für intuitives, menschenzentriertes UX-Design / Yablonski, Jon ; Kommer, Christoph](https://content-select.com/de/portal/media/view/5f4a4d25-f458-43bb-a3a6-0ee6b0dd2d03?forceauth=1)
 
+Die Links sind zum Teil nur aus dem Hochschulnetz oder via VPN erreichbar.
+
 
 ## Wer macht es?
 
@@ -172,6 +175,6 @@ Verantwortlicher Dozent des Moduls ist Prof. Christian Noss. Das komplette Betre
 {% endif %}
 {% endfor %}
 
-## Willkommen im Wintersemester 2022/23
+<!-- ## Willkommen im Wintersemester 2023/24
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5nPUuIPBchM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nPUuIPBchM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->

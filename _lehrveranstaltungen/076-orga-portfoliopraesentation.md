@@ -4,11 +4,10 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2022-11-17 10:00|Gruppe A – 0.501, 2022-11-17 10:00|Gruppe B – 3.102
+termine: 2023-12-22 10:00 | Gruppe A – Raum 3.217, 2023-12-22 10:00 | Gruppe B – Raum 3.218
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
-raum: Zoom-Meeting
 anzahl: 30 Studierende
 info: Dies ist ein Pflichttermin. Die Anwesenheit ist für das Bestehen des Moduls erforderlich.
 ---

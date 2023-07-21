@@ -1,10 +1,10 @@
 ---
 titel: Figma Basics
 kuerzel: t-sb
-verantwortlich: vs, js, ch
+verantwortlich: vs, ch
 typ: training
 pflicht: false
-termine: 2022-10-06 10:00|0.501, 2022-10-06 10:00|0.502
+termine: 2023-10-13 12:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 150

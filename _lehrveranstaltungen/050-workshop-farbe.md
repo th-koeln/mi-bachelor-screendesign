@@ -4,7 +4,7 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2022-11-03 11:00
+termine: 2023-12-01 12:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 180

@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2022-12-08 09:00
+termine: 2024-01-12 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
