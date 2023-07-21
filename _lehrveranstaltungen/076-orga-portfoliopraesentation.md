@@ -4,7 +4,7 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2023-12-22 10:00|Gruppe A – Raum 0.501, 2023-12-22 10:00|Gruppe B – Raum 3.102
+termine: 2023-12-22 10:00 | Gruppe A – Raum 3.217, 2023-12-22 10:00 | Gruppe B – Raum 3.218
 empfohlene-voraussetzungen:
 published: true
 dauer: 120

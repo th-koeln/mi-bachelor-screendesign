@@ -128,14 +128,14 @@ week-21:
     datum: 2024-03-11
     start: "10:00"
     end: "16:00"
-    name: Freitag
+    name: Montag
   day-2:
     datum: 2024-03-12
     start: "10:00"
     end: "16:00"
-    name: Freitag
+    name: Dienstag
   day-3:
     datum: 2024-03-13
     start: "10:00"
     end: "16:00"
-    name: Freitag
+    name: Mittwoch
