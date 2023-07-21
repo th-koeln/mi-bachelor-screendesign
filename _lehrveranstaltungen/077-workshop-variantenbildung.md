@@ -4,7 +4,7 @@ kuerzel: w-vb
 verantwortlich: cn
 typ: workshop-mit-anmeldung
 pflicht: false
-termine: 2022-12-01 11:00
+termine: 2023-12-15 12:00
 raum: vor-ort-w
 empfohlene-voraussetzungen:
 published: true

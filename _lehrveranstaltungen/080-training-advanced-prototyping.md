@@ -4,7 +4,7 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2022-12-08 11:30
+termine: 2024-01-12 13:15
 empfohlene-voraussetzungen: 
 published: true
 raum: vor-ort-w
