@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Screendesign 22/23
+name: Screendesign 23/24
 
 # Short bio or description (displayed in the header)
 description: Medieninformatik am Campus Gummersbach
@@ -36,7 +36,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: mikoeln
   googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -72,7 +71,7 @@ markdown: kramdown
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   extensions: [footnotes]
-  footnote_location: 'my_footnotes'
+  footnote_location: "my_footnotes"
   parse_block_html: true
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
@@ -80,7 +79,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -118,26 +117,22 @@ collections:
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: lehrveranstaltungen
     values:
       layout: lehrveranstaltung
-  -
-    scope:
+  - scope:
       path: ""
       type: faq
     values:
       layout: faq
-  -
-    scope:
+  - scope:
       path: ""
       type: aufgaben
     values:
       layout: aufgabe
-  -
-    scope:
+  - scope:
       path: ""
       type: assignments
     values:
