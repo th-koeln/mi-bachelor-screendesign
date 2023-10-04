@@ -183,21 +183,21 @@ html {}
       display: block;
       float: left;
       min-width: 10px;
-      padding: $bfs /8 0;
+      padding: calc($bfs /8) 0;
       font-weight: bold;
       color: $info;
     }
 
     dd {
       /*border-bottom: solid 1px $grey-light; */
-      padding: $bfs /8 0;
+      padding: calc($bfs /8) 0;
       margin-left: 0;
     }
 
     dt::after {
       content: ":";
       display: inline-block;
-      padding-right: $bfs /4;
+      padding-right: calc($bfs /4);
     }
   }
 
@@ -213,8 +213,8 @@ html {}
     }
 
     hr {
-      margin-top: $bfs/2;
-      margin-bottom: $bfs/2;
+      margin-top: calc($bfs/2);
+      margin-bottom: calc($bfs/2);
     }
 
     .no-border {
@@ -262,7 +262,7 @@ html {}
 
     figcaption {
       display: block;
-      padding-bottom: $bfs /2;
+      padding-bottom: calc($bfs /2);
       padding-top: $bfs;
       margin-bottom: $bfs;
       font-style: normal;
@@ -333,7 +333,7 @@ html {}
       &>h6 {
         font-weight: 600;
         margin-top: $bfs;
-        margin-bottom: $bfs /2;
+        margin-bottom: calc($bfs /2);
       }
 
       &>h1,
@@ -393,7 +393,7 @@ html {}
 .more-button {
   font-size: $bfs * 1.5 !important;
   display: inline-block;
-  margin-left: $bfs /2;
+  margin-left: calc($bfs /2);
   transition: all 0.5s;
 
   &:hover {
@@ -549,7 +549,7 @@ pre code {
 /**************/
 
 .fa {
-  padding-right: $bfs/2;
+  padding-right: calc($bfs/2);
 }
 
 .has-margin {
