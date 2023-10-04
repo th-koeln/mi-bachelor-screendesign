@@ -1,6 +1,7 @@
 ---
 titel: Advanced Prototyping
 tags: Fortgeschritten
+published: false
 ---
 
 Heute beschäftigen wir uns mit dem Thema Advanced Prototyping. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/090-training-advanced-prototyping/).

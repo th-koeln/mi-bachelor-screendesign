@@ -1,6 +1,7 @@
 ---
 titel: Layouts für verschiedene Endgeräte
 tags: Fortgeschritten
+published: false
 ---
 
 

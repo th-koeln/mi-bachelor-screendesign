@@ -1,6 +1,7 @@
 ---
 titel: Designsystem analysieren und Pattern Library aufbauen
 tags: Fortgeschritten
+published: false
 ---
 
 In diesem Workshop bauen wir eine basale Pattern Library auf. Dazu bilden wir 2er Gruppen. Sie können zwischen den Designs dieser Companys/ Websites auswählen:

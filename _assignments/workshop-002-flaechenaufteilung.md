@@ -1,6 +1,7 @@
 ---
 titel: Flächenaufteilung
 tags: Basics
+published: false
 ---
 
 Heute beschäftigen wir uns mit dem Flächenaufteilung. Dazu gibt es eine Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-form/). Dort finden Sie auch den Link für die Uploadmöglichkeit.

@@ -1,6 +1,7 @@
 ---
 titel: Gestaltungselement Punkt
 tags: Basics
+published: false
 ---
 
 Heute beschäftigen wir uns mit dem Gestaltungselement Punkt. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt-linie/). Dort finden Sie auch den Link für die Uploadmöglichkeit.

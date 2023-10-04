@@ -1,6 +1,7 @@
 ---
 titel: Typographie und Schriftsatz
 tags: Fortgeschritten
+published: false
 ---
 
 Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund bekommen Sie in den zugehörigen Workshops/ Inputs.
