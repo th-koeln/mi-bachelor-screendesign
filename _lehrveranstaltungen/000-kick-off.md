@@ -2,7 +2,7 @@
 titel: Kick-Off Screendesign
 kuerzel: v-ko
 verantwortlich: cn
-typ: vortrag
+typ: workshop
 pflicht: false
 termine: 2023-10-13 10:00
 empfohlene-voraussetzungen: 

@@ -1,33 +1,24 @@
 artefakt0:
   name: Individuelles Gestaltungsportfolio
-  date: 2022-11-16 23:59
+  date: 2023-12-21 23:59
   format: Sammlung der Übungsergebnisse als Einzeldateien
-  anteil: 1/5
+  anteil: 2/5
   gruppe: Einzelartefakt
   uebergabepunkt-text: Ilias
   uebergabepunkt-link: https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln
   
 artefakt1:
   name: Designkonzept als Mockup
-  date: 2023-03-11 23:59
+  date: 2024-03-07 23:59
   format: Einzelscreens als Bilddateien (JPG oder PNG)
   gruppe: Teamartefakt
   anteil: 2/5
   uebergabepunkt-text: Ilias
   uebergabepunkt-link: https://ilias.th-koeln.de/ilias.php?ref_id=1456545&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=wc:ld:9s&baseClass=ilrepositorygui
-  
-artefakt2:
-  name: Patternlab
-  date: 2023-03-11 23:59
-  format: SVG innerhalb der Kurzdokumentation
-  gruppe: Teamartefakt
-  anteil: 1/5
-  uebergabepunkt-text: GitHub
-  uebergabepunkt-link: https://github.com/th-koeln/mi-bachelor-screendesign-projekte/pulls
 
-artefakt3:
+artefakt2:
   name: Präsentation und Kurzdokumentation
-  date: 2023-03-11 23:59
+  date: 2024-03-07 23:59
   format: mündliche Präsentation, Slides bitte als PDF abgeben; Kurzdokumentation als HTML/Merge Request
   gruppe: Teamartefakt
   anteil: 1/5

@@ -8,7 +8,6 @@ Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden:
 
 1. [Gestaltungsportfolio](#gestaltungsportfolio)
 2. [Designkonzept als Mockup](#designkonzept-als-mockup)
-3. [Patternlab/Style-Guide](#patternlabstyle-guide)
 4. [Präsentation und Kurzdokumentation](#präsentation-und-kurzdokumentation)
 
 ------
@@ -141,9 +140,10 @@ Vom Mockup müssen die einzelnen Screens als Bilddateienn (JPG oder PNG) am Übe
 - ist unsauber und zu flach ausgearbeitet
 - keine systematische Dateiablage
 
+
 ----
 
-## Patternlab/Style-Guide
+## Präsentation und Kurzdokumentation
 
 Abgabe
 : {{site.data.abgaben.artefakt2.format}}
@@ -159,72 +159,6 @@ Einzel- oder Teamartefakt
 
 Übergabepunkt
 : [{{site.data.abgaben.artefakt2.uebergabepunkt-text}}]({{site.data.abgaben.artefakt2.uebergabepunkt-link}})
-
-Das zugrundeliegende, bzw. entwickelte Gestaltungssystem soll in einer Patternlab oder Style-Guide systematisch dokumentiert werden.
-
-Die resultierende Übersicht soll:
-- das Gestaltungssystem erfassen und strukturieren
-- dem "Kunden" zeigen, dass man die Kommunikationsziele verstanden hat
-- als Basis für die weitere Projektbearbeitung durch ein anderes Team fungieren
-- zeigen, dass der Gestaltung eine Systematik zugrunde liegt
-
-Patternlab bzw. Style-Guide sollen möglichst vollständig und sauber ausgearbeitet sein. Mit Hilfe der resultierenden Übersicht über die Designelemente sollten folgende Fragen positiv beantwortet werden können:
-- der Gestaltungskontext des Kunden ist korrekt erfasst
-- der Gestaltung liegt ein erkennbares, verständliches und konsistentes System zugrunde
-- mit Hilfe des Mockups und der Library könnte im nächsten Prozessschritt ein Entwicklerteam weiter arbeiten
-- das Gestaltungssystem ist für den Anwendungsfall/Projektauftrag vollständig
-
-Die resultierende Übersicht muss als SVG exportiert und in die Kurzdokumentation eingebunden werden.
-
-**Beste Lösung**
-- Gestaltungselemente und -regeln sind systematisch dargestellt
-- die Übersicht ist gut gestaltet, sauber ausgearbeitet und aufbereitet
-- die Übersicht ist kompakt und schnell erfassbar
-- wesentliche Elemente sind kommentiert
-- schematische Darstellung werden zum Verständnis der zugrundeliegenden Gestaltungsregeln angeboten
-- die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind im Einklang mit dem finalen Entwurf
-- die Übersicht ist vollständig
-
-**Gute Lösung**
-- Gestaltungselemente und -regeln sind systematisch dargestellt
-- die Übersicht ist überwiegend gut gestaltet, sauber ausgearbeitet und aufbereitet
-- die Übersicht ist kompakt und schnell erfassbar
-- die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind im Einklang mit dem finalen Entwurf
-- die Übersicht ist weitgehend vollständig
-
-**Passable Lösung**
-- wesentliche Gestaltungselemente und -regeln sind systematisch dargestellt
-- die Übersicht ist systematisch und schnell erfassbar
-- die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind im Einklang mit dem finalen Entwurf
-
-**Akzeptable Lösung**
-- wesentliche Gestaltungselemente und -regeln sind systematisch dargestellt
-- die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind im finalen Entwurf erkennbar
-
-**Schlechte Lösung**
-- nur wenige Gestaltungselemente sind dargestellt
-- die Darstellung ist eher chaotisch
-- die Übersicht ist unsauber
-- die Übersicht und die erkannten und erarbeiteten Regeln und Elemente sind nicht im finalen Entwurf erkennbar
-
-----
-
-## Präsentation und Kurzdokumentation
-
-Abgabe
-: {{site.data.abgaben.artefakt3.format}}
-
-Anteil in der Gesamtnote
-: {{site.data.abgaben.artefakt3.anteil}}
-
-Abgabetermin
-: {{site.data.abgaben.artefakt3.date | date: '%d.%m.%Y'}}
-
-Einzel- oder Teamartefakt
-: {{site.data.abgaben.artefakt3.gruppe}}
-
-Übergabepunkt
-: [{{site.data.abgaben.artefakt3.uebergabepunkt-text}}]({{site.data.abgaben.artefakt3.uebergabepunkt-link}})
 
 Die Funktion von Präsentation und Kurzdokumentation ist, das Projektergebnis und die zugrunde liegenden Ideen gegenüber einem Kunden oder anderen Teams knapp und sachlich zu erläutern.
 
