@@ -143,7 +143,7 @@ a.navbar-item,
       border-bottom-style: $navbar-tab-active-border-bottom-style
       border-bottom-width: $navbar-tab-active-border-bottom-width
       color: $navbar-tab-active-color
-      padding-bottom: calc(0.5rem - #{$navbar-tab-active-border-bottom-width})
+      padding-bottom: 0.5rem - #{$navbar-tab-active-border-bottom-width}
 
 .navbar-content
   flex-grow: 1
@@ -273,7 +273,7 @@ a.navbar-item,
       display: block
       opacity: 0
       pointer-events: none
-      top: calc(100% + (#{$navbar-dropdown-offset}))
+      top: 100% + (#{$navbar-dropdown-offset})
       transform: translateY(-5px)
       transition-duration: $speed
       transition-property: opacity, transform

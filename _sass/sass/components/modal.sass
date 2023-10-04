@@ -47,14 +47,14 @@ $modal-card-body-padding: 20px !default
 .modal-content,
 .modal-card
   margin: 0 $modal-content-margin-mobile
-  max-height: calc(100vh - #{$modal-content-spacing-mobile})
+  max-height: 100vh - #{$modal-content-spacing-mobile}
   overflow: auto
   position: relative
   width: 100%
   // Responsiveness
   +tablet
     margin: 0 auto
-    max-height: calc(100vh - #{$modal-content-spacing-tablet})
+    max-height: 100vh - #{$modal-content-spacing-tablet}
     width: $modal-content-width
 
 .modal-close
@@ -69,7 +69,7 @@ $modal-card-body-padding: 20px !default
 .modal-card
   display: flex
   flex-direction: column
-  max-height: calc(100vh - #{$modal-card-spacing})
+  max-height: 100vh - #{$modal-card-spacing}
   overflow: hidden
 
 .modal-card-head,

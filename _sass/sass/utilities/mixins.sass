@@ -23,11 +23,11 @@
 =center($width, $height: 0)
   position: absolute
   @if $height != 0
-    left: calc(50% - (#{$width} / 2))
-    top: calc(50% - (#{$height} / 2))
+    left: 50% - (#{$width} / 2)
+    top: 50% - (#{$height} / 2)
   @else
-    left: calc(50% - (#{$width} / 2))
-    top: calc(50% - (#{$width} / 2))
+    left: 50% - (#{$width} / 2)
+    top: 50% - (#{$width} / 2)
 
 =delete
   +unselectable
