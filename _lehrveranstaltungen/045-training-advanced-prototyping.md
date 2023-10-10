@@ -41,7 +41,7 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 - [Design Systems ertellen und Screens organisieren in Figma](https://www.youtube.com/watch?v=A_bdqGcjuBo)
 
 
-## Aufgaben
+## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden:
 - [Advanced Prototyping](/mi-bachelor-screendesign/assignments/training-002-advanced-prototyping/)
 

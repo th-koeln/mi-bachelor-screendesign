@@ -37,5 +37,5 @@ Die Pattern Library soll möglichst vollständig und sauber ausgearbeitet sein. 
 - [UI Style Guide by Greg Dlubacz](https://cdn.dribbble.com/users/104117/screenshots/2080529/attachments/373853/real-pixels.png)
 - [Styleguide – so erstellst du ein Design-Manual](https://www.webdesign-journal.de/styleguide/)
 
-## Aufgaben
+## Übungen
 - [Interface inventarisieren](../../assignments/workshop-010-patternlab)

@@ -23,11 +23,11 @@ Wenn Sie bereits in einem Figma Basic Training waren und sich dadurch sicherer i
 
 ## Warum sollte ich üben?
 
-Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Aufgaben irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört ein gewisses Maß an Routine und das kommt nur durch üben.
+Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Übungen irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört ein gewisses Maß an Routine und das kommt nur durch üben.
 
 ## Was sollte ich vorbereiten?
 
-Schauen Sie sich bitte die Tutorials der Basic Trainings für Figma an. Bearbeiten Sie bitte vor dem Training die Übungsaufgaben. Dokumentieren von Problemen und Fragen hilft uns im Training.
+Schauen Sie sich bitte die Tutorials der Basic Trainings für Figma an. Bearbeiten Sie bitte vor dem Training die ÜbungsÜbungen. Dokumentieren von Problemen und Fragen hilft uns im Training.
 
 ## Material
 
@@ -35,7 +35,7 @@ Schauen Sie sich bitte die Tutorials der Basic Trainings für Figma an. Bearbeit
 - [Figma Tutorial: Getting Started (YouTube)](https://www.youtube.com/watch?v=RFi7wQHUP0c)
 - [Figma Tutorial: Vector Networks (YouTube)](https://www.youtube.com/watch?v=b-xDRjf5B-8)
 
-### Folien und Aufgaben
+### Folien und Übungen
 Figma ist kompatibel mit Sketch-Dateien und kann diese importieren. Aus diesem Grund können Sie die hier verlinkten Dateien in Figma importieren, um sie dort ebenfalls zu verwenden.
-- [Übungsaufgaben (Sketch-Format, mit Figma kompatibel)](../../download/training-sketch-basics/Sketch_Training_GdvK_SS_17_v2.zip)
+- [ÜbungsÜbungen (Sketch-Format, mit Figma kompatibel)](../../download/training-sketch-basics/Sketch_Training_GdvK_SS_17_v2.zip)
 - [Folien zum Figma-Basic-Training](../../download/training-figma-basics/Figma_Basics_Training_Folien.pdf)

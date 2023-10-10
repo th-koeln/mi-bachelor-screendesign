@@ -26,9 +26,9 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, 
 -   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 -   [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
 
-## Aufgaben
+## Übungen
 
-In der heutigen Session sollen folgende Aufgaben bearbeitet werden.
+In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 -   [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
 

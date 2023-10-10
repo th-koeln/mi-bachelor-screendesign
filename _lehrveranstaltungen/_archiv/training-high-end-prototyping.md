@@ -25,5 +25,5 @@ Der Umgang mit Designtools sollte bekannt sein und es wird vorausgesetzt, dass T
 
 ## Material
 
-* [Aufgaben und Material (Paket)](../../download/training-affinity-prototyping/Affinity-Training-Material-SoSe17.zip)
+* [Übungen und Material (Paket)](../../download/training-affinity-prototyping/Affinity-Training-Material-SoSe17.zip)
 * [Cocktail Symbol (SVG)](../../download/training-affinity-prototyping/CocktailIcon.svg)

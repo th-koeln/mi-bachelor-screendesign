@@ -13,7 +13,7 @@ info: Dies ist ein Pflichttermin. An diesem Tag arbeiten wir uns in das Projektt
 ---
 
 ## Worum geht es?
-Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen begleiten wird. Dazu wird es um 9:00 Uhr im Raum 3.102 einen Kick-Off geben, wo das Projekt vorgestellt und die Aufgaben für den Tag besprochen werden.
+Heute werden wir in das Projektthema eintauchen, was uns die nächsten Wochen begleiten wird. Dazu wird es um 9:00 Uhr im Raum 3.102 einen Kick-Off geben, wo das Projekt vorgestellt und die Übungen für den Tag besprochen werden.
 
 ## Zeitplan
 - 9:00 Uhr:  Kick-Off, Raum 3.102

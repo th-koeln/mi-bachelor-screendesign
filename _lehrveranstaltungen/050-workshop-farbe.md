@@ -26,7 +26,7 @@ Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrer
 -   [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
 -   [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
-## Aufgaben
+## Übungen
 
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
 

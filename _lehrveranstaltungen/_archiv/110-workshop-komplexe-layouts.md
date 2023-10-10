@@ -35,7 +35,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Design Systems](https://www.designsystems.com/)
 - [Space, Grids, and Layouts](https://www.designsystems.com/space-grids-and-layouts/)
 
-## Aufgaben
+## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
 - [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts/)
 

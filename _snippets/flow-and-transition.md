@@ -1,4 +1,4 @@
-## Aufgaben:
+## Übungen:
 
 - Entwickeln Sie zwei verschiedene Übergänge um eine (ausgeblendete) BU zu einem Bild anzuzeigen.
 

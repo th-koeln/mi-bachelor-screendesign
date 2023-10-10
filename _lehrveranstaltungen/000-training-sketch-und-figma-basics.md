@@ -23,7 +23,7 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 ## Warum sollte ich üben?
 
-Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Aufgaben irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
+Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Übungen irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
 
 
 ## Material
@@ -32,5 +32,5 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 - [Figma - Help](https://help.figma.com)
 - [Figma - Tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
 - [Figma - Setup Education Plan](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-status-for-a-free-Education-team#Create_your_Education_team)
-- [Übungsaufgaben](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
+- [ÜbungsÜbungen](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
 

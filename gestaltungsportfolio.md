@@ -5,7 +5,7 @@ titel: Individuelles Gestaltungsportfolio
 
 Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die gestalterische Auseinandersetzung der Studierenden von basalen Fragen und Themen im Screendesign. Dabei sollen folgende Fragen beantwortet werden:
 
-- wie präzise wird bei der Bearbeitung der Gestaltungsaufgaben agiert?
+- wie präzise wird bei der Bearbeitung der GestaltungsÜbungen agiert?
 - in wie weit wurde die Aufgabe verstanden und entsprechend umgesetzt?
 - in wie weit lassen sich in den Lösungen Konzepte und Vorgehensweisen aus der Domäne erkennen?
 
@@ -15,16 +15,16 @@ Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeu
 
 Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie aus dem Themenfeld jeweils **Ihre beste Lösung** aus. Folgende Lösungen gehen in das Portfolio ein:
 
-- eine Lösung zu den Aufgaben aus dem Themenfeld Punkt
-- eine Lösung zu den Aufgaben aus dem Themenfeld Linie
-- eine Lösung zu den Aufgaben aus dem Themenfeld Fläche
-- eine Lösung zu den Aufgaben aus dem Themenfeld Farbe
-- eine Lösung zu den Aufgaben aus dem Themenfeld Typographie
-- eine Lösung zu den Aufgaben aus dem Themenfeld Textsatz
-- eine Lösung zu den Aufgaben aus dem Themenfeld Layout
-- eine Lösung zu den Aufgaben aus dem Themenfeld Flow & Transition
+- eine Lösung zu den Übungen aus dem Themenfeld Punkt
+- eine Lösung zu den Übungen aus dem Themenfeld Linie
+- eine Lösung zu den Übungen aus dem Themenfeld Fläche
+- eine Lösung zu den Übungen aus dem Themenfeld Farbe
+- eine Lösung zu den Übungen aus dem Themenfeld Typographie
+- eine Lösung zu den Übungen aus dem Themenfeld Textsatz
+- eine Lösung zu den Übungen aus dem Themenfeld Layout
+- eine Lösung zu den Übungen aus dem Themenfeld Flow & Transition
 
-Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **acht Aufgaben**. Berücksichtigen Sie ungebedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
+Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **acht Übungen**. Berücksichtigen Sie ungebedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
 
 ## Bewertung
 

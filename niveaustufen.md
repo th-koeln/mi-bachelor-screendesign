@@ -30,7 +30,7 @@ Einzel- oder Teamartefakt
 : [{{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}})
 
 Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die gestalterische Auseinandersetzung der Studierenden von basalen Fragen und Themen im Screendesign. Dabei sollen folgende Fragen beantwortet werden:
-- wie präzise agiert der Studierende bei der Bearbeitung der Gestaltungsaufgaben
+- wie präzise agiert der Studierende bei der Bearbeitung der GestaltungsÜbungen
 - in wie weit wurde die Aufgabe verstanden 
 - in wie weit lassen sich in den Lösungen Konzepte und Vorgehensweisen aus der Domäne erkennen?
 

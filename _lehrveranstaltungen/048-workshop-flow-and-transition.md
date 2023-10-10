@@ -44,7 +44,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Showcase auf CAPPTIVATE.co](http://capptivate.co)
 
 
-## Aufgaben
+## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
 - [Flow & Transition](/mi-bachelor-screendesign/assignments/workshop-007-flow-transition/). Hier reicht es aus, wenn Sie einen Link zu Ihrem Prototypen einfügen.
 

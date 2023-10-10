@@ -25,9 +25,9 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 
 -   [Figma Shortcuts für die deutsche Tastatur](<https://www.figma.com/proto/q2OVHiUu6hdDiOZLzDmUL9/Shortcuts-(International)?scaling=contain&node-id=9%3A146>)
 
-## Aufgaben
+## Übungen
 
-In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
+In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
 
 -   [Raum & Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
 

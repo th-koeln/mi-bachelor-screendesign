@@ -35,7 +35,7 @@ Heute befassen wir uns mit dem Thema Weißraum und Propotionen, wir lernen versc
 - [Microsoft Re-Designs the iPod Packaging](https://www.youtube.com/watch?v=EUXnJraKM3k)
 - [How to use Negative Space in UI Design](https://www.youtube.com/watch?v=A0Ev_4zto4Y)
 
-## Aufgaben
+## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die aufeinander aufbauen. Laden Sie die Ergebnisse im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln).
 - [Aufgabe 1: Negativraum](/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
 - [Aufgabe 2: Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)

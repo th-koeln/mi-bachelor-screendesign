@@ -40,7 +40,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 - [Foundation Icons](https://get.foundation/icon-fonts.html)
 - [flaticon](https://www.flaticon.com)
 
-## Aufgaben
+## Übungen
 - [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts-mi/)
 
 <!--

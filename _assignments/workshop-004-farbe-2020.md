@@ -5,7 +5,7 @@ published: false
 published: false
 ---
 
-Heute beschäftigen wir uns mit Farbe. Dazu gibt es zwei Aufgaben. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/060-workshop-farbe/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
+Heute beschäftigen wir uns mit Farbe. Dazu gibt es zwei Übungen. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/060-workshop-farbe/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
 
 ---
 

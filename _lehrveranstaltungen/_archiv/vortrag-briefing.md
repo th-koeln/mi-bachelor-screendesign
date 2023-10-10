@@ -48,7 +48,7 @@ Trotzdem soll der Charakter der bestehenden Seite erhalten bleiben, bzw. Besuche
 
 Das Design soll möglichst gut auf unterschiedlichen Geräteklassen, von Smartphone bis Desktop, einsetzbar sein.
 
-##  Aufgaben
+##  Übungen
 1. Bitte lassen Sie uns ein schriftliches Angebot zukommen, dass uns eine verständliche Übersicht über die erforderlichen Arbeitsschritte und die damit verbundenen Aufwände liefert.
 
 2. Analysieren Sie die bestehende Website und extrahieren Sie die Gestaltungselemente, die auch im neuen Design erhalten bleiben sollten. Was bedeutet zeitgemäßes Design bezogen auf die Anforderungen von und für spielplatztreff.de? Entwickeln Sie dann ein neues Gestaltungskonzept für die Website von Spielplatztreff.de, dass die kommunikativen Zielsetzungen erfüllt.  

@@ -24,7 +24,7 @@ In diesem Training lernen wir Workflows kennen, wie man Mockups auf mobile Endge
 
 ## Was sollte ich vorbereiten?
 
-An diesem Workshop sollten Sie nur teilnehmen, wenn Sie fit in dem Umgang mit Sketch oder Figma sind und die Aufgaben aus den Basic-Workshops ohne Probleme lösen können.
+An diesem Workshop sollten Sie nur teilnehmen, wenn Sie fit in dem Umgang mit Sketch oder Figma sind und die Übungen aus den Basic-Workshops ohne Probleme lösen können.
 
 ## Material zum Training
 

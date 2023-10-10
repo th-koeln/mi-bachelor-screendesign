@@ -17,7 +17,7 @@ Duplizieren Sie sich die Datei [Figma Scroll to Playground](https://www.figma.co
 
 Die Basis für den heutigen Workshop bildet das Cranach Digital Archive. Innerhalb einer mobilen Anwendung soll es möglich sein, Werke zu speichern, um sie später in einer anderen Übersicht anschauen und verwalten zu können. Dafür möchten wir heute einen animierten Prototypen entwickeln.
 
-Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende Teilaufgaben gilt es zu erledigen: 
+Hierfür verwenden wir das Figma Feature **Smart Animate**. Folgende TeilÜbungen gilt es zu erledigen: 
 1. Machen Sie die Inhalte scrollbar. Auch Inhalte außerhalb des Frames sollen erreichbar sein. 
 2. Animieren Sie die Funktion **Werk speichern** im Frame **Wishlist**. Nutzen Sie dafür die vorgesehenen Komponenten und deren Varianten. Legen Sie bei Bedarf weitere Varianten an. 
 3. Die vom Leser gespeicherten Werke werden im Frame **Bookmarks** gesammelt, welcher die Werke in einer Liste anzeigen soll. Verlinken Sie nun diesen Frame an einer geeigneten Stelle im Frame **Wishlist** und animieren Sie den Übergang bei einem Tap auf die Schaltfläche.
@@ -33,7 +33,7 @@ Sie können die unten dargestellte Vorlage verwenden. Zur Nutzung Datei in Figma
 
 ### Lösung
 
-Sie finden je einen möglichen Lösungsansatz für die heutigen Aufgaben in dieser Datei:
+Sie finden je einen möglichen Lösungsansatz für die heutigen Übungen in dieser Datei:
 
 <iframe style="border: none; width: 100%; max-height:90vh" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGgbKx45bXPkZ1EcwiSKzmx%2FCranach-List-Elements-Solution%3Fnode-id%3D0%253A1%26t%3DFje3sDZofVeDW5IL-1" allowfullscreen></iframe>
 

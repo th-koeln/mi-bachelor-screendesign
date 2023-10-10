@@ -30,8 +30,8 @@ erdachten Ideen und Lösungsansätze fortwährend zu überprüfen.»
 
 ## Was brauchen Sie?
 - Einen eigenen Computer
-- Ergebnisse zu den Aufgaben [Typographie](/mi-bachelor-screendesign/assignments/workshop-005-typographie/)
+- Ergebnisse zu den Übungen [Typographie](/mi-bachelor-screendesign/assignments/workshop-005-typographie/)
 - Stift und Papier für Skizzen
 
-## Aufgaben
+## Übungen
 - [Variantenbildung am Beispiel von Typographie und Textsatz](/mi-bachelor-screendesign/assignments/workshop-005-typographie-variantenbildung/)

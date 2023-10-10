@@ -27,9 +27,9 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 -   [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
 -   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 
-## Aufgaben
+## Übungen
 
-In der heutigen Session sollen folgende Aufgaben bearbeitet werden.
+In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 -   [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
 

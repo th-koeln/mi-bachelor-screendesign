@@ -13,9 +13,9 @@ info: Selbstlernzeit zur Erarbeitung der handwerklichen Fähigkeiten im Umgang m
 ---
 
 ## Worum geht es?
-Aufgrund der Covid-19 Problematik ist die Vorlesungszeit im Wintersemester 2020/21 um einen Monat verkürzt. Die Vorlesungen, Seminare und Workshops bei Screendesign starten erst Anfang November. Nutzen Sie die Zeit um Ihre handwerklichen Fähigkeiten im Umgang mit Figma zu verbessern. Hierz haben wir einige Aufgaben und Ressourcen bereit gestellt.
+Aufgrund der Covid-19 Problematik ist die Vorlesungszeit im Wintersemester 2020/21 um einen Monat verkürzt. Die Vorlesungen, Seminare und Workshops bei Screendesign starten erst Anfang November. Nutzen Sie die Zeit um Ihre handwerklichen Fähigkeiten im Umgang mit Figma zu verbessern. Hierz haben wir einige Übungen und Ressourcen bereit gestellt.
 
-## Aufgaben
+## Übungen
 - [About me](/mi-bachelor-screendesign/assignments/basics-austoben/)
 - [Analytische Sammlung](/mi-bachelor-screendesign/assignments/basics-analytische-sammlung/)
 

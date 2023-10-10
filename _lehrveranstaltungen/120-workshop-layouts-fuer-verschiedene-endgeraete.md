@@ -16,7 +16,7 @@ info: Verschiedene Endgeräte haben verschiedene Anforderungen, wie Darstellungs
 Heute befassen wir uns mit dem Thema Layouts und schauen uns ein paar Gestaltungsstrategien und das zugehörige Prototyping für die Gestaltung von GUIs für verschiedene Endgeräte an. 
 
 ## Material
-- [Aufgaben Layouts für verschiedene Endgeräte](../../assignments/workshop-009-responsive-design-cda-meisterwerke)
+- [Übungen Layouts für verschiedene Endgeräte](../../assignments/workshop-009-responsive-design-cda-meisterwerke)
 <!-- [Google Sheet mit Content](https://docs.google.com/spreadsheets/d/1aZB9Eilvnx0zlhCQoqXEuPu4EzNx7nZBRjovIVJgqw0/edit) -->
 
 ## Weiterführendes Material
