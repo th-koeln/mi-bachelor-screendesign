@@ -30,7 +30,8 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 - [Figma - Website](https://www.figma.com)
 - [Figma - Help](https://help.figma.com)
-- [Figma - Tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
+- [Figma - Tutorials: Figma for beginners](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
+- [Figma - Tutorials: Explore design features in Figma](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
 - [Figma - Setup Education Plan](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-status-for-a-free-Education-team#Create_your_Education_team)
 - [Übungen](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
 
