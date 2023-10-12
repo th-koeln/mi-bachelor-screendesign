@@ -24,3 +24,5 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 ## Material
 * [Folien zum Modulablauf](https://cnoss.github.io/slides/presentations/screendesign/about-screendesign/)
+* [Übung](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-dekomposition/)
+* [Ilias Upload](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview)
