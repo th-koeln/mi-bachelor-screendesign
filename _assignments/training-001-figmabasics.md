@@ -1,7 +1,7 @@
 ---
 titel: Figma Basics
 tags: Warm-up
-published: false
+published: true
 ---
 
 Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-sketch-und-figma-basics/).
