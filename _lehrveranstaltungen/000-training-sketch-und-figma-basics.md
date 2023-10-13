@@ -35,3 +35,8 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 - [Figma - Setup Education Plan](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-status-for-a-free-Education-team#Create_your_Education_team)
 - [Übungen](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
 
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **19.10.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch.
+
+
