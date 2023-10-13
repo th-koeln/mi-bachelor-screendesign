@@ -27,11 +27,13 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 -   [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
 -   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 
+<!--
 ## Übungen
 
 In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 -   [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
+-->
 
 <!-- ## Mitschnitte
 
