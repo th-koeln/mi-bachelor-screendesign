@@ -61,3 +61,11 @@ Als Hilfestellung finden Sie nun einige Abmessungen:
 In dieser Aufgabe sollen Sie einen komplett neuen Screen mit minimaler Hilfestellung erstellen. In diesem Dokument sind nur einige grundlegende Attribute und Maße angegeben. Optimalerweise orientiert sich Ihr Layout dabei an den ersten beiden Übungen.
 
 ![Layout](../images/figma-bascis-4-1.jpg)
+
+---
+
+Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+```sd-uebung-podcast-player-01-NACHNAME.png```
+
+
