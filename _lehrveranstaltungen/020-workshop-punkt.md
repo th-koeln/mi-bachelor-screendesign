@@ -32,8 +32,8 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 
 In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
--   [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
--   [Wechselwirkung zwischen Positiv- und Negativraum](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+-   [Syntaktisch aussagekräftige Anordnungen mit Punkten](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
+-   [Wechselwirkung zwischen Positiv- und Negativraum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
 
 
 ## Upload
