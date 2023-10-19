@@ -14,7 +14,7 @@ info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund 
 
 ## Worum geht es?
 
-Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidimensionaler Gestaltung: dem Punkt. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
+Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidimensionaler Gestaltung: dem Punkt. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln möglich sind. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
 
 ## Was muss ich mitbringen?
 
@@ -39,9 +39,11 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln). -->
 
+<!--
 ## Upload
 
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **20.10.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
+-->
 
 <!--
 ## Sie haben keinen Rechner?
