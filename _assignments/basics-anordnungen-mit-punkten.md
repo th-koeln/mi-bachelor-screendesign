@@ -4,24 +4,34 @@ tags: Basics
 published: true
 ---
 
-Erzeugen Sie auf einer gellgrauen Fläche von **1024x1366 Pixeln** (hochformat) ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils **16 gleich großen schwarzen Punkten** diese sieben Begriffe dar:
+<!--Erzeugen Sie auf einer gellgrauen Fläche von **1024x1366 Pixeln** (hochformat) ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils **16 gleich großen schwarzen Punkten** diese sieben Begriffe dar: -->
+
+Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360 Pixeln** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
 
 1. Ansammlung
 2. Streuung
-2. Ausgrenzung
-3. Hierarchie
-3. Unschärfe
-4. Flucht
-5. Ordnung
-6. Aufstieg
-    <!-- 5. Systematik -->
+3. Ausgrenzung
+4. Hierarchie
+5. Unschärfe
+6. Flucht
+7. Ordnung
+8. Aufstieg
+<!-- 5. Systematik -->
 <!--5. Ordnung-->
 <!--6. Komplexität-->
 <!-- 6. Konfrontation -->
 
-Erzeugen Sie bei Bedarf eine Maske um Anschnitte im Randbereich realisieren zu können.
 
-Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jeweiligen Begriff hinzu. Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. Nutzen Sie für die Darstellung des Begriffs eine serifenlose Schrift im Schriftgrad 18. Bitte schreiben Sie auch Ihren Namen auf die graue Fläche. Die Gesamtkomposition soll so reduziert und eindeutig sein wie möglich. 
+Erzeugen Sie bei Bedearf eine Maske, um Anschnitte im Ranbreich realisieren zu können. Bleiben Sie auf der syntaktischen Ebene. 
+
+Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. 
+
+Platzieren Sie jeweils Ihren Namen und den Begriff des Motivs in einer serifenlosen Schrift im Schrifgrad 18 auf die graue Fläche. Die Gesamtkomposition soll so reduziert und eindeutig sein wie möglich.
+
+
+<!--Erzeugen Sie bei Bedarf eine Maske um Anschnitte im Randbereich realisieren zu können.
+
+Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jeweiligen Begriff hinzu. Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. Nutzen Sie für die Darstellung des Begriffs eine serifenlose Schrift im Schriftgrad 18. Bitte schreiben Sie auch Ihren Namen auf die graue Fläche. Die Gesamtkomposition soll so reduziert und eindeutig sein wie möglich. -->
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
