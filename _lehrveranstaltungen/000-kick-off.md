@@ -39,3 +39,5 @@ Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **19.10.2022 23:55 U
 
 Hier können Sie sich [Ihre Arbeitsergebnisse](https://th-koeln.sciebo.de/s/vlNJIMhD9Fc6a7J) anschauen.
 
+## Sketchnotes aus dem Input
+![Sketchnotes SD KickOff](../../images/recordings/sd-session-01.jpg "Sketchnotes SD KickOff")
