@@ -23,6 +23,6 @@ Heute befassen wir uns mit einer Reihe von Grundbegriffen und Sichtweisen im Des
 
 
 ## Material
-- [Folien zu Design in der Medieninformatik](../../download/inputs/woche-2/010-design-in-der-mi.pdf)
+- [Folien zu Design in der Medieninformatik](https://cnoss.github.io/slides/presentations/screendesign/design-in-der-medieninformatik/)
 - [Film: was ist gutes Design?](https://www.youtube.com/watch?v=A2OS6m6PfXQ&t=131s)
 - [Film: die Braun Story](https://www.youtube.com/watch?v=RVmQMe45-mY&t=4s)

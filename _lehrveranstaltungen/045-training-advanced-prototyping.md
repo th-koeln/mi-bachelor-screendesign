@@ -8,7 +8,7 @@ termine: 2023-11-17 10:00
 empfohlene-voraussetzungen: 
 published: true
 raum: vor-ort-w
-dauer: 180
+dauer: 240
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---
 
