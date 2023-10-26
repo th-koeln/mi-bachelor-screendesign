@@ -1,5 +1,5 @@
 ---
-titel: Thema folgt
+titel: Designprojekte ausrichten
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
@@ -14,8 +14,8 @@ info:
 
 
 ## Worum geht es?
--
+Welche Fragen sollten wir uns am Anfang eines Designprojekts stellen? Wie schaffen wir ein gemeinsames Zielbild und wie visualisieren wir dieses?
 
 ## Material
-
+folgt
 
