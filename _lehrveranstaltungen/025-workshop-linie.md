@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2023-10-27 12:30
+termine: 2023-10-27 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
