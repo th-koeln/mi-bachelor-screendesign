@@ -7,7 +7,7 @@ pflicht: false
 termine: 2023-10-27 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 120
 raum: vor-ort-v
 info: Ein paar Basics zu visueller Wahrnehmung und Wahrnehmungsarbeit?
 ---
