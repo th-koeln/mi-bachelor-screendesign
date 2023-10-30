@@ -29,8 +29,8 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 - sicherer Umgang in Figma
 
 ## Tutorials und Readings
-- [Components](https://help.figma.com/hc/en-us/sections/360006233714-Components/)
-- [Styles](https://help.figma.com/hc/en-us/sections/360006268153-Styles)
+- [Components](https://help.figma.com/hc/en-us/sections/4403935997847-Components)
+- [Styles](https://help.figma.com/hc/en-us/sections/4403928368535-Styles)
 - [Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-constraints-to-define-how-layers-resize)
 - [Properties](https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties)
 - [Dynamic designs with Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
@@ -43,7 +43,6 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 ## Tools
 - [Figma Plugin - Color Shades & Tints Generator](https://www.figma.com/community/plugin/1221190866182222979/color-shades-tints-generator)
 - [Color Designer](https://colordesigner.io)
-- 
 
 ## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden:
