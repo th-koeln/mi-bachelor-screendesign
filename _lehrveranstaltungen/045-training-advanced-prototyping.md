@@ -40,6 +40,10 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
 - [Design Systems ertellen und Screens organisieren in Figma](https://www.youtube.com/watch?v=A_bdqGcjuBo)
 
+## Tools
+- [Figma Plugin - Color Shades & Tints Generator](https://www.figma.com/community/plugin/1221190866182222979/color-shades-tints-generator)
+- [Color Designer](https://colordesigner.io)
+- 
 
 ## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden:
