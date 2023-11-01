@@ -6,7 +6,7 @@ typ: workshop-mit-anmeldung
 pflicht: false
 termine: 2024-02-02 10:00
 empfohlene-voraussetzungen:
-published: true
+published: false
 raum: vor-ort-w
 dauer: 210
 info: Was sind Designsysteme, wie können wir sie dokumentieren, erklären und nachhaltig nutzbar machen?

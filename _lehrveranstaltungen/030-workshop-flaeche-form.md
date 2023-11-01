@@ -1,5 +1,5 @@
 ---
-titel: Fläche & Flächenaufteilung
+titel: Fläche, Flächenaufteilung & Farbe
 kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
@@ -14,9 +14,7 @@ info: Komplexere Konzepte und Übungen zu den Themem Fläche und Form.
 
 ## Worum geht es?
 
-Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir damit um? Was gibt es zu beachten?
-
-Handwerklich erweitern wir das Knowhow heute um Masken, die Pipette und komplexere Raster.
+Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir damit um? Was gibt es zu beachten? Damit es nicht zu trist wird, nehmen wir heute mal Farbe mit dazu.
 
 ## Was muss ich mitbringen?
 
@@ -25,15 +23,15 @@ Handwerklich erweitern wir das Knowhow heute um Masken, die Pipette und komplexe
 
 ## Material
 
--   [Gestaltungselement Fläche & Form](../../download/workshops/flaeche-form/010-flaeche-und-form.pdf)
--   [Figur und Grund](../../download/workshops/flaeche-form/020-figur-und-grund.pdf)
+-   [Gestaltungselement Fläche & Form](https://cnoss.github.io/slides/presentations/screendesign/flaeche-und-form/)
+-   [Figur und Grund](https://cnoss.github.io/slides/presentations/screendesign/figur-und-grund/)
 
 ## Übungen
 
 In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
 
--   [Gestaltungselement Fläche](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/)
--   [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
+- [Farbstreifen erstellen](/mi-bachelor-screendesign/assignments/basics-farbklima/)
+- [Typographische Flächenkomposition](mi-bachelor-screendesign/assignments/basics-typo-shapes/)
 
 ## Upload
 

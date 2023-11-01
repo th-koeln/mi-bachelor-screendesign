@@ -1,20 +1,20 @@
 ---
-titel: Farbe
+titel: Verschiedene Übungen
 kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2023-12-01 13:00
+termine: 2023-11-17 11:30
 empfohlene-voraussetzungen:
 published: true
-dauer: 180
+dauer: 270
 raum: vor-ort-w
 info: Wie entwickle ich ein Farbklima?
 ---
 
 ## Worum geht es?
 
-Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrere Farbklimata und variieren diese. Darüber hinaus lernen wir einige neue Funktionen in Figma kennen und befassen uns zum ersten Mal systematisch mit Bildern.
+Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant sind. Diese werden heute vorgestellt und Sie können sich Feedback zu Lösungen und Teillösungen abholen. Außerdem gibt es die Möglichkeit noch mal ein paar Figma Tipps und Tricks zu erfahren.
 
 ## Was muss ich mitbringen?
 
@@ -27,14 +27,10 @@ Heute befassen wir uns mit Farbe, wer hätte es gedacht :) Wir entwickeln mehrer
 -   [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
 ## Übungen
-
-In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-
--   [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
+tbd
 
 ## Upload
-
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **10.11.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=1179477&cmd=showOverview)
+tbd
 
 <!--
 ## Sie haben keinen Rechner?

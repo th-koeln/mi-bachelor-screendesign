@@ -1,10 +1,12 @@
 ---
 titel: Blöcke mit Linien
-tags: Basics
+tags: 
+  - Basics
+  - Linie
 published: true
 ---
 
-Legen Sie eine weiße Arbeitsfläche(Frame) mit einer Größe von **1430x1505 Pixeln** an. Legen Sie darauf ein Grid mit fünf Spalten und fünf Zeilen an. Der Randabstand und der Abstand nach oben beträgt 50px, der Spaltenabstand beträgt 20px. Die Spalten- und Zeilenhöhe beträgt 250px.
+Legen Sie eine weiße Arbeitsfläche(Frame) mit einer Größe von **1430x1505px** an. Legen Sie darauf ein Grid mit fünf Spalten und fünf Zeilen an. Der Randabstand und der Abstand nach oben beträgt 50px, der Spaltenabstand beträgt 20px. Die Spalten- und Zeilenhöhe beträgt 250px.
 
 Erzeugen Sie nun ein paralleles Linienraster mit gleichmäßigem Abstand für jedes Quadrat der Rasterfläche (zwischen 10 und 120 Linien). Wiederholen Sie das für alle 25 Quadrate. Erzeugen Sie nun eine interessante Gesamtkomposition, indem Sie die Liniengruppe in den jeweiligen Quadraten variieren. Variiert werden darf:
 - die Lage der Linien

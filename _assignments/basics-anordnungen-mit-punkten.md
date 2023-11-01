@@ -1,12 +1,14 @@
 ---
 titel: Syntaktisch aussagekräftige Anordnungen mit Punkten
-tags: Basics
+tags: 
+  - Basics
+  - Punkt
 published: true
 ---
 
 <!--Erzeugen Sie auf einer gellgrauen Fläche von **1024x1366 Pixeln** (hochformat) ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils **16 gleich großen schwarzen Punkten** diese sieben Begriffe dar: -->
 
-Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360 Pixeln** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
+Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x442px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
 
 1. Ansammlung
 2. Streuung

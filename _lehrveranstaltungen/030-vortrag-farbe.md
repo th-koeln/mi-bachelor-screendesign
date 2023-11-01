@@ -4,10 +4,10 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2023-12-01 10:00
+termine: 2023-11-03 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 120
 raum: vor-ort-v
 info: Wie funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erzielen und wie setzen wir Farbe am sinnvoll ein?
 ---
@@ -20,6 +20,5 @@ Genau darum geht es heute: Farbe, eines der wirkungsvollsten Gestaltungsmittel. 
 
 ## Material
 - [How to create a better UI color palette](https://blog.prototypr.io/tips-for-creating-a-better-color-palette-c69d9c20ae37)
-- [Folien zu Moodboards](../../download/inputs/woche-9/semantisches-differenzial-moodboards.pdf)
-- [Folien zu Farbe](../../download/inputs/woche-9/farbe.pdf)
+- [Folien zu Farbe](https://cnoss.github.io/slides/presentations/screendesign/farben/)
 

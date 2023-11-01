@@ -6,7 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2023-11-03 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 120
 raum: vor-ort-v
 info: 

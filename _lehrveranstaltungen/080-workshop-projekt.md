@@ -1,14 +1,14 @@
 ---
-titel: Projektbriefing und Onboarding Workshop
+titel: Projektbriefing und Onboarding
 kuerzel: v-ko
 verantwortlich: cn
-typ: workshop
+typ: vortrag
 pflicht: false
-termine: 2024-01-12 10:00
+termine: 2023-12-22 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: vor-ort-w
+raum: zoom-fd
 info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
 
