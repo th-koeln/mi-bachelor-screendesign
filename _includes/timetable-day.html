@@ -112,7 +112,7 @@
 
             {% assign check = typ-max-teilnehmer | strip_newlines %}
             {% if check != "" %}
-            {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
+            {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
             <p class="subtitle">{{t}} <br>
 
               {{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if anmeldung != '' and anmeldung != nil %} // Anmeldung erforderlich{% endif %}{% if termine.size > 1 %}

@@ -1,14 +1,14 @@
 ---
-titel: Variantenbildung am Beispiel von Typographie und Textsatz
+titel: Variantenbildung & Tipps zur Portfoliopräsentation
 kuerzel: w-vb
 verantwortlich: cn
-typ: workshop-mit-anmeldung
+typ: workshop
 pflicht: false
-termine: 2023-12-15 12:00
+termine: 2023-12-15 10:00
 raum: vor-ort-w
 empfohlene-voraussetzungen:
 published: true
-dauer: 120
+dauer: 240
 info: Gutes Design entsteht zumeist durch die Auswahl der besten Variante. Doch wie erzeuge ich systematisch Varianten?
 ---
 

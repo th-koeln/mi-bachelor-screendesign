@@ -6,7 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2023-12-15 10:00
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 90
 raum: vor-ort-v
 info: Wie setze ich Texte? Wie gehe ich mit Laufweiten, Zeilenabständen und Ausrichtungen um? Diese und ähnliche Fragen werden heute adressiert.
