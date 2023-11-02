@@ -9,10 +9,10 @@ published: true
 
 ## Schritt 1: Fotos machen
 
-Gehen Sie raus und schießen Sie Fotos von Motiven, aus denen Sie später ein kaltes und ein warmen Farbklimaa ableiten können. Schießen Sie für jedes Farbklima Fotos von 3 bis 8 verschiedenen Motiven.
+Gehen Sie raus und schießen Sie Fotos von Motiven, aus denen Sie später ein kaltes und ein warmen Farbklima ableiten können. Schießen Sie für jedes Farbklima Fotos von 3 bis 8 verschiedenen Motiven.
 
 ## Schritt 2: Farbklima ableiten
-Nutzen Sie [Adobe Color](https://color.adobe.com/de/create/image) um aus den Bildern ein Farbklima zu extrahieren. Nutzen Sie das jeweils beste Klima. Die Farben können ium Nachgang angepasst werden.
+Nutzen Sie [Adobe Color](https://color.adobe.com/de/create/image) um aus den Bildern ein Farbklima zu extrahieren. Nutzen Sie das jeweils beste Klima. Die Farben können im Nachgang angepasst werden.
 
 ## Schritt 3: Farbstreifen erstellen
 
