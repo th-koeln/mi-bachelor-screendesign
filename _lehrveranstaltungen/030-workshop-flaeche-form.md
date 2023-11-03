@@ -33,6 +33,9 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [
 - [Farbstreifen erstellen](/mi-bachelor-screendesign/assignments/basics-farbklima/)
 - [Typographische Flächenkomposition](/mi-bachelor-screendesign/assignments/basics-typo-shapes/)
 
+## Fotosammlung
+Hier können Sie Ihre [Bilder hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5VCCB).
+
 ## Upload
 
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **09.11.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
