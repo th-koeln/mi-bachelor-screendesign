@@ -34,7 +34,7 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [
 - [Typographische Flächenkomposition](/mi-bachelor-screendesign/assignments/basics-typo-shapes/)
 
 ## Fotosammlung
-Hier können Sie Ihre [Bilder hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5VCCB).
+Hier können Sie Ihre [Bilder hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5VCCB). Und hier [alle Bilder sehen](https://th-koeln.sciebo.de/s/0ylgGBsLsf9qr5R).
 
 ## Upload
 
