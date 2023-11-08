@@ -16,7 +16,7 @@ info:
 tbd
 
 ## Material
-tbd
+- [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
 
 ## Weiterführendes Material
 tbd
