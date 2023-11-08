@@ -19,7 +19,7 @@ ilias-pruefung:
   url: https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI
 
 zoom-fd:
-  name: "Zoom (Meeting-ID: 64386994325, Kenncode im Ilias)"
+  name: "Zoom (Meeting-ID: 64386994325, Kenncode noss)"
   url: https://th-koeln.zoom-x.de/j/64386994325
 
 zoom-fd-vs:
