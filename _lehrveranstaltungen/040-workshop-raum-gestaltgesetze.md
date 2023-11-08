@@ -29,7 +29,7 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 
 In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
 
--   [Raum & Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
+-   [Raum & Gestaltgesetze](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze/)
 
 ## Upload
 
