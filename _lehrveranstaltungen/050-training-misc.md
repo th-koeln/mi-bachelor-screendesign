@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 270
 raum: zoom-fd
-info: Wie entwickle ich ein Farbklima?
+info: Übungen rund um die Themen Fläche, Farbe und Proportionen
 ---
 
 ## Worum geht es?
