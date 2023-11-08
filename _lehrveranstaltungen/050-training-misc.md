@@ -8,7 +8,7 @@ termine: 2023-11-17 11:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 270
-raum: vor-ort-w
+raum: zoom-fd
 info: Wie entwickle ich ein Farbklima?
 ---
 
