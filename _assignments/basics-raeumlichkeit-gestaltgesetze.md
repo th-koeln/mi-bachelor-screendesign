@@ -11,7 +11,7 @@ Gehen Sie in der Welt der digitalen Produkte auf die Suche nach Screendesigns, m
 
 Nehmen Sie nun das beste Beispiel für Hierarchisierung und montieren Sie dieses auf eine neue Montagefläche. Markieren Sie nun die prägnanten und wichtigen Elemente und erläutern Sie jeweils, mit welchen Mitteln hier Hierarchisierung erzeugt wird. 
 
-Machen Sie das gleiche mit dem besten Beispiel für die Anwendung von Gestaltgesetzen.
+Machen Sie das Gleiche mit dem besten Beispiel für die Anwendung von Gestaltgesetzen.
 
 Exportieren Sie die vier Frames als PNG (1x) und laden Sie diese hoch:
 
