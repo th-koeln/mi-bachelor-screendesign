@@ -4,10 +4,10 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2023-11-17 11:30
+termine: 2023-11-17 13:00
 empfohlene-voraussetzungen:
 published: true
-dauer: 270
+dauer: 180
 raum: zoom-fd
 info: Übungen rund um die Themen Fläche, Farbe und Proportionen
 ---
