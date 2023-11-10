@@ -38,7 +38,7 @@ Hier können Sie Ihre [Bilder hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **09.11.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **09.11.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
