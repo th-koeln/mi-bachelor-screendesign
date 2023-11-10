@@ -33,7 +33,7 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **16.11.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **16.11.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
