@@ -27,6 +27,8 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 - [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
 ## Übungen
+
+In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hochladen können:
 - [Bildmontage mit farbigen Bildern](../../assignments/basics-farbige-bilder/)
 - [Permutation mit Flächenausschnitten](../../assignments/basics-permuation-und-farbe/)
 
