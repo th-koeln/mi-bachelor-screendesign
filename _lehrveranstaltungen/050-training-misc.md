@@ -28,12 +28,11 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 
 ## Übungen
 
-In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hochladen können:
 - [Bildmontage mit farbigen Bildern](../../assignments/basics-farbige-bilder/)
 - [Permutation mit Flächenausschnitten](../../assignments/basics-permuation-und-farbe/)
 
 ## Upload
-tbd
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **23.11.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
