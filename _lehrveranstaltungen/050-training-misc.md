@@ -23,11 +23,12 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 
 ## Material
 
--   [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
--   [Multicolor Tool](http://labs.tineye.com/multicolr/)
+- [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
+- [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
 ## Übungen
-tbd
+- [Bildmontage mit farbigen Bildern](../../assignments/basics-farbige-bilder/)
+- [Permutation mit Flächenausschnitten](../../assignments/basics-permuation-und-farbe/)
 
 ## Upload
 tbd
