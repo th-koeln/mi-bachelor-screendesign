@@ -7,7 +7,7 @@ pflicht: false
 termine: 2023-11-17 10:00
 empfohlene-voraussetzungen: 
 published: true
-raum: vor-ort-w
+raum: vor-ort-ferchau
 dauer: 180
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---
@@ -38,7 +38,6 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 
 - [How to construct a design system](https://www.freecodecamp.org/news/how-to-construct-a-design-system-864adbf2a117/)
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
-- [Design Systems ertellen und Screens organisieren in Figma](https://www.youtube.com/watch?v=A_bdqGcjuBo)
 
 
 ## Übungen
