@@ -595,6 +595,10 @@ $tt-grid-height: 60px;
     code{
       font-size: $bfs * 1.4;
     }
+
+    ul, ol {
+      margin-bottom: $bfs * 2;
+    }
   }
 }
 

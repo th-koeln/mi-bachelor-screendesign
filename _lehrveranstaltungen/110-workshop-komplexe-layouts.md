@@ -1,14 +1,14 @@
 ---
-titel: Komplexe Layouts entwickeln
+titel: Designprojekt ausrichten & Designkonzept erstellen
 kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-01-26 10:00
+termine: 2024-01-12 10:00
 published: true
-dauer: 240
+dauer: 300
 raum: zoom-fd
-info: Heute entwickeln wir zum ersten mal ein komplexes Layout unter Zurhilfename eines Content Inventorys, Wireframes und Figma Komponenten.
+info: 
 ---
 
 ## Worum geht es?

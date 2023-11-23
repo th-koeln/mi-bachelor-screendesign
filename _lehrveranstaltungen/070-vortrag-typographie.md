@@ -1,13 +1,13 @@
 ---
-titel: Typographie
+titel: Typographie & Textsatz
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2023-12-08 10:00
+termine: 2023-12-01 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 120
 raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
 ---

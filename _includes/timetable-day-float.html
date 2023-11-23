@@ -16,7 +16,7 @@
 {% assign overlap-9 = 0 %}
 
 <!--div class="column"-->
-	<h3 class="datum is-3 title">{{day.name}}, {{day.datum | date: '%d. %B %Y'  | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
+	<h3 class="datum is-3 title">{{day.name}}, {{day.datum | date: '%d. %B %Y'  | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
 	<div class="timetable-wrap">
 		
 		{% for i in (0..difftime) %}

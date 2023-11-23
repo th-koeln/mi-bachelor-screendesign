@@ -13,3 +13,9 @@ Entwerfen Sie ein (typografisches) Plakat, auf dem Begriff/ das Konzept «Dekomp
 - das Ergebnis soll visuell möglichst interessant und ansprechend sein
 - versuchen Sie einen Eyecatcher zu integrieren
 - viel Spaß
+
+---
+
+Exportieren Sie das Motiv als PDF und laden Sie diese im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+```sd-uebung-plakat-dekomposition-NACHNAME.pdf```

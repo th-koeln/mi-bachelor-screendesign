@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2023-11-10 10:00
+termine: 2023-11-10 10:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
@@ -21,7 +21,6 @@ Außerdem gibt es heute Feedback zu den ÜbungsÜbungen vom letzten Termin und d
 
 ## Material
 - [Folien zu Räumlichkeit](https://cnoss.github.io/slides/presentations/screendesign/raeumlichkeit/)
-- [Folien zu Gestaltgesetzen](../../download/inputs/woche-5/gestaltgesetze.pdf)
-- [Folien zu Proportionen](../../download/inputs/woche-3/030-proportion.pdf) 
+- [Folien zu Gestaltgesetzen](https://cnoss.github.io/slides/presentations/screendesign/gestaltgesetze/)
 - [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
 - [Laws Of UX](https://lawsofux.com)
