@@ -7,13 +7,8 @@ pflicht: false
 termine: 2023-11-24 10:00
 empfohlene-voraussetzungen: 
 published: true
-<<<<<<< HEAD
 raum: vor-ort-ferchau
-dauer: 180
-=======
-raum: vor-ort-w
 dauer: 320
->>>>>>> 1fd834a1de2c20574d6f2fbdd2e1e8864c2193db
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---
 
