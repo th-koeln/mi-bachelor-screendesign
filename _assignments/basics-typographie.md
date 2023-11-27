@@ -1,7 +1,7 @@
 ---
 titel: Typographie und Schriftsatz
-tags: Fortgeschritten
-published: false
+tags: Basics
+published: true
 ---
 
 Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund bekommen Sie in den zugehörigen Workshops/ Inputs.
@@ -24,6 +24,16 @@ usw.
 
 ### Fiktive Unternehmen
 
+-   **5 Leafs Left - Das Downbeat Festival** \
+    Kommunikationsziele: lebendig, experimentell, avantgardistisch
+
+-   **Bayntahler Alte Rebe - Spitzenweine alter Schule** \
+    Kommunikationsziele: familär, klar, hochwertig, teuer, traditionell
+
+-   **Spin Move – Sportswear** \
+    Kommunikationsziele: aktiv, cool, dynamisch
+
+<!-- 
 -   **Ich und Dein Holz - Wood Manufacture** \
     Kommunikationsziele: Jung, Verbindlich, Bodenständig, Zeitgemäß
 
@@ -33,7 +43,7 @@ usw.
 -   **Konditorei Süßholz - Seit 1865** \
     Kommunikationsziele: Traditionell, Warm, Einladend
 
-<!-- -   **Personal Health Sciences - Research & Product Development** \
+-   **Personal Health Sciences - Research & Product Development** \
     Kommunikationsziele: Zeitgemäß, Elegant, Leicht
 
 -   **Karl Holland & Söhne - Nachhaltige Textilwirtschaft** \
@@ -59,7 +69,7 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias h
 `sd-aufgabe-typo-2.2-schwarz-NACHNAME.png` \
 `sd-aufgabe-typo-2.3-schwarz-NACHNAME.png`
 
-<!--
+
 ## Typographie 3
 
 Duplizieren Sie die weiße oder schwarze Arbeitsfläche des **iPad Mini 9.7“ (768x1024)** aus [Aufgabe 2](#typographie-2), suchen Sie sich ein Bild aus dem Web, dass zum Unternehmen passt und kombinieren Sie die Texte und das Bild auf der Arbeitsfläche
@@ -97,4 +107,3 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias h
 `sd-aufgabe-typo-5.3-NACHNAME.png` \
 `sd-aufgabe-typo-5.4-NACHNAME.png`
 
--->

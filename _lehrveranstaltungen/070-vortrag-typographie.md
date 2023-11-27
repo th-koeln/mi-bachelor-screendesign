@@ -19,8 +19,9 @@ info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendes
 Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern guter Gestaltung. Auch, oder gerade im Screendesign, ist Text und damit Schrift ein wesentlicher Informationsträger. Hier lauern viele Untiefen, aber auch jede Menge Möglichkeiten für gute Gestaltung.  
 
 ## Material
-- [Folien zu Typographie](../../download/inputs/woche-10/typographie.pdf)
-- [Folien zu Typographie am Bildschirm](../../download/inputs/woche-10/typographie-am-bildschirm.pdf)
+- [Folien zu Typographie](https://cnoss.github.io/slides/presentations/screendesign/typographie/)
+- [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/#/1/33)
+- [Typography on screens](https://m3.material.io/styles/typography/applying-type)
 - [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
 
 ## Typo Games & Tools
@@ -28,6 +29,5 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [Kerning Game](https://type.method.ac/)
 - [Shot the Serif](https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/)
 - [TypeWar](http://typewar.com/)
-- [Type Connection](http://www.typeconnection.com/)
 - [Rag Game](https://fathom.info/ragtime/game.html)
 - [Type Terms](https://www.supremo.co.uk/typeterms/)
