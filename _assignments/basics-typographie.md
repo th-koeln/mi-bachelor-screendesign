@@ -69,7 +69,7 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias h
 `sd-aufgabe-typo-2.2-schwarz-NACHNAME.png` \
 `sd-aufgabe-typo-2.3-schwarz-NACHNAME.png`
 
-
+<!--
 ## Typographie 3
 
 Duplizieren Sie die weiße oder schwarze Arbeitsfläche des **iPad Mini 9.7“ (768x1024)** aus [Aufgabe 2](#typographie-2), suchen Sie sich ein Bild aus dem Web, dass zum Unternehmen passt und kombinieren Sie die Texte und das Bild auf der Arbeitsfläche
@@ -107,3 +107,4 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias h
 `sd-aufgabe-typo-5.3-NACHNAME.png` \
 `sd-aufgabe-typo-5.4-NACHNAME.png`
 
+-->
