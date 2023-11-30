@@ -8,7 +8,7 @@ termine: 2023-12-15 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 75
-raum: vor-ort-v
+raum: vor-ort-ferchau
 anzahl: 40 Teilnehmer
 info:
 ---

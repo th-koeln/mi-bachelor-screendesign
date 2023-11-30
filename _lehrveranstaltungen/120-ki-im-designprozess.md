@@ -8,7 +8,7 @@ termine: 2024-02-02 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 240
-raum: vor-ort-w
+raum: vor-ort-v
 info: 
 ---
 

@@ -5,7 +5,7 @@ verantwortlich: cn
 typ: workshop
 pflicht: false
 termine: 2023-12-15 10:00
-raum: vor-ort-w
+raum: vor-ort-ferchau
 empfohlene-voraussetzungen:
 published: true
 dauer: 240

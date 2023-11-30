@@ -8,7 +8,7 @@ termine: 2023-12-08 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 300
-raum: vor-ort-w
+raum: vor-ort-ferchau
 info: 
 ---
 

@@ -8,7 +8,7 @@ termine: 2024-01-19 14:00, 2024-01-26 14:00, 2024-02-02 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: vor-ort-w
+raum: vor-ort-v
 anzahl: beliebig Teilnehmer
 info:
 ---

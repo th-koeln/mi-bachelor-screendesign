@@ -8,7 +8,7 @@ termine: 2023-12-01 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: vor-ort-w
+raum: vor-ort-ferchau
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 ---
 
