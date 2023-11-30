@@ -18,6 +18,8 @@ Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus s
 
 ## Übungen
 
-<!-- - [Markenpersönlichkeit](/mi-bachelor-screendesign/assignments/projekt-markenpersoenlichkeit/) // Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **08.12.2021 23:59 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch. -->
+-   [Typographie](/mi-bachelor-screendesign/assignments/basics-typographie/) 
 
--   [Typographie](/mi-bachelor-screendesign/assignments/basics-typographie/) // Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **07.12.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **07.12.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
