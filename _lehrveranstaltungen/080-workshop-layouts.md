@@ -25,7 +25,6 @@ Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verwor
 - [Negativraum nutzen](/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
 - [Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
 
-<!--
 ## Upload
-Die Ergebnisse können im [Ilias](https://bit.ly/2OQiyTT) hochgeladen werden.
--->
+
+Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **14.12.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
