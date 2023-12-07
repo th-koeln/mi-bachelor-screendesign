@@ -30,7 +30,7 @@ Die Portfolios werden auf Basis des Niveaustufenmodells bewertet. Hier finden Si
 
 ## Portfoliopräsentation (Pflichttermin)
 
-Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/) zwei Ihrer Arbeiten präsentieren. Dazu bitte im [Ilias einen Termin]() buchen. Es stehen zwei Zeitslots zur Verfügung und in jedem Zeitslot gibt es zwei parallele Tracks. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die fristgerecht hochgeladen wurden. 
+Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/) zwei Ihrer Arbeiten präsentieren. Dazu bitte im [Ilias einen Termin](https://ilias.th-koeln.de/ilias.php?ref_id=1697422&cmd=view&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui) buchen. Es stehen zwei Zeitslots zur Verfügung und in jedem Zeitslot gibt es zwei parallele Tracks. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die fristgerecht hochgeladen wurden. 
 
 Wählen Sie vier Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer:in stehen fünf Minuten Präsentationszeit zur Verfügung. 
 
