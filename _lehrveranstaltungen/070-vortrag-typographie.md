@@ -20,9 +20,10 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 
 ## Material
 - [Folien zu Typographie](https://cnoss.github.io/slides/presentations/screendesign/typographie/)
-- [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/#/1/33)
+- [Folien zu Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
 - [Typography on screens](https://m3.material.io/styles/typography/applying-type)
 - [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
+- [Clevere Typografie macht Spaß Poster](https://www.cleverprinting.de/das-kostenlose-cleverprinting-typoposter/)
 
 ## Typo Games & Tools
 - [Shape Game](https://shape.method.ac/)
