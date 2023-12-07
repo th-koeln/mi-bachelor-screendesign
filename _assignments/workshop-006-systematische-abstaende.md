@@ -1,7 +1,10 @@
 ---
 titel: Systematische Abstände
-tags: Fortgeschritten
-published: false
+tags: 
+  - Fortgeschritten
+  - Layout
+  - Typographie
+published: true
 ---
 
 Erzeugen Sie eine Arbeitsfläche von **414x736 Pixeln**. Legen Sie nach einer Zahlenreihe verschiedene Flächen für die Repräsentation von Abständen an und benennen Sie diese nach T-Shirt Größen.

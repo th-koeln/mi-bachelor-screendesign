@@ -1,7 +1,10 @@
 ---
 titel: Negativraum
-tags: Fortgeschritten
-published: false
+tags: 
+  - Fortgeschritten
+  - Layout
+  - Typographie
+published: true
 ---
 
 Erzeugen Sie eine Arbeitsfläche von **1190x842 Pixeln**. Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes-2022.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
