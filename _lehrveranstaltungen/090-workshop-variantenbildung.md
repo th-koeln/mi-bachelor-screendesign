@@ -39,3 +39,7 @@ Gleichzeitig benötigen wir im Screendesign häufig verschiedene Varianten eines
 
 ## Übungen
 - [Variantenbildung am Beispiel von Cards](/mi-bachelor-screendesign/assignments/workshop-variantenbildung-cards-2023/)
+
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **21.12.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
