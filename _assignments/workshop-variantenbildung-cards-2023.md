@@ -16,7 +16,7 @@ Hier sollen nun für die Gestaltung der systematisch Card 64 Varianten gebildet 
 
 ## Schritt 2:
 
-Erzeugen Sie aus der besten Variante ein Card Grid und platzieren Sie diese auf den Mockups, um zu überprüfen welche Variante im Gestaltungskontext am Besten funktioniert.
+Erzeugen Sie aus der besten Variante ein Card Grid und platzieren Sie diese auf den Mockups, um zu überprüfen welche Variante im Gestaltungskontext am Besten funktioniert. Nutzen Sie dabei die Inhalte aus folgender [Tabelle](https://docs.google.com/spreadsheets/d/1K67OKQFGvRMsr7pkdTQL0sRERMxq7om9RWGP_fQaJg0/edit?usp=sharing).
 
 Exportieren Sie die Arbeitsflächen als PNGs (1x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
