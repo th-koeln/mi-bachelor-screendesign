@@ -11,6 +11,7 @@ raum: zoom-fd
 info: 
 ---
 
+<!--
 ## Worum geht es?
 Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Elemente. Heute nähern wir uns Konzepten für Layouts, die vielen Elementen Platz bieten.
 
@@ -43,7 +44,7 @@ Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Element
 ## Übungen
 - [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts-mi/)
 
-<!--
+
 ## Upload
 Diesmal kein Upload :) Wir machen im nächsten Workshop mit den Ergebnissen weiter.
 
