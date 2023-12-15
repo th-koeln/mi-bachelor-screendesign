@@ -22,7 +22,7 @@ Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der G
 - eine Lösung zu den Übungen aus dem Themenfeld Typographie & Textsatz
 - eine Lösung zu den Übungen aus dem Themenfeld Layout
 
-Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **acht Übungen**. Berücksichtigen Sie unbedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
+Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **sechs Übungen**. Berücksichtigen Sie unbedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
 
 ## Bewertung
 
