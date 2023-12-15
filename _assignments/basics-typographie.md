@@ -1,6 +1,8 @@
 ---
 titel: Typographie und Schriftsatz
-tags: Basics
+tags: 
+    - Basics
+    - Typographie
 published: true
 ---
 
