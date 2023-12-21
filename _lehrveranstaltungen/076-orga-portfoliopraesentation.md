@@ -23,5 +23,6 @@ Laden Sie **alle** Artefakte rechtzeitig bis zum **21.12.2023 23:59 Uhr** im Ili
 
 ## Weitere Informationen
 
--   [Gestaltungsportfolio](../../gestaltungsportfolio/)
--   [Niveaustufen](../../niveaustufen/)
+-  [Gestaltungsportfolio](../../gestaltungsportfolio/)
+-  [Niveaustufen](../../niveaustufen/)
+- [Upload Portfolio im {{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}})
