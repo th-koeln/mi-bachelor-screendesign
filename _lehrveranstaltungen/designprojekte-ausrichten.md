@@ -1,24 +1,34 @@
 ---
-titel: Designprojekte ausrichten
-kuerzel: v-ko
+titel: Designprojekt ausrichten & Designkonzept erstellen
+kuerzel: w-lfve
 verantwortlich: cn
-typ: vortrag
+typ: workshop
 pflicht: false
-termine: 2023-11-03 10:00
-empfohlene-voraussetzungen: 
-published: false
-dauer: 120
-raum: vor-ort-v
+termine: 2024-01-12 10:00
+published: true
+dauer: 300
+raum: zoom-fd
 info: 
 ---
 
 
+
 ## Worum geht es?
-Welche Fragen sollten wir uns am Anfang eines Designprojekts stellen? Wie schaffen wir ein gemeinsames Zielbild und wie visualisieren wir dieses?
+Welche Fragen sollten wir uns am Anfang eines Designprojekts stellen und wie können wir das Projekt aufsetzen. Dabei lernen/ nutzen wir unter anderem folgende Techniken und Methoden:
+- Moodboards
+- User Stories
+- User Journey
+- Content Inventory
+- Persona
+- Marken Persona
+
+Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 
 ## Material
-folgt
-
+- [Adjektive für Unternehmen und Projekte](http://www.online-marketing-txt.de/positive-adjektive-unternehmen)
+- [Welchen Nutzen bringt mir eine User Journey?](https://www.omt.de/lexikon/user-journey/#welchen-nutzen-bringt-mir-eine-user-journey)
+- [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
+- [Teamcharta](https://asana.com/de/resources/team-charter-template)
 
 <!--
 Die Planung und Umsetzung eines Screendesign-Projekts im Team erfordert eine strukturierte Herangehensweise. Hier sind einige sinnvolle Schritte, die du berücksichtigen könntest:
@@ -170,4 +180,46 @@ Ein Moodboard kann in verschiedenen Phasen des Screendesigns einen bedeutenden B
 
 Insgesamt fungiert ein Moodboard als visuelle Roadmap, die dem Designteam und den Stakeholdern dabei hilft, eine klare Vorstellung vom gewünschten Design zu entwickeln und zu teilen.
 
+-->
+
+<!--
+## Worum geht es?
+Bislang waren unserer Layouts relativ simple, d.h. sie enthielten wenige Elemente. Heute nähern wir uns Konzepten für Layouts, die vielen Elementen Platz bieten.
+
+## Material
+- [Folien zum Thema Layout](../../download/workshops/layouts/layout_raster.pdf)
+- [Space, Grids, and Layouts](https://www.designsystems.com/space-grids-and-layouts/)
+- [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
+- [Content Inventory](https://www.nngroup.com/articles/content-audits/) 
+
+## Weiterführendes Material
+- [14 layout design trends](https://webflow.com/blog/layout-design)
+- [Design Systems](https://www.designsystems.com/)
+- [Share Files with Collaborators](https://help.figma.com/article/385-share-files)
+- [Google Sheets Link Plugin](https://docs.sheetssync.app/)
+- [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+
+## Auto Layout Funktion
+- [Using Contraints](https://help.figma.com/article/54-constraints)
+- [Create Dynamic Designs with Auto Layout](https://help.figma.com/article/453-auto-layout)
+- [Design more, resize less, with Auto Layout](https://www.figma.com/blog/announcing-auto-layout/)
+- [Quick tips for Auto Layout in Figma](https://uxdesign.cc/quick-tips-for-auto-layout-in-figma-411c639a51b0)
+
+## Iconsets
+- [Font Awesome](https://fontawesome.com)
+- [Material Design Icons](https://fonts.google.com/icons)
+- [Ionicons](http://ionicons.com)
+- [Foundation Icons](https://get.foundation/icon-fonts.html)
+- [flaticon](https://www.flaticon.com)
+
+## Übungen
+- [Komplexe Layouts](/mi-bachelor-screendesign/assignments/workshop-008-complex-layouts-mi/)
+
+
+## Upload
+Diesmal kein Upload :) Wir machen im nächsten Workshop mit den Ergebnissen weiter.
+
+
+## Sie haben keinen Rechner?
+Kein Problem, denn wir haben welche. Allerdings nur Macs. Uuuuuhh. Wenn Sie einen brauchen, bitte rechtzeitig an Volker Schaefer wenden. Unsere Rechner können nur für die Workshops und Trainings ausgeliehen werden. Im MI Pool stehen aber immer Rechner für Sie bereit.
 -->

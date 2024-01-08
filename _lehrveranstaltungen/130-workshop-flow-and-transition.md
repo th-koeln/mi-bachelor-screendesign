@@ -1,14 +1,14 @@
 ---
-titel: Flow & Transition
+titel: Flow & Transition // Storytelling mit Prototypen
 kuerzel: w-fat
-verantwortlich: vs
-typ: workshop-mit-anmeldung
+verantwortlich: cn
+typ: workshop
 pflicht: false
 termine: 2024-01-19 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 240
-raum: vor-ort-v
+raum: vor-ort-ferchau
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 ---
 
@@ -43,10 +43,10 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Showcase von Six UX](http://sixux.com/)
 - [Showcase auf CAPPTIVATE.co](http://capptivate.co)
 
-
+<!--
 ## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
-- [Flow & Transition](/mi-bachelor-screendesign/assignments/workshop-007-flow-transition/). Hier reicht es aus, wenn Sie einen Link zu Ihrem Prototypen einfügen.
+- [Flow & Transition](/mi-bachelor-screendesign/assignments/workshop-007-flow-transition/). Hier reicht es aus, wenn Sie einen Link zu Ihrem Prototypen einfügen.-->
 
 <!-- ## Upload
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **27.01.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hoch.
