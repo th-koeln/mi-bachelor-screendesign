@@ -24,11 +24,44 @@ Welche Fragen sollten wir uns am Anfang eines Designprojekts stellen und wie kö
 
 Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 
-## Material
+## Arbeitsmaterial
+<!--
+- [Designreview](https://www.figma.com/file/VktRki0OH37o7wdRz73DAd/Designreview-Vreunde?type=design&node-id=0%3A1&mode=design&t=7xs5hnrl3ei0MZ0m-1)
+- [Filedrop Ergebnisse](https://th-koeln.sciebo.de/s/pGhDupomo05QDDJ)
+-->
+
+<!--
+- [Teamarbeit](https://miro.com/app/board/uXjVN7cJXpg=/?share_link_id=593770762700)
+-->
+
+<!--
+- [Personas](https://miro.com/app/board/uXjVN6jJnvc=/?share_link_id=564177065479)
+-->
+
+<!--
+- [User Stories](https://miro.com/app/board/uXjVN6i1vDg=/?share_link_id=744833010975)
+-->
+
+<!--
+- [Markenpersönlichkeit](https://miro.com/app/board/uXjVN6i1vVU=/?share_link_id=681778440505)
+-->
+
+<!--
+- [Research](https://miro.com/app/board/uXjVN6hnIkA=/?share_link_id=338650701391)
+-->
+
+<!--
+- [Look & Feel](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=564160660298)
+-->
+
+## Further Readings
 - [Adjektive für Unternehmen und Projekte](http://www.online-marketing-txt.de/positive-adjektive-unternehmen)
 - [Welchen Nutzen bringt mir eine User Journey?](https://www.omt.de/lexikon/user-journey/#welchen-nutzen-bringt-mir-eine-user-journey)
 - [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
 - [Teamcharta](https://asana.com/de/resources/team-charter-template)
+- [Agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
+- [Agile Frameworks: 13 Vorgehensmodelle im Überblick](https://www.me-company.de/magazin/agile-framework/)
+- [User Stories](https://www.me-company.de/magazin/user-stories/)
 
 <!--
 Die Planung und Umsetzung eines Screendesign-Projekts im Team erfordert eine strukturierte Herangehensweise. Hier sind einige sinnvolle Schritte, die du berücksichtigen könntest:
