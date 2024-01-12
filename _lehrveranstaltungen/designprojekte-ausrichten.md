@@ -25,10 +25,9 @@ Welche Fragen sollten wir uns am Anfang eines Designprojekts stellen und wie kö
 Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 
 ## Arbeitsmaterial
-<!--
+
 - [Designreview](https://www.figma.com/file/VktRki0OH37o7wdRz73DAd/Designreview-Vreunde?type=design&node-id=0%3A1&mode=design&t=7xs5hnrl3ei0MZ0m-1)
 - [Filedrop Ergebnisse](https://th-koeln.sciebo.de/s/pGhDupomo05QDDJ)
--->
 
 <!--
 - [Teamarbeit](https://miro.com/app/board/uXjVN7cJXpg=/?share_link_id=593770762700)
