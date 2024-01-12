@@ -28,28 +28,14 @@ Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 
 - [Designreview](https://www.figma.com/file/VktRki0OH37o7wdRz73DAd/Designreview-Vreunde?type=design&node-id=0%3A1&mode=design&t=7xs5hnrl3ei0MZ0m-1)
 - [Filedrop Ergebnisse](https://th-koeln.sciebo.de/s/pGhDupomo05QDDJ)
-
-<!--
 - [Teamarbeit](https://miro.com/app/board/uXjVN7cJXpg=/?share_link_id=593770762700)
--->
-
 <!--
 - [Personas](https://miro.com/app/board/uXjVN6jJnvc=/?share_link_id=564177065479)
--->
-
-<!--
 - [User Stories](https://miro.com/app/board/uXjVN6i1vDg=/?share_link_id=744833010975)
--->
 
-<!--
+
 - [Markenpersönlichkeit](https://miro.com/app/board/uXjVN6i1vVU=/?share_link_id=681778440505)
--->
-
-<!--
 - [Research](https://miro.com/app/board/uXjVN6hnIkA=/?share_link_id=338650701391)
--->
-
-<!--
 - [Look & Feel](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=564160660298)
 -->
 
