@@ -8,7 +8,7 @@ termine: 2024-01-19 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 240
-raum: vor-ort-ferchau
+raum: 3.217
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 ---
 
@@ -27,6 +27,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [MotionUX](https://motion-ux.com)
 - [Understanding motion](https://m2.material.io/design/motion/understanding-motion.html#principles)
 - [Two Tips for Better UX Storytelling](https://www.nngroup.com/articles/two-tips-better-ux-storytelling/)
+- [How To Use Storytelling In UX](https://www.smashingmagazine.com/2022/04/use-storytelling-ux/)
 
 ## Tools & Tutorials
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
