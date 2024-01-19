@@ -23,25 +23,23 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 - [Understanding motion](https://material.io/design/motion/understanding-motion.html#principles)
 - [Motion in UX Design: 6 Effective Types of Web Animation](https://blog.tubikstudio.com/web-animation/)
+- [The Role of Animation and Motion in UX](https://www.nngroup.com/articles/animation-purpose-ux/)
+- [MotionUX](https://motion-ux.com)
+- [Understanding motion](https://m2.material.io/design/motion/understanding-motion.html#principles)
+- [Two Tips for Better UX Storytelling](https://www.nngroup.com/articles/two-tips-better-ux-storytelling/)
 
 ## Tools & Tutorials
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
 - [Flinto for Mac: sehr ausgereiftes GUI Design Animation Tool](https://www.flinto.com)
 - [Flinto Tutorials](https://www.flinto.com/tutorial_videos)
 - [Invision: Online Tool für User Flows und Animationen](https://www.invisionapp.com/)
-- [Invision Tutorials](https://support.invisionapp.com/hc/en-us/categories/115000098263)
 - [Framer: Programmierbares Animation Tool](https://framer.com/)
 - [Framer Tutorials](https://framer.com/getstarted/guide/)
 - [Adobe Experience Design: noch ein schönes Animations-/ Prototyping Tool](http://www.adobe.com/de/products/experience-design.html)
 - [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
 
-## Beispiele:
-- [Climber Interactive Production Company](http://www.climber.io/)
-- [Mobee Dick](http://mobeedick.com/)
-- [Web Beispiel mit jeder Menge Transitions](http://appewa.com/)
-- [Showcase von UX Designer Leo Leung](http://abduzeedo.com/ui-transitions-leo-leung)
-- [Showcase von Six UX](http://sixux.com/)
-- [Showcase auf CAPPTIVATE.co](http://capptivate.co)
+## Übungen
+- [Flow & Transition am Beispiel einer kleinen Audio App](/mi-bachelor-screendesign/assignments/workshop-flow-and-transition/)
 
 <!--
 ## Übungen
