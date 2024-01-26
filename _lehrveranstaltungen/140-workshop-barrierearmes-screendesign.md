@@ -38,6 +38,14 @@ Daher befassen wir uns heute mit:
 **Testen und Evaluieren:** Das regelmäßige Testen von Designs auf Barrierearmut ist entscheidend. Designer sollten Tools und Methoden verwenden, um sicherzustellen, dass ihre Designs den Anforderungen der Barrierefreiheit gerecht werden.
 
 
+## Material
+- [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/Screendesign_Barrierefreiheit.pdf)
+- [WAVE](https://wave.webaim.org/)
+
+## Übungen
+- [Übung am Beispiel der OBI Website](/mi-bachelor-screendesign/assignments/barrierefreiheit/)
+
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
 - Sehr gute Kenntnisse in Figma
+
