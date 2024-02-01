@@ -4,51 +4,34 @@ tags: Fortgeschritten
 published: true
 ---
 
-## Warmup
-Bitte wählen Sie eine der vorgegebenen Übungsaufgaben aus und erstellen Sie einen Instagram-Post, der sowohl KI-generierten Text als auch ein KI-generiertes Bild integriert. Konzentrieren Sie sich darauf, wie Sie durch die Kombination von Text und Bild eine kohärente und ansprechende Botschaft für Ihren gewählten Themenbereich gestalten können.
+## Warmup - Instagram-Post für ein Musikfestival
+Nutzen Sie einen KI-Textgenerator, um einen spannenden und einladenden Text für ein Rock-Musikfestival zu erstellen, der das Publikum begeistern soll.
+Folgende Informationen sollen enthalten sein: Name des Festivals, Datum, Uhrzeit, Preis, relevante Hastags
 
-Viel Erfolg und Kreativität bei der Bearbeitung!
+Erzeugen Sie ein Bild, dass das Thema Rockmusik und Festivalatmosphäre aufgreift. Das Bild sollte Energie, Freiheit und die Leidenschaft für Rockmusik visualisieren, um die richtige Stimmung für das Event zu schaffen.
 
-### Instagram-Post für eine Umwelt-App
-Verwenden Sie einen KI-Textgenerator, um einen kurzen, aber wirkungsvollen Text für einen Instagram-Post zu erstellen. Der Text sollte die Wichtigkeit des Umweltschutzes betonen und zum Download einer fiktiven Umwelt-App motivieren.
+Erstellen Sie eine Arbeitsfläche, deren Maßen auf mobile Endgeräte zugeschnitten ist. Montieren Sie darauf den Text und das Bild zu einem fesselnden Instagram-Post, der die Aufmerksamkeit auf das Rock-Musikfestival zieht und die Zielgruppe anspricht.
+Exportieren Sie die Arbeitsflächen als PNGs (2x) und platzieren sie es auf dieses Miro Board: [Miro Board(https://miro.com/app/board/uXjVNyAott8=/?moveToWidget=3458764577589466848&cot=14)
 
-Nutzen Sie den Text als Inspiration, um mit einem KI-Bildgenerator ein passendes Bild zu erstellen. Das Bild könnte Elemente wie Natur, Digitalisierung und Nachhaltigkeit visualisieren.
+Zeiteinsatz: 30 Minuten
 
-Kombinieren Sie Text und Bild zu einem ansprechenden Instagram-Post. Achten Sie auf die typischen Gestaltungsrichtlinien für Social Media, wie Bildkomposition und Lesbarkeit des Textes.
+## Designlösung für ein Zeitreise-Interface-Design 
+Für eine Zeitreise-App soll ein Interface entwickelt werden, die es Nutzern ermöglicht, virtuelle Reisen in verschiedene historische Epochen zu unternehmen. Eine Reise in die Zukunft soll zudem auch möglich sein. Das Design soll Elemente aus der jeweiligen Epoche integrieren und eine intuitive Steuerung der Zeitreise-Funktionen bieten. 
 
-### Instagram-Post für ein Sportprodukt
-Erstellen Sie mithilfe eines KI-Textgenerators eine kurze und ansprechende Produktbeschreibung für ein innovatives Sportgerät.
+### Personas erstellen
+Erstellen Sie drei Personas, die potentielle Benutzer der Applikation widerspiegeln.
+Stellen Sie den Personas Fragen bezüglich ihrer Präferenzen und Erwartungen an die Applikation.
+Beispiele:
 
-Generieren Sie ein Bild, das das Sportgerät in einem interessanten und einzigartigen Licht zeigt, inspiriert durch den generierten Text.
+- Welche Art von Informationen suchen Sie in einer Zeitreise-App? (z.B. kulturelle Details, historische Fakten, interaktive Erlebnisse)
+- Welche Art von Interaktivität erwarten Sie von der App? (z.B. virtuelle Rundgänge, Spiele, Quizze)
+- Wie sollte die App Sie bei der Auswahl einer Epoche oder eines historischen Ereignisses unterstützen?
 
-Entwerfen Sie einen Instagram-Post, der den Text und das Bild integriert, um das Produkt effektiv zu bewerben. Denken Sie dabei an Elemente wie Hashtags, Call-to-Actions und die Ästhetik des Posts.
+### Farbpalette erzeugen
+Erzeugen Sie eine Farbpalette welche als Basis für das App-Design genutzt werden kann. Die Farben können auch in den Bildern aufgegriffen werden, die im nächsten Schritt zusammengestellt werden.
 
-### Instagram-Post für ein Musikfestival
-Nutzen Sie einen KI-Textgenerator, um einen aufregenden und einladenden Text für ein Musikfestival zu schreiben.
+### Bilder zusammenstellen
+Stellen Sie drei Bilder zusammen, die jeweils eine Epoche darstellen. Jedes Bild sollte stilistische Elemente enthalten, die für die entsprechende Zeit charakteristisch sind. Die Bilder sollten sich untereinander vom Stil her ähneln. Es können Bilder oder welche aus dem Internet verwendet werden.
 
-Erzeugen Sie ein Bild, das das Thema Musik und Festival aufgreift und zum Instagram-Post passt.
-
-Kombinieren Sie den Text und das Bild zu einem fesselnden Instagram-Post, der die Aufmerksamkeit auf das Event zieht. Beachten Sie dabei Aspekte wie die Zielgruppe des Festivals und die visuelle Markenidentität.
-
-
-## Designlösung für eine Anwendung
-Bitte wählen Sie eines der folgenden Übungsaufgaben aus und entwickeln Sie eine Designlösung.
-Outputs:
-- 3 Personas
-- Farbpalette
-- Moodboard
-- Mockup von einem Screen / einer Seite
-
-### Zeitreise-Interface-Design 
-Entwickeln Sie ein Interface für eine Zeitreise-App, die es Nutzern ermöglicht, virtuelle Reisen in verschiedene historische Epochen zu unternehmen. Das Design sollte Elemente aus der jeweiligen Epoche integrieren und eine intuitive Steuerung der Zeitreise-Funktionen bieten. 
-
-### Interstellare Reiseagentur-Webseite 
-Erstellen Sie das Design einer interstellaren Reiseagentur-Website, die Reisen zu fiktiven Planeten und Galaxien anbietet. Nutzen Sie immersive Grafiken und interaktive Elemente, um die Nutzer auf eine virtuelle Reise durch das Universum mitzunehmen.
-
-### KI-gesteuerter Traum-Simulator 
-Konzipieren Sie ein Benutzerinterface für einen Traum-Simulator, der von KI gesteuert wird und es Nutzern ermöglicht, ihre Träume vor dem Einschlafen zu gestalten. Das Interface sollte eine intuitive Auswahl von Traumszenarien und -einstellungen bieten.
-
-### Interplanetarer Handelsmarkt 
-Entwickeln Sie das Design einer E-Commerce-Plattform für den interplanetaren Handel, auf der Ressourcen, Güter und Technologien zwischen der Erde und anderen Kolonien im Sonnensystem gehandelt werden können. Das Design sollte futuristisch sein und Aspekte der Raumfahrt berücksichtigen. 
-
+Platzieren sie alle Artefakte auf dieses [Miro Board] https://miro.com/app/board/uXjVNyAott8=/?moveToWidget=3458764577604671889&cot=14
 
