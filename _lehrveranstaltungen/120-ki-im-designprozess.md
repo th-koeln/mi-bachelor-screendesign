@@ -28,3 +28,27 @@ Die Integration von KI in den Designworkflow erfordert eine Kombination aus Desi
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
 - Sehr gute Kenntnisse in Figma
+
+## Material
+- [UX Design Process](https://www.uxpin.com/studio/blog/design-process-ux/)
+- [Einstieg in ChatGPT](https://blogkurs.de/chatgpt-prompts/)
+- [Einstieg in KI Bildgeneratoren](https://blogkurs.de/ki-bildgeneratoren/)
+- [Open AI - Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Fiktive Personas zum Leben erwecken](https://german.tech/mit-chatgpt-fiktive-personas-zum-leben-erwecken/)
+- [Prompt Engineering Guide](https://www.promptingguide.ai)
+
+## KI Tools
+- [ChatGPT](https://chat.openai.com)
+- [Microsoft Copilot](https://copilot.microsoft.com)
+
+- [Leonardo AI](https://leonardo.ai)
+- [Midjourney](https://www.midjourney.com)
+- [Bing Image Creator](https://www.bing.com/images/create)
+
+- [Relume](https://www.relume.io)
+- [AI Colors](https://aicolors.co)
+- [AIPRM -  Plugin für ChatGPT](https://www.aiprm.com)
+- [Wireframe Designer - Figma Plugin](https://www.figma.com/community/plugin/1228969298040149016)
+
+## Übungen
+- [KI im Designprozess - Instagram Post und Designlösung](/mi-bachelor-screendesign/assignments/workshop-ki-im-designprozess/)
