@@ -11,6 +11,7 @@ Folgende Informationen sollen enthalten sein: Name des Festivals, Datum, Uhrzeit
 Erzeugen Sie ein Bild, dass das Thema Rockmusik und Festivalatmosphäre aufgreift. Das Bild sollte Energie, Freiheit und die Leidenschaft für Rockmusik visualisieren, um die richtige Stimmung für das Event zu schaffen.
 
 Erstellen Sie eine Arbeitsfläche, deren Maßen auf mobile Endgeräte zugeschnitten ist. Montieren Sie darauf den Text und das Bild zu einem fesselnden Instagram-Post, der die Aufmerksamkeit auf das Rock-Musikfestival zieht und die Zielgruppe anspricht.
+
 Exportieren Sie die Arbeitsflächen als PNGs (2x) und platzieren sie es auf dieses Miro Board: [Miro Board(https://miro.com/app/board/uXjVNyAott8=/?moveToWidget=3458764577589466848&cot=14)
 
 Zeiteinsatz: 30 Minuten
