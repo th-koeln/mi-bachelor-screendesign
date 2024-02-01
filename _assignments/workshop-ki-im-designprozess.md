@@ -17,7 +17,7 @@ Exportieren Sie die Arbeitsflächen als PNGs (2x) und platzieren sie es auf dies
 Zeiteinsatz: 30 Minuten
 
 ## Designlösung für ein Zeitreise-Interface-Design 
-Für eine Zeitreise-App soll ein Interface entwickelt werden, die es Nutzern ermöglicht, virtuelle Reisen in verschiedene historische Epochen zu unternehmen. Eine Reise in die Zukunft soll zudem auch möglich sein. Das Design soll Elemente aus der jeweiligen Epoche integrieren und eine intuitive Steuerung der Zeitreise-Funktionen bieten. 
+Für eine Zeitreise-App soll ein Interface entwickelt werden, die es Nutzern ermöglicht, virtuelle Reisen in verschiedene historische Epochen zu unternehmen. Es sollen sowohl Reisen in die Vergangenheit als auch Zukunft möglich sein. Das Design soll Elemente aus der jeweiligen Epoche integrieren und eine intuitive Steuerung der Zeitreise-Funktionen bieten. 
 
 ### Personas erstellen
 Erstellen Sie drei Personas, die potentielle Benutzer der Applikation widerspiegeln.
