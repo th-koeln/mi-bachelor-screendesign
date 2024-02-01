@@ -12,7 +12,7 @@ Erzeugen Sie ein Bild, dass das Thema Rockmusik und Festivalatmosphäre aufgreif
 
 Erstellen Sie eine Arbeitsfläche, deren Maßen auf mobile Endgeräte zugeschnitten ist. Montieren Sie darauf den Text und das Bild zu einem fesselnden Instagram-Post, der die Aufmerksamkeit auf das Rock-Musikfestival zieht und die Zielgruppe anspricht.
 
-Exportieren Sie die Arbeitsflächen als PNGs (2x) und platzieren sie es auf dieses Miro Board: [Miro Board](https://miro.com/app/board/uXjVNyAott8=/?moveToWidget=3458764577589466848&cot=14)
+Exportieren Sie die Arbeitsflächen als PNGs (2x) und platzieren Sie es auf dieses Miro Board: [Miro Board](https://miro.com/app/board/uXjVNyAott8=/?moveToWidget=3458764577589466848&cot=14)
 
 Zeiteinsatz: 30 Minuten
 
