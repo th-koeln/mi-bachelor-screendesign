@@ -12,7 +12,7 @@ Erzeugen Sie ein Bild, dass das Thema Rockmusik und Festivalatmosphäre aufgreif
 
 Erstellen Sie eine Arbeitsfläche, deren Maßen auf mobile Endgeräte zugeschnitten ist. Montieren Sie darauf den Text und das Bild zu einem fesselnden Instagram-Post, der die Aufmerksamkeit auf das Rock-Musikfestival zieht und die Zielgruppe anspricht.
 
-Exportieren Sie die Arbeitsflächen als PNGs (2x) und platzieren Sie es auf dieses Miro Board: [Miro Board]([https://miro.com/app/board/uXjVNyZfyf0=/](https://miro.com/app/board/uXjVNyZfyf0=/))
+Exportieren Sie die Arbeitsflächen als PNGs (2x) und platzieren Sie es auf dieses Miro Board: [Miro Board](https://miro.com/app/board/uXjVNyZfyf0=/)
 
 Zeiteinsatz: 30 Minuten
 
@@ -34,5 +34,5 @@ Erzeugen Sie eine Farbpalette welche als Basis für das App-Design genutzt werde
 ### Bilder zusammenstellen
 Stellen Sie drei Bilder zusammen, die jeweils eine Epoche darstellen. Jedes Bild sollte stilistische Elemente enthalten, die für die entsprechende Zeit charakteristisch sind. Die Bilder sollten sich untereinander vom Stil her ähneln. Es können Bilder oder welche aus dem Internet verwendet werden.
 
-Platzieren sie alle Artefakte auf dieses [Miro Board]([https://miro.com/app/board/uXjVNyZfyf0=/]
+Platzieren sie alle Artefakte auf dieses [Miro Board](https://miro.com/app/board/uXjVNyZfyf0=/)
 
