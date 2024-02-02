@@ -34,5 +34,5 @@ Erzeugen Sie eine Farbpalette welche als Basis für das App-Design genutzt werde
 ### Bilder zusammenstellen
 Stellen Sie drei Bilder zusammen, die jeweils eine Epoche darstellen. Jedes Bild sollte stilistische Elemente enthalten, die für die entsprechende Zeit charakteristisch sind. Die Bilder sollten sich untereinander vom Stil her ähneln. Es können Bilder oder welche aus dem Internet verwendet werden.
 
-Platzieren sie alle Artefakte auf dieses [Miro Board](https://miro.com/app/board/uXjVNyAott8=/?moveToWidget=3458764577604671889&cot=14)
+Platzieren sie alle Artefakte auf dieses [Miro Board](https://miro.com/app/board/uXjVNyZfyf0=/?share_link_id=479724754705)https://miro.com/app/board/uXjVNyZfyf0=/?share_link_id=479724754705)
 
