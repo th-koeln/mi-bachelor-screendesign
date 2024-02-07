@@ -38,6 +38,7 @@ Die Integration von KI in den Designworkflow erfordert eine Kombination aus Desi
 - [Prompt Engineering Guide](https://www.promptingguide.ai)
 
 ## KI Tools
+- [Folien: KI im Designprozess](../../download/workshops/ki-im-designprozess/mi-bachelor_screendesign_wise-2023_ki-im-designprozess.pdf)
 - [ChatGPT](https://chat.openai.com)
 - [Microsoft Copilot](https://copilot.microsoft.com)
 
