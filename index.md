@@ -65,9 +65,9 @@ Die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit findet vor O
 
 ## Worum geht es?
 
-Das Modul „Screendesign” ist im Medieninformatik Bachelor im dritten Fachsemester verankert und baut in Teilen auf das Modul „Mensch-Computer Interaktion” auf. Im Rahmen des Moduls sollen die Studierenden die Kompetenz erlangen, in interdisziplinären Teams die Design-Perspektive zu verstehen und einzunehmen. Sie sollen in die Lage versetzt werden, einen bestehenden Gestaltungskontext zu analysieren und zu erweitern. Darüber hinaus sollen die Studierenden eine gestalterische Grundkompetenz aufbauen.
+Im Rahmen des Moduls sollen die Studierenden in die Lage versetzt werden, in interdisziplinären Teams die Design-Perspektive zu verstehen und einnehmen zu können. Sie sollen fähig sein, einen bestehenden Gestaltungskontext analysieren und erweitern zu können. Darüber hinaus sollen die Studierenden eine eigene gestalterische Grundkompetenz aufbauen.
 
-Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker*innen und keine Designer. Als Medieninformatiker arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
+Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker:innen und keine Designer. Als Medieninformatiker:innen arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig Wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
 - die Ziele eines Gestaltungskonzepts verstehen
 - in der Lage sind, die zugrundeliegenden Gestaltungsregeln zu verstehen und ggf. abzubilden
 - wissen, welche Implementierungsmöglichkeiten zur Verfügung stehen
@@ -78,16 +78,14 @@ Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind
 
 Mit dem Modul sollen die folgenden Lernziele erreicht werden:
 
-- Die Studierenden kennen wesentliche Begriffe des Screendesigns und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
-
-- Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumentieren, diskutieren, dokumentieren und bewerten, um eigene Lösungen innerhalb eines Gestaltungskontexts generieren zu können.
-
-- Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksichtigung von Gestaltungsregeln (Raster, Layout, Typographie, etc.), eigene Gestaltungslösungen entwickeln, systematisch variieren und argumentieren, um gegebene funktionale und/oder kommunikative Ziele zu adressieren.
+- Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden, indem sie verbal gestellte Übungsaufgaben visualisieren und verbalisierte Korrekturen und Veränderungsvorschläge umsetzen und iterieren, um später Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
+- Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumentieren, diskutieren, dokumentieren und bewerten, indem Sie Gestaltungen anhand verschiedener Regeln und Konzepte kreieren, dekomponieren, beschreiben und variieren, um eigene Lösungen innerhalb eines Gestaltungskontextes generieren zu können.
+- Die Studierenden können in einem gegebenen Gestaltungskontext eigene Gestaltungslösungen entwickeln, systematisch variieren und argumentieren, indem Sie Gestaltungsziele verstehen und formulieren können und Gestaltungsregeln (Raster, Layout, Typographie, etc.) anwenden, um gegebene funktionale und/oder kommunikative Ziele zu erreichen.
 
 
 ### Ausrichtung auf MedieninformatikerInnen in der Schnittstellenrolle zum Design
 
-In interdisziplinären Projektteams nehmen Medieninformatiker oftmals eine Schnittstellenrolle ein. Hier fühlt man sich zumeist sicherer und professioneller, wenn man diskursfähig ist. Jede Disziplin hat ihre eigene Fachsprache. Das ist im Design genauso. Wir können im Team besser agieren, wenn wir die Fachsprache verstehen und anwenden können. Wie groß ist der Durchschuss? Sollten wir die Headlines besser in Versalien setzen? Wie lang läuft die Copy? Und warum sind die BUs so klein? Welcher Schriftschnitt ist das? Mit dererlei Fragen und Aussagen sollten wir umgehen können.
+In interdisziplinären Projektteams nehmen Medieninformatiker:innen oftmals eine Schnittstellenrolle ein. Hier fühlt man sich zumeist sicherer und professioneller, wenn man Ahnung hat und die Denke und Sprache der anderen Disziplin versteht. Jede Disziplin hat ihre eigene Fachsprache. Das ist im Design genauso. Wir können im Team besser agieren, wenn wir die Fachsprache verstehen und anwenden können. Wie groß ist der Durchschuss? Sollten wir die Headlines besser in Versalien setzen? Wie lang läuft die Copy? Und warum sind die BUs so klein? Welcher Schriftschnitt ist das? Mit dererlei Fragen und Aussagen sollten wir umgehen können.
 
 ## Wie funktioniert das Modul?
 
