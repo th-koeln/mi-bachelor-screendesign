@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-01-12 10:00
+termine: 2025-01-10 10:00
 published: true
 dauer: 300
 raum: zoom-fd

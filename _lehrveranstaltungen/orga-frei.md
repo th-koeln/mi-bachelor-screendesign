@@ -4,7 +4,7 @@ kuerzel: o-ft
 verantwortlich: cn
 typ: other
 pflicht: false
-termine: 2023-12-29 10:00, 2024-01-05 09:00
+termine: 2024-12-27 10:00, 2025-01-03 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 540
