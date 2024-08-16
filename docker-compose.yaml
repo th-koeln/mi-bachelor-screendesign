@@ -4,7 +4,8 @@ services:
     jekyll:
         container_name: mi-bachelor-screendesign
         image: jekyll/jekyll:4.2.0
-        command: jekyll serve --watch --incremental
+        # command: jekyll serve --watch --incremental
+        command: jekyll serve -l
         ports:
             - 4000:4000
         volumes:
