@@ -16,9 +16,9 @@ titel: Über das Modul
 {% assign projektergebnisse = link %}
 
 <div>
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **9:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **10:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste reguläre Veranstaltung ist am **06. Oktober 2022** um **10:00 Uhr**. Der letzte Termin ist am **26. Januar 2023**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+Die erste reguläre Veranstaltung ist am **13. Oktober 2023** um **10:00 Uhr**. Der letzte Termin ist am **09. Februar 2024**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
 Bitte melden Sie sich zu diesem [Kurs im Ilias](https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln) an.
 </div>
@@ -56,18 +56,18 @@ https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4.
 </blockquote>
 -->
 
-## Einschränkungen durch Covid-19, Stand 01.09.2022
+<!-- ## Einschränkungen durch Covid-19, Stand 01.09.2022
 
 Wir gehen davon aus, dass wir die Veranstaltung in Präsenz durchführen. Es wird einige Feedbacktermine geben, die wir als Online-Termine anbieten. Im [Zeitplan](./timetable/) finden Sie die Veranstaltungstermine und auch den Ort der jeweiligen Veranstaltung.
  
 Die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit findet vor Ort in Gummersbach statt. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Projektpräsentationsprüfung](projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
-
+ -->
 
 ## Worum geht es?
 
-Das Modul „Screendesign” ist im Medieninformatik Bachelor im dritten Fachsemester verankert und baut in Teilen auf das Modul „Mensch-Computer Interaktion” auf. Im Rahmen des Moduls sollen die Studierenden die Kompetenz erlangen, in interdisziplinären Teams die Design-Perspektive zu verstehen und einzunehmen. Sie sollen in die Lage versetzt werden, einen bestehenden Gestaltungskontext zu analysieren und zu erweitern. Darüber hinaus sollen die Studierenden eine gestalterische Grundkompetenz aufbauen.
+Im Rahmen des Moduls sollen die Studierenden in die Lage versetzt werden, in interdisziplinären Teams die Design-Perspektive zu verstehen und einnehmen zu können. Sie sollen fähig sein, einen bestehenden Gestaltungskontext analysieren und erweitern zu können. Darüber hinaus sollen die Studierenden eine eigene gestalterische Grundkompetenz aufbauen.
 
-Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker*innen und keine Designer. Als Medieninformatiker arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
+Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker:innen und keine Designer. Als Medieninformatiker:innen arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig Wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
 - die Ziele eines Gestaltungskonzepts verstehen
 - in der Lage sind, die zugrundeliegenden Gestaltungsregeln zu verstehen und ggf. abzubilden
 - wissen, welche Implementierungsmöglichkeiten zur Verfügung stehen
@@ -78,16 +78,14 @@ Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind
 
 Mit dem Modul sollen die folgenden Lernziele erreicht werden:
 
-- Die Studierenden kennen wesentliche Begriffe des Screendesigns und können diese anwenden um Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
-
-- Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumentieren, diskutieren, dokumentieren und bewerten, um eigene Lösungen innerhalb eines Gestaltungskontexts generieren zu können.
-
-- Die Studierenden können in einem gegebenen Gestaltungskontext, unter Berücksichtigung von Gestaltungsregeln (Raster, Layout, Typographie, etc.), eigene Gestaltungslösungen entwickeln, systematisch variieren und argumentieren, um gegebene funktionale und/oder kommunikative Ziele zu adressieren.
+- Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden, indem sie verbal gestellte Übungsaufgaben visualisieren und verbalisierte Korrekturen und Veränderungsvorschläge umsetzen und iterieren, um später Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
+- Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumentieren, diskutieren, dokumentieren und bewerten, indem Sie Gestaltungen anhand verschiedener Regeln und Konzepte kreieren, dekomponieren, beschreiben und variieren, um eigene Lösungen innerhalb eines Gestaltungskontextes generieren zu können.
+- Die Studierenden können in einem gegebenen Gestaltungskontext eigene Gestaltungslösungen entwickeln, systematisch variieren und argumentieren, indem Sie Gestaltungsziele verstehen und formulieren können und Gestaltungsregeln (Raster, Layout, Typographie, etc.) anwenden, um gegebene funktionale und/oder kommunikative Ziele zu erreichen.
 
 
 ### Ausrichtung auf MedieninformatikerInnen in der Schnittstellenrolle zum Design
 
-In interdisziplinären Projektteams nehmen Medieninformatiker oftmals eine Schnittstellenrolle ein. Hier fühlt man sich zumeist sicherer und professioneller, wenn man diskursfähig ist. Jede Disziplin hat ihre eigene Fachsprache. Das ist im Design genauso. Wir können im Team besser agieren, wenn wir die Fachsprache verstehen und anwenden können. Wie groß ist der Durchschuss? Sollten wir die Headlines besser in Versalien setzen? Wie lang läuft die Copy? Und warum sind die BUs so klein? Welcher Schriftschnitt ist das? Mit dererlei Fragen und Aussagen sollten wir umgehen können.
+In interdisziplinären Projektteams nehmen Medieninformatiker:innen oftmals eine Schnittstellenrolle ein. Hier fühlt man sich zumeist sicherer und professioneller, wenn man Ahnung hat und die Denke und Sprache der anderen Disziplin versteht. Jede Disziplin hat ihre eigene Fachsprache. Das ist im Design genauso. Wir können im Team besser agieren, wenn wir die Fachsprache verstehen und anwenden können. Wie groß ist der Durchschuss? Sollten wir die Headlines besser in Versalien setzen? Wie lang läuft die Copy? Und warum sind die BUs so klein? Welcher Schriftschnitt ist das? Mit dererlei Fragen und Aussagen sollten wir umgehen können.
 
 ## Wie funktioniert das Modul?
 
@@ -130,12 +128,12 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im PSSO anmelden. Dies ist vom **01.02.2023** bis **01.03.2023** möglich.
-- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1161102&cmdClass=ilrepositorygui&cmdNode=wb&baseClass=ilrepositorygui)
+- Step 1: im PSSO anmelden. Dies ist vom **01.01.2024** bis **01.03.2024** möglich.
+- Step 2: [Termin im Ilias buchen](https://ilias.th-koeln.de/ilias.php?ref_id=1246408&cmd=render&cmdClass=ilobjbookingpoolgui&cmdNode=wc:km&baseClass=ilrepositorygui)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im Ilias eintragen und Artefakte bereit stellen](https://ilias.th-koeln.de/goto.php?target=dcl_1456545&client_id=ILIAS_FH_Koeln)
-- Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 13.03. - 15.03.2023 in Gummersbach statt.
+- Step 6: Gut vorbereitet zur Prüfung kommen :). Die Prüfungen finden vom 11.03. - 13.03.2024 in Gummersbach statt.
 
 
 **Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**
@@ -162,6 +160,8 @@ Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn D
 - [Visualizing complexity: Handbuch modulares Informationsdesign / Darjan Hil und Nicole Lachenmeier](https://www.degruyter.com/document/doi/10.1515/9783035625073/html)
 - [Laws of UX: 10 praktische Grundprinzipien für intuitives, menschenzentriertes UX-Design / Yablonski, Jon ; Kommer, Christoph](https://content-select.com/de/portal/media/view/5f4a4d25-f458-43bb-a3a6-0ee6b0dd2d03?forceauth=1)
 
+Die Links sind zum Teil nur aus dem Hochschulnetz oder via VPN erreichbar.
+
 
 ## Wer macht es?
 
@@ -172,6 +172,6 @@ Verantwortlicher Dozent des Moduls ist Prof. Christian Noss. Das komplette Betre
 {% endif %}
 {% endfor %}
 
-## Willkommen im Wintersemester 2022/23
+<!-- ## Willkommen im Wintersemester 2023/24
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5nPUuIPBchM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nPUuIPBchM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->

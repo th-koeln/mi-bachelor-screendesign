@@ -15,7 +15,7 @@ Erarbeiten Sie sich ein Bild des Unternehmens und stellen Sie sich anschließend
 -   Welcher Ethnie gehört die Person an?
 -   Wo und wie lebt sie? (Stadt / Land, Haus / Wohnung, in welchem Ort / welchem Land)
 -   Ist sie ledig/ verheiratet, hat sie Kinder?
--   Was ist ihr Beruf, ihr Aufgabenbereich und ihre Position?
+-   Was ist ihr Beruf, ihr Übungenbereich und ihre Position?
 -   Welche Hobbys hat sie und engagiert sie sich sozial?
 -   Beschreiben Sie den Charakter der Person: Ist sie introvertiert, extrovertiert, treu …?
 -   Wie ist er / sie mobil?

@@ -1,14 +1,14 @@
 ---
-titel: Projektkontext und -briefing
+titel: Projektbriefing und Onboarding
 kuerzel: v-ko
 verantwortlich: cn
-typ: workshop
+typ: vortrag
 pflicht: false
-termine: 2022-12-08 11:00
+termine: 2023-12-22 13:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 120
-raum: vor-ort-w
+dauer: 150
+raum: zoom-fd
 info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
 
@@ -16,9 +16,13 @@ info: Das Projekt für dieses Jahr wird vorgestellt.
 
 Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektkontext.
 
+## Programm
+- [Feedback zum ersten Teil](https://miro.com/app/board/uXjVN_2vsHo=/?share_link_id=486727636931)
+- [Evaluation Screendesign](https://evasys.th-koeln.de/evasys/public/online/index/index?online_php=&pswd=CPWYZ&ONLINEID=23736428175249015879338535374537473014422)
+- Vorstellung Projekt
+
 ## Material
-- [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2021/)
+- [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2023/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
-- [Miro Board für die Einstiegsaufgabe](https://miro.com/app/board/uXjVOcO7ZxE=/?invite_link_id=122169251887)
-- [Miro Board für's Sammeln der Fragen](https://miro.com/app/board/uXjVOcOK8qU=/?invite_link_id=816403664652)
+

@@ -1,9 +1,10 @@
 ---
 titel: Advanced Prototyping
 tags: Fortgeschritten
+published: true
 ---
 
-Heute beschäftigen wir uns mit dem Thema Advanced Prototyping. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/090-training-advanced-prototyping/).
+Heute beschäftigen wir uns mit dem Thema Advanced Prototyping. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/045-training-advanced-prototyping/).
 
 ---
 
@@ -15,12 +16,12 @@ Zunächst geht es darum die Struktur der vorhandenen Views und darin enthaltenen
 * Gruppieren Sie Elemente die logisch zusammen gehören und geben Sie den Gruppen und ggf. den einzelnen Elementen aussagekräftige Namen.
 * Sortieren Sie die Gruppen und Elemente in der Ebenenleiste nach einem bestimmten Schema. \
   Eine Möglichkeit ist, die Elemente in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen, zu sortieren, und zwar von oben nach unten.  
-* Erzeugen Sie Komponenten für Elemente, die mehrfach vorkommen und Styles die mehrfach verwendet werden. \
+* Erzeugen Sie Komponenten und Varianten von Komponenten für Elemente, die mehrfach vorkommen und Styles die mehrfach verwendet werden. \
   Diese helfen dabei ein konsistentes Layout, auch über mehrere Views hinaus, zu ermöglichen.
 
 ## Aufgabe 2
 
-Nun soll für die vorhandenen Views ein Layout für das iPad mini im Portrait Format erzeugt werden.
+Nun soll für die bestehenden Views ein Layout für das Querformat erzeugt werden.
 
-Konfigurieren Sie dazu zunächst die Elemente so, dass sie sich automatisch anpassen, wenn die Größe der View bzw. der einzelnen Elemente, geändert wird.
-Duplizieren Sie anschließend die Frames und stellen Sie es auf die Größe des iPad mini ein. Passen Sie anschließend die Elemente an die neue Framegröße an.
+Konfigurieren Sie die Elemente so, dass sie flexibel auf Größenänderungen der Views oder der Elemente selbst reagieren.
+Duplizieren Sie daraufhin die Frames, stellen Sie sie auf das Querformat ein und justieren Sie die darin enthaltenden Elemente entsprechend der neuen Ausrichtung.

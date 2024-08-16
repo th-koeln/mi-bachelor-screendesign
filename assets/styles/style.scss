@@ -168,7 +168,7 @@ $tt-grid-height: 60px;
         background-color: $mi-lila;
       }
 
-      &.workshop {
+      &.workshop, &.workshop-mit-anmeldung {
         background-color: $mi-gruen;
       }
 
@@ -595,6 +595,10 @@ $tt-grid-height: 60px;
     code{
       font-size: $bfs * 1.4;
     }
+
+    ul, ol {
+      margin-bottom: $bfs * 2;
+    }
   }
 }
 
@@ -729,7 +733,7 @@ $tt-grid-height: 60px;
   }
 }
 
-@media (max-width: 999px) {
+
 
   html,
   body {
@@ -768,7 +772,7 @@ $tt-grid-height: 60px;
       }
     }
   }
-}
+
 
 @media print {
 
@@ -844,10 +848,10 @@ code{
 
 
 /**************/
-/* Aufgaben     */
+/* Übungen     */
 /**************/
 
-.aufgaben {
+.Übungen {
 
   .title{
     font-size: 2vW;

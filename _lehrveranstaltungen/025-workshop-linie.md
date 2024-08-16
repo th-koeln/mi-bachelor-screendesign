@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2022-10-14 12:00
+termine: 2023-10-27 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -26,19 +26,20 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, 
 -   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 -   [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
 
-## Aufgaben
+## Übungen
 
-In der heutigen Session sollen folgende Aufgaben bearbeitet werden.
+In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
--   [Gestaltungselement Linie](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
+-   [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
+-   [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
+
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **02.11.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=2527599&ass_id=35216&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=wc:me&baseClass=ilRepositoryGUI) hoch.
 
 <!-- ## Mitschnitte
 
 Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln). -->
-
-## Upload
-
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **20.10.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
 
 <!--
 ## Sie haben keinen Rechner?

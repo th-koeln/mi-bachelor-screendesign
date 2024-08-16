@@ -3,15 +3,18 @@
 
 - url: timetable/
   name: Zeitplan
-  
+
 - url: niveaustufen/
   name: Artefakte & Niveaustufen
 
 - url: assignments/
-  name: Aufgaben
+  name: Übungen
 
 - url: gestaltungsportfolio/
   name: Gestaltungsportfolio
 
 - url: links/
   name: Links
+
+- url: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2023/
+  name: Projekt 2023

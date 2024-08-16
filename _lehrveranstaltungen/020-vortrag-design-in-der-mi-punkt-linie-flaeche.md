@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2022-10-14 10:00
+termine: 2023-10-20 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
@@ -16,17 +16,16 @@ info: Was sind grundlegende Fragen im Design und welche Rolle spielt Design in d
 ## Worum geht es?
 
 Heute befassen wir uns mit einer Reihe von Grundbegriffen und Sichtweisen im Design. Hier mal ein paar Beispiele:
-
 - Welche Rolle spielt Design?
 - Welche Rolle kommt dem Design in der Informatik/ Medieninformatik zu?
 - Woran erkennen wir gutes Design?
 - Wie können wir Design beschreiben?
 
-Darüber hinaus beschäftigen wir uns mit Grundfragen der Kommunikation, Interaktion und der visuellen Wahrnehmung.
-
-Außerdem befassen wir uns als Vorbereitung für den Workshop mit den basalen Gestaltungselementen Punkt, Linie und Fläche. Yeah! 
 
 ## Material
-- [Folien zu Design in der Medieninformatik](../../download/inputs/woche-2/010-design-in-der-mi.pdf)
+- [Folien zu Design in der Medieninformatik](https://cnoss.github.io/slides/presentations/screendesign/design-in-der-medieninformatik/)
 - [Film: was ist gutes Design?](https://www.youtube.com/watch?v=A2OS6m6PfXQ&t=131s)
 - [Film: die Braun Story](https://www.youtube.com/watch?v=RVmQMe45-mY&t=4s)
+
+## Sketchnotes aus dem Input
+![Sketchnotes SD Design in der MI](../../images/recordings/sd-session-02.jpg "Sketchnotes SD Design in der MI")

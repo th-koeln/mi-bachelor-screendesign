@@ -14,7 +14,7 @@ info: Wie können mit Figma, einem vektorbasierten Online-Zeichenprogramm, Mocku
 
 ## Worum geht es?
 
-Bei diesem Training üben wir den Umgang mit der Software [Figma](https://www.figma.com). Ab einem bestimmten Punkt im Entwurfsprozess wollen wir papier-basierte Wireframes und Skizzen ins Digitale überführen und so konkretisieren. Dafür brauchen wir ein Stück Software. Es gibt unzählige Tools für diese Aufgabe und die Auswahl ist oftmals sehr persönlich oder anhängig von der Präferenz des Teams, des Kunden oder des zugrunde liegenden Workflows. In diesem Workshop nutzen wir Figma, als ein relativ neues, webbasiertes Tool für grafische Mockups und andere Aufgaben. Figma ist im Web und somit für mehrere Platformen verfügbar. 
+Bei diesem Training üben wir den Umgang mit der Software [Figma](https://www.figma.com). Ab einem bestimmten Punkt im Entwurfsprozess wollen wir papier-basierte Wireframes und Skizzen ins Digitale überführen und so konkretisieren. Dafür brauchen wir ein Stück Software. Es gibt unzählige Tools für diese Aufgabe und die Auswahl ist oftmals sehr persönlich oder anhängig von der Präferenz des Teams, des Kunden oder des zugrunde liegenden Workflows. In diesem Workshop nutzen wir Figma, als ein relativ neues, webbasiertes Tool für grafische Mockups und andere Übungen. Figma ist im Web und somit für mehrere Platformen verfügbar. 
 
 
 ## Was bringt mir das Training?
@@ -23,7 +23,7 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 ## Warum sollte ich üben?
 
-Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Aufgaben irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
+Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Übungen irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
 
 ## Was sollte ich vorbereiten?
 
@@ -39,7 +39,7 @@ Bitte schon mal die Videotutorials durcharbeiten. Figma ist momentan noch kosten
 - [Figma Tutorial: Constraints (YouTube)](https://www.youtube.com/watch?v=rRQAQ1d9q9w)
 - [Figma Tutorial: Components (YouTube)](https://www.youtube.com/watch?v=RLRVv7JXvco)
 
-### Folien und Aufgaben
+### Folien und Übungen
 Figma ist kompatibel mit Sketch-Dateien und kann diese importieren. Aus diesem Grund können Sie die hier verlinkten Dateien in Figma importieren, um sie dort ebenfalls zu verwenden.
-- [Übungsaufgaben (Sketch, mit Figma kompatibel)](../../download/training-sketch-basics/Sketch_Training_GdvK_SS_17_v2.zip)
+- [ÜbungsÜbungen (Sketch, mit Figma kompatibel)](../../download/training-sketch-basics/Sketch_Training_GdvK_SS_17_v2.zip)
 - [Folien zum Training](../../download/training-figma-basics/Figma_Basics_Training_Folien.pdf)

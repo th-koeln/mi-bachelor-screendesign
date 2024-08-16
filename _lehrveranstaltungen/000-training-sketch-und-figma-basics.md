@@ -1,10 +1,10 @@
 ---
 titel: Figma Basics
 kuerzel: t-sb
-verantwortlich: vs, js, ch
+verantwortlich: vs, ch
 typ: training
 pflicht: false
-termine: 2022-10-06 10:00|0.501, 2022-10-06 10:00|0.502
+termine: 2023-10-13 12:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 150
@@ -23,14 +23,20 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 ## Warum sollte ich üben?
 
-Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Aufgaben irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
+Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Übungen irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
 
 
 ## Material
 
 - [Figma - Website](https://www.figma.com)
 - [Figma - Help](https://help.figma.com)
-- [Figma - Tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
+- [Figma - Tutorials: Figma for beginners](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
+- [Figma - Tutorials: Explore design features in Figma](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23)
 - [Figma - Setup Education Plan](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-status-for-a-free-Education-team#Create_your_Education_team)
-- [Übungsaufgaben](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
+- [Übungen](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
+
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **19.10.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch.
+
 

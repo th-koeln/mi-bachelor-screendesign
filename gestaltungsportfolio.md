@@ -5,23 +5,24 @@ titel: Individuelles Gestaltungsportfolio
 
 Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die gestalterische Auseinandersetzung der Studierenden von basalen Fragen und Themen im Screendesign. Dabei sollen folgende Fragen beantwortet werden:
 
-- wie präzise agiert der Studierende bei der Bearbeitung der Gestaltungsaufgaben
-- in wie weit wurde die Aufgabe verstanden und entsprechend umgesetzt
-- in wie weit lassen sich in den Lösungen Konzepte und Vorgehensweisen aus der Domäne erkennen?
+- Wie präzise wird bei der Bearbeitung der Gestaltungsübungen agiert?
+- Inwieweit wurde die Aufgabe verstanden und entsprechend umgesetzt?
+- Inwieweit lassen sich in den Lösungen Konzepte und Vorgehensweisen aus der Domäne erkennen?
 
-Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeutigkeit, Räumlichkeit, Hierarchisierung, Gestaltgesetze und Farbe verstanden haben.
+Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeutigkeit, Räumlichkeit, Hierarchisierung, Gestaltgesetze, Farbe, Typographie, Textsatz, Layout und Flow & Transition verstanden haben.
 
 ## Inhalt des Portfolios
 
-Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie **jeweils Ihre beste Lösung** aus: 
+Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie aus dem Themenfeld jeweils **Ihre beste Lösung** aus. Folgende Lösungen gehen in das Portfolio ein:
 
-- eine Lösung zu den Aufgaben [Punkt 1 oder Punkt 2](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
-- eine Lösung zu den Aufgaben [Linie 1 oder Linie 2](/mi-bachelor-screendesign/assignments/workshop-001-linie/)
-- eine Lösung zu den Aufgaben [Fläche 1a, 1b oder Fläche 2](/mi-bachelor-screendesign/assignments/workshop-002-flaeche/) oder der Aufgabe [Flächenaufteilung](/mi-bachelor-screendesign/assignments/workshop-002-flaechenaufteilung/)
-- ein Lösung zu den Aufgaben [Räumlichkeit erzeugen oder Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
-- ein Lösung zu den Aufgaben [Farbe](/mi-bachelor-screendesign/assignments/workshop-004-farbe/)
+- eine Lösung zu den Übungen aus dem Themenfeld Punkt
+- eine Lösung zu den Übungen aus dem Themenfeld Linie
+- eine Lösung zu den Übungen aus dem Themenfeld Fläche
+- eine Lösung zu den Übungen aus dem Themenfeld Farbe
+- eine Lösung zu den Übungen aus dem Themenfeld Typographie & Textsatz
+- eine Lösung zu den Übungen aus dem Themenfeld Layout
 
-Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **fünf Aufgaben**. Diese laden Sie bitte fristgerecht im [Ilias unter Prüfungsrelevante Artefakte/Individuelles Gestaltungsportfolio](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) hoch. Berücksichtigen Sie ungebedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
+Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **sechs Übungen**. Berücksichtigen Sie unbedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
 
 ## Bewertung
 
@@ -29,8 +30,9 @@ Die Portfolios werden auf Basis des Niveaustufenmodells bewertet. Hier finden Si
 
 ## Portfoliopräsentation (Pflichttermin)
 
-Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum Präsentationstermin zwei Ihrer Artefakte präsentieren. Dazu bitte im [Ilias einen Termin](https://ilias.th-koeln.de/goto.php?target=fold_1697422&client_id=ILIAS_FH_Koeln) buchen. Es stehen zwei Zeitslots zur Verfügung und in jedem Zeitslot gibt es zwei parallele Tracks. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die [fristgerecht hochgeladen](https://ilias.th-koeln.de/goto.php?target=exc_1166244&client_id=ILIAS_FH_Koeln) wurden. 
+Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/) zwei Ihrer Arbeiten präsentieren. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die [fristgerecht hochgeladen]({{site.data.abgaben.artefakt0.uebergabepunkt-link}}) wurden. 
 
-Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer stehen fünf Minuten Präsentationszeit zur Verfügung. 
+Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer:in stehen fünf Minuten Präsentationszeit zur Verfügung. Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung, anstatt sie zu beschreiben.
 
-Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung anstatt sie zu beschreiben.
+## Abgabe
+Das Portfolio muss bis zum 21.12.2023, 23:59 Uhr 🙄 im Ilias hochgeladen sein.

@@ -14,7 +14,7 @@ info: Wie können mit Sketch, einem vektorbasierten Zeichenprogramm für den Mac
 
 ## Worum geht es?
 
-Bei diesem Training üben wir den Umgang mit der Software Sketch. Ab einem bestimmten Punkt im Entwurfsprozess wollen wir papier-basierte Wireframes und Skizzen ins Digitale überführen und so konkretisieren. Dafür brauchen wir ein Stück Software. Es gibt unzählige Tools für diese Aufgabe und die Auswahl ist oftmals sehr persönlich oder anhängig von der Präferenz des Teams, des Kunden oder des zugrunde liegenden Workflows. In diesem Workshop nutzen wir Sketch, als ein sehr verbreitetes und anerkanntes Tool für grafische Mockups und andere Aufgaben. Sketch ist leider nur für Apple Computer erhältlich.
+Bei diesem Training üben wir den Umgang mit der Software Sketch. Ab einem bestimmten Punkt im Entwurfsprozess wollen wir papier-basierte Wireframes und Skizzen ins Digitale überführen und so konkretisieren. Dafür brauchen wir ein Stück Software. Es gibt unzählige Tools für diese Aufgabe und die Auswahl ist oftmals sehr persönlich oder anhängig von der Präferenz des Teams, des Kunden oder des zugrunde liegenden Workflows. In diesem Workshop nutzen wir Sketch, als ein sehr verbreitetes und anerkanntes Tool für grafische Mockups und andere Übungen. Sketch ist leider nur für Apple Computer erhältlich.
 
 
 ## Was bringt mir das Training?
@@ -23,7 +23,7 @@ Wenn Sie bereits fit im Umgang mit Sketch sind, dann bringt Ihnen das Training r
 
 ## Warum sollte ich üben?
 
-Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Aufgaben irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
+Üben hilft. Bei den späteren Workshops geht es nicht nur darum bestimmte Übungen irgendwie umzusetzen, sondern sie möglichst sauber und schnell zu realisieren. Und dazu gehört eine gewisses Maß an Routine und das kommt nur durch üben.
 
 ## Was sollte ich vorbereiten?
 
@@ -42,7 +42,7 @@ Bitte schon mal die Videotutorials durcharbeiten. Falls Sie eine Version von Ske
 - [Sketch Basics 4: Symbols](https://www.youtube.com/watch?v=yoPZnND0gKk&list=PLYDNry0Bi-MOnJuxLQ1XSfk3HVLXcHhq2&index=4)
 
 ### Folien und Aufgabe
-- [Übungsaufgaben](../../download/training-sketch-basics/Sketch_Training_GdvK_SS_17_v2.zip)
+- [ÜbungsÜbungen](../../download/training-sketch-basics/Sketch_Training_GdvK_SS_17_v2.zip)
 - [Folien zum Training](../../download/training-sketch-basics/Sketch_Training_Kickoff_2017.zip)
 
 ### Lösungen

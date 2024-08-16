@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2022-10-27 11:00
+termine: 2023-11-10 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -25,15 +25,15 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 
 -   [Figma Shortcuts für die deutsche Tastatur](<https://www.figma.com/proto/q2OVHiUu6hdDiOZLzDmUL9/Shortcuts-(International)?scaling=contain&node-id=9%3A146>)
 
-## Aufgaben
+## Übungen
 
-In der heutigen Session sollen folgende Aufgaben bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
+In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hochladen können:
 
--   [Raum & Gestaltgesetze](/mi-bachelor-screendesign/assignments/workshop-003-raum-gestaltgesetze/)
+-   [Raum & Gestaltgesetze](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze/)
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **03.11.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **16.11.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
 
 <!--
 ## Sie haben keinen Rechner?

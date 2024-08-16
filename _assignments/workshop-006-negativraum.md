@@ -1,9 +1,13 @@
 ---
 titel: Negativraum
-tags: Fortgeschritten
+tags: 
+  - Fortgeschritten
+  - Layout
+  - Typographie
+published: true
 ---
 
-Erzeugen Sie eine Arbeitsfläche von **1190x842 Pixeln**. Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
+Erzeugen Sie eine Arbeitsfläche von **1190x842 Pixeln**. Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes-2022.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
 
 -   Bild des Autors
 -   Zitat
@@ -21,8 +25,11 @@ Folgende Einschränkungen gelten:
 3. es dürfen **keine zusätzlichen Gestaltungselemente** verwendet werden, außer Hintergrundfarben
 4. es muss ein erkennbares **Gestaltungsraster** verwendet werden
 
-Bei allen Autoren stehen mehrere Bilder zur Auswahl. Wählen Sie das Bild, das besten im Rahmen Ihres Gestaltungskonzepts funktioniert. Die Konzepte werden am Ende des Workshops vorgestellt.
+Bei allen Autoren stehen mehrere Bilder zur Auswahl. Wählen Sie das Bild, das besten im Rahmen Ihres Gestaltungskonzepts funktioniert. Optimieren Sie die Texte hinsichtlich der Homogenität und Lesbarkeit. Es stehen mitunter mehrere Zitate zur Auswahl. Wählen Sie ein passendes aus.
 
+Die Konzepte werden im Rahmen des Workshops vorgestellt.
+
+<!--
 Exportieren Sie die Arbeitsflächen als PNGs (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-`sd-aufgabe-negativraum-INDEX-NACHNAME.png`
+`sd-aufgabe-negativraum-INDEX-NACHNAME.png` -->

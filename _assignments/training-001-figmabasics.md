@@ -1,6 +1,7 @@
 ---
 titel: Figma Basics
 tags: Warm-up
+published: true
 ---
 
 Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-sketch-und-figma-basics/).
@@ -9,7 +10,7 @@ Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können au
 
 ## Figma 0: Account anlegen
 
-Legen Sie sich einen [Figma-Account](https://www.figma.com/) an. Registrieren Sie sich dann für das Education-Programm. Hilfestellungen bekommen Sie dazu auf den [Support-Seiten von Figma](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-Education-status). Die folgenden Aufgaben sind auch ohne die vollständige Registrierung möglich.
+Legen Sie sich einen [Figma-Account](https://www.figma.com/) an. Registrieren Sie sich dann für das Education-Programm. Hilfestellungen bekommen Sie dazu auf den [Support-Seiten von Figma](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-Education-status). Die folgenden Übungen sind auch ohne die vollständige Registrierung möglich.
 
 ## Figma 1: Grundlage
 
@@ -17,7 +18,7 @@ Laden Sie das [Materialpaket](../../download/trainings/figma/figma-training-mate
 
 Bauen Sie den hier abgebildeten Screen so detailgetreu wie möglich nach. Bitte arbeiten Sie dabei so präzise wie möglich, so dass ihre Layouts der Vorlage 1zu1 entsprechen.
 
-Falls der Font „Roboto" nicht auf ihrem Rechner installiert ist, finden Sie diesen im Material-Ordner des Aufgabenpakets.
+Falls der Font „Roboto" nicht auf ihrem Rechner installiert ist, finden Sie diesen im Material-Ordner des Übungenpakets.
 
 ![Layout](../images/figma-basics-1-1.jpg)
 
@@ -57,6 +58,14 @@ Als Hilfestellung finden Sie nun einige Abmessungen:
 
 ## Figma 4: Player
 
-In dieser Aufgabe sollen Sie einen komplett neuen Screen mit minimaler Hilfestellung erstellen. In diesem Dokument sind nur einige grundlegende Attribute und Maße angegeben. Optimalerweise orientiert sich Ihr Layout dabei an den ersten beiden Aufgaben.
+In dieser Aufgabe sollen Sie einen komplett neuen Screen mit minimaler Hilfestellung erstellen. In diesem Dokument sind nur einige grundlegende Attribute und Maße angegeben. Optimalerweise orientiert sich Ihr Layout dabei an den ersten beiden Übungen.
 
 ![Layout](../images/figma-bascis-4-1.jpg)
+
+---
+
+Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+```sd-uebung-podcast-player-01-NACHNAME.png```
+
+

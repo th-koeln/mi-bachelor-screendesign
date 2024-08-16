@@ -19,8 +19,8 @@ ilias-pruefung:
   url: https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI
 
 zoom-fd:
-  name: "Zoom (Meeting-ID: 82712097709, Kenncode im Ilias)"
-  url: https://th-koeln.zoom.us/j/82712097709
+  name: "Zoom (Meeting-ID: 64386994325, Kenncode noss)"
+  url: https://th-koeln.zoom-x.de/j/64386994325
 
 zoom-fd-vs:
   name: "Zoom (Meeting-ID: 87910567579, Kenncode im Ilias)"
@@ -42,10 +42,13 @@ vor-ort:
   name: Raum XYZ
 
 vor-ort-v:
-  name: "Raum 3.102"
+  name: "Raum 3.216"
 
 vor-ort-w:
-  name: "Raum 0.501"
+  name: "Raum 3.216"
+
+vor-ort-ferchau:
+  name: "Raum 0.504"
 
 pruefung: 
   name: Raum 3.217

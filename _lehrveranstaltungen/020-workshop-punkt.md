@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2022-10-13 11:00
+termine: 2023-10-20 12:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -14,7 +14,7 @@ info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund 
 
 ## Worum geht es?
 
-Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidimensionaler Gestaltung: dem Punkt. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln ergeben. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
+Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidimensionaler Gestaltung: dem Punkt. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln möglich sind. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
 
 ## Was muss ich mitbringen?
 
@@ -27,19 +27,25 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 -   [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
 -   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 
-## Aufgaben
 
-In der heutigen Session sollen folgende Aufgaben bearbeitet werden.
+## Übungen
 
--   [Gestaltungselement Punkt](/mi-bachelor-screendesign/assignments/workshop-001-punkt/)
+In der heutigen Session sollen folgende Übungen bearbeitet werden.
+
+-   [Syntaktisch aussagekräftige Anordnungen mit Punkten](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
+-   [Wechselwirkung zwischen Positiv- und Negativraum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+
+
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **26.10.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?ref_id=2527599&ass_id=35216&cmd=showOverview&cmdClass=ilobjexercisegui&cmdNode=wc:me&baseClass=ilRepositoryGUI) hoch.
+
+
 
 <!-- ## Mitschnitte
 
 Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln). -->
 
-## Upload
-
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **20.10.2022 0:00 Uhr** im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
