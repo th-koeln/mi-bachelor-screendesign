@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: vs
 typ: workshop
 pflicht: false
-termine: 2024-02-02 10:00
+termine: 2025-01-31 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 240

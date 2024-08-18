@@ -4,7 +4,7 @@ kuerzel: t-sb
 verantwortlich: vs, ch
 typ: training
 pflicht: false
-termine: 2023-10-13 12:30
+termine: 2024-10-11 12:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 150
