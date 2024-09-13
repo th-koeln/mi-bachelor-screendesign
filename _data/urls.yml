@@ -12,11 +12,11 @@ mi-wiki-pruefung:
 
 ilias:
   name: Ilias
-  url: https://ilias.th-koeln.de/goto.php?target=crs_1161102&client_id=ILIAS_FH_Koeln
+  url: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
 
 ilias-pruefung:
   name: Ilias
-  url: https://ilias.th-koeln.de/ilias.php?ref_id=1246408&object_id=4826&cmd=book&cmdClass=ilbookingobjectgui&cmdNode=w9:kk:4m&baseClass=ilRepositoryGUI
+  url: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
 
 zoom-fd:
   name: "Zoom (Meeting-ID: 64386994325, Kenncode noss)"
