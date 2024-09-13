@@ -20,7 +20,7 @@ Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner 
 
 Die erste reguläre Veranstaltung ist am **11. Oktober 2024** um **10:00 Uhr**. Der letzte Termin ist am **12. März 2025**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
-Bitte melden Sie sich zu diesem [Kurs im Ilu](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=71291) an.
+Bitte melden Sie sich zu diesem [Kurs im Ilu](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) an.
 </div>
 
 <!--
@@ -95,7 +95,7 @@ Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. 
 
 ### Projekt
 
-Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. <!-- Wir starten mit einem Ganztagsworkshop in das Projektthema.--> Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträgen an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
+Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. <!-- Wir starten mit einem Ganztagsworkshop in das Projektthema.--> Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
 Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielten meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im {{ilias}} angemeldet werden.
 
