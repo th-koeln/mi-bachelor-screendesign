@@ -1,14 +1,14 @@
 ---
 titel: Figma Basics
 kuerzel: t-sb
-verantwortlich: vs, ch
+verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2024-10-11 12:30
+termine: 2024-10-11 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 150
-raum: vor-ort-w
+raum: vor-ort-v
 info: Basistraining für den Umgang mit Figma
 ---
 

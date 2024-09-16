@@ -7,7 +7,7 @@ pflicht: false
 termine: 2024-10-11 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 120
 raum: vor-ort-v
 info: Wie funktioniert das Modul?
 ---
