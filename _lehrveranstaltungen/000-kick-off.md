@@ -28,16 +28,16 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 ## Übungen
 * [Was will ich hier](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-was-will-ich-hier/)
-* [Plakat Dekomposition](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-dekomposition/)
+* [Plakat Serialisierung](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-serialisierung/)
 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **19.10.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **17.10.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=452322) hoch.
 
 ## Ergebnisse
 
-Hier können Sie sich [Ihre Arbeitsergebnisse](https://th-koeln.sciebo.de/s/vlNJIMhD9Fc6a7J) anschauen.
+<!-- Hier können Sie sich [Ihre Arbeitsergebnisse]() anschauen. -->
 
 ## Sketchnotes aus dem Input
 ![Sketchnotes SD KickOff](../../images/recordings/sd-session-01.jpg "Sketchnotes SD KickOff")
