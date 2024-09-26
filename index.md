@@ -128,7 +128,7 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im PSSO anmelden. Dies ist vom **01.11.2024** bis **01.03.2025** möglich.
+- Step 1: im PSSO anmelden. Dies ist vom **11.11.2024** bis **01.03.2025** möglich.
 - Step 2: [Termin im ILU buchen - (Link folgt)]()
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
