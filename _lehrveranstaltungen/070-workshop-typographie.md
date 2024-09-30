@@ -14,7 +14,7 @@ info: Wie setze ich Schrift sinnvoll und zielführend ein?
 
 ## Worum geht es?
 
-Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus steigen wir mit einer Analyseaufgabe in das Screendesign Projekt 2022 ein.
+Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus steigen wir mit einer Analyseaufgabe in das Screendesign Projekt 2024 ein.
 
 ## Übungen
 
@@ -22,4 +22,4 @@ Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus s
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **07.12.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **05.12.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.

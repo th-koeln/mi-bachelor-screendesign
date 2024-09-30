@@ -19,7 +19,7 @@ Heute werde zwei Arbeiten aus dem [Gestaltungsportfolio](../../gestaltungsportfo
 
 ## Vorbereitung & Anmeldung
 
-Laden Sie **alle** Artefakte rechtzeitig bis zum **21.12.2023 23:59 Uhr** im Ilias hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden bei den Informationen zum [Gestaltungsportfolio](../../gestaltungsportfolio/). Melden Sie sich dann zu einem [Slot im Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1697422&client_id=ILIAS_FH_Koeln) an. Pro Termin sind nur 30 Studierende möglich. Genaue Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](../../gestaltungsportfolio/).
+Laden Sie **alle** Artefakte rechtzeitig bis zum **19.12.2024 23:59 Uhr** im Ilias hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden bei den Informationen zum [Gestaltungsportfolio](../../gestaltungsportfolio/). Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) an. Pro Termin sind nur 30 Studierende möglich. Genaue Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](../../gestaltungsportfolio/).
 
 ## Weitere Informationen
 

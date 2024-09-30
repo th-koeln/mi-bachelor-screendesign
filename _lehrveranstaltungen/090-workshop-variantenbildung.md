@@ -42,4 +42,4 @@ Gleichzeitig benötigen wir im Screendesign häufig verschiedene Varianten eines
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **21.12.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **19.12.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
