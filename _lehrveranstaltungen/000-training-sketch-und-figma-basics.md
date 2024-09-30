@@ -37,6 +37,6 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **19.10.2022 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **17.10.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452322&cmd=showOverview) hoch.
 
 

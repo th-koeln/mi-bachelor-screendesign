@@ -28,7 +28,7 @@ Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir dami
 
 ## Übungen
 
-In der heutigen Session sollen folgende Übungen bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1179477&client_id=ILIAS_FH_Koeln) hochladen können:
+In der heutigen Session sollen folgende Übungen bearbeitet werden:
 
 - [Farbstreifen erstellen](/mi-bachelor-screendesign/assignments/basics-farbklima/)
 - [Typographische Flächenkomposition](/mi-bachelor-screendesign/assignments/basics-typo-shapes/)
@@ -38,7 +38,7 @@ Hier können Sie Ihre [Bilder hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **09.11.2023 23:55 Uhr** im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2527599&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **07.11.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
