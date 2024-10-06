@@ -8,7 +8,7 @@ published: true
 
 <!--Erzeugen Sie auf einer gellgrauen Fläche von **1024x1366 Pixeln** (hochformat) ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils **16 gleich großen schwarzen Punkten** diese sieben Begriffe dar: -->
 
-Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x442px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
+Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x500px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
 
 1. Ansammlung
 2. Streuung
@@ -19,9 +19,9 @@ Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich gr
 7. Ordnung
 8. Aufstieg
 <!-- 5. Systematik -->
-<!--5. Ordnung-->
 <!--6. Komplexität-->
-<!-- 6. Konfrontation -->
+<!-- weitere Ideen: Konfrontation, Symmetrie/Asymmetrie, Zerfall, Rhythmus, Spannung, Kontrast, Verdichtung, Durchbrechung, Anziehung/Abstoßung, Richtung
+ -->
 
 
 Erzeugen Sie bei Bedearf eine Maske, um Anschnitte im Ranbreich realisieren zu können. Bleiben Sie auf der syntaktischen Ebene. 
@@ -35,7 +35,7 @@ Platzieren Sie jeweils Ihren Namen und den Begriff des Motivs in einer serifenlo
 
 Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jeweiligen Begriff hinzu. Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. Nutzen Sie für die Darstellung des Begriffs eine serifenlose Schrift im Schriftgrad 18. Bitte schreiben Sie auch Ihren Namen auf die graue Fläche. Die Gesamtkomposition soll so reduziert und eindeutig sein wie möglich. -->
 
-Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=474196&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-punkt-anordnungen-NACHNAME–BEGRIFF.png`
 
