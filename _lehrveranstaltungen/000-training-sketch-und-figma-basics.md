@@ -8,7 +8,7 @@ termine: 2024-10-11 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 150
-raum: vor-ort-v
+raum: vor-ort-w-multi
 info: Basistraining für den Umgang mit Figma
 ---
 
