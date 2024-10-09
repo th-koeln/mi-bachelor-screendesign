@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 120
 raum: vor-ort-v
-info: Ein paar Basics zu visueller Wahrnehmung und Wahrnehmungsarbeit?
+info: Ein paar Basics zu visueller Wahrnehmung und Wahrnehmungsarbeit
 ---
 
 

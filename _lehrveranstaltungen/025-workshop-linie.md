@@ -9,12 +9,12 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 180
 raum: vor-ort-w
-info: Heute wir es ein bisschen komplexer :) Wir kümmern uns um Linien Linien.
+info: Heute wir es ein bisschen komplexer :) Wir kümmern uns um Linien.
 ---
 
 ## Worum geht es?
 
-Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, wie Lage und Richtung. Mal schauenm was man damit so anstellen kann.
+Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, wie Lage und Richtung. Mal schauen, was man damit so anstellen kann.
 
 ## Was muss ich mitbringen?
 
