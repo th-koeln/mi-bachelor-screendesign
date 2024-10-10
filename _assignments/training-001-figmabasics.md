@@ -64,7 +64,7 @@ In dieser Aufgabe sollen Sie einen komplett neuen Screen mit minimaler Hilfestel
 
 ---
 
-Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [Ilias](https://ilias.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=2526402&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452322&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-uebung-podcast-player-01-NACHNAME.png```
 
