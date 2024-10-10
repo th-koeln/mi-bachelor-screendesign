@@ -10,10 +10,15 @@ Legen Sie drei weiße Arbeitsflächen(Frame) mit einer Größe von **1430x425px*
 
 Visualisieren Sie nun in den fünf Spalten nur mit Linien folgende Begriffspaare und einen Übergang zwischen diesen Paaren (als Serie). Verwenden Sie pro Begriffspaar eine Arbeitsfläche. 
 
-1. statisch und dynamisch
-2. Ordnung und Unruhe
-3. Verdichtung und Auflösung
+1. Symmetrie und Asymmetrie
+2. Anziehung und Abstoßung
+3. Stabilität und Instabilität
+<!-- weitere Ideen:
+4. Ruhe und Dynamik
+5. Einheit und Vielfalt 
+-->
 
-Fügen Sie Ihren Namen jeweils mit ein und exportieren Sie die drei Visualisierungen als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+Fügen Sie Ihren Namen jeweils mit ein und exportieren Sie die drei Visualisierungen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=482917&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-uebung-linientransformationen-BEGRIFF-NACHNAME.png```
