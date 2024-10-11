@@ -13,10 +13,7 @@ Visualisieren Sie nun in den fünf Spalten nur mit Linien folgende Begriffspaare
 1. Symmetrie und Asymmetrie
 2. Anziehung und Abstoßung
 3. Stabilität und Instabilität
-<!-- weitere Ideen:
-4. Ruhe und Dynamik
-5. Einheit und Vielfalt 
--->
+
 
 
 Fügen Sie Ihren Namen jeweils mit ein und exportieren Sie die drei Visualisierungen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=482917&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
