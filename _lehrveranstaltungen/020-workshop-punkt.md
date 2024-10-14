@@ -8,7 +8,7 @@ termine: 2024-10-18 12:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: vor-ort-w
+raum: vor-ort-w-multi
 info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um den Punkt.
 ---
 
