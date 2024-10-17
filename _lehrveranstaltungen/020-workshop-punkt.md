@@ -34,6 +34,7 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 -   [Syntaktisch aussagekräftige Anordnungen mit Punkten](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
 -   [Wechselwirkung zwischen Positiv- und Negativraum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+- [Punkt und Raum – Der Punkt als Bewegung im Raum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
 
 
 ## Upload
