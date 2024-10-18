@@ -6,7 +6,7 @@ tags:
 published: true
 ---
 
-Legen Sie eine weiße Arbeitsfläche (Frame) mit einer Größe von **1440x1024px** an. Legen Sie darauf ein quadratisches Raster mit 34px Länge und Breite an.
+Legen Sie eine weiße Arbeitsfläche (Frame) mit einer Größe von **1440x1024px** an. 
 
 
 Gestalten Sie eine Serie von Punktkompositionen, die eine Bewegung oder Reise durch den Raum symbolisieren. Jeder Punkt in Ihrer Komposition soll als eine Station oder ein Moment auf dieser Reise stehen. Ziel der Aufgabe ist es, die dynamischen Eigenschaften eines Punktes zu erforschen und zu visualisieren, wie Bewegung, Geschwindigkeit und Raum mit Punkten dargestellt werden können.
