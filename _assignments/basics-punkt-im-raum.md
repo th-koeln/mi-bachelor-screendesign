@@ -20,4 +20,4 @@ Erstellen Sie mindestens drei Kompositionen, die unterschiedliche Aspekte der Be
 
 Exportieren Sie alle acht Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=474196&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-```sd-uebung-punkt-positiv-negativ-NUMMER-NACHNAME.png```
+```sd-uebung-punkte-im-raum-NUMMER-NACHNAME.png```
