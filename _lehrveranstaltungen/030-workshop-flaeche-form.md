@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 180
 raum: vor-ort-w
-info: Komplexere Konzepte und Übungen zu den Themem Fläche und Form.
+info: Komplexere Konzepte und Übungen zu den Themen Fläche und Form.
 ---
 
 ## Worum geht es?
@@ -34,11 +34,11 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden:
 - [Typographische Flächenkomposition](/mi-bachelor-screendesign/assignments/basics-typo-shapes/)
 
 ## Fotosammlung
-Hier können Sie Ihre [Bilder hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5VCCB). Und hier [alle Bilder sehen](https://th-koeln.sciebo.de/s/0ylgGBsLsf9qr5R).
+Hier können Sie Ihre [Fotos hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5VCCB). Und hier [alle Fotos sehen](https://th-koeln.sciebo.de/s/0ylgGBsLsf9qr5R).
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **07.11.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **14.11.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=487233&ass_id=18479) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
