@@ -8,7 +8,7 @@ termine: 2024-10-25 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: vor-ort-w
+raum: vor-ort-w-multi
 info: Heute wir es ein bisschen komplexer :) Wir kümmern uns um Linien.
 ---
 
