@@ -7,7 +7,7 @@ pflicht: false
 termine: 2024-12-27 10:00
 raum: vor-ort-ferchau
 empfohlene-voraussetzungen:
-published: true
+published: false
 dauer: 240
 info: Gutes Design entsteht zumeist durch die Auswahl der besten Variante. Doch wie erzeuge ich systematisch Varianten?
 ---

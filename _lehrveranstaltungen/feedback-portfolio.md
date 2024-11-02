@@ -4,10 +4,10 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
 pflicht: true
-termine: 2024-12-13 15:00
+termine: 2024-11-29 15:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 75
+dauer: 90
 raum: vor-ort-ferchau
 anzahl: 40 Teilnehmer
 info:

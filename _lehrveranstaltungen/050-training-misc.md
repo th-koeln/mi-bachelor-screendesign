@@ -6,7 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2024-11-15 13:00
 empfohlene-voraussetzungen:
-published: true
+published: false
 dauer: 180
 raum: zoom-fd
 info: Übungen rund um die Themen Fläche, Farbe und Proportionen

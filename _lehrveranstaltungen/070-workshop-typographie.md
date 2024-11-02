@@ -4,10 +4,10 @@ kuerzel: w-elmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-12-06 13:00
+termine: 2024-11-29 13:00
 empfohlene-voraussetzungen:
 published: true
-dauer: 180
+dauer: 120
 raum: vor-ort-ferchau
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 ---
