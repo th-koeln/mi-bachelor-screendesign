@@ -36,4 +36,4 @@ Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](
 Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer:in stehen fünf Minuten Präsentationszeit zur Verfügung. Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung, anstatt sie zu beschreiben.
 
 ## Abgabe
-Das Portfolio muss bis zum 19.12.2024, 23:59 Uhr 🙄 im ILU hochgeladen sein.
+Das Portfolio muss bis zum 05.12.2024, 15:00 Uhr 🙄 im ILU hochgeladen sein.
