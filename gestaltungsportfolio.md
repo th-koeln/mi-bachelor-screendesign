@@ -31,9 +31,9 @@ Die Portfolios werden auf Basis des Niveaustufenmodells bewertet. Hier finden Si
 
 ## Portfoliopräsentation (Pflichttermin)
 
-Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/) zwei Ihrer Arbeiten präsentieren. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die [fristgerecht hochgeladen]({{site.data.abgaben.artefakt0.uebergabepunkt-link}}) wurden. 
+Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/) zwei Ihrer Arbeiten präsentieren. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die fristgerecht hochgeladen wurden. 
 
 Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer:in stehen fünf Minuten Präsentationszeit zur Verfügung. Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung, anstatt sie zu beschreiben.
 
 ## Abgabe
-Das Portfolio muss bis zum 05.12.2024, 15:00 Uhr 🙄 im ILU hochgeladen sein.
+Das Portfolio muss bis zum 05.12.2024, 15:00 Uhr 🙄 im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452326&cmd=showOverview) hochgeladen sein.
