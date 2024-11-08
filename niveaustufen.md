@@ -39,7 +39,7 @@ Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeu
 
 Die Arbeiten des Gestaltungsportfolios müssen als Einzeldateien (PNG 2x) im {{site.data.abgaben.artefakt0.uebergabepunkt-text}} abgelegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. 
 
-Weitere Infos finden Sie unter [Gestaltungsportfolio](../gestaltungsportfolio/)
+Weitere Infos finden Sie unter [Gestaltungsportfolio](../gestaltungsportfolio/).
 
 Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 
