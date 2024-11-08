@@ -19,11 +19,11 @@ Heute werde zwei Arbeiten aus dem [Gestaltungsportfolio](../../gestaltungsportfo
 
 ## Vorbereitung & Anmeldung
 
-Laden Sie **alle** Artefakte rechtzeitig bis zum **19.12.2024 23:59 Uhr** im Ilias hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden bei den Informationen zum [Gestaltungsportfolio](../../gestaltungsportfolio/). Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) an. Pro Termin sind nur 30 Studierende möglich. Genaue Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](../../gestaltungsportfolio/).
+Laden Sie **alle** Artefakte rechtzeitig bis zum **05.12.2024 15:00 Uhr** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) an. Pro Termin sind nur 30 Studierende möglich. Genaue Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](../../gestaltungsportfolio/).
 
 ## Weitere Informationen
 
--  [Gestaltungsportfolio](../../gestaltungsportfolio/)
--  [Niveaustufen](../../niveaustufen/)
-- [Upload Portfolio im {{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}})
+- [Gestaltungsportfolio](../../gestaltungsportfolio/)
+- [Niveaustufen](../../niveaustufen/)
+- [Upload-Link für das Portfolio](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452326&cmd=showOverview)
 
