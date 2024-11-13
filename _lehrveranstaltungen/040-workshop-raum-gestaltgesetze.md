@@ -29,7 +29,7 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 
 In der heutigen Session sollen folgende Übungen bearbeitet werden:
 
--   [Raum & Gestaltgesetze](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze/)
+-   [Gestaltgesetze](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze-2024/)
 
 ## Upload
 

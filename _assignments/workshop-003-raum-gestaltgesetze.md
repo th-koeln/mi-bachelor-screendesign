@@ -4,7 +4,7 @@ tags: Basics
 published: false
 ---
 
-Heute beschäftigen wir uns mit Raum & Gestaltgesetzen. Dazu gibt es zwei Übungen. Den theoretischen Hintergrund bekommen Sie in der [dazu vorgesehenen Lehrveranstaltung](/mi-bachelor-screendesign/lehrveranstaltungen/040-workshop-raum-gestaltgesetze/). Dort finden Sie auch den Link für die Uploadmöglichkeit.
+Heute beschäftigen wir uns mit Raum & Gestaltgesetzen. Dazu gibt es zwei Übungen. 
 
 ---
 
