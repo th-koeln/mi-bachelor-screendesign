@@ -17,7 +17,7 @@ info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wi
 
 Sobald es darum geht mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu platzieren wird es leider kompliziert (siehe Wahrnehmungsarbeit). Heute schauen wir uns einige Konzepte und Ansätze an, wie wir dieser Komplexität begegnen können. 
 
-Außerdem gibt es heute Feedback zu den ÜbungsÜbungen vom letzten Termin und die Spielregeln als auch einige Tipps für die Portfoliopräsentation am 7. November.
+Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und die Spielregeln als auch einige Tipps für die [Portfoliopräsentation](/_lehrveranstaltungen/076-orga-portfoliopraesentation.md).
 
 ## Material
 - [Folien zu Räumlichkeit](https://cnoss.github.io/slides/presentations/screendesign/raeumlichkeit/)
