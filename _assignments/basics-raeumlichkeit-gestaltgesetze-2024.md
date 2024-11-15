@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Kopieren Sie die unten verlinkte Figma-Vorlage zu Ihren Entwürfen (Duplicate to Drafts). Visualisieren Sie nun vier Gestaltgesetze Ihrer Wahl. Erzeugen Sie für jedes von Ihnen visualisierte Gestaltgesetz eine eigene Komposition. Nutzen Sie ausschließlich die Elemente, die in der Vorlage mitgeliefert wurden.
+Kopieren Sie die unten verlinkte Figma-Vorlage zu Ihren Entwürfen (Duplicate to Drafts). Visualisieren Sie nun vier Gestaltgesetze Ihrer Wahl. Erzeugen Sie für jedes von Ihnen visualisierte Gestaltgesetz eine eigene Komposition. Nutzen Sie ausschließlich die Elemente, die in der Vorlage mitgeliefert wurden. Setzen Sie Ihren Namen und das Gestaltgesetz mit auf die Fläche.
 
 Exportieren Sie die vier Frames als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=504809&cmd=showOverview) hoch. Verwenden Sie bei den Dateinamen bitte die folgende Nomenklatur:
 
