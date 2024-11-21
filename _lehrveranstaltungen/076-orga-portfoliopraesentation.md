@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 120
 anzahl: 30 Studierende
-raum: zoom-fd
+raum: vor-ort-w
 info: Dies ist ein Pflichttermin. Die Anwesenheit ist für das Bestehen des Moduls erforderlich.
 ---
 

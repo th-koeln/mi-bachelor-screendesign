@@ -8,7 +8,7 @@ termine: 2024-12-20 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 320
-raum: vor-ort-ferchau
+raum: zoom-fd
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 ---
 

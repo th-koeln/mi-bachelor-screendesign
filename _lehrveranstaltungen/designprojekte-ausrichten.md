@@ -7,7 +7,7 @@ pflicht: false
 termine: 2025-01-10 10:00
 published: true
 dauer: 300
-raum: zoom-fd
+raum: vor-ort-w
 info: 
 ---
 

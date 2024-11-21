@@ -8,7 +8,7 @@ termine: 2024-11-29 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: vor-ort-ferchau
+raum: vor-ort-w
 anzahl: 40 Teilnehmer
 info:
 ---

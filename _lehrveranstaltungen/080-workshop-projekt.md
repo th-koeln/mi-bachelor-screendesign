@@ -8,7 +8,7 @@ termine: 2024-12-06 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: zoom-fd
+raum: vor-ort-w
 info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
 

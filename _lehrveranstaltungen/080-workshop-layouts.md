@@ -8,7 +8,7 @@ termine: 2024-12-13 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 300
-raum: vor-ort-ferchau
+raum: vor-ort-w
 info: 
 ---
 
