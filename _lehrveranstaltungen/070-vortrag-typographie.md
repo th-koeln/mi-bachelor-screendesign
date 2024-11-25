@@ -26,9 +26,8 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [Clevere Typografie macht Spaß Poster](https://www.cleverprinting.de/das-kostenlose-cleverprinting-typoposter/)
 
 ## Typo Games & Tools
-- [Shape Game](https://shape.method.ac/)
 - [Kerning Game](https://type.method.ac/)
+- [Shape Game](https://shape.method.ac/)
 - [Shot the Serif](https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/)
-- [TypeWar](http://typewar.com/)
 - [Rag Game](https://fathom.info/ragtime/game.html)
 - [Type Terms](https://www.supremo.co.uk/typeterms/)
