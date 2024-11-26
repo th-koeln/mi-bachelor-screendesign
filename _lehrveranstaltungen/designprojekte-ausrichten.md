@@ -33,7 +33,7 @@ Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 - Welche Probleme oder Beschwerden gibt es mit dem aktuellen Design?
 - Welche Ziele verfolgt das Unternehmen oder der Auftraggeber mit dem Redesign?
 
-### Zielgruppena
+### Zielgruppen
 - Wer sind die Nutzer:innen? Gibt es Primär- und Sekundärzielgruppen?
 - Welche Bedürfnisse, Erwartungen und Verhaltensweisen haben sie?
 - Welche Probleme erleben sie aktuell mit dem bestehenden Design?
