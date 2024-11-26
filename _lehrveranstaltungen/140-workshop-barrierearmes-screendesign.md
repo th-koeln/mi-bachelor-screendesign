@@ -1,14 +1,14 @@
 ---
 titel: Barrierearmes Screendesign
 kuerzel: w-fat
-verantwortlich: nk
+verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-01-24 10:00
+termine: 2025-01-24 09:30
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
-dauer: 240
-raum: vor-ort-ferchau
+dauer: 120
+raum: vor-ort-v
 info: 
 ---
 

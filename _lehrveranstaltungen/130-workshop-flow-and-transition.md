@@ -4,11 +4,11 @@ kuerzel: w-fat
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-01-17 10:00
+termine: 2025-01-24 12:30
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
-dauer: 240
-raum: 3.217
+dauer: 180
+raum: vor-ort-v
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 ---
 

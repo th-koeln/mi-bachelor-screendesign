@@ -4,11 +4,11 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-12-13 10:00
+termine: 2025-01-17 09:30
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 300
-raum: vor-ort-w
+raum: vor-ort-v
 info: 
 ---
 

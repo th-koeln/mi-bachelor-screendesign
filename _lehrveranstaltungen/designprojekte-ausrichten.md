@@ -4,28 +4,85 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-01-10 10:00
+termine: 2024-12-13 10:00
 published: true
 dauer: 300
-raum: vor-ort-w
+raum: vor-ort-v
 info: 
 ---
 
 
 
 ## Worum geht es?
-Welche Fragen sollten wir uns am Anfang eines Designprojekts stellen und wie können wir das Projekt aufsetzen. Dabei lernen/ nutzen wir unter anderem folgende Techniken und Methoden:
-- Moodboards
-- User Stories
-- User Journey
-- Content Inventory
-- Persona
-- Marken Persona
+Heute legen wir den Grundstein für erfolgreiche Screendesign-Projekte. Die Startphase ist entscheidend: Hier bestimmen wir nicht nur, was wir gestalten, sondern auch, warum und für wen.
+
+Wir analysieren gemeinsam, welche Ziele wir verfolgen, welche Probleme gelöst werden sollen und wie wir diese mit durchdachten Konzepten und klarer Ausrichtung angehen können. Dabei nutzen wir bewährte Methoden und Techniken, um Nutzerbedürfnisse, Projektanforderungen und kreative Visionen in Einklang zu bringen.
+
+Am Ende des Workshops habt ihr eine solide Basis, um euer Designprojekt selbstbewusst zu starten – mit klaren Zielen, einem durchdachten Konzept und einem Team, das in die gleiche Richtung blickt.
+
+Packen wir es an! 😊
 
 Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 
+## Themen, Tools und Methoden
+
+
+
+### Problemverständnis
+- Was genau soll durch das Redesign verbessert werden? (Usability, Ästhetik, Performance?)
+- Welche Probleme oder Beschwerden gibt es mit dem aktuellen Design?
+- Welche Ziele verfolgt das Unternehmen oder der Auftraggeber mit dem Redesign?
+
+### Zielgruppena
+- Wer sind die Nutzer:innen? Gibt es Primär- und Sekundärzielgruppen?
+- Welche Bedürfnisse, Erwartungen und Verhaltensweisen haben sie?
+- Welche Probleme erleben sie aktuell mit dem bestehenden Design?
+
+### Wettbewerb und Kontext
+- Wie sieht der Wettbewerb aus? Was machen andere gut oder schlecht?
+- Welche Trends und Standards existieren in der Branche?
+- Gibt es spezifische Einschränkungen, wie z.B. technische Plattformen oder Designsysteme?
+
+### Vision und Erfolgskriterien
+- Wie sieht "Erfolg" für das Redesign aus? Welche KPIs oder qualitativen Ziele gibt es?
+- Welche Werte, Botschaften oder Emotionen soll das Design vermitteln?
+- Was darf auf keinen Fall verloren gehen?
+
+### Techniken und Methoden
+1. **Stakeholder Interviews:** Um Geschäftsziele und Erwartungen zu verstehen.
+2. **User Research:** Nutzerinterviews, Usability-Tests, Personas und User Journeys erstellen.
+3. **Content Audit:** Überblick über bestehende Inhalte schaffen – was ist relevant, was veraltet?
+4. **Competitive Benchmarking:** Vergleich mit Konkurrenzprodukten.
+5. **Heuristische Evaluation:** Kritische Bewertung des aktuellen Designs basierend auf UX-Prinzipien.
+6. **Design Thinking:** Problemdefinition, Brainstorming, Prototyping und Testing.
+
+### Ziele der ersten Phase:
+#### Ein gemeinsames Verständnis schaffen
+   - Was ist das Problem?
+   - Wer ist die Zielgruppe?
+   - Wie definieren wir Erfolg?
+
+#### Anforderungen und Prioritäten
+   - **Muss- und Kann-Anforderungen** formulieren.
+   - Erste Feature-Ideen oder Design-Schwerpunkte identifizieren.
+
+####  Risiken minimieren
+   - Frühzeitig Annahmen testen (z.B. durch Nutzerinterviews oder Prototypen).
+
+#### Inspiration und Grundlagen sammeln
+   - Moodboards, Stilrichtlinien und erste Designideen erstellen.
+
+### **Artefakte der ersten Phase:**
+- **Stakeholder- und User Insights:** Dokumentation der wichtigsten Erkenntnisse aus Interviews und Research.
+- **Personas und User Journeys:** Visuelle Darstellungen der Zielgruppen und ihrer Bedürfnisse.
+- **Content Audit und Feature-Liste:** Struktur und Elemente des Produkts klar erfassen.
+- **Moodboard und Inspirationssammlung:** Visuelle und konzeptionelle Orientierung.
+- **Problemdefinition und Zielbeschreibung:** Klar formulierter Projektauftrag (Design Brief).
+
+
 ## Arbeitsmaterial
 
+<!--
 - [Designreview](https://www.figma.com/file/VktRki0OH37o7wdRz73DAd/Designreview-Vreunde?type=design&node-id=0%3A1&mode=design&t=7xs5hnrl3ei0MZ0m-1)
 - [Filedrop Ergebnisse](https://th-koeln.sciebo.de/s/pGhDupomo05QDDJ)
 - [Teamarbeit](https://miro.com/app/board/uXjVN7cJXpg=/?share_link_id=593770762700)
@@ -35,6 +92,7 @@ Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 - [Markenpersönlichkeit](https://miro.com/app/board/uXjVN6i1vVU=/?share_link_id=681778440505)
 - [Research](https://miro.com/app/board/uXjVN6hnIkA=/?share_link_id=338650701391)
 - [Look & Feel](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=564160660298)
+-->
 
 ## Further Readings
 - [Adjektive für Unternehmen und Projekte](http://www.online-marketing-txt.de/positive-adjektive-unternehmen)
