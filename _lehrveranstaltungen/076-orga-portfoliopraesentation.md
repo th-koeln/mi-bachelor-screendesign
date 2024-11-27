@@ -19,7 +19,7 @@ Heute werde zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschie
 
 ## Vorbereitung & Anmeldung
 
-Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) an. Die Slots beziehen sich den Anfangsbuchstaben ihres Nachnamens:
+Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=519767) an. Die Slots beziehen sich auf den Anfangsbuchstaben ihres Nachnamens:
 
 - Slot 1 – Raum 3.102: A – M (Anfangsbuchstabe des Nachnamens)
 - Slot 2 – Raum 3.108: N – Z (Anfangsbuchstabe des Nachnamens)
