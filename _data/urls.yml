@@ -56,6 +56,9 @@ vor-ort-ferchau:
 pruefung: 
   name: Raum 3.217
 
+portfolio-pruefung: 
+  name: Raum 3.102 und 3.108
+
 semesterprojekt:
   name: Projektaufgabe ws21/22
   url: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2021/

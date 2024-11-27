@@ -8,7 +8,7 @@ termine: 2024-12-06 13:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: vor-ort-w
+raum: vor-ort-v
 info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
 

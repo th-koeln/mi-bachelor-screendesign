@@ -26,8 +26,6 @@ Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 
 ## Themen, Tools und Methoden
 
-
-
 ### Problemverständnis
 - Was genau soll durch das Redesign verbessert werden? (Usability, Ästhetik, Performance?)
 - Welche Probleme oder Beschwerden gibt es mit dem aktuellen Design?
