@@ -20,6 +20,3 @@ Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus s
 
 -   [Typographie](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/) 
 
-## Upload
-
-Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **05.12.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.

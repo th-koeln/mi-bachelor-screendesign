@@ -13,7 +13,7 @@ Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund
 ## Grundrechte typografisch gestalten
 
 
-### Übung 1: Grundrechte inszenieren**  
+### Übung 1: Grundrechte inszenieren
 
 Wählen sie ein Grundrecht aus dem Grundgesetz (z.B. Artikel 1: "Die Würde des Menschen ist unantastbar"). Erstellen sie drei verschiedene typografische Entwürfe, die jeweils ein anderes Gefühl oder eine andere Perspektive zu diesem Grundrecht transportieren.  
   - **Variante 1**: Betonung von Klarheit und Ernsthaftigkeit (z. B. mit einer serifenbetonten Schrift).  
