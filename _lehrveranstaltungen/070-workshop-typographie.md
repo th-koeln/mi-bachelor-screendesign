@@ -18,7 +18,7 @@ Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus s
 
 ## Übungen
 
--   [Typographie](/mi-bachelor-screendesign/assignments/basics-typographie/) 
+-   [Typographie](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/) 
 
 ## Upload
 

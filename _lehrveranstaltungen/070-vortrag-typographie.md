@@ -24,6 +24,7 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [Typography on screens](https://m3.material.io/styles/typography/applying-type)
 - [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
 - [Clevere Typografie macht Spaß Poster](https://www.cleverprinting.de/das-kostenlose-cleverprinting-typoposter/)
+- [Die 10 Gebote der Typographie](https://designbote.com/die-10-gebote-der-typographie/)
 
 ## Typo Games & Tools
 - [Kerning Game](https://type.method.ac/)

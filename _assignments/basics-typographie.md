@@ -3,7 +3,7 @@ titel: Typographie und Schriftsatz
 tags: 
     - Basics
     - Typographie
-published: true
+published: false
 ---
 
 Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund bekommen Sie in den zugehörigen Workshops/ Inputs.
