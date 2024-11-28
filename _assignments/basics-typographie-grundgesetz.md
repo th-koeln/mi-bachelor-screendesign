@@ -49,7 +49,7 @@ Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias h
 `sd-aufgabe-typo-2.2-NACHNAME.png` \
 `sd-aufgabe-typo-2.2-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-2.3-NACHNAME.png` \
-`sd-aufgabe-typo-2.3-explanation-NACHNAME.png` \
+`sd-aufgabe-typo-2.3-explanation-NACHNAME.png`
 etc.
 
 ---
@@ -85,7 +85,7 @@ Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias h
 `sd-aufgabe-typo-4.2-NACHNAME.png` \
 `sd-aufgabe-typo-4.2-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-4.3-NACHNAME.png` \
-`sd-aufgabe-typo-4.3-explanation-NACHNAME.png` \
+`sd-aufgabe-typo-4.3-explanation-NACHNAME.png`
 
 <!--
 ## Typographie 1
