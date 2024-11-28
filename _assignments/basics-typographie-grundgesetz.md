@@ -6,7 +6,7 @@ tags:
 published: true
 ---
 
-Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund bekommen sie in den zugehörigen Workshops/ Inputs.
+Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund bekommen Sie in den zugehörigen Workshops/ Inputs.
 
 ---
 
@@ -15,14 +15,14 @@ Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund
 
 ### Übung 1: Grundrechte inszenieren
 
-Wählen sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des Menschen ist unantastbar». Erstellen sie drei verschiedene typografische Entwürfe, die jeweils ein anderes Gefühl oder eine andere Perspektive zu diesem Grundrecht transportieren.  
+Wählen Sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des Menschen ist unantastbar». Erstellen Sie drei verschiedene typografische Entwürfe, die jeweils ein anderes Gefühl oder eine andere Perspektive zu diesem Grundrecht transportieren.  
   - **Variante 1**: Betonung von Klarheit und Ernsthaftigkeit (z. B. mit einer serifenbetonten Schrift).  
   - **Variante 2**: Emotional, inspirierend und provokant (experimentelle Schriftarten, ungewöhnliche Kompositionen).  
   - **Variante 3**: Zeitgenössisch, reduziert, modern (Sans-Serif, minimalistisch).  
 
-Setzen sie den Text auf einer weißen Fläche in der Größe ihrer Wahl. Erläutern und begründen sie auf einer weiteren Fläche ihre gestalterischen Entscheidungen z.B. Schriftwahl, Komposition, Format, etc kurz.
+Setzen sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias hoch. Verwenden sie beim Dateinamen bitte die folgende Nomenklatur:
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-1.1-NACHNAME.png` \
 `sd-aufgabe-typo-1.1-explanation-NACHNAME.png` \
@@ -36,13 +36,13 @@ Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias h
 
 ### Übung 2: Textsatz im Kontext
 
-Nehmen sie einen der Entwürfe aus Übung 1 und setzen sie ihn auf drei verschiedene Device Formate (z.B. Desktop, iPad Pro, iPad Mini).  
-- Ergänzen sie die Arbeitsflächen mit einem erklärenden Fließtext, der das gewählte Grundrecht interpretiert oder hinterfragt.  (etwa 200 Worte)
-- Variieren sie die Textausrichtung und -komposition zwischen den Formaten ohne das Grundlayout zu verlieren. Erzeugen sie mindestens drei Varianten.
+Nehmen Sie einen der Entwürfe aus Übung 1 und setzen Sie ihn auf drei verschiedene Device Formate (z.B. Desktop, iPad Pro, iPad Mini).  
+- Ergänzen Sie die Arbeitsflächen mit einem erklärenden Fließtext, der das gewählte Grundrecht interpretiert oder hinterfragt. (etwa 200 Worte)
+- Variieren Sie die Textausrichtung und -komposition zwischen den Formaten, ohne das Grundlayout zu verlieren. Erzeugen Sie mindestens drei Varianten.
 
-Erläutern und begründen sie auf einer weiteren Fläche ihre gestalterischen Entscheidungen z.B. Schriftwahl, Komposition, Format, etc kurz.
+Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias hoch. Verwenden sie beim Dateinamen bitte die folgende Nomenklatur:
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-2.1-NACHNAME.png` \
 `sd-aufgabe-typo-2.1-explanation-NACHNAME.png` \
@@ -56,11 +56,11 @@ etc.
 
 ### Übung 3: Fragmentierte Rechte
 
-Wählen sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten…». Zerlegen sie diesen Artikel in einzelne Worte oder kurze Wortgruppen und setzen sie diese auf einer Fläche mit der Größe ihrer Wahl. Gestalten sie den Text zunächst **chaotisch**, als ob die Worte *auseinandergerissen* wären. Experimentieren sie mit überlappenden Texten, verzerrten Schriftarten oder ungewöhnlichen Lesereihenfolgen. Im nächsten Schritt bringen sie Ordnung in das Chaos: Entwickeln sie eine klar strukturierte Komposition, die das gleiche Zitat zeigt, aber lesbar, harmonisch und ruhig wirkt.
+Wählen Sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten…». Zerlegen Sie diesen Artikel in einzelne Worte oder kurze Wortgruppen und setzen Sie diese auf einer Fläche mit der Größe ihrer Wahl. Gestalten Sie den Text zunächst **chaotisch**, als ob die Worte *auseinandergerissen* wären. Experimentieren Sie mit überlappenden Texten, verzerrten Schriftarten oder ungewöhnlichen Lesereihenfolgen. Im nächsten Schritt bringen Sie Ordnung in das Chaos: Entwickeln Sie eine klar strukturierte Komposition, die das gleiche Zitat zeigt, aber lesbar, harmonisch und ruhig wirkt.
 
-Erzeugen sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen sie auf einer weiteren Fläche ihre gestalterischen Entscheidungen z.B. Schriftwahl, Komposition, Format, etc kurz.
+Erzeugen Sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias hoch. Verwenden sie beim Dateinamen bitte die folgende Nomenklatur:
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-3.1-NACHNAME.png` \
 `sd-aufgabe-typo-3.1-explanation-NACHNAME.png` \
@@ -74,11 +74,11 @@ Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias h
 
 ### Übung 4: Typographie als Protest
 
-Setzen sie einen Artikel oder ein Grundrecht so um, als wäre es Teil einer Protestbewegung. Wählen sie Schriften und Kompositionen, die eine klare Haltung vermitteln z.B. laut und rebellisch, sachlich, subtil und reflektiert. Kombinieren sie Text mit grafischen Elementen (Farben, Linien, Flächen) und gestalten sie eine digitale Protestkarte oder ein Social-Media-Banner. Beschränken sie sich auf eine Farbpalette von Schwarz, Weiß und einer Akzentfarbe, um eine starke Wirkung zu erzielen.  
+Setzen Sie einen Artikel oder ein Grundrecht so um, als wäre es Teil einer Protestbewegung. Wählen Sie Schriften und Kompositionen, die eine klare Haltung vermitteln z.B. laut und rebellisch, sachlich, subtil und reflektiert. Kombinieren Sie Text mit grafischen Elementen (Farben, Linien, Flächen) und gestalten Sie eine digitale Protestkarte oder einen Social-Media-Banner. Beschränken Sie sich auf eine Farbpalette von Schwarz, Weiß und einer Akzentfarbe, um eine starke Wirkung zu erzielen.  
 
-Erzeugen sie mindestens vier Varianten. Erläutern und begründen sie auf einer weiteren Fläche ihre gestalterischen Entscheidungen z.B. Schriftwahl, Komposition, Format, etc kurz.
+Erzeugen Sie mindestens vier Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias hoch. Verwenden sie beim Dateinamen bitte die folgende Nomenklatur:
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-4.1-NACHNAME.png` \
 `sd-aufgabe-typo-4.1-explanation-NACHNAME.png` \
