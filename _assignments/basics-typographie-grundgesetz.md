@@ -15,7 +15,7 @@ Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund
 
 ### Übung 1: Grundrechte inszenieren
 
-Wählen sie ein Grundrecht aus dem Grundgesetz (z.B. Artikel 1: "Die Würde des Menschen ist unantastbar"). Erstellen sie drei verschiedene typografische Entwürfe, die jeweils ein anderes Gefühl oder eine andere Perspektive zu diesem Grundrecht transportieren.  
+Wählen sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des Menschen ist unantastbar». Erstellen sie drei verschiedene typografische Entwürfe, die jeweils ein anderes Gefühl oder eine andere Perspektive zu diesem Grundrecht transportieren.  
   - **Variante 1**: Betonung von Klarheit und Ernsthaftigkeit (z. B. mit einer serifenbetonten Schrift).  
   - **Variante 2**: Emotional, inspirierend und provokant (experimentelle Schriftarten, ungewöhnliche Kompositionen).  
   - **Variante 3**: Zeitgenössisch, reduziert, modern (Sans-Serif, minimalistisch).  
@@ -54,9 +54,9 @@ etc.
 
 ---
 
-### Übung 3: Fragmentierte Rechte**  
+### Übung 3: Fragmentierte Rechte
 
-Wählen sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 ("Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten …"). Zerlegen sie diesen Artikel in einzelne Worte oder kurze Wortgruppen und setzen sie diese auf einer Fläche mit der Größe ihrer Wahl. Gestalten sie den Text zunächst **chaotisch**, als ob die Worte *auseinandergerissen* wären. Experimentieren sie mit überlappenden Texten, verzerrten Schriftarten oder ungewöhnlichen Lesereihenfolgen. Im nächsten Schritt bringen sie Ordnung in das Chaos: Entwickeln sie eine klar strukturierte Komposition, die das gleiche Zitat zeigt, aber lesbar, harmonisch und ruhig wirkt.
+Wählen sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten…». Zerlegen sie diesen Artikel in einzelne Worte oder kurze Wortgruppen und setzen sie diese auf einer Fläche mit der Größe ihrer Wahl. Gestalten sie den Text zunächst **chaotisch**, als ob die Worte *auseinandergerissen* wären. Experimentieren sie mit überlappenden Texten, verzerrten Schriftarten oder ungewöhnlichen Lesereihenfolgen. Im nächsten Schritt bringen sie Ordnung in das Chaos: Entwickeln sie eine klar strukturierte Komposition, die das gleiche Zitat zeigt, aber lesbar, harmonisch und ruhig wirkt.
 
 Erzeugen sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen sie auf einer weiteren Fläche ihre gestalterischen Entscheidungen z.B. Schriftwahl, Komposition, Format, etc kurz.
 
@@ -67,14 +67,14 @@ Exportieren sie die Arbeitsflächen als PNGs (2x) und laden sie diese im Ilias h
 `sd-aufgabe-typo-3.2-NACHNAME.png` \
 `sd-aufgabe-typo-3.2-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-3.3-NACHNAME.png` \
-`sd-aufgabe-typo-3.3-explanation-NACHNAME.png` \
+`sd-aufgabe-typo-3.3-explanation-NACHNAME.png`
 
 
 ---
 
-#### Übung 4: Typographie als Protest**  
+### Übung 4: Typographie als Protest
 
-Setzen sie einen Artikel oder ein Grundrecht so um, als wäre es Teil einer Protestbewegung. Wählen sie Schriften und Kompositionen, die eine klare Haltung vermitteln (z.B. laut und rebellisch, subtil und reflektiert. Kombinieren sie Text mit grafischen Elementen (Farben, Linien, Flächen) und gestalten sie eine digitale Protestkarte oder ein Social-Media-Banner. Beschränken sie sich auf eine Farbpalette von Schwarz, Weiß und einer Akzentfarbe, um eine starke Wirkung zu erzielen.  
+Setzen sie einen Artikel oder ein Grundrecht so um, als wäre es Teil einer Protestbewegung. Wählen sie Schriften und Kompositionen, die eine klare Haltung vermitteln z.B. laut und rebellisch, sachlich, subtil und reflektiert. Kombinieren sie Text mit grafischen Elementen (Farben, Linien, Flächen) und gestalten sie eine digitale Protestkarte oder ein Social-Media-Banner. Beschränken sie sich auf eine Farbpalette von Schwarz, Weiß und einer Akzentfarbe, um eine starke Wirkung zu erzielen.  
 
 Erzeugen sie mindestens vier Varianten. Erläutern und begründen sie auf einer weiteren Fläche ihre gestalterischen Entscheidungen z.B. Schriftwahl, Komposition, Format, etc kurz.
 
