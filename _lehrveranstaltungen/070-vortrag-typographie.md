@@ -8,7 +8,7 @@ termine: 2024-11-29 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: vor-ort-ferchau
+raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
 ---
 
