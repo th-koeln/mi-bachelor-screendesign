@@ -15,7 +15,7 @@ info: Dies ist ein Pflichttermin. Die Anwesenheit ist für das Bestehen des Modu
 
 ## Worum geht es?
 
-Heute werde zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschieht parallel in zwei Gruppen. Präsentiert werden zwei Arbeiten, die im Rahmen der Übungen gemacht wurden. Die Vorstellung erfolgt über ihren Rechner. Bei technischen Problemen stehen wir mit unseren Rechnern zur Verfügung.
+Heute werden zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschieht parallel in drei Slots. Präsentiert werden zwei Arbeiten, die im Rahmen der Übungen gemacht wurden. Die Vorstellung erfolgt über unseren Rechner. 
 
 ## Vorbereitung & Anmeldung
 
