@@ -4,10 +4,10 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2024-12-06 13:00
+termine: 2024-12-06 13:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 150
+dauer: 120
 raum: vor-ort-v
 info: Das Projekt für dieses Jahr wird vorgestellt.
 ---
