@@ -19,12 +19,27 @@ Heute werde zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschie
 
 ## Vorbereitung & Anmeldung
 
-Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=519767) an. Die Slots beziehen sich auf den Anfangsbuchstaben ihres Nachnamens:
+Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=519767) an. 
 
-- Slot 1 – Raum 3.102: A – M (Anfangsbuchstabe des Nachnamens)
-- Slot 2 – Raum 3.108: N – Z (Anfangsbuchstabe des Nachnamens)
+Wir mussten leider noch mal etwas umorganisieren. Wir haben jetzt drei paralelle Slots:
 
-Pro Termin sind nur 40 Studierende möglich. Weitere Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](../../gestaltungsportfolio/).
+<div class="columns">
+
+<div class="column">
+![Slot 1](../../images/Pruefung-Gestaltungsportfolio-1.webp "Slot 1")
+</div>
+<div class="column">
+![Slot 2](../../images/Pruefung-Gestaltungsportfolio-2.webp "Slot 2")
+</div>
+<div class="column">
+![Slot 3](../../images/Pruefung-Gestaltungsportfolio-3.webp "Slot 3")
+</div>
+</div>
+
+
+
+
+Weitere Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](../../gestaltungsportfolio/).
 
 ## Weitere Informationen
 
