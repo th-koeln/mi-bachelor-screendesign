@@ -20,8 +20,10 @@ Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektk
 - Evaluation Screendesign
 - Vorstellung Projekt
 
+
 ## Material
 - [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2024/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+- [Upload für Fotos von Boards vom Briefing Review](https://th-koeln.sciebo.de/s/OSr1r9LzESdNXwq)
 
