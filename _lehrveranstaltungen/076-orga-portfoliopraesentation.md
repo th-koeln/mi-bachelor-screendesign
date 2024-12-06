@@ -21,20 +21,7 @@ Heute werden zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschi
 
 Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=519767) an. 
 
-Wir mussten leider noch mal etwas umorganisieren. Wir haben jetzt drei paralelle Slots:
 
-<div class="columns">
-
-<div class="column">
-![Slot 1](../../images/Pruefung-Gestaltungsportfolio-1.webp "Slot 1")
-</div>
-<div class="column">
-![Slot 2](../../images/Pruefung-Gestaltungsportfolio-2.webp "Slot 2")
-</div>
-<div class="column">
-![Slot 3](../../images/Pruefung-Gestaltungsportfolio-3.webp "Slot 3")
-</div>
-</div>
 
 
 
