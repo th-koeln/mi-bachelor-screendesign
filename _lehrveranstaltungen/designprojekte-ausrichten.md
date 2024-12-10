@@ -11,6 +11,8 @@ raum: vor-ort-v
 info: 
 ---
 
+## Baaaaarcamp
+Wo bleiben die Studierenden? [Jetzt anmelden!](https://miro.com/app/board/uXjVLGMz2Ko=/)
 
 
 ## Worum geht es?
@@ -54,8 +56,8 @@ Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 5. **Heuristische Evaluation:** Kritische Bewertung des aktuellen Designs basierend auf UX-Prinzipien.
 6. **Design Thinking:** Problemdefinition, Brainstorming, Prototyping und Testing.
 
-### Ziele der ersten Phase:
-#### Ein gemeinsames Verständnis schaffen
+## Ziele der ersten Phase:
+### Ein gemeinsames Verständnis schaffen
    - Was ist das Problem?
    - Wer ist die Zielgruppe?
    - Wie definieren wir Erfolg?
@@ -79,6 +81,8 @@ Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 
 
 ## Arbeitsmaterial
+- [Personas](https://miro.com/app/board/uXjVN6jJnvc=/?share_link_id=564177065479)
+
 
 <!--
 - [Designreview](https://www.figma.com/file/VktRki0OH37o7wdRz73DAd/Designreview-Vreunde?type=design&node-id=0%3A1&mode=design&t=7xs5hnrl3ei0MZ0m-1)

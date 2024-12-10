@@ -18,3 +18,21 @@
 .nav-left, .nav-right{
   flex-basis: auto;
 }
+
+.modulbeschreibung{
+	.container{
+		.content{
+			*{
+				max-width: 50em;
+			}
+			
+		}
+	}
+}
+
+.is-medium{
+	*{
+		font-size: 1.4rem !important;
+		max-width: 60rem;;
+	}
+}
