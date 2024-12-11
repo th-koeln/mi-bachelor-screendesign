@@ -1,7 +1,7 @@
 ---
-titel: Stakeholder Analyse
+titel: 🤼 Stakeholder Analyse
 tags: Analyse
-
+raum: 3.218
 published: true
 ---
 

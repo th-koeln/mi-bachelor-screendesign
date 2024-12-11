@@ -1,12 +1,13 @@
 ---
 titel: Rebriefing und ästhetischen sowie funktionalen Rahmen setzen mit Adjektiven & Polaritätsprofil
 tags: Analyse
-
+raum: 3.247
+icon: 🎯
 published: true
 ---
 
 
-****Ziel des Workshops ist es, ein gemeinsames Verständnis der Projektziele und Anforderungen zu schaffen (Rebriefing) und darauf aufbauend den ästhetischen und funktionalen Rahmen des Projekts klar zu definieren. Durch die Sammlung von Adjektiven und die Erstellung eines Polaritätsprofils sollen Leitlinien entwickelt werden, die sowohl die gestalterische als auch die funktionale Ausrichtung präzisieren. Dies ermöglicht es, eine konsistente Grundlage für Designentscheidungen und die weitere Projektarbeit zu schaffen.**
+**Ziel des Workshops ist es, ein gemeinsames Verständnis der Projektziele und Anforderungen zu schaffen (Rebriefing) und darauf aufbauend den ästhetischen und funktionalen Rahmen des Projekts klar zu definieren. Durch die Sammlung von Adjektiven und die Erstellung eines Polaritätsprofils sollen Leitlinien entwickelt werden, die sowohl die gestalterische als auch die funktionale Ausrichtung präzisieren. Dies ermöglicht es, eine konsistente Grundlage für Designentscheidungen und die weitere Projektarbeit zu schaffen.**
 
 
 

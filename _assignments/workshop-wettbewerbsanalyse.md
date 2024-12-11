@@ -1,7 +1,8 @@
 ---
 titel: Wettbewerbsanalyse & Inspirationssuche
 tags: Analyse
-
+raum: 3.218
+icon: 🏃🏽
 published: true
 ---
 
@@ -26,7 +27,7 @@ Nachdem die relevanten Wettbewerber definiert wurden, analysieren Sie deren Inha
 Im nächsten Schritt suchen Sie gezielt nach kreativen oder innovativen Ansätzen, die Sie inspirieren können. Dabei gehen Sie über die direkte Konkurrenz hinaus und berücksichtigen Beispiele aus anderen Bereichen. Sie suchen nach besonders gelungenen Designs, interaktiven Elementen oder innovativen Wegen, Zielgruppen anzusprechen. In der Gruppe reflektieren Sie, welche Ideen besonders vielversprechend sind und wie sie sich auf Ihr Projekt übertragen lassen. Alle Ergebnisse werden gesammelt und dokumentiert.
 
 
-## Schritt 3: Zusammenfassung & Learnings
+## Schritt 4: Zusammenfassung & Learnings
 
 Zum Abschluss reflektieren Sie die Ergebnisse Ihrer Wettbewerbsanalyse und die gesammelten Inspirationen. Sie diskutieren, welche Ansätze am besten auf das Cranach Digital Archive angewendet werden könnten. 
 

@@ -16,17 +16,53 @@ Wo bleiben die Studierenden? [Jetzt anmelden!](https://miro.com/app/board/uXjVLG
 
 
 ## Worum geht es?
-Heute legen wir den Grundstein für erfolgreiche Screendesign-Projekte. Die Startphase ist entscheidend: Hier bestimmen wir nicht nur, was wir gestalten, sondern auch, warum und für wen.
 
-Wir analysieren gemeinsam, welche Ziele wir verfolgen, welche Probleme gelöst werden sollen und wie wir diese mit durchdachten Konzepten und klarer Ausrichtung angehen können. Dabei nutzen wir bewährte Methoden und Techniken, um Nutzerbedürfnisse, Projektanforderungen und kreative Visionen in Einklang zu bringen.
+Heute legen wir gemeinsam den Grundstein für erfolgreiche Screendesign-Projekte. Die Startphase ist dabei entscheidend: Hier definieren wir nicht nur, was wir gestalten wollen, sondern auch, warum und für wen. Gemeinsam analysieren wir, welche Ziele wir verfolgen, welche Herausforderungen wir lösen möchten und wie wir diese mit durchdachten Konzepten und klarer Ausrichtung angehen können. Wir nutzen verschiedene Methoden und Techniken, um Nutzerbedürfnisse, Projektanforderungen und kreative Visionen in Einklang zu bringen. 
 
-Am Ende des Workshops habt ihr eine solide Basis, um euer Designprojekt selbstbewusst zu starten – mit klaren Zielen, einem durchdachten Konzept und einem Team, das in die gleiche Richtung blickt.
+Am Ende des Workshops haben wir eine solide Grundlage geschaffen, um unser Designprojekt selbstbewusst zu starten – mit klaren Zielen, einem strukturierten Konzept und einem Team, das in die gleiche Richtung arbeitet. Zusätzlich entwickeln wir einige Ideen, um unsere Projektarbeit im Team effizient und kreativ zu gestalten.
 
-Packen wir es an! 😊
+Los geht's! 💪🏽
 
-Dazu kommen ein paar Ideen für die Projektarbeit im Team.
+## Ablauf
 
-## Themen, Tools und Methoden
+| Zeit | Raum | Programmpunkt |
+|:=====|:=====|:==============|
+|10:00|3.102|Einführung und Auftrag|
+|ca. 10:45|Workshop Räume| Themenworkshops|
+|14:00|3.102|Vorstellung der Ergebnisse|
+
+
+## Themen & Bereiche
+
+
+### Flight 1 – Teamarbeit & Projektorganisation
+- [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/)
+
+### Flight 2 – Zielbild & Rebriefing // 3.247
+- [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/)
+
+### Flight 3 – Wettbewerb & Inspiration
+- [Wettbewerbsanalyse & Inspirationssuche](/mi-bachelor-screendesign/assignments/workshop-wettbewerbsanalyse/)
+
+### Flight 4 – Content & Layout
+- [Content Audit](/mi-bachelor-screendesign/assignments/workshop-content-audit/)
+- [Layout Analyse](/mi-bachelor-screendesign/assignments/workshop-layoutanalyse/)
+- [Navigationsanalyse](/mi-bachelor-screendesign/assignments/workshop-navigationsanalyse/)
+
+### Flight 5 – Zielgruppen & Nutzer:innen
+- [Stakeholder Analyse](/mi-bachelor-screendesign/assignments/workshop-stakeholderanalyse/)
+- [Proto Personas](/mi-bachelor-screendesign/assignments/workshop-personas/)
+- [Nutzer:innen-Interviews (als Rollenspiel oder mit KI)](/mi-bachelor-screendesign/assignments/workshop-nutzerinnen-interviews/)
+
+### Flight 6 – gerichtete Inspiration
+- [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/)
+
+
+
+
+
+
+<!--
 
 ### Problemverständnis
 - Was genau soll durch das Redesign verbessert werden? (Usability, Ästhetik, Performance?)
@@ -84,7 +120,7 @@ Dazu kommen ein paar Ideen für die Projektarbeit im Team.
 - [Personas](https://miro.com/app/board/uXjVN6jJnvc=/?share_link_id=564177065479)
 
 
-<!--
+
 - [Designreview](https://www.figma.com/file/VktRki0OH37o7wdRz73DAd/Designreview-Vreunde?type=design&node-id=0%3A1&mode=design&t=7xs5hnrl3ei0MZ0m-1)
 - [Filedrop Ergebnisse](https://th-koeln.sciebo.de/s/pGhDupomo05QDDJ)
 - [Teamarbeit](https://miro.com/app/board/uXjVN7cJXpg=/?share_link_id=593770762700)

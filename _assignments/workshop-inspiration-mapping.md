@@ -6,7 +6,7 @@ published: true
 ---
 
 
-****Ziel des Workshops ist es, die zuvor gesammelten Inspirationen sowie das erstellte Polaritätsprofil zu nutzen, um ein visuelles und inhaltliches Inspiration Mapping zu erstellen. Dieses Mapping dient dazu, konkrete Design- und Konzeptideen für das Projekt abzuleiten. Sie arbeiten daran, Inspirationsquellen systematisch zu analysieren, in Kategorien zu ordnen und auf ihre Relevanz für die definierten ästhetischen und funktionalen Leitlinien zu prüfen. Die Moderation gibt Ihnen eine kurze Einführung in die Methode und den Ablauf des Workshops.**
+**Ziel des Workshops ist es, die zuvor gesammelten Inspirationen sowie das erstellte Polaritätsprofil zu nutzen, um ein visuelles und inhaltliches Inspiration Mapping zu erstellen. Dieses Mapping dient dazu, konkrete Design- und Konzeptideen für das Projekt abzuleiten. Sie arbeiten daran, Inspirationsquellen systematisch zu analysieren, in Kategorien zu ordnen und auf ihre Relevanz für die definierten ästhetischen und funktionalen Leitlinien zu prüfen. Die Moderation gibt Ihnen eine kurze Einführung in die Methode und den Ablauf des Workshops.**
 
 
 

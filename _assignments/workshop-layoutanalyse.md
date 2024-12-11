@@ -1,7 +1,8 @@
 ---
 titel: Layout Analyse
 tags: Analyse
-
+raum: 3.104
+icon: 💻
 published: true
 ---
 

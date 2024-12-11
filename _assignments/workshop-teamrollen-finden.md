@@ -1,7 +1,8 @@
 ---
 titel: Teamrollen finden & Teamregeln festlegen
 tags: Teamarbeit
-
+icon: 🎯
+raum: 3.247
 published: true
 ---
 

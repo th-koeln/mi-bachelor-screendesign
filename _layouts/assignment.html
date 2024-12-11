@@ -7,7 +7,7 @@ layout: reduced
     <div class="content is-large">
       <div class="columns">
         <div class="column is-8">
-          <h1>{{ page.titel }}</h1>
+          <h1>{% if page.icon %}<span class="large-icon">{{page.icon}}</span> {% endif %}{{ page.titel }}{% if page.raum %} | Raum {{page.raum}}{% endif %}</h1>
         </div>
         <div class="column is-4 has-text-right">
           <a target="_blank" href="{{site.editbase}}{{ page.path }}"><span
