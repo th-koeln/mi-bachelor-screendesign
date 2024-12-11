@@ -1,7 +1,8 @@
 ---
 titel: Navigationsanalyse
 tags: Analyse
-
+raum: 3.217
+icon: 🩺
 published: true
 ---
 

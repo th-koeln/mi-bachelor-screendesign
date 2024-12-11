@@ -1,7 +1,8 @@
 ---
 titel: 🤼 Stakeholder Analyse
 tags: Analyse
-raum: 3.218
+raum: 3.208
+icon: 🎨
 published: true
 ---
 

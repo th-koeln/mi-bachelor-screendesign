@@ -1,7 +1,7 @@
 ---
 titel: Rebriefing und ästhetischen sowie funktionalen Rahmen setzen mit Adjektiven & Polaritätsprofil
 tags: Analyse
-raum: 3.247
+raum: 3.203
 icon: 🎯
 published: true
 ---

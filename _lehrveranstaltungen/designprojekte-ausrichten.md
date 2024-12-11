@@ -11,7 +11,7 @@ raum: vor-ort-v
 info: 
 ---
 
-## Baaaaarcamp
+## [Baaaaarcamp](https://www.th-koeln.de/hochschule/barcamp-campus-gummersbach-2025_120700.php)
 Wo bleiben die Studierenden? [Jetzt anmelden!](https://miro.com/app/board/uXjVLGMz2Ko=/)
 
 
@@ -19,7 +19,7 @@ Wo bleiben die Studierenden? [Jetzt anmelden!](https://miro.com/app/board/uXjVLG
 
 Heute legen wir gemeinsam den Grundstein für erfolgreiche Screendesign-Projekte. Die Startphase ist dabei entscheidend: Hier definieren wir nicht nur, was wir gestalten wollen, sondern auch, warum und für wen. Gemeinsam analysieren wir, welche Ziele wir verfolgen, welche Herausforderungen wir lösen möchten und wie wir diese mit durchdachten Konzepten und klarer Ausrichtung angehen können. Wir nutzen verschiedene Methoden und Techniken, um Nutzerbedürfnisse, Projektanforderungen und kreative Visionen in Einklang zu bringen. 
 
-Am Ende des Workshops haben wir eine solide Grundlage geschaffen, um unser Designprojekt selbstbewusst zu starten – mit klaren Zielen, einem strukturierten Konzept und einem Team, das in die gleiche Richtung arbeitet. Zusätzlich entwickeln wir einige Ideen, um unsere Projektarbeit im Team effizient und kreativ zu gestalten.
+Am Ende des Workshops haben wir eine solide Grundlage geschaffen, um unser Designprojekt selbstbewusst zu starten – mit klaren Zielen, einem strukturierten Konzept und einem Team, das in die gleiche Richtung arbeitet.
 
 Los geht's! 💪🏽
 
@@ -35,27 +35,12 @@ Los geht's! 💪🏽
 ## Themen & Bereiche
 
 
-### Flight 1 – Teamarbeit & Projektorganisation
-- [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/)
-
-### Flight 2 – Zielbild & Rebriefing // 3.247
-- [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/)
-
-### Flight 3 – Wettbewerb & Inspiration
-- [Wettbewerbsanalyse & Inspirationssuche](/mi-bachelor-screendesign/assignments/workshop-wettbewerbsanalyse/)
-
-### Flight 4 – Content & Layout
-- [Content Audit](/mi-bachelor-screendesign/assignments/workshop-content-audit/)
-- [Layout Analyse](/mi-bachelor-screendesign/assignments/workshop-layoutanalyse/)
-- [Navigationsanalyse](/mi-bachelor-screendesign/assignments/workshop-navigationsanalyse/)
-
-### Flight 5 – Zielgruppen & Nutzer:innen
-- [Stakeholder Analyse](/mi-bachelor-screendesign/assignments/workshop-stakeholderanalyse/)
-- [Proto Personas](/mi-bachelor-screendesign/assignments/workshop-personas/)
-- [Nutzer:innen-Interviews (als Rollenspiel oder mit KI)](/mi-bachelor-screendesign/assignments/workshop-nutzerinnen-interviews/)
-
-### Flight 6 – gerichtete Inspiration
-- [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/)
+- Flight 1: [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/) // Raum 3.218
+- Flight 2: [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/) // Raum 3.203
+- Flight 3: [Wettbewerbsanalyse & Inspirationssuche](/mi-bachelor-screendesign/assignments/workshop-wettbewerbsanalyse/) // Raum 3.204
+- Flight 4: [Content Audit](/mi-bachelor-screendesign/assignments/workshop-content-audit/), [Layout Analyse](/mi-bachelor-screendesign/assignments/workshop-layoutanalyse/) & [Navigationsanalyse](/mi-bachelor-screendesign/assignments/workshop-navigationsanalyse/) // Raum 3.217
+- Flight 5: [Stakeholder Analyse](/mi-bachelor-screendesign/assignments/workshop-stakeholderanalyse/), [Proto Personas](/mi-bachelor-screendesign/assignments/workshop-personas/) & [Nutzer:innen-Interviews (als Rollenspiel oder mit KI)](/mi-bachelor-screendesign/assignments/workshop-nutzerinnen-interviews/) // Raum 3.208
+- Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // 3.203 & 3.204
 
 
 

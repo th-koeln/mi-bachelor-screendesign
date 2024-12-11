@@ -1,7 +1,7 @@
 ---
 titel: Wettbewerbsanalyse & Inspirationssuche
 tags: Analyse
-raum: 3.218
+raum: 3.204
 icon: 🏃🏽
 published: true
 ---
