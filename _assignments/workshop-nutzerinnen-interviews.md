@@ -40,5 +40,7 @@ Besprechen Sie die Ergebnisse in der Gruppe. Welche Muster und wiederkehrenden T
 
 Am Ende des Workshops haben Sie Einblicke in die Bedürfnisse und Herausforderungen der Zielgruppen gewonnen. Diese Erkenntnisse helfen Ihnen, konkrete und nutzerzentrierte Entscheidungen für das Redesign des Cranach Digital Archive zu treffen.
 
+[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=379133786535)
+
 </div>
 

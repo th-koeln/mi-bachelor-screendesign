@@ -40,6 +40,8 @@ Tragen Sie Ihre Entscheidungen und kurze Anmerkungen direkt in die zentrale Date
 
 Diskutieren Sie gemeinsam, welche Muster oder wiederkehrenden Themen Ihnen aufgefallen sind. Fassen Sie die wichtigsten Punkte und Erkenntnisse zusammen.
 
+[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
+
 </div>
 
 

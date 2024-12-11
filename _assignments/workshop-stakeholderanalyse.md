@@ -1,5 +1,5 @@
 ---
-titel: 🤼 Stakeholder Analyse
+titel: Stakeholder Analyse
 tags: Analyse
 raum: 3.208
 icon: 🎨
@@ -45,5 +45,7 @@ Abschließend diskutieren die zentralen Erkenntnisse und fassen die wichtigsten 
 ## Ergebnis
 
 Am Ende des Workshops haben Sie eine Übersicht über die relevanten Stakeholder:innen, deren Einfluss und Interessen. 
+
+[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=379133786535)
 
 </div>

@@ -40,5 +40,6 @@ Tragen Sie Ihre Bewertungen und Beobachtungen direkt in das Mapping oder eine er
 
 Diskutieren Sie die zentralen Erkenntnisse und dokumentieren Sie Muster oder Probleme, die Ihnen besonders aufgefallen sind, wie etwa inkonsistente Module oder schwer lesbare Inhalte.
 
+[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
 
 </div>

@@ -37,4 +37,7 @@ Zum Abschluss reflektieren Sie die Ergebnisse Ihrer Wettbewerbsanalyse und die g
 
 Am Ende des Workshops haben Sie passende Wettbewerber und Inspirationsquellen identifiziert, eine strukturierte Übersicht über deren Ansätze erstellt und relevante Ideen gesammelt. Diese Ergebnisse bilden eine Grundlage für die Weiterentwicklung des Cranach Digital Archive.
 
+[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL50PSag=/?share_link_id=913748163373)
+
+
 </div>

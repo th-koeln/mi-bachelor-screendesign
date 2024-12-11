@@ -43,7 +43,8 @@ Los geht's! 💪🏽
 - Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // 3.203 & 3.204
 
 
-
+## Material
+- [Räume](../../images/workshop-raeume.png)
 
 
 

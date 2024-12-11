@@ -44,4 +44,6 @@ Zum Abschluss diskutieren Sie das erstellte Inspiration Mapping und diskutieren 
 
 Am Ende des Workshops verfügen Sie über ein klar strukturiertes Inspiration Mapping, das die gesammelten Inspirationsquellen mit den ästhetischen und funktionalen Anforderungen Ihres Projekts verknüpft. Das Mapping dient als visuelle Orientierung und Inspirationsquelle für die weitere Entwicklung von Designkonzepten und Projektideen.
 
+[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL50PSag=/?share_link_id=913748163373)
+
 </div>

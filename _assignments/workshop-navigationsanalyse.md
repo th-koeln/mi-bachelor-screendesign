@@ -41,6 +41,8 @@ Fügen Sie Ihre Bewertungen und Beobachtungen direkt in das Dokument ein. Markie
 
 Diskutieren Sie die zentralen Erkenntnisse und fassen Sie die wichtigsten Punkte zusammen. Gemeinsam identifizieren Sie prioritäre Maßnahmen, wie etwa die Umstrukturierung bestimmter Navigationsbereiche oder die Überarbeitung von Begriffen.
 
+[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
+
 
 </div>
 
