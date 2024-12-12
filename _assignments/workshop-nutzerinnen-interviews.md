@@ -7,7 +7,7 @@ published: true
 ---
 
 
-**In diesem Workshop üben Sie, Nutzer:innen-Interviews durchzuführen, um sich gezielt auf die Bedürfnisse und Erwartungen der Zielgruppen des Cranach Digital Archive einzustellen. Dabei simulieren wir reale Interviews – entweder als Rollenspiel innerhalb der Gruppe oder durch den Einsatz künstlich modellierter Nutzer:innen (KI). Ziel ist es, herauszufinden, welche Herausforderungen und Wünsche Nutzer:innen haben, um diese Erkenntnisse für den Designprozess zu nutzen. Sie lernen die Struktur eines guten Interviews kennen und erhalten Tipps, wie Sie gezielt Informationen erfragen und dokumentieren.**
+**In diesem Workshop üben Sie, Nutzer:innen-Interviews durchzuführen, um sich gezielt auf die Bedürfnisse und Erwartungen der Zielgruppen des Cranach Digital Archive einzustellen. Dabei simulieren wir reale Interviews – entweder als Rollenspiel innerhalb der Gruppe oder durch den Einsatz künstlich modellierter Nutzer:innen (KI). Ziel ist es, herauszufinden, welche Herausforderungen und Wünsche Nutzer:innen haben, um diese Erkenntnisse für den Designprozess zu nutzen. So lernen Sie die Struktur eines guten Interviews kennen und erhalten Tipps, wie Sie gezielt Informationen erfragen und dokumentieren können.**
 
 
 
@@ -15,11 +15,10 @@ published: true
 
 ## Schritt 1: Vorbereitung auf das Interview
 
-Zuerst bereiten Sie sich auf die Interviews vor. Ich stelle Ihnen ein kurzes Nutzer:innen-Profil zur Verfügung, das die Zielgruppe beschreibt (z. B. Kunsthistoriker:in, Restaurator:in, Studierende). Basierend auf diesem Profil entwickeln Sie gemeinsam eine Liste von Fragen, die Sie in den Interviews verwenden können. Die Fragen sollten sich auf folgende Themen konzentrieren:  
-- Ziele und Erwartungen der Nutzer:innen.  
-- Herausforderungen bei der Nutzung digitaler Archive.  
-- Wünsche und Vorschläge für die Gestaltung und Inhalte.  
-
+Zuerst bereiten Sie sich auf die Interviews vor. Ich stelle Ihnen ein kurzes Nutzer:innen-Profil zur Verfügung, das die reale Zielgruppe beschreibt (z. B. Kunsthistoriker:in, Restaurator:in, Studierende). Basierend auf diesem Profil entwickeln Sie gemeinsam eine Liste von Fragen, die Sie in den Interviews verwenden können. Die Fragen sollten sich auf folgende Themen konzentrieren:  
+- Ziele und Erwartungen der Nutzer:innen
+- Herausforderungen bei der Nutzung digitaler Archive 
+- Wünsche und Vorschläge für die Gestaltung und Inhalte  
 Diese Fragen notieren Sie in einem übersichtlichen Dokument. Ziel ist es, konkrete und offene Fragen zu formulieren, die eine tiefere Einsicht in die Bedürfnisse der Zielgruppe ermöglichen.
 
 
@@ -34,7 +33,7 @@ Während der Interviews dokumentieren Sie wichtige Aussagen, Erkenntnisse und m�
 
 ## Schritt 3: Zusammenfassung & Learnings
 
-Besprechen Sie die Ergebnisse in der Gruppe. Welche Muster und wiederkehrenden Themen sind Ihnen aufgefallen? Welche überraschenden Erkenntnisse haben Sie gewonnen? Gemeinsam identifizieren Sie die zentralen Punkte, die im Designprozess berücksichtigt werden sollten.  
+Besprechen Sie die Ergebnisse in der Gruppe. Welche Muster und wiederkehrenden Themen sind Ihnen aufgefallen? Inwiefern unterscheiden sich die Ergebnisse von Ihren vorherigen Annahmen (Personas)? Welche überraschenden Erkenntnisse haben Sie gewonnen? Gemeinsam identifizieren Sie die zentralen Punkte, die im Designprozess berücksichtigt werden sollten. 
 
 ## Ergebnis
 

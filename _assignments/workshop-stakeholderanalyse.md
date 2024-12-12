@@ -19,7 +19,6 @@ Zu Beginn erarbeiten Sie eine Liste aller potenziellen Stakeholder:innen. Überl
 - Interne Beteiligte (z. B. Projektleitung, Teammitglieder).  
 - Externe Zielgruppen (z. B. Kunsthistoriker:innen, Restaurator:innen, Forschende).  
 - Institutionelle Partner:innen (z. B. Museen, Universitäten, Förderinstitutionen).  
-
 Die identifizierten Stakeholder:innen halten Sie übersichtlich fest, zum Beispiel in einer Tabelle oder auf einem Whiteboard.
 
 
@@ -30,16 +29,16 @@ Im nächsten Schritt bewerten Sie die identifizierten Stakeholder:innen anhand i
 1. Hohe Macht, hohes Interesse: Eng einbinden.  
 2. Hohe Macht, geringes Interesse: Auf dem Laufenden halten.  
 3. Geringe Macht, hohes Interesse: Informieren und einbeziehen.  
-4. Geringe Macht, geringes Interesse: Nur gelegentlich informieren.  
+4. Geringe Macht, geringes Interesse: Nur gelegentlich informieren. 
 
-Tragen Sie jede:n Stakeholder:in in die passende Kategorie ein. Diskutieren Sie dabei, welche Erwartungen und potenziellen Konflikte bestehen könnten. Halten Sie wichtige Erkenntnisse zu den Bedürfnissen und Einflussmöglichkeiten der Stakeholder:innen fest.
+Tragen Sie jede:n Stakeholder:in in die passende Kategorie ein. Diskutieren Sie dabei, welche Erwartungen und potenzielle Konflikte bestehen könnten. Halten Sie wichtige Erkenntnisse zu den Bedürfnissen und Einflussmöglichkeiten der Stakeholder:innen fest.
 
 
 ## Schritt 3: Strategien, Zusammenfassung & Learnings
 
 Zum Abschluss entwickeln Sie Strategien für den Umgang mit den Stakeholder:innen in den verschiedenen Kategorien. Überlegen Sie, wie Sie deren Erwartungen berücksichtigen, ihre Unterstützung sichern und mögliche Konflikte minimieren können. Die Strategien halten Sie stichpunktartig fest.  
 
-Abschließend diskutieren die zentralen Erkenntnisse und fassen die wichtigsten Punkte zusammen.
+Abschließend diskutieren Sie die zentralen Erkenntnisse und fassen die wichtigsten Punkte zusammen.
 
 
 ## Ergebnis

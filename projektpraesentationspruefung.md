@@ -11,10 +11,10 @@ titel: Informationen zur Screendesign Projektpräsentationsprüfung
 
 
 ### Zielsetzung der Vorstellung
-Mit der Präsentation stellen Sie Ihr Designkonzept vor und zeigen (uns als Prüfern), dass Sie in der Lage sind ihr Gestaltungskonzept fachlich zu argumentieren. Es geht hierbei nicht um Ihren persönlichen Geschmack, sondern das Erreichen von gestalterischen, kommunikativen und funktionalen Zielen im Sinne der [Projektaufgabe](/mi-bachelor-screendesign/projekt-2020/). Konsultieren Sie für eine detailierte Zielbeschreibung bitte die Seite [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen/).
+Mit der Präsentation stellen Sie Ihr Designkonzept vor und zeigen (uns als Prüfern), dass Sie in der Lage sind ihr Gestaltungskonzept fachlich zu argumentieren. Es geht hierbei nicht um Ihren persönlichen Geschmack, sondern das Erreichen von gestalterischen, kommunikativen und funktionalen Zielen im Sinne der [Projektaufgabe](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2024/). Konsultieren Sie für eine detailierte Zielbeschreibung bitte die Seite [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen/).
 
 ### Rahmenbedingungen für die Projektpräsentation
-Sie haben **10 Minuten** Zeit um Ihr Projekt vorzustellen. Darauf folgt eine 10 minütige Fragerunde. Sie müssen sich am Anfang der Prüfung mit Ihrer MultiCa ausweisen. Achten Sie bitte darauf, dass Sie im Team etwa gleiche Präsentations- bzw. Wortanteile haben.
+Sie haben **10 Minuten** Zeit, um Ihr Projekt vorzustellen. Darauf folgt eine 10-minütige Fragerunde. Sie müssen sich am Anfang der Prüfung mit Ihrer MultiCa ausweisen. Achten Sie bitte darauf, dass Sie im Team etwa gleiche Präsentations- bzw. Wortanteile haben.
 
 ## Tipps zur Präsentation und den Artefakten
 Hier ein paar Tipps und Hinweise zur Präsentation und den Artefakten. Es hilft ungemein, wenn Sie sich ernsthaft mit den [Niveaustufen](/mi-bachelor-screendesign/niveaustufen/) auseinandersetzen und prüfen, in wie weit Ihre Lösung zu der Stufe passt, die Sie erreichen möchten. Wir bewerten möglichst konsequent entlang dieser Stufen.
@@ -47,7 +47,7 @@ sd-noss-christian-schaefer-volker-ws1920/
 In Screendesign Präsentationen, aber auch in anderen Projektvorstellungen, wird sehr oft der Fehler gemacht, dass die Prüflinge ihren Entwurf beschreiben statt ihn zu begründen. Verfallen Sie also nicht in Beschreibungen im Stile von «… hier ist dieses oder jenes Element und dort ist das und da kann man klicken und es passiert dies oder das …», sondern machen Sie klar, was die Ziele, Konzepte und Gedanken hinter Ihrem Entwurf sind. Warum haben Sie die verschiedenen Elemente verwendet und warum wurden sie in der Art ausgestaltet und platziert, wie Sie es konkret gemacht haben?
 
 ### Design ist keine Geschmackssache
-Es geht weder bei dem Modul noch bei dem Projekt um Ihren persönlichen Geschmack (und auch nicht um meinen). Es geht vielmehr darum die Projektziele und den Projektkontext zu verstehen und eine Gestaltungslösung zu entwickeln, die im Rahmen des Projektkontextes funktioniert und auf die Projektziele einzahlt. Vermeiden Sie daher Begriffe und Floskeln wie: wir fanden, uns gefiel, etc. 
+Es geht weder bei dem Modul noch bei dem Projekt um Ihren persönlichen Geschmack (und auch nicht um meinen). Es geht vielmehr darum, die Projektziele und den Projektkontext zu verstehen und eine Gestaltungslösung zu entwickeln, die im Rahmen des Projektkontextes funktioniert und auf die Projektziele einzahlt. Vermeiden Sie daher Begriffe und Floskeln wie: wir fanden, uns gefiel, etc. 
 
 ### Kurzdokumentation & Patternlab
-Sie können in der Projektpräsentationkurz auf die Kurzdokumentation eingehen, müssen es aber nicht, denn diese soll eigentlich für sich selbst stehen. Das Patternlab eignet sich oftmals auch in der Präsentation gut, um die grundlegende Systematik des Entwurfs zu erklären.
+Sie können in der Projektpräsentationkurz auf die Kurzdokumentation eingehen, müssen es aber nicht, denn diese soll eigentlich für sich selbst stehen. Der Styleguide eignet sich oftmals auch in der Präsentation gut, um die grundlegende Systematik des Entwurfs zu erklären.
