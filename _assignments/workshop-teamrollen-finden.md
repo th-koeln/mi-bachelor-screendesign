@@ -39,6 +39,13 @@ Zum Abschluss reflektieren Sie die erarbeitete Teamcharta und prüfen, ob sie di
 
 Am Ende des Workshops haben Sie Ihre individuellen Teamrollen erkannt und Regeln für die Zusammenarbeit festgelegt. Die Teamcharta bietet Ihnen eine Orientierung für zukünftige Projekte und hilft Ihnen, effizienter und harmonischer zusammenzuarbeiten.
 
-[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVN7cJXpg=/?share_link_id=765504554969)
+
+## Material
+- [Belbin Test](../../download/misc/belbin-test/Belbin-Test_ohne_erklaerung.pdf)
+- [Belbin Test SpiderMap](../../download/misc/belbin-test/Belbin-Spider-Map.pdf)
+- [Belbin Test Teamrollen](../../download/misc/belbin-test/Belbin-Test-rollen.pdf)
+- [Mi Onepager zum Projekt Survival](../../download/misc/EMI-1-Pager-Projekt.pdf)
+- [Teamcharta](https://asana.com/de/resources/team-charter-template)
+- [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVN7cJXpg=/?share_link_id=765504554969)
 
 </div>

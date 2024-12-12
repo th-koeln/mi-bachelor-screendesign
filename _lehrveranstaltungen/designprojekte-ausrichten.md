@@ -35,12 +35,12 @@ Los geht's! 💪🏽
 ## Themen & Bereiche
 
 
-- Flight 1: [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/) // Raum 3.218
-- Flight 2: [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/) // Raum 3.203
-- Flight 3: [Wettbewerbsanalyse & Inspirationssuche](/mi-bachelor-screendesign/assignments/workshop-wettbewerbsanalyse/) // Raum 3.204
-- Flight 4: [Content Audit](/mi-bachelor-screendesign/assignments/workshop-content-audit/), [Layout Analyse](/mi-bachelor-screendesign/assignments/workshop-layoutanalyse/) & [Navigationsanalyse](/mi-bachelor-screendesign/assignments/workshop-navigationsanalyse/) // Raum 3.217
-- Flight 5: [Stakeholder Analyse](/mi-bachelor-screendesign/assignments/workshop-stakeholderanalyse/), [Proto Personas](/mi-bachelor-screendesign/assignments/workshop-personas/) & [Nutzer:innen-Interviews (als Rollenspiel oder mit KI)](/mi-bachelor-screendesign/assignments/workshop-nutzerinnen-interviews/) // Raum 3.208
-- Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // 3.203 & 3.204
+- Flight 1: [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/) // Raum 3.218, Support: Volker
+- Flight 2: [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/) // Raum 3.203, Support: Christian
+- Flight 3: [Wettbewerbsanalyse & Inspirationssuche](/mi-bachelor-screendesign/assignments/workshop-wettbewerbsanalyse/) // Raum 3.204, Support: Christian
+- Flight 4: [Content Audit](/mi-bachelor-screendesign/assignments/workshop-content-audit/), [Layout Analyse](/mi-bachelor-screendesign/assignments/workshop-layoutanalyse/) & [Navigationsanalyse](/mi-bachelor-screendesign/assignments/workshop-navigationsanalyse/) // Raum 3.217, Support: Christian
+- Flight 5: [Stakeholder Analyse](/mi-bachelor-screendesign/assignments/workshop-stakeholderanalyse/), [Proto Personas](/mi-bachelor-screendesign/assignments/workshop-personas/) & [Nutzer:innen-Interviews (als Rollenspiel oder mit KI)](/mi-bachelor-screendesign/assignments/workshop-nutzerinnen-interviews/) // Raum 3.208, Support: Meike & Volker
+- Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // Raum 3.203 & 3.204, Support: Christian
 
 
 ## Material
@@ -122,7 +122,7 @@ Los geht's! 💪🏽
 - [Adjektive für Unternehmen und Projekte](http://www.online-marketing-txt.de/positive-adjektive-unternehmen)
 - [Welchen Nutzen bringt mir eine User Journey?](https://www.omt.de/lexikon/user-journey/#welchen-nutzen-bringt-mir-eine-user-journey)
 - [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
-- [Teamcharta](https://asana.com/de/resources/team-charter-template)
+
 - [Agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
 - [Agile Frameworks: 13 Vorgehensmodelle im Überblick](https://www.me-company.de/magazin/agile-framework/)
 - [User Stories](https://www.me-company.de/magazin/user-stories/)
