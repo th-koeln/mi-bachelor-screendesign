@@ -27,7 +27,7 @@ Los geht's! 💪🏽
 
 | Zeit | Raum | Programmpunkt |
 |:=====|:=====|:==============|
-|10:00|3.102|Einführung und Auftrag|
+|10:00|3.102|[Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2024-onboarding/),Einführung und Auftrag|
 |ca. 10:45|Workshop Räume| Themenworkshops|
 |14:00|3.102|Vorstellung der Ergebnisse|
 
@@ -116,7 +116,7 @@ Los geht's! 💪🏽
 - [Markenpersönlichkeit](https://miro.com/app/board/uXjVN6i1vVU=/?share_link_id=681778440505)
 - [Research](https://miro.com/app/board/uXjVN6hnIkA=/?share_link_id=338650701391)
 - [Look & Feel](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=564160660298)
--->
+
 
 ## Further Readings
 - [Adjektive für Unternehmen und Projekte](http://www.online-marketing-txt.de/positive-adjektive-unternehmen)
@@ -127,7 +127,6 @@ Los geht's! 💪🏽
 - [Agile Frameworks: 13 Vorgehensmodelle im Überblick](https://www.me-company.de/magazin/agile-framework/)
 - [User Stories](https://www.me-company.de/magazin/user-stories/)
 
-<!--
 Die Planung und Umsetzung eines Screendesign-Projekts im Team erfordert eine strukturierte Herangehensweise. Hier sind einige sinnvolle Schritte, die du berücksichtigen könntest:
 
 1. **Projektdefinition und -ziele:**
