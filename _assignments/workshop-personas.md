@@ -31,7 +31,11 @@ Diskutieren und bewertug Sie Ihre Proto-Personas. Erörtern Sie, welche Annahmen
 
 Am Ende verfügen Sie über 3–4 Proto-Personas, die zentrale Zielgruppen des Cranach Digital Archive darstellen. Diese Personas helfen Ihnen dabei, Inhalte, Navigation und Gestaltung gezielt an die Bedürfnisse Ihrer Nutzer:innen anzupassen.
 
-[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=379133786535)
+
+## Material
+- [Personas bei Designmethodenfinder](https://www.designmethodsfinder.com/methods/personas)
+- [Inclusive Persona Canvas // FigJam Template](https://www.figma.com/community/file/1418169269159391047/inklusive-personas)
+- [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVN6hnIhQ=/?share_link_id=379133786535)
 
 </div>
 

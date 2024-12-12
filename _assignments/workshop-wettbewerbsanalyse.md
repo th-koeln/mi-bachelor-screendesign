@@ -37,7 +37,24 @@ Zum Abschluss reflektieren Sie die Ergebnisse Ihrer Wettbewerbsanalyse und die g
 
 Am Ende des Workshops haben Sie passende Wettbewerber und Inspirationsquellen identifiziert, eine strukturierte Übersicht über deren Ansätze erstellt und relevante Ideen gesammelt. Diese Ergebnisse bilden eine Grundlage für die Weiterentwicklung des Cranach Digital Archive.
 
-[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL50PSag=/?share_link_id=913748163373)
+## Material
+- [BOSCH PROJECT](http://boschproject.org/#/)
+- [The Rembrandt Database](https://rembrandtdatabase.org)
+- [Prometheus](https://www.prometheus-bildarchiv.de)
+- [Tate Collection](https://www.tate.org.uk/about-us/collection)
+- [Rijksmuseum](https://www.rijksmuseum.nl/en/research)
+- [Europeana](https://www.europeana.eu/de)
+- [Virtuelle Kupferstichkabinett](http://www.virtuelles-kupferstichkabinett.de/de/bildbrowser/)
+- [Van Gogh Museum Amsterdam](https://unravel.vangogh.com/en/)
+- [Google Arte & Culture](https://artsandculture.google.com)
+- [Graphikportal](https://www.graphikportal.org)
+- [British Museum](https://www.britishmuseum.org/collection)
+- [RKD](https://www.rkd.nl/en)
+- [Ständel Museum](https://sammlung.staedelmuseum.de/de)
+- [Deutsche Digitale Bib](https://www.deutsche-digitale-bibliothek.de)
+- [National Gallery of Denmark](https://www.smk.dk)
+- [Awwwards](https://www.awwwards.com)
+- [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL50PSag=/?share_link_id=913748163373)
 
 
 </div>

@@ -54,6 +54,10 @@ Zum Abschluss reflektieren Sie die Ergebnisse Ihrer Adjektivsammlung und Ihres P
 
 Am Ende des Workshops verfügen Sie über ein präzises Rebriefing, eine Sammlung relevanter Adjektive und ein Polaritätsprofil, das den ästhetischen und funktionalen Rahmen des Projekts definiert. Diese Ergebnisse bilden eine gute Grundlage für Designentscheidungen und die weitere Projektentwicklung.
 
-[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL4HMPX0=/?share_link_id=932414924896)
+## Material
+- [Moodboards im Designprozess](https://www.factor.partners/insights/moodboards-im-designprozess-von-der-vision-zur-realitaet)
+- [Sematisches Differential bei Designmethodenfinder](https://www.designmethodsfinder.com/methods/semantic-differential)
+- [Sematisches Differential bei Rogator](https://www.rogator.de/wissenswertes/weiteres-fachwissen/semantisches-differential/)
+- [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL4HMPX0=/?share_link_id=932414924896)
 
 </div>

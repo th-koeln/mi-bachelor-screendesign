@@ -11,6 +11,8 @@ raum: vor-ort-v
 info: 
 ---
 
+
+
 ## [Baaaaarcamp](https://www.th-koeln.de/hochschule/barcamp-campus-gummersbach-2025_120700.php)
 Wo bleiben die Studierenden? [Jetzt anmelden!](https://miro.com/app/board/uXjVLGMz2Ko=/)
 
@@ -25,9 +27,8 @@ Los geht's! 💪🏽
 
 ## Ablauf
 
-| Zeit | Raum | Programmpunkt |
-|:=====|:=====|:==============|
-|10:00|3.102|[Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2024-onboarding/),Einführung und Auftrag|
+
+|10:00|3.102|[Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2024-onboarding/), Einführung und Auftrag|
 |ca. 10:45|Workshop Räume| Themenworkshops|
 |14:00|3.102|Vorstellung der Ergebnisse|
 
@@ -45,6 +46,7 @@ Los geht's! 💪🏽
 
 ## Material
 - [Räume](../../images/workshop-raeume.png)
+- [Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2024-onboarding/)
 
 
 

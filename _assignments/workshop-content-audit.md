@@ -46,6 +46,7 @@ Das Ergebnis des Workshops ist eine visualisierte und strukturierte Übersicht d
 
 ## Material
 - [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
+- [Content Inventory and Auditing 101](https://www.nngroup.com/articles/content-audits/)
 - [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
 
 </div>
