@@ -40,6 +40,11 @@ Tragen Sie Ihre Bewertungen und Beobachtungen direkt in das Mapping oder eine er
 
 Diskutieren Sie die zentralen Erkenntnisse und dokumentieren Sie Muster oder Probleme, die Ihnen besonders aufgefallen sind, wie etwa inkonsistente Module oder schwer lesbare Inhalte.
 
-[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
+## Ergebnis
+
+Das Ergebnis ist eine dokumentierte Analyse, in Form von annotierten Screenshots, die das Layout systematisch aufschlüsselt. Dadurch entsteht eine Übersicht über Struktur, visuelle Hierarchie und gestalterische Muster des untersuchten Layouts.
+
+## Material
+- [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
 
 </div>

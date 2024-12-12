@@ -121,7 +121,7 @@ Los geht's! 💪🏽
 ## Further Readings
 - [Adjektive für Unternehmen und Projekte](http://www.online-marketing-txt.de/positive-adjektive-unternehmen)
 - [Welchen Nutzen bringt mir eine User Journey?](https://www.omt.de/lexikon/user-journey/#welchen-nutzen-bringt-mir-eine-user-journey)
-- [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
+
 
 - [Agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
 - [Agile Frameworks: 13 Vorgehensmodelle im Überblick](https://www.me-company.de/magazin/agile-framework/)

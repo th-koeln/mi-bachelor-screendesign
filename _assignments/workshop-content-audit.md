@@ -40,7 +40,13 @@ Tragen Sie Ihre Entscheidungen und kurze Anmerkungen direkt in die zentrale Date
 
 Diskutieren Sie gemeinsam, welche Muster oder wiederkehrenden Themen Ihnen aufgefallen sind. Fassen Sie die wichtigsten Punkte und Erkenntnisse zusammen.
 
-[🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
+## Ergebnis
+Das Ergebnis des Workshops ist eine visualisierte und strukturierte Übersicht der Inhalte, die eine Grundlage für das Verständnis der bestehenden Inhalte sowie für strategische Verbesserungen oder Neugestaltungen bietet. 
+
+
+## Material
+- [Content Inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
+- [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL53RuTs=/?share_link_id=933064673136)
 
 </div>
 
