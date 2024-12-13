@@ -1,7 +1,7 @@
 ---
 titel: Inspiration Mapping
 tags: Analyse
-raum: 3.203 & 3.204
+raum: 3.103 & 3.104
 icon: 🏃🏽 
 published: true
 ---

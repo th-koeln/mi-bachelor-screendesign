@@ -1,7 +1,7 @@
 ---
 titel: Nutzer:innen-Interviews (als Rollenspiel oder mit KI)
 tags: Analyse
-raum: 3.208
+raum: 3.109
 icon: 🎨
 published: true
 ---
