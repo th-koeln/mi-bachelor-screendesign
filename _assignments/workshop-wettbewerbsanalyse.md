@@ -54,6 +54,7 @@ Am Ende des Workshops haben Sie passende Wettbewerber und Inspirationsquellen id
 - [Deutsche Digitale Bib](https://www.deutsche-digitale-bibliothek.de)
 - [National Gallery of Denmark](https://www.smk.dk)
 - [Awwwards](https://www.awwwards.com)
+- [Dribbble](https://dribbble.com/)
 - [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL50PSag=/?share_link_id=913748163373)
 
 
