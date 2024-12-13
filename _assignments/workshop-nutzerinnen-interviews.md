@@ -31,6 +31,8 @@ Nun führen Sie die Interviews durch. Je nach Methode haben Sie zwei Möglichkei
 
 Während der Interviews dokumentieren Sie wichtige Aussagen, Erkenntnisse und mögliche Verbesserungsvorschläge. Ziel ist es, ein möglichst umfassendes Bild der Bedürfnisse und Herausforderungen zu erhalten.
 
+[Mit ChatGPT fiktive Personas zum Leben erwecken](https://german.tech/mit-chatgpt-fiktive-personas-zum-leben-erwecken/)
+
 ## Schritt 3: Zusammenfassung & Learnings
 
 Besprechen Sie die Ergebnisse in der Gruppe. Welche Muster und wiederkehrenden Themen sind Ihnen aufgefallen? Inwiefern unterscheiden sich die Ergebnisse von Ihren vorherigen Annahmen (Personas)? Welche überraschenden Erkenntnisse haben Sie gewonnen? Gemeinsam identifizieren Sie die zentralen Punkte, die im Designprozess berücksichtigt werden sollten. 
