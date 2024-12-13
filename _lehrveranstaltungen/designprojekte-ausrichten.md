@@ -37,11 +37,11 @@ Los geht's! 💪🏽
 
 
 - Flight 1: [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/) // Raum 3.218, Support: Volker
-- Flight 2: [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/) // Raum 3.203, Support: Christian
-- Flight 3: [Wettbewerbsanalyse & Inspirationssuche](/mi-bachelor-screendesign/assignments/workshop-wettbewerbsanalyse/) // Raum 3.204, Support: Christian
+- Flight 2: [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/) // Raum 3.103, Support: Christian
+- Flight 3: [Wettbewerbsanalyse & Inspirationssuche](/mi-bachelor-screendesign/assignments/workshop-wettbewerbsanalyse/) // Raum 3.104, Support: Christian
 - Flight 4: [Content Audit](/mi-bachelor-screendesign/assignments/workshop-content-audit/), [Layout Analyse](/mi-bachelor-screendesign/assignments/workshop-layoutanalyse/) & [Navigationsanalyse](/mi-bachelor-screendesign/assignments/workshop-navigationsanalyse/) // Raum 3.217, Support: Christian
-- Flight 5: [Stakeholder Analyse](/mi-bachelor-screendesign/assignments/workshop-stakeholderanalyse/), [Proto Personas](/mi-bachelor-screendesign/assignments/workshop-personas/) & [Nutzer:innen-Interviews (als Rollenspiel oder mit KI)](/mi-bachelor-screendesign/assignments/workshop-nutzerinnen-interviews/) // Raum 3.208, Support: Meike & Volker
-- Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // Raum 3.203 & 3.204, Support: Christian
+- Flight 5: [Stakeholder Analyse](/mi-bachelor-screendesign/assignments/workshop-stakeholderanalyse/), [Proto Personas](/mi-bachelor-screendesign/assignments/workshop-personas/) & [Nutzer:innen-Interviews (als Rollenspiel oder mit KI)](/mi-bachelor-screendesign/assignments/workshop-nutzerinnen-interviews/) // Raum 3.109, Support: Meike & Volker
+- Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // Raum 3.103 & 3.104, Support: Christian
 
 
 ## Material
