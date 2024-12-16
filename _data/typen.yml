@@ -1,6 +1,6 @@
 training:
   name: Training
-  max-teilnehmer: 40
+  max-teilnehmer: 80
 
 workshop:
   name: Workshop
