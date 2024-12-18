@@ -29,6 +29,7 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 - sicherer Umgang in Figma
 
 ## Tutorials und Readings
+- [Guide to variables in Figma](https://help.figma.com/hc/en-us/articles/15339657135383-Guide-to-variables-in-Figma#h_01H4S62F4ERWJQ6B4DZ7NBCJWC)
 - [Components](https://help.figma.com/hc/en-us/sections/4403935997847-Components)
 - [Styles](https://help.figma.com/hc/en-us/sections/4403928368535-Styles)
 - [Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-constraints-to-define-how-layers-resize)
