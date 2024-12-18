@@ -30,9 +30,10 @@ Für diese Session stellen wir Ihnen einiges an Selbstlernmaterial zur Verfügun
 
 ## Tutorials und Readings
 - [Guide to variables in Figma](https://help.figma.com/hc/en-us/articles/15339657135383-Guide-to-variables-in-Figma#h_01H4S62F4ERWJQ6B4DZ7NBCJWC)
-- [Components](https://help.figma.com/hc/en-us/sections/4403935997847-Components)
 - [Styles](https://help.figma.com/hc/en-us/sections/4403928368535-Styles)
+- [Components](https://help.figma.com/hc/en-us/sections/4403935997847-Components)
 - [Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-constraints-to-define-how-layers-resize)
+
 - [Properties](https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties)
 - [Dynamic designs with Auto Layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-Auto-Layout)
 - [Best practices: components, styles, and shared libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
