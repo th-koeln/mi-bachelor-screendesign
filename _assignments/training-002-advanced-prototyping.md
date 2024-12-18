@@ -13,8 +13,8 @@ Heute beschäftigen wir uns mit dem Thema „Advanced Prototyping”. Hilfestell
 
 Laden Sie das [Materialpaket](../../download/trainings/advanced-prototyping/material-advanced-prototyping.zip) herunter und importieren Sie das enthaltene Projekt in Figma.
 
-* Erzeugen Sie Variablen für alle verwendeten Farben und weisen sie diese den vorhandenen Elementen zu
-* Erzeugen Sie Variablen für alle verwendeten Schrifgrößen und -schnitte und der eingesetzen Schriftfamilen
+* Erzeugen Sie Variablen für alle verwendeten Farben und weisen Sie diese den vorhandenen Elementen zu.
+* Erzeugen Sie Variablen für alle verwendeten Schrifgrößen und -schnitte und der eingesetzen Schriftfamilie.
 * Leiten Sie aus den zuvor definierten Variablen Text Styles ab und weisen Sie diesen den vorhandenen Textelementen zu.
 
 ## Aufgabe 2 - Komponenten
