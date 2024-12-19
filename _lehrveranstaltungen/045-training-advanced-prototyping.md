@@ -42,6 +42,8 @@ Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, 
 - [How to construct a design system](https://www.freecodecamp.org/news/how-to-construct-a-design-system-864adbf2a117/)
 - [Was ist ein Design Token](https://ux-ui-design.de/design-token/)
 - [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
+- [Atomic Design](https://atomicdesign.bradfrost.com)
+- [Extending Atomic Design](https://bradfrost.com/blog/post/extending-atomic-design/)
 
 ## Tools
 - [Figma Plugin - Color Shades & Tints Generator](https://www.figma.com/community/plugin/1221190866182222979/color-shades-tints-generator)
