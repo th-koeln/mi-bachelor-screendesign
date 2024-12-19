@@ -24,7 +24,7 @@ Laden Sie das [Materialpaket](../../download/trainings/advanced-prototyping/mate
   Eine Möglichkeit ist es, die Elemente in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen, zu sortieren, und zwar von oben nach unten.  
 * Achten Sie darauf, dass Sie den Elementen sprechende Namen geben. Überlegen Sie sich ein Schema, welches Sie für die Benamung verwenden.
 
-## Aufgabe 2 - Autolayout und Constraints
+## Aufgabe 3 - Autolayout und Constraints
 
 Für die Bestehenden Views soll ein Layout für das Querformat erzeugt werden.
 
