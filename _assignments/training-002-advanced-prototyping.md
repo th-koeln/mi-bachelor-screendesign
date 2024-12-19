@@ -24,7 +24,7 @@ Laden Sie das [Materialpaket](../../download/trainings/advanced-prototyping/mate
 
 ## Übung 3 - Autolayout und Constraints
 
-Für die Bestehenden Views soll ein Layout für das Querformat erzeugt werden.
+Für die bestehenden Screens soll ein Layout für das Querformat erzeugt werden.
 
-Konfigurieren Sie die Elemente so, dass sie flexibel auf Größenänderungen der Views oder der Elemente selbst reagieren.
+Konfigurieren Sie die Elemente so, dass sie flexibel auf Größenänderungen der Frames oder der Elemente selbst reagieren.
 Duplizieren Sie daraufhin die Frames, stellen Sie sie auf das Querformat ein und justieren Sie die darin enthaltenden Elemente entsprechend der neuen Ausrichtung.
