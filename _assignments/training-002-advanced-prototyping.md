@@ -18,10 +18,8 @@ Laden Sie das [Materialpaket](../../download/trainings/advanced-prototyping/mate
 * Leiten Sie aus den zuvor definierten Variablen Text Styles ab und weisen Sie diesen den vorhandenen Textelementen zu.
 
 ## Übung 2 - Komponenten
-* Erzeugen Sie Komponenten und Varianten von Komponenten für Elemente bei denen es sinnvoll ist.
-  Diese helfen dabei ein konsistentes Layout, auch über mehrere Views hinaus, zu ermöglichen.  
-* Sortieren Sie in diesem Zuge die Elemente in der Ebenenleiste nach einem System, welches Sie sich zuvor überlegt haben.  
-  Eine Möglichkeit ist es, die Elemente in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen, zu sortieren, und zwar von oben nach unten.  
+* Erzeugen Sie Komponenten und Varianten von Komponenten für Elemente bei denen es sinnvoll ist. Diese helfen dabei ein konsistentes Layout, auch über mehrere Views hinaus, zu ermöglichen.  
+* Sortieren Sie in diesem Zuge die Elemente in der Ebenenleiste nach einem System, welches Sie sich zuvor überlegt haben. Eine Möglichkeit ist es, die Elemente in der Reihenfolge, wie sie auf der Zeichenfläche vorkommen, zu sortieren und zwar von oben nach unten.  
 * Achten Sie darauf, dass Sie den Elementen sprechende Namen geben. Überlegen Sie sich ein Schema, welches Sie für die Benamung verwenden.
 
 ## Übung 3 - Autolayout und Constraints
