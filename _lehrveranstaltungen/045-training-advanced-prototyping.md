@@ -14,11 +14,11 @@ info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 
 ## Worum geht es?
 
-In diesem Training befassen wir uns mit der Erstellung von Prototypen in Figma. Sobald die Kompexität der Views und damit die Anzahl der benutzten Elemente zunimmt, steigt auch die Gefahr, dass die  Struktur des Projektes sich verschlechtert und irgendwann die Übersicht verloren geht.
+In diesem Training befassen wir uns mit der systematisch Erstellung von Prototypen in Figma. Sobald die Kompexität der Screens und damit die Anzahl der benutzten Elemente zu nimmt, steigt auch die Gefahr, dass die Struktur des Projektes sich verschlechtert und irgendwann die Übersicht verloren geht.
 
-Verstärkt wird die Problematik noch, wenn viele unterschiedliche Views in dem Projekt hinzukommen und zu jeder View noch angepasste Views für unterschiedliche Endgeräte oder Varianten.
+Verstärkt wird die Problematik noch, wenn viele unterschiedliche Screens in dem Projekt hinzukommen und zu jedem Screen noch angepasste Screens für unterschiedliche Endgeräte oder Varianten.
 
-Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kennen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
+Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, die uns dabei helfen systematische, gut strukturierte und konsistente Prototypen zu erstellen. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_bdqGcjuBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -36,8 +36,6 @@ Wir werden uns mit Techniken beschäftigen und lernen Funktionen von Figma kenne
 - [Properties](https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties)
 - [Autolayout](https://help.figma.com/hc/en-us/sections/13165750874519-Use-auto-layout)
 - [Best practices: components, styles, and shared libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
-
-
 
 ## Readings
 
