@@ -4,10 +4,10 @@ kuerzel: o-p
 verantwortlich: cn
 typ: pruefung
 pflicht: true
-termine: 2025-01-31 09:30
+termine: 2025-01-31 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 330
+dauer: 300
 raum: vor-ort-v
 anzahl: 10 Teams
 info: 

@@ -4,10 +4,10 @@ kuerzel: w-lfve
 verantwortlich: vs
 typ: workshop
 pflicht: false
-termine: 2025-01-10 09:30
+termine: 2025-01-10 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
-dauer: 330
+dauer: 120
 raum: vor-ort-v
 info: 
 ---
