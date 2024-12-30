@@ -8,7 +8,7 @@ termine: 2025-01-17 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 300
-raum: vor-ort-v
+raum: vor-ort-ferchau
 info: 
 ---
 

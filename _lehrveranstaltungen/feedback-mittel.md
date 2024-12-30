@@ -8,7 +8,7 @@ termine: 2025-01-17 15:00, 2025-01-24 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: vor-ort-v
+raum: vor-ort-ferchau
 anzahl: beliebig Teilnehmer
 info:
 ---
