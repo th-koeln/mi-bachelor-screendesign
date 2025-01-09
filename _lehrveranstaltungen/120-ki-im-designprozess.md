@@ -1,8 +1,8 @@
 ---
-titel: KI im Designprozess
+titel: <del>KI im Designprozess</del>
 kuerzel: w-lfve
 verantwortlich: vs
-typ: workshop
+typ: orga
 pflicht: false
 termine: 2025-01-10 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
@@ -12,6 +12,9 @@ raum: vor-ort-ferchau
 info: 
 ---
 
+> Workshop fällt krankheitsbedingt leider aus, bzw. wird zu einem späteren Zeitpunkt nachgeholt.
+
+<!--
 ## Worum geht es?
 Künstliche Intelligenz kann in verschiedenen Phasen des Designworkflows sinnvoll eingesetzt werden, um Effizienz zu steigern, kreative Prozesse zu unterstützen und die Qualität von Designlösungen zu verbessern. 
 
@@ -53,3 +56,4 @@ Die Integration von KI in den Designworkflow erfordert eine Kombination aus Desi
 
 ## Übungen
 - [KI im Designprozess - Instagram Post und Designlösung](/mi-bachelor-screendesign/assignments/workshop-ki-im-designprozess/)
+-->
