@@ -25,11 +25,12 @@ Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verwor
 - 5 Blatt DIN A4 mit [Punktraster](https://www.viaprinto.de/media/documents/help/layouts/produkte/raster/vorlage_punktraster_DIN_A4_hoch.zip)
 
 ## Material
+- [Pen & Paper](https://cnoss.github.io/pen-and-paper/)
 - [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
 - [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
 - [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/)
 
 ## Übungen
-- [Typographie 2](/mi-bachelor-screendesign/assignments/basics-typographie-2/)
+<!--- [Typographie 2](/mi-bachelor-screendesign/assignments/basics-typographie-2/)-->
 - [Negativraum nutzen](/mi-bachelor-screendesign/assignments/workshop-layout-und-negativraum/)
 - [Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
