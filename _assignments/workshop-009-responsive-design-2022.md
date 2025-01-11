@@ -1,7 +1,8 @@
 ---
 titel: Layouts für verschiedene Endgeräte
-tags: Fortgeschritten
-published: false
+tags: 
+  - Layout
+published: true
 ---
 
 Die Basis für den heutigen Workshop bilden die Ergebnisse aus dem [Workshop komplexe Layouts](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/workshop-komplexe-layouts/). Falls ihr Material aus dem «Workshop komplexe Layouts» nicht ausreicht, können Sie auch die unten dargestellte Version verwenden. Zur Nutzung auf den Pfeil oben in der Titelleiste neben view only gehen und aus dem Dropdown Feld *Duplicate to your Drafts* auswählen. Dann kann mit der Vorlage im persönlichen Bereich in Figma gearbeitet werden.

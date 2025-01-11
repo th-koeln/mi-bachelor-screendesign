@@ -1,7 +1,8 @@
 ---
-titel: Layouts für verschiedene Endgeräte
-tags: Fortgeschritten
-published: false
+titel: Layouts für verschiedene Endgeräte // CDA Meisterwerke
+tags: 
+  - Layout
+published: true
 ---
 
 

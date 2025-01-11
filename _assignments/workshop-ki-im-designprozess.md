@@ -1,6 +1,7 @@
 ---
 titel: KI im Designprozess
-tags: Fortgeschritten
+tags: 
+  - Konzeption
 published: true
 ---
 

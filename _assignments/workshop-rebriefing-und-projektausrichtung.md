@@ -1,6 +1,8 @@
 ---
 titel: Rebriefing und ästhetischen sowie funktionalen Rahmen setzen mit Adjektiven & Polaritätsprofil
-tags: Analyse
+tags: 
+  - Analyse
+  - WS2425
 raum: 3.103
 icon: 🎯
 published: true

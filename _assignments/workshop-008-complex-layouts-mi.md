@@ -1,7 +1,8 @@
 ---
 titel: Komplexe Layouts
-tags: Fortgeschritten
-published: false
+tags: 
+  - Layout
+published: true
 ---
 
 Heute entwickeln wir in 2er Teams Layouts für die [Projektvorstellung im Medieninformatik Blog](https://www.medieninformatik.th-koeln.de/blog/). Dazu gehen wir in folgenden Schritten vor:

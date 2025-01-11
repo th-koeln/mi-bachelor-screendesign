@@ -1,7 +1,8 @@
 ---
 titel: Gestaltungselement Fläche
-tags: Basics
-published: false
+tags: 
+  - Basics
+published: true
 ---
 
 Heute beschäftigen wir uns mit dem Gestaltungselement Fläche. Die theoretischen und konzeptionellen Hintergründe bekommen Sie im [dazu vorgesehenen Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-form/). Dort finden Sie auch den Link für die Uploadmöglichkeit.

@@ -1,7 +1,6 @@
 ---
 titel: Layout Sketching
 tags: Layout
-
 published: true
 ---
 

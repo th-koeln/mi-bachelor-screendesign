@@ -1,7 +1,8 @@
 ---
 titel: Barrierefreiheit
 tags: 
-  - Fortgeschritten
+  - Konzeption
+  - WS2425
 published: true
 ---
 

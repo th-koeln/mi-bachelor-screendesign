@@ -4,12 +4,13 @@ tags:
   - Fortgeschritten
   - Layout
   - Typographie
+  - WS2425
 published: true
 ---
 
 Erzeugen Sie eine Arbeitsfläche von **414x736 Pixeln**. Legen Sie nach einer Zahlenreihe verschiedene Flächen für die Repräsentation von Abständen an und benennen Sie diese nach T-Shirt Größen.
 
-Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes-2022.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
+Entwickeln Sie ein Layoutkonzept für die Zitate die im [Materialpaket Quotes](../../download/workshops/systematische-proportionen-und-abstaende/quotes-v3.zip) enthalten sind. Pro Seite sollen folgende Inhalte gezeigt werden:
 - Bild des Autors
 - Zitat
 - Name des Autors

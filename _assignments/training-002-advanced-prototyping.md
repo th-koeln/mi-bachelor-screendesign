@@ -1,6 +1,9 @@
 ---
 titel: Advanced Prototyping
-tags: Fortgeschritten
+tags: 
+  - Prototyping
+  - Figma
+  - WS2425
 published: true
 
 ---

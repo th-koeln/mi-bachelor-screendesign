@@ -1,6 +1,8 @@
 ---
 titel: Wettbewerbsanalyse & Inspirationssuche
-tags: Analyse
+tags: 
+  - Analyse
+  - WS2425
 raum: 3.104
 icon: 🏃🏽
 published: true

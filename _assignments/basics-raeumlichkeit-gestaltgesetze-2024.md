@@ -4,6 +4,7 @@ tags:
   - Basics
   - Hierarchisierung
   - Gestaltgesetze
+  - WS2425
 published: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 titel: Gestaltungselement Linie
-tags: Basics
-published: false
+tags: 
+  - Basics
+published: true
 ---
 
 Heute beschäftigen wir uns mit dem Gestaltungselement Linie. Dazu gibt es zwei Übungen. Theoretischen Hintergrund bekommen Sie im [dazu vorgesehenen Workshop](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/025-workshop-linie/). Dort finden Sie auch den Link für die Uploadmöglichkeit.

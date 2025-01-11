@@ -1,6 +1,8 @@
 ---
 titel: Inspiration Mapping
-tags: Analyse
+tags: 
+  - Analyse
+  - WS2425
 raum: 3.103 & 3.104
 icon: 🏃🏽 
 published: true

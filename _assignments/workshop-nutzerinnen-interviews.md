@@ -1,6 +1,8 @@
 ---
 titel: Nutzer:innen-Interviews (als Rollenspiel oder mit KI)
-tags: Analyse
+tags: 
+  - Analyse
+  - WS2425
 raum: 3.109
 icon: 🎨
 published: true

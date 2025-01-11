@@ -1,6 +1,8 @@
 ---
 titel: Teamrollen finden & Teamregeln festlegen
-tags: Teamarbeit
+tags: 
+  - Teamarbeit
+  - WS2425
 icon: 🍭
 raum: 3.218
 published: true

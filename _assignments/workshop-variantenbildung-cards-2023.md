@@ -1,6 +1,7 @@
 ---
 titel: Layoutvarianten entwickeln
-tags: Fortgeschritten
+tags: 
+  - Layout
 published: true
 ---
 

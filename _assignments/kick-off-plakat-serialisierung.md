@@ -1,6 +1,8 @@
 ---
 titel: Plakat Serialisierung
-tags: Warm-up
+tags: 
+  - Warm-up
+  - WS2425
 upload: 
 deadline: 2023-10-19
 published: true

@@ -1,6 +1,8 @@
 ---
 titel: Figma Basics
-tags: Warm-up
+tags: 
+  - Warm-up
+  - WS2425
 published: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 titel: Variantenbildung am Beispiel von Typographie und Textsatz
-tags: Fortgeschritten
-published: false
+tags: 
+  - Typographie
+published: true
 ---
 
 Heute beschäftigen wir uns mit dem Thema Variantenbildung am Beispiel von Typographie und Textsatz. Theoretischen Hintergrund bekommen Sie in den zugehörigen Workshops/ Inputs.

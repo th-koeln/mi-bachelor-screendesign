@@ -1,7 +1,8 @@
 ---
 titel: Raum & Gestaltgesetze
-tags: Basics
-published: false
+tags: 
+  - Basics
+published: true
 ---
 
 Heute beschäftigen wir uns mit Raum & Gestaltgesetzen. Dazu gibt es zwei Übungen. 

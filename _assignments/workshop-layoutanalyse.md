@@ -1,6 +1,8 @@
 ---
 titel: Layout Analyse
-tags: Analyse
+tags: 
+  - Analyse
+  - WS2425
 raum: 3.217
 icon: 🩺
 published: true

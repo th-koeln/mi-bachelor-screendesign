@@ -3,6 +3,7 @@ titel: Typographie und Schriftsatz
 tags: 
     - Basics
     - Typographie
+    - WS2425
 published: true
 ---
 

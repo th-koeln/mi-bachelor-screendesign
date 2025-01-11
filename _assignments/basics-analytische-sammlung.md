@@ -1,9 +1,10 @@
 ---
 titel: Analytische Sammlung
-tags: Warm-up
+tags: 
+  - Warm-up
 upload: https://ilias.th-koeln.de/goto.php?target=exc_1654031&client_id=ILIAS_FH_Koeln
 deadline: 2020-11-11
-published: false
+published: true
 ---
 
 Diese Aufgabe ist Teil der Selbstlernphase. Die Abgabe über das Ilias ist verpflichtend. Für Fragen stehen wir [Donnerstags zur Verfügung](https://th-koeln.github.io/mi-bachelor-screendesign/lehrveranstaltungen/010-selbstlernphase/).
