@@ -32,5 +32,5 @@ Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verwor
 
 ## Übungen
 <!--- [Typographie 2](/mi-bachelor-screendesign/assignments/basics-typographie-2/)-->
-- [Negativraum nutzen](/mi-bachelor-screendesign/assignments/workshop-layout-und-negativraum/)
-- [Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
+- [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
+

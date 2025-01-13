@@ -1,5 +1,5 @@
 ---
-titel: Layouts entwickeln und variieren
+titel: Layouts (weiter-)entwickeln und variieren
 kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
@@ -21,7 +21,6 @@ Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verwor
 - [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/#/1/20)
 
 ## Übungen
-- [Typographie 2](/mi-bachelor-screendesign/assignments/basics-typographie-2/)
-- [Negativraum nutzen](/mi-bachelor-screendesign/assignments/workshop-006-negativraum/)
+- [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
 - [Systematische Abstände](/mi-bachelor-screendesign/assignments/workshop-006-systematische-abstaende/)
 

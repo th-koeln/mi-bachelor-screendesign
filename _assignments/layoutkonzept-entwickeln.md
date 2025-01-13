@@ -1,5 +1,5 @@
 ---
-titel: Layout & Negativraum
+titel: Layoutkonzept entwickeln
 tags: 
   - Fortgeschritten
   - Layout
