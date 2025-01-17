@@ -4,12 +4,12 @@ kuerzel: o-p
 verantwortlich: cn
 typ: pruefung
 pflicht: true
-termine: 2025-01-31 10:00
+termine: 2025-01-31 10:00, 2025-01-31 13:30
 empfohlene-voraussetzungen: 
 published: true
-dauer: 300
+dauer: 150
 raum: vor-ort-v
-anzahl: 10 Teams
+anzahl: 15 Teams pro Slot
 info: 
 ---
 
@@ -17,29 +17,23 @@ Die Zwischenpräsentation dient dazu, den aktuellen Stand des Projekts transpare
 
 **Was sollten die Teams präsentieren?**  
 
-Jedes Team hat **10 Minuten Zeit**, um folgende Inhalte vorzustellen:  
-
-1. **Kontext und Zielsetzung:**
-   - Eine kurze Zusammenfassung des Projekts: Was wird gestaltet, für wen und warum?
-   - Zielgruppe, Problemstellung und die zentrale Herausforderung, die das Team adressiert.
+Jedes Team hat **5 Minuten Zeit**, um folgende Inhalte vorzustellen:  
 
 2. **Rechercheergebnisse und Erkenntnisse:**
    - Relevante Insights aus der Recherche.
-   - Erkenntnisse aus Wettbewerbsanalysen oder heuristischen Bewertungen.
+   - Erkenntnisse aus Wettbewerbsanalysen und Inspirationssuche.
 
 3. **Designstrategie und Konzept:**
    - Das übergeordnete Konzept oder die Leitidee, die das Design antreibt.
    - Wie das Design die identifizierten Probleme löst oder die Zielgruppe begeistert.
 
-4. **Erste Visualisierungen und Prototypen:**
+4. **Erste Visualisierungen:**
    - Low-Fidelity-Wireframes oder Storyboards, die die Struktur und Logik des Designs zeigen.
    - Moodboards, visuelle Ansätze und erste Layouts
-   - Funktionale Prototypen um Interaktionen und Transitionen zu demonstrieren.
 
 5. **Reflexion und offene Fragen:**
    - Was funktioniert bisher gut, und wo gibt es Herausforderungen?
-   - Welche Annahmen möchte das Team noch testen?
-   - Wo benötigt das Team spezifisches Feedback oder Input?
+   - Welche Annahmen und/ oder Varianten möchte das Team noch testen/ prüfen?
 
 6. **Nächste Schritte:**
    - Der geplante Fokus für die nächsten Projektphasen.
@@ -47,4 +41,4 @@ Jedes Team hat **10 Minuten Zeit**, um folgende Inhalte vorzustellen:
 
 ---
 
-Die Präsentation sollte klar strukturiert und visuell ansprechend sein, um das Feedback effektiv zu nutzen. In den anschließenden **5 Minuten Feedback** können offene Punkte vertieft und nächste Schritte gemeinsam diskutiert werden.
+Die Vorstellung sollte klar strukturiert und vorbereitet sein, um das Feedback effektiv zu nutzen. In den anschließenden **5 Minuten Feedback** können offene Punkte vertieft und nächste Schritte gemeinsam diskutiert werden.
