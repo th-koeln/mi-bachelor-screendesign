@@ -45,8 +45,8 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
 - [Google Sheets Sync Plugin für Figma](https://www.figma.com/community/plugin/735770583268406934/google-sheets-sync)
 
-- [Figma - Mit Smart-Animation erweiterte Animationen erstellen](https://help.figma.com/hc/de/articles/360039818874-Mit-Smart-Animation-erweiterte-Animationen-erstellen)
-- [Figma - Einführung in Prototyping](https://help.figma.com/hc/de/articles/360040314193-Einführung-in-Prototyping-in-Figma/)
+- [Figma: Mit Smart-Animation erweiterte Animationen erstellen](https://help.figma.com/hc/de/articles/360039818874-Mit-Smart-Animation-erweiterte-Animationen-erstellen)
+- [Figma: Einführung in Prototyping](https://help.figma.com/hc/de/articles/360040314193-Einführung-in-Prototyping-in-Figma/)
 
 ## Übungen
 - [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-and-transition/)
