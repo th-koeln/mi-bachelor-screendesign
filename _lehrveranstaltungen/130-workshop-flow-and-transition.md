@@ -17,6 +17,9 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 
 
 <iframe style="width:100%; aspect-ratio: 16/9" src="https://www.youtube.com/embed/0y2NWISZONI?si=2yXK9Qbci3208tlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Schönes Beispiel zu Flow & Transition aus einem studentischen Screendesign Projekt aus dem WS20/21*
+
+
 
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
@@ -39,8 +42,11 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
 
 ## Übungen
-- [Flow & Transition am Beispiel einer kleinen Audio App](/mi-bachelor-screendesign/assignments/workshop-flow-and-transition/)
+- Flow & Transition am Beispiel unseres Podcast Players
 
+<!--
+- [Flow & Transition am Beispiel einer kleinen Audio App](/mi-bachelor-screendesign/assignments/workshop-flow-and-transition/)
+-->
 <!--
 ## Übungen
 In der heutigen Session soll folgende Aufgabe bearbeitet werden, die Sie im [Ilias](https://ilias.th-koeln.de/goto.php?target=exc_1422052&client_id=ILIAS_FH_Koeln) hochladen können:
