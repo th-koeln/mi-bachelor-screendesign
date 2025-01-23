@@ -14,10 +14,10 @@ published: true
   ### Step 1: Testing auf mobilem Endgerät
   Installieren Sie die Mirror App auf ihrem mobilen Endgerät und richten Sie diese so ein, dass Sie Zugriff auf den Prototypen haben.
 
-  ### Step 2 - Scrolling der Playlist
+  ### Step 2: Scrolling der Playlist
   Passen Sie das Frame 'playlist-portrait' so an, dass die Playlist über die vertikale Achse scrollbar ist und der restliche Inhalt fixiert bleibt.
 
-  ### Step 3 - Interkationen und Übergänge zwischen Frames erstellen
+  ### Step 3: Interkationen und Übergänge zwischen Frames erstellen
   Erstellen Sie mithilfe des Prototyping-Tools Interaktionen, um die Navigation zwischen den einzelnen Frames zu ermöglichen. Fügen Sie zudem sinnvolle Übergänge hinzu, die die Benutzererfahrung verbessern.
 
   **Frame 'overview potrait'**  
