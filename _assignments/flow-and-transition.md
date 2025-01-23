@@ -5,9 +5,7 @@ tags:
   - WS2425
 published: true
 ---
-  Als Ausgangsbasis dient folgendes Figma Projekt:
-  
-  https://www.figma.com/design/OkdIXQmTHqY2KmSWhcNinr/podcast-player-initial
+  Als Ausgangsbasis dient folgendes [Figma Projekt](https://www.figma.com/design/OkdIXQmTHqY2KmSWhcNinr/podcast-player-initial).
   
   Duplizieren Sie dieses zunächst in ihren eigenen Workspace und arbeiten Sie anschlißend an dieser Kopie weiter.
 
