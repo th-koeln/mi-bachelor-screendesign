@@ -12,7 +12,7 @@ raum: vor-ort-ferchau
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 ---
 
-In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Schwerpunkt Interaktionsabläufe und Übergänge. In den meisten Anwendungen haben wir idealerweise keine Abfolge von statischen Screens, sondern versuchen den Nutzer mit Hilfe von sinnvollen Übergängen und Hervorhebungen die Benutzung zu erleichtern und seine Aufmerksamkeit zu lenken.
+In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Schwerpunkt Interaktionsabläufe und Übergänge. In den meisten Anwendungen haben wir idealerweise keine Abfolge von statischen Screens, sondern versuchen, dem User die Benutzung mithilfe von sinnvollen Übergängen und Hervorhebungen zu erleichtern und seine Aufmerksamkeit zu lenken.
 
 
 
