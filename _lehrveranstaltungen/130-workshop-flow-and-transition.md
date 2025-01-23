@@ -36,8 +36,6 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 
 
 - [Google Tabelle mit Daten](https://docs.google.com/spreadsheets/d/1cNWdVcJ7_LBgH3YxF-VcbNx0RGr9kudf6qnl4rmFLR8/edit?usp=sharing)
-- [Google Sheets Sync Plugin für Figma](https://www.figma.com/community/plugin/735770583268406934/google-sheets-sync)
-
 
 ## Tools & Tutorials
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
@@ -45,6 +43,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Framer: Programmierbares Animation Tool](https://framer.com/)
 - [Framer Tutorials](https://framer.com/getstarted/guide/)
 - [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
+- [Google Sheets Sync Plugin für Figma](https://www.figma.com/community/plugin/735770583268406934/google-sheets-sync)
 
 - [Figma - Mit Smart-Animation erweiterte Animationen erstellen](https://help.figma.com/hc/de/articles/360039818874-Mit-Smart-Animation-erweiterte-Animationen-erstellen)
 - [Figma - Einführung in Prototyping](https://help.figma.com/hc/de/articles/360040314193-Einführung-in-Prototyping-in-Figma/)
