@@ -1,5 +1,5 @@
 ---
-titel: Flow & Transition // Storytelling mit Prototypen
+titel: Flow & Transition
 kuerzel: w-fat
 verantwortlich: cn
 typ: workshop
@@ -24,19 +24,14 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Understanding motion](https://material.io/design/motion/understanding-motion.html#principles)
 - [Motion in UX Design: 6 Effective Types of Web Animation](https://blog.tubikstudio.com/web-animation/)
 - [The Role of Animation and Motion in UX](https://www.nngroup.com/articles/animation-purpose-ux/)
-- [MotionUX](https://motion-ux.com)
-- [Understanding motion](https://m2.material.io/design/motion/understanding-motion.html#principles)
 - [Two Tips for Better UX Storytelling](https://www.nngroup.com/articles/two-tips-better-ux-storytelling/)
 - [How To Use Storytelling In UX](https://www.smashingmagazine.com/2022/04/use-storytelling-ux/)
 
 ## Tools & Tutorials
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
 - [Flinto for Mac: sehr ausgereiftes GUI Design Animation Tool](https://www.flinto.com)
-- [Flinto Tutorials](https://www.flinto.com/tutorial_videos)
-- [Invision: Online Tool für User Flows und Animationen](https://www.invisionapp.com/)
 - [Framer: Programmierbares Animation Tool](https://framer.com/)
 - [Framer Tutorials](https://framer.com/getstarted/guide/)
-- [Adobe Experience Design: noch ein schönes Animations-/ Prototyping Tool](http://www.adobe.com/de/products/experience-design.html)
 - [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
 
 ## Übungen
