@@ -18,10 +18,10 @@ published: true
   ## Step 3: Interkationen und Übergänge zwischen Frames erstellen
   Erstellen Sie mithilfe des Prototyping-Tools Interaktionen, um die Navigation zwischen den einzelnen Frames zu ermöglichen. Fügen Sie zudem sinnvolle Übergänge hinzu, die die Benutzererfahrung verbessern.
 
-  **Frame 'overview potrait'** 
+  **Frame 'overview potrait'**  
   Bei einem Tap auf das Album-Cover von ‘99% Invisible’ soll der Frame ‘playlist-portrait’ angezeigt werden.
 
-  **Frame 'playlist-portrait'**
+  **Frame 'playlist-portrait'**  
   Bei einem Tap auf den Back-Button oder einer Swipe-Geste nach rechts soll der Frame 'overview-potrait'  angezeigt werden.
 
   ## Step 4: Microinteraktionen
