@@ -14,6 +14,10 @@ info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Scr
 
 In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Schwerpunkt Interaktionsabläufe und Übergänge. In den meisten Anwendungen haben wir idealerweise keine Abfolge von statischen Screens, sondern versuchen den Nutzer mit Hilfe von sinnvollen Übergängen und Hervorhebungen die Benutzung zu erleichtern und seine Aufmerksamkeit zu lenken.
 
+
+
+<iframe style="width:100%; aspect-ratio: 16/9" src="https://www.youtube.com/embed/0y2NWISZONI?si=2yXK9Qbci3208tlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
 - Sehr gute Kenntnisse in Figma
