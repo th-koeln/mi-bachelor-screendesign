@@ -27,7 +27,7 @@ published: true
   **Frame 'playlist-portrait'**  
   Bei einem Tap auf den Back-Button oder einer Swipe-Geste nach rechts soll der Frame 'overview-potrait'  angezeigt werden.
 
-  ### Step 4: Microinteraktionen erstellen
+  ### Step 4: Mikrointeraktionen erstellen
   
   Erstellen Sie Interaktionen für den Play-/Pause-Button mit folgenden Verhalten:  
   1. Beim ersten Tap auf die Schaltfläche soll das Symbol von Play zu Pause wechseln.
