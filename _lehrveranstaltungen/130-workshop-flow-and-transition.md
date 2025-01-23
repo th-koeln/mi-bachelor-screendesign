@@ -50,7 +50,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Figma - Einführung in Prototyping](https://help.figma.com/hc/de/articles/360040314193-Einführung-in-Prototyping-in-Figma/)
 
 ## Übungen
-- [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-und-transition/)
+- [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-and-transition/)
 
 <!--
 - [Flow & Transition am Beispiel einer kleinen Audio App](/mi-bachelor-screendesign/assignments/workshop-flow-and-transition/)
