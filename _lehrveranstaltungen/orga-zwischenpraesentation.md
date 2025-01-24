@@ -8,7 +8,7 @@ termine: 2025-01-31 10:00, 2025-01-31 13:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: vor-ort-v
+raum: vor-ort-ferchau
 anzahl: 15 Teams pro Slot
 info: 
 ---
