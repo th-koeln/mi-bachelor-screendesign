@@ -13,7 +13,11 @@ anzahl: 15 Teams pro Slot
 info: 
 ---
 
+## Anmeldung
+
 Bitte buchen Sie pro Team **einen** Zeitslot [hier](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yk:m2&cmdClass=ilObjBookingPoolGUI&cmd=render&ref_id=546558) im ILU. 
+
+## Worum geht es?
 
 Die Zwischenpräsentation dient dazu, den aktuellen Stand des Projekts transparent zu machen, Feedback einzuholen und sicherzustellen, dass die Teams auf dem richtigen Weg sind. Sie ist ein Checkpoint, an dem Teams ihre bisherigen Ergebnisse validieren, um frühzeitig Verbesserungspotenziale zu erkennen und sicherzustellen, dass die Projektziele erreicht werden. Gleichzeitig ermöglicht sie den Austausch von Ideen zwischen den Teams und fördert das Lernen voneinander.  
 
