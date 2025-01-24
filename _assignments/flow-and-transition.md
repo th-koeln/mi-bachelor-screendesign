@@ -35,6 +35,7 @@ Bei einem Tap auf den Back-Button oder einer Swipe-Geste nach rechts soll der Fr
 Erstellen Sie Interaktionen für den Play-/Pause-Button mit folgenden Verhalten:  
 1. Beim ersten Tap auf die Schaltfläche soll das Symbol von Play zu Pause wechseln.
 2. Beim nächsten Tap soll das Symbol wieder von Pause zu Play wechseln.
+
 Erstellen Sie Interaktionen für die Einträge der Playlist mit folgenden Verhalten:
 1.	Bei einem Touch down auf einen Eintrag soll dieser hervorgehoben werden, indem sich die Hintergrundfarbe des Eintrags ändert.
 2.	Bei einem Touch up soll die Hintergrundfarbe des Eintrags wieder in den ursprünglichen Zustand zurückgesetzt werden.
