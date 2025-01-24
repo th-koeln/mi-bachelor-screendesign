@@ -51,6 +51,9 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 ## Übungen
 - [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-and-transition/)
 
+## Video zum Google Sheets Sync Plugin
+
+<iframe style="width:100%; aspect-ratio: 16/9"  src="https://www.youtube.com/embed/aaugAwZU1hQ?si=x_NI42cc5ORRfX6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!--
 - [Flow & Transition am Beispiel einer kleinen Audio App](/mi-bachelor-screendesign/assignments/workshop-flow-and-transition/)
 -->
