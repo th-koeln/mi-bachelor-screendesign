@@ -4,7 +4,7 @@ kuerzel: o-p
 verantwortlich: cn
 typ: pruefung
 pflicht: true
-termine: 2025-03-12 10:00, 2025-03-10 10:00, 2025-03-11 10:00
+termine: 2025-03-10 10:00, 2025-03-11 10:00, 2025-03-12 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
@@ -15,7 +15,7 @@ info: Projektpräsentationsprüfungen
 
 <hr> 
 
-Für die Prüfung müssen Sie im PSSO angemeldet sein und einen [Termin im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) gebucht haben.
+Für die Prüfung müssen Sie im PSSO angemeldet sein und einen [Termin im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yk:m2&cmdClass=ilObjBookingPoolGUI&cmd=render&ref_id=553843) gebucht haben.
 
 Beachten Sie die [Niveaustufen und die darin festgelegten Abgabetermine der Artefakte](https://th-koeln.github.io/mi-bachelor-screendesign/niveaustufen/). Bei Fragen nutzen Sie bitte das ILU Forum oder die Feedbacktermine.
 
