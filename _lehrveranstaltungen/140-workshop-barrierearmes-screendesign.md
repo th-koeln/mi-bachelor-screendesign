@@ -1,7 +1,7 @@
 ---
 titel: Barrierfreiheit im Screendesign
 kuerzel: w-fat
-verantwortlich: jk-cn
+verantwortlich: cn
 typ: workshop
 pflicht: false
 termine: 2025-01-24 10:00
