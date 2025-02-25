@@ -133,7 +133,7 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im ILU eintragen und Artefakte bereit stellen - (Link folgt)]()
-- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 10.03. - 11.03.2025 in Gummersbach statt.
+- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 10.03. - 12.03.2025 in Gummersbach statt.
 
 
 **Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**

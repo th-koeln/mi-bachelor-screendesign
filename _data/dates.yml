@@ -125,6 +125,17 @@ week-20:
     name: Freitag
 week-21:
   day-1:
+    datum: 2025-03-04
+    start: "10:00"
+    end: "16:00"
+    name: Dienstag
+  day-2:
+    datum: 2025-03-07
+    start: "10:00"
+    end: "16:00"
+    name: Freitag
+week-22:
+  day-1:
     datum: 2025-03-10
     start: "10:00"
     end: "16:00"

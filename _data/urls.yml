@@ -22,6 +22,11 @@ zoom-fd:
   name: "Zoom (Meeting-ID: 6078076173, Kenncode noss)"
   url: https://th-koeln.zoom.us/j/6078076173
 
+zoom-fd-support:
+  name: "Zoom (Meeting-ID: 68888524749, Kenncode design)"
+  url: https://th-koeln.zoom.us/j/68888524749
+  
+
 zoom-fd-vs:
   name: "Zoom (Meeting-ID: 87910567579, Kenncode im Ilias)"
   url: https://th-koeln.zoom.us/j/87910567579

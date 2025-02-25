@@ -1,17 +1,20 @@
 ---
-titel: Diskussion Ihres aktuellen Projektstandes
+titel: Technischer Support bei der Kurzdokumentation
 kuerzel: f-fsl
-verantwortlich: alle
+verantwortlich: mj
 typ: feedback
 pflicht: true
-termine: 2025-02-07 16:00, 2025-02-21 16:00, 2025-03-04 11:00
+termine: 2025-03-07 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: zoom-fd
+raum: zoom-fd-support
 anzahl: beliebig Teilnehmer
 info:
 ---
+
+## Worum geht es?
+In dieser Session unterstützen wir Teams, die nicht mit der Bereitstellung der Kurzdoku via github klar kommen.
 
 ## Anmeldung
 
