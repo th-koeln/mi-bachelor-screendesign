@@ -4,7 +4,7 @@ kuerzel: o-p
 verantwortlich: cn
 typ: pruefung
 pflicht: true
-termine: 2025-03-10 10:00, 2025-03-11 10:00, 2025-03-12 10:00
+termine: 2025-03-10 09:00, 2025-03-11 09:00, 2025-03-12 09:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
