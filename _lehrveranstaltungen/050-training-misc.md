@@ -4,7 +4,7 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-11-15 13:00
+termine: 2025-11-15 13:00
 empfohlene-voraussetzungen:
 published: false
 dauer: 180
@@ -32,7 +32,7 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 - [Permutation mit Flächenausschnitten](../../assignments/basics-permuation-und-farbe/)
 
 ## Upload
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **21.11.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **21.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
 
 <!--
 ## Sie haben keinen Rechner?

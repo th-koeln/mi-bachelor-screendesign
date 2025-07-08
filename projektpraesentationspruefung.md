@@ -11,7 +11,7 @@ titel: Informationen zur Screendesign Projektpräsentationsprüfung
 
 
 ### Zielsetzung der Vorstellung
-Mit der Präsentation stellen Sie Ihr Designkonzept vor und zeigen (uns als Prüfern), dass Sie in der Lage sind ihr Gestaltungskonzept fachlich zu argumentieren. Es geht hierbei nicht um Ihren persönlichen Geschmack, sondern das Erreichen von gestalterischen, kommunikativen und funktionalen Zielen im Sinne der [Projektaufgabe](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2024/). Konsultieren Sie für eine detailierte Zielbeschreibung bitte die Seite [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen/).
+Mit der Präsentation stellen Sie Ihr Designkonzept vor und zeigen (uns als Prüfern), dass Sie in der Lage sind ihr Gestaltungskonzept fachlich zu argumentieren. Es geht hierbei nicht um Ihren persönlichen Geschmack, sondern das Erreichen von gestalterischen, kommunikativen und funktionalen Zielen im Sinne der [Projektaufgabe](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/). Konsultieren Sie für eine detailierte Zielbeschreibung bitte die Seite [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen/).
 
 ### Rahmenbedingungen für die Projektpräsentation
 Sie haben **10 Minuten** Zeit, um Ihr Projekt vorzustellen. Darauf folgt eine 10-minütige Fragerunde. Sie müssen sich am Anfang der Prüfung mit Ihrer MultiCa ausweisen. Achten Sie bitte darauf, dass Sie im Team etwa gleiche Präsentations- bzw. Wortanteile haben.

@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-11-15 13:00
+termine: 2025-11-15 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -29,11 +29,11 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 
 In der heutigen Session sollen folgende Übungen bearbeitet werden:
 
--   [Visualisierung von Gestaltgesetzen](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze-2024/)
+-   [Visualisierung von Gestaltgesetzen](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze-2025/)
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **28.11.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=504809&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **28.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=504809&cmd=showOverview) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
