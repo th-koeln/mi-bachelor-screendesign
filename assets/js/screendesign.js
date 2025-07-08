@@ -15,13 +15,13 @@ tabs.func = (function () {
     // Tab Navi aktivieren
     var tabNavigations = document.querySelectorAll('.is-tab-navigation');
 
-    for (i = 0; i < tabNavigations.length; i++) {
+    for (var i = 0; i < tabNavigations.length; i++) {
       var tabNavigation = tabNavigations[i];
       var htmltabs = tabNavigation.querySelectorAll('.tab-item');
       htmltabs[0].classList.add('is-active');
       selectTab(htmltabs[0]);
 
-      for (i = 0; i < htmltabs.length; i++) {
+      for (var i = 0; i < htmltabs.length; i++) {
         var htmltab = htmltabs[i];
 
         htmltab.onclick = function () {
@@ -40,7 +40,7 @@ tabs.func = (function () {
     // Content ausblenden
     var items = document.querySelectorAll('.is-tab-content');
 
-    for (i = 0; i < items.length; i++) {
+    for (var i = 0; i < items.length; i++) {
       var item = items[i];
       item.classList.add('is-hidden');
     }
@@ -49,14 +49,14 @@ tabs.func = (function () {
     var targets = document.querySelectorAll('.is-' + target_id);
 
     // Content einblenden
-    for (i = 0; i < targets.length; i++) {
+    for (var i = 0; i < targets.length; i++) {
       var target = targets[i];
       target.classList.remove('is-hidden');
     }
 
     // Aktiven Navipunkt markieren
     var elements = ele.parentElement.querySelectorAll('.tab-item');
-    for (i = 0; i < elements.length; i++) {
+    for (var i = 0; i < elements.length; i++) {
       var element = elements[i];
       element.classList.remove('is-active');
     }
@@ -78,7 +78,7 @@ more.func = (function () {
 
     var elements = document.querySelectorAll('[data-target]');
 
-    for (i = 0; i < elements.length; i++) {
+    for (var i = 0; i < elements.length; i++) {
 
       var ele = elements[i];
 
@@ -123,13 +123,13 @@ panelTabs.func = (function () {
     // Tab Navi aktivieren
     var tabNavigations = document.querySelectorAll('.panel');
 
-    for (i = 0; i < tabNavigations.length; i++) {
+    for (var i = 0; i < tabNavigations.length; i++) {
       var tabNavigation = tabNavigations[i];
       var htmltabs = tabNavigation.querySelectorAll('.panel-block');
       htmltabs[0].classList.add('is-active');
       selectPanelTab(htmltabs[0]);
 
-      for (i = 0; i < htmltabs.length; i++) {
+      for (var i = 0; i < htmltabs.length; i++) {
         var htmltab = htmltabs[i];
 
         htmltab.onclick = function () {
@@ -148,7 +148,7 @@ panelTabs.func = (function () {
     // Content ausblenden
     var items = document.querySelectorAll('.is-tab-content');
 
-    for (i = 0; i < items.length; i++) {
+    for (var i = 0; i < items.length; i++) {
       var item = items[i];
       item.classList.add('is-hidden');
     }
@@ -157,14 +157,14 @@ panelTabs.func = (function () {
     var targets = document.querySelectorAll('.is-' + target_id);
 
     // Content einblenden
-    for (i = 0; i < targets.length; i++) {
+    for (var i = 0; i < targets.length; i++) {
       var target = targets[i];
       target.classList.remove('is-hidden');
     }
 
     // Aktiven Navipunkt markieren
     var elements = ele.parentElement.querySelectorAll('.panel-block');
-    for (i = 0; i < elements.length; i++) {
+    for (var i = 0; i < elements.length; i++) {
       var element = elements[i];
       element.classList.remove('is-active');
     }
