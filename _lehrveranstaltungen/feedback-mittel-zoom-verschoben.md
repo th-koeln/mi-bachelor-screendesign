@@ -4,7 +4,7 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: other
 pflicht: true
-termine: 2025-02-28 16:00
+termine: 2026-02-28 16:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

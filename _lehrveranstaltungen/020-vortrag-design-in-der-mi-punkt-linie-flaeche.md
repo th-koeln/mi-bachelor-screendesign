@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2024-10-18 10:00
+termine: 2025-10-18 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
@@ -25,5 +25,4 @@ Heute befassen wir uns mit einer Reihe von Grundbegriffen und Sichtweisen im Des
 ## Material
 - [Folien zu Design in der Medieninformatik](https://cnoss.github.io/slides/presentations/screendesign/design-in-der-medieninformatik/)
 
-## Sketchnotes aus dem Input
-![Sketchnotes SD Design in der MI](../../images/recordings/sd-session-02.jpg "Sketchnotes SD Design in der MI")
+## Sketchnotes aus dem Input![Sketchnotes SD Design in der MI](../../images/recordings/sd-session-02.jpg "Sketchnotes SD Design in der MI")

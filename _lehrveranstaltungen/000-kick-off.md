@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-10-11 10:00
+termine: 2025-10-11 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -33,11 +33,10 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **17.10.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=452322) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **17.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=452322) hoch.
 
 ## Ergebnisse
 
 <!-- Hier können Sie sich [Ihre Arbeitsergebnisse]() anschauen. -->
 
-## Sketchnotes aus dem Input
-![Sketchnotes SD KickOff](../../images/recordings/sd-session-01.jpg "Sketchnotes SD KickOff")
+## Sketchnotes aus dem Input![Sketchnotes SD KickOff](../../images/recordings/sd-session-01.jpg "Sketchnotes SD KickOff")

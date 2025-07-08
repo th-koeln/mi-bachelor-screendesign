@@ -4,7 +4,7 @@ kuerzel: w-vb
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-12-27 10:00
+termine: 2025-12-27 10:00
 raum: vor-ort-ferchau
 empfohlene-voraussetzungen:
 published: false
@@ -42,4 +42,4 @@ Gleichzeitig benötigen wir im Screendesign häufig verschiedene Varianten eines
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **19.12.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
+Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **19.12.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.

@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2024-12-06 13:30
+termine: 2025-12-06 13:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -22,7 +22,7 @@ Heute wird das konkrete Projektthema vorgestellt und wir erarbeiten den Projektk
 
 
 ## Material
-- [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2024/)
+- [Infos zum Projekt](/mi-bachelor-screendesign-projekte/sd-2025/)
 - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
 - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
 - [Upload für Fotos von Boards vom Briefing Review](https://th-koeln.sciebo.de/s/OSr1r9LzESdNXwq)

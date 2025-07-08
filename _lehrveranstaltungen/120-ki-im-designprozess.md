@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: vs
 typ: orga
 pflicht: false
-termine: 2025-01-10 10:00
+termine: 2026-01-10 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 120

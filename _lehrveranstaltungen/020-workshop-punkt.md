@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-10-18 12:30
+termine: 2025-10-18 12:30
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -39,7 +39,7 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **24.10.2024 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **24.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
 
 
 

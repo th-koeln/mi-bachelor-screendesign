@@ -26,7 +26,7 @@ Einige Content Snippets haben wir in folgender Vorlage gesammelt. Zur Nutzung ge
 Wie ist der Content beschaffen? Wie ist das Mengengerüst? Welche Bilder und Texte stehen zur Verfügung? Wie sind die Bilder beschaffen? Welche Seitenverhältnisse haben sie? Wie sind die Texte beschaffen? Wie lang sind die Texte?
 
 ### Schritt 2: Kommuninationssziele prüfen und Inspiration holen
-Was sind die [Kommuninationssziele](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2024/)? Wie soll das Design wirken? Was soll es bewirken? Was machen [andere](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-layouts/)?
+Was sind die [Kommuninationssziele](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)? Wie soll das Design wirken? Was soll es bewirken? Was machen [andere](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-layouts/)?
 
 ### Schritt 3: Grundlayouts & Scribbles
 

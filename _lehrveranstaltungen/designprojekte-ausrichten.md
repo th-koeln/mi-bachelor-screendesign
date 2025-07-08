@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2024-12-13 10:00
+termine: 2025-12-13 10:00
 published: true
 dauer: 300
 raum: vor-ort-v
@@ -28,7 +28,7 @@ Los geht's! 💪🏽
 ## Ablauf
 
 
-|10:00|3.102|[Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2024-onboarding/), Einführung und Auftrag|
+|10:00|3.102|[Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2025-onboarding/), Einführung und Auftrag|
 |ca. 10:45|Workshop Räume| Themenworkshops|
 |14:00|3.102|Vorstellung der Ergebnisse|
 
@@ -46,7 +46,7 @@ Los geht's! 💪🏽
 
 ## Material
 - [Räume](../../images/workshop-raeume.png)
-- [Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2024-onboarding/)
+- [Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2025-onboarding/)
 
 
 
