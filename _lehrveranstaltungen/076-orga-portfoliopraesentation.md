@@ -4,7 +4,7 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2025-12-06 10:00
+termine: 2025-12-05 10:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180

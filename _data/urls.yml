@@ -50,10 +50,7 @@ vor-ort-v:
   name: "Raum 3.102"
 
 vor-ort-w:
-  name: "Raum 3.103, 3.104 & 3.109"
-
-vor-ort-w-multi:
-  name: "Raum 3.216, 3.217"
+  name: "Raum 3.216"
 
 vor-ort-ferchau:
   name: "Raum 0.502"
@@ -65,8 +62,8 @@ portfolio-pruefung:
   name: Raum 3.102, 3.103 und 3.108
 
 semesterprojekt:
-  name: Projektaufgabe ws21/22
-  url: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2021/
+  name: Projektaufgabe WS25/26
+  url: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/
     
 projekt-repo-frontend:
   name: Projektergebnisse

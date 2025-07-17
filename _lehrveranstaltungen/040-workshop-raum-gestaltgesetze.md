@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-11-15 13:00
+termine: 2025-11-07 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -33,7 +33,7 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden:
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **28.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=504809&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **13.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=504809&cmd=showOverview) hoch.
 
 <!--
 ## Sie haben keinen Rechner?

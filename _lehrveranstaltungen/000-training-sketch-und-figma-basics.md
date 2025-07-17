@@ -4,11 +4,11 @@ kuerzel: t-sb
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2025-10-11 13:00
+termine: 2025-10-10 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 150
-raum: vor-ort-w-multi
+raum: vor-ort-w
 info: Basistraining für den Umgang mit Figma
 ---
 
@@ -37,6 +37,6 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **17.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452322&cmd=showOverview) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **16.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452322&cmd=showOverview) hoch.
 
 

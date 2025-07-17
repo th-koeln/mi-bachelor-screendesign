@@ -4,18 +4,12 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-12-13 10:00
+termine: 2025-12-12 10:00
 published: true
 dauer: 300
 raum: vor-ort-v
 info: 
 ---
-
-
-
-## [Baaaaarcamp](https://www.th-koeln.de/hochschule/barcamp-campus-gummersbach-2025_120700.php)
-Wo bleiben die Studierenden? [Jetzt anmelden!](https://miro.com/app/board/uXjVLGMz2Ko=/)
-
 
 ## Worum geht es?
 

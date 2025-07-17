@@ -4,9 +4,9 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-01-17 10:00
+termine: 2026-01-16 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
-published: true
+published: false
 dauer: 300
 raum: vor-ort-ferchau
 info: 

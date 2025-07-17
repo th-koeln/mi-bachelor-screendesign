@@ -4,11 +4,11 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-10-18 12:30
+termine: 2025-10-17 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
-raum: vor-ort-w-multi
+raum: vor-ort-w
 info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um den Punkt.
 ---
 
@@ -39,7 +39,7 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **24.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **23.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
 
 
 

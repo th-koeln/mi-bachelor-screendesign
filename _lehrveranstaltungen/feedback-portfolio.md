@@ -4,7 +4,7 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
 pflicht: true
-termine: 2025-11-29 15:00
+termine: 2025-11-21 15:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

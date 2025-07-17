@@ -1,10 +1,10 @@
 ---
-titel: <del>KI im Designprozess</del>
+titel: KI im Designprozess
 kuerzel: w-lfve
 verantwortlich: vs
-typ: orga
+typ: workshop
 pflicht: false
-termine: 2026-01-10 10:00
+termine: 2026-01-16 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 120

@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2025-12-06 13:30
+termine: 2025-12-05 14:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
