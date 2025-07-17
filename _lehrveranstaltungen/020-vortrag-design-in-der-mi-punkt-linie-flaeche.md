@@ -7,7 +7,7 @@ pflicht: false
 termine: 2025-10-17 10:00
 empfohlene-voraussetzungen: 
 published: true
-dauer: 90
+dauer: 120
 raum: vor-ort-v
 info: Was sind grundlegende Fragen im Design und welche Rolle spielt Design in der Medieninformatik?
 ---
