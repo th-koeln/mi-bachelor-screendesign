@@ -8,9 +8,9 @@ tags:
 published: true
 ---
 
-Legen Sie eine weiße Arbeitsfläche (Frame) mit einer Größe von **1480x800px** an. 
+Legen Sie eine weiße Arbeitsfläche (Frame) mit einer Größe von **1380x800px** an. 
 
-1. Setzen Sie darauf ein Wort bestehend aus vier bis sieben Buchstaben in einer einfachen, nicht zu schlanken, serifen oder serifenlosen Schrift (z.B. Source Serif Pro, Semibold). 
+1. Setzen Sie darauf ein Wort bestehend aus vier bis sechs Buchstaben in einer einfachen, nicht zu schlanken, serifen oder serifenlosen Schrift (z.B. Source Serif Pro, Semibold). 
 2. Setzen Sie die Schrift so groß wie möglich. Groß- und Kleinschreibung darf wild gemischt sein. 
 3. Wandeln Sie die [Schrift in Outlines](https://help.figma.com/hc/en-us/articles/360047239073-Convert-text-to-vector-paths) um und lösen Sie die Schriftgruppe auf. 
 4. Erzeugen Sie nun ein Spaltenraster in der Anzahl der Buchstaben des Wortes - also z.B. 6 Spalten bei einem Wort mit 6 Buchstaben.
@@ -20,7 +20,7 @@ Legen Sie eine weiße Arbeitsfläche (Frame) mit einer Größe von **1480x800px*
 
 Hierbei gilt:
 - Die Buchstaben dürfen nicht gedreht, verzerrt oder in ihrer Form verändert werden.
-- Das Wort muss noch lesbar/ erkennbar sein.
+- Das Wort muss noch lesbar/erkennbar sein.
 
 Erzeugen Sie zwei Varianten und exportieren Sie die beiden Varianten als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=487233&ass_id=18479) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 

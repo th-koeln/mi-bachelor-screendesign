@@ -7,20 +7,27 @@ tags:
 published: true
 ---
 
-<!--Erzeugen Sie auf einer gellgrauen Fläche von **1024x1366 Pixeln** (hochformat) ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils **16 gleich großen schwarzen Punkten** diese sieben Begriffe dar: -->
+Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x550px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Duplizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
 
-Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x500px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
+1. Balance
+2. Chaos
+3. Widerstand
+4. Anziehung
+5. Stille
+6. Fokus
+7. Explosion
+8. Bewegung
+
+<!-- Begriffe aus 2024 und 2023:
 
 1. Konfrontation
 2. Zerfall
-3. Rhytmus
+3. Rhythmus 
 4. Spannung
 5. Kontrast
 6. Verdichtung
 7. Durchbrechung
 8. Richtung
-
-<!-- Begriffe aus 2023:
 
 1. Ansammlung
 2. Streuung
@@ -32,10 +39,6 @@ Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich gr
 8. Aufstieg
 
 -->
-
-<!-- 5. Systematik -->
-<!--6. Komplexität-->
-
 
 Erzeugen Sie bei Bedarf eine Maske, um Anschnitte im Ranbreich realisieren zu können. Bleiben Sie auf der syntaktischen Ebene. 
 

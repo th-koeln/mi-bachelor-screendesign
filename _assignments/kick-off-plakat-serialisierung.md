@@ -8,7 +8,9 @@ deadline: 2023-10-19
 published: true
 ---
 
-Entwerfen Sie ein (typografisches) Plakat, auf dem Begriff/ das Konzept «Serialisierung» in der Informatik erklärt wird. Dabei gelten folgende Rahmenbedingungen:
+Entwerfen Sie ein (typografisches) Plakat, auf dem Begriff/ das Konzept «Modularisierung» in der Informatik erklärt wird. Dabei gelten folgende Rahmenbedingungen:
+
+<!-- Weitere Begriffsideen: Modularisierung, Vernetzung, Rekursion, Synchronisierung, Verzweigung, Codierung, Nebenläufigkeit -->
 
 - DIN A2, hängt nachher in der Hochschule
 - verwenden Sie max. zwei Schriftarten

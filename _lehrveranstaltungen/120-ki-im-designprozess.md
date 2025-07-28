@@ -12,7 +12,7 @@ raum: vor-ort-ferchau
 info: 
 ---
 
-> Workshop fällt krankheitsbedingt leider aus, bzw. wird zu einem späteren Zeitpunkt nachgeholt.
+> tba
 
 <!--
 ## Worum geht es?
