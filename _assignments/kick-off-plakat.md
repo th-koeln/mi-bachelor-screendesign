@@ -1,5 +1,5 @@
 ---
-titel: Plakat Serialisierung
+titel: Plakat Modularisierung
 tags: 
   - Warm-up
   - WS2425

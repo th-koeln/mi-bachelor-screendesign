@@ -28,12 +28,12 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 ## Übungen
 * [Was will ich hier](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-was-will-ich-hier/)
-* [Plakat Serialisierung](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-serialisierung/)
+* [Plakat Serialisierung](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat/)
 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **16.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=452322) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **16.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=679316&cmd=showOverview) hoch.
 
 ## Ergebnisse
 

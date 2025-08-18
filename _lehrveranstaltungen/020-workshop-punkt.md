@@ -39,7 +39,7 @@ In der heutigen Session sollen folgende Übungen bearbeitet werden.
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **23.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **23.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=679317&cmd=showOverview) hoch.
 
 
 

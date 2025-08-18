@@ -38,7 +38,7 @@ Hier können Sie Ihre [Fotos hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **06.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=487233&ass_id=18479) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **06.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=679319&cmd=showOverview) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
