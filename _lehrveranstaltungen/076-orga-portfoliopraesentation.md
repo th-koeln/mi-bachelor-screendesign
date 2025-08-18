@@ -19,11 +19,7 @@ Heute werden zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschi
 
 ## Vorbereitung & Anmeldung
 
-Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem [Slot im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=519767) an. 
-
-
-
-
+Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. Melden Sie sich dann zu einem Slot im ILU an: [{{ site.data.urls.anmeldung-portfoliopraesentation.name }}]({{ site.data.urls.anmeldung-portfoliopraesentation.url }})   
 
 
 Weitere Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](../../gestaltungsportfolio/).

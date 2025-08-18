@@ -15,5 +15,5 @@ info:
 
 ## Anmeldung
 
-- [Upload der Artefakte zum Feedback der Portfoliopräsentation](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=520936)
+- [{{ site.data.urls.upload-feedback-portfolio.name }}]( {{site.data.urls.upload-feedback-portfolio.url}} )
 

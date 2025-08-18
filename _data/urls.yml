@@ -43,6 +43,27 @@ hybrid-studio:
   name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilias)"
   url: "https://th-koeln.zoom.us/j/82712097709"
 
+
+anmeldung-portfoliopraesentation:
+  name: "Anmeldung Portfoliopräsentation"
+  url: "https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=679419"
+
+anmeldung-zwischenpraesentation:
+  name: "Anmeldung Zwischenpräsentation"
+  url: "https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679436"
+
+anmeldung-pruefung:
+  name: "Anmeldung Projektpraesentation"
+  url: "https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679445"
+
+anmeldung-feedback-zoom:
+  name: "Anmeldung Feedback & Support (online)"
+  url: "https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679439"
+
+upload-feedback-portfolio:
+  name: "Upload der Artefakte zum Feedback des Gestaltungsportfolios"
+  url: "https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yk:nd&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679417&ass_id=23826"
+
 vor-ort: 
   name: Raum XYZ
 

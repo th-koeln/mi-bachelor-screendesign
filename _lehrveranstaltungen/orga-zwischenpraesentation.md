@@ -15,7 +15,7 @@ info:
 
 ## Anmeldung
 
-Bitte buchen Sie pro Team **einen** Zeitslot [hier](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yk:m2&cmdClass=ilObjBookingPoolGUI&cmd=render&ref_id=546558) im ILU. 
+Bitte buchen Sie pro Team **einen** Zeitslot im ILU: [{{ site.data.urls.anmeldung-zwischenpraesentation.name }}]({{ site.data.urls.anmeldung-zwischenpraesentation.url }})
 
 ## Worum geht es?
 

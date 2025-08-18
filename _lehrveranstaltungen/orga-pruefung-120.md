@@ -15,7 +15,7 @@ info: Projektpräsentationsprüfungen
 
 <hr> 
 
-Für die Prüfung müssen Sie im PSSO angemeldet sein und einen [Termin im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yk:m2&cmdClass=ilObjBookingPoolGUI&cmd=render&ref_id=553843) gebucht haben.
+Für die Prüfung müssen Sie im PSSO angemeldet sein und einen Termin im ILU buchen: [{{ site.data.urls.anmeldung-pruefung.name }}]({{ site.data.urls.anmeldung-pruefung.url }})
 
 Beachten Sie die [Niveaustufen und die darin festgelegten Abgabetermine der Artefakte](https://th-koeln.github.io/mi-bachelor-screendesign/niveaustufen/). Bei Fragen nutzen Sie bitte das ILU Forum oder die Feedbacktermine.
 

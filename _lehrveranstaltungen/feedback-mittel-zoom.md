@@ -15,6 +15,6 @@ info:
 
 ## Anmeldung
 
-Für die Termine in der **vorlesungsfreien Zeit müssen Sie einen Termin im ILU buchen**. Melden Sie sich hierzu bitte frühzeitig an, sodass wir mit Ihnen planen und rechnen können.
+Für die Termine in der **vorlesungsfreien Zeit müssen Sie einen Termin im ILU buchen**. Melden Sie sich hierzu bitte frühzeitig an, sodass wir mit Ihnen planen und rechnen können:
 
-- [Terminbuchung für Feedbacktermine im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=543070)
+- [{{ site.data.urls.anmeldung-feedback-zoom.name }}](site.data.urls.anmeldung-feedback-zoom.url)
