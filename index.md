@@ -20,7 +20,7 @@ Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner 
 
 Die erste reguläre Veranstaltung ist am **10. Oktober 2025** um **10:00 Uhr**. Der letzte Termin ist am **11. März 2026**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
-Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) an.
+Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) an.
 </div>
 
 <!--
@@ -142,8 +142,6 @@ Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n verö
 ## Eingesetzte Software
 
 Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein. Die Nutzung von Figma für Studenten ist kostenlos und [erfordert lediglich eine Verifizierung](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-Education-status). Weitere Infos dazu sind auf [Figma](https://www.figma.com/pricing-faq/) zu finden.
-
-Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gimp.org/downloads/).
 
 
 ## Wie kann ich mich vorbereiten?

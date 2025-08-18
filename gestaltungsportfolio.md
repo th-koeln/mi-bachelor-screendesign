@@ -36,4 +36,4 @@ Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](
 Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer:in stehen fünf Minuten Präsentationszeit zur Verfügung. Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung, anstatt sie zu beschreiben.
 
 ## Abgabe
-Das Portfolio muss bis zum {{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}} 15:00 Uhr im [{{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}}) hochgeladen sein.
+Das Portfolio muss bis zum {{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}} 23:55 Uhr im [{{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}}) hochgeladen sein.

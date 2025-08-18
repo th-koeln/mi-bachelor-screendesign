@@ -3,7 +3,7 @@ layout: page-einspalter
 titel: Nomenklatur für Dateiabgaben
 ---
 
-Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
+Zur Abgabe der notwendigen Dateien nutzen Sie bitte den in [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
 
 ## Dateinamen
 <!--
@@ -33,8 +33,3 @@ Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
 
 
 Bitte laden Sie keine Archive (*.zip, *.tar, *.rar oder Ähnliches) hoch und verwenden Sie in den Dateinamen nur folgende Zeichen: [0-9] [a-z] [A-Z] -_\.
-
-
-<!--
-> Bitte keine Archive (*.zip, *.tar, *.rar oder Ähnliches) hochladen, sondern ausschließlich einzelene Dateien. Wir nehmen ausschlißelich PNG und PDF Dateien an. Die PNG Files bitte in zweifacher Größe (2x) exportieren.
--->
