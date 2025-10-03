@@ -6,65 +6,22 @@ layout: default
 {% assign tabtags = "Guides|Tools|Farbe|Typo|Haltung|Styleguide|Layout|Inspirationen|UX|Stock" | split: "|" %}
 
 <section class="section">
-  <div class="container">
-
-    <h1 class="title is-1">Links</h1>
-    <h2 class="subtitle">Ein paar praktische Verweise rund um das Thema „Screendesign“</h2>
-
-  </div>
-
-</section>
-<section class="section">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
-        <nav class="panel">
-          <p class="panel-heading">
-            Kategorien
-          </p>
-          <a class="panel-block" data-tab="overview-item">
-            <span class="panel-icon">
-              <i class="fa fa-book"></i>
-            </span> Alle
-          </a>
-          {% for navEle in tabtags %}
-          <a class="panel-block" data-tab="{{navEle}}">
-            <span class="panel-icon">
-              <i class="fa fa-book"></i>
-            </span> {{navEle}}
-          </a>
-          {% endfor %}
-        </nav>
-      </div>
-
-      <div class="links is-tab-content column is-two-thirds is-overview-item">
-        <div class="content link-overview">
-          {% for link in links %}
-          <div class="link-overview__item">
-            <h2 class="title is-2" id="{{ link.id }}">{{ link.titel }}</h2>
-            <p>{{link.text}}<br><a href="{{link.src}}">{{link.src}}</a></p>
-            <p style="color: #999999;">{{link.tags | join:', '}}</p>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-
-      {% for navEle in tabtags %}
-      <div class="links is-tab-content column is-two-thirds is-{{navEle}}">
-        <div class="content link-overview">
-
-          {% for link in links %} {% if link.tags contains navEle %}
-          <div class="link-overview__item">
-            <h2 class="title is-2" id="{{ link.id }}">{{ link.titel }}</h2>
-            <p>{{link.text}}<br><a href="{{link.src}}">{{link.src}}</a></p>
-            <p style="color: #999999;">{{link.tags | array_to_sentence_string: ''}}</p>
-          </div>
-          {% endif %} {% endfor %}
-
-        </div>
-      </div>
-      {% endfor %}
+  <div class="content">
+    <h2 class="title">Links</h2>
+    <div class="text-hero">
+      <p>Ein paar praktische weiterführende Informationen rund um das Thema Screendesign.</p>
     </div>
-
   </div>
+</section>
+
+<section class="section">
+  <ul class="content link-overview">
+    {% for link in links %}
+    <li class="overview-item" data-eyecandy="move-in">
+      <p class="item-title" id="{{ link.id }}">{{ link.titel }}</p>
+      <p class="item-text">{{link.text}}<br><a href="{{link.src}}">{{link.src}}</a></p>
+      <p class="item-tags">{{link.tags | join:', '}}</p>
+    </li>
+    {% endfor %}
+  </ul>
 </section>

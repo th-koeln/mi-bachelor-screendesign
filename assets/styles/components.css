@@ -32,7 +32,6 @@
       padding-bottom: var(--fluid-space-xxl);
       height: auto;
       min-height: 50%;
-      ;
     }
   }
 
@@ -234,6 +233,17 @@
     display: block;
   }
 
+  .text-hero,
+  p:has(img) {
+    display: block;
+    grid-column: 1 / -1;
+    margin-top: var(--fluid-space-m);
+    margin-bottom: var(--fluid-space-m);
+    font-size: clamp(1.2rem, 0.8vw + 1rem, 2.5rem);
+    line-height: var(--lh-default);
+    max-width: 70ch;
+  }
+
   &[data-grid] {
     @media screen and (min-width: 90rem) {
       display: grid;
@@ -245,16 +255,7 @@
         grid-column: 2;
       }
 
-      .text-hero,
-      p:has(img) {
-        display: block;
-        grid-column: 1 / -1;
-        margin-top: var(--fluid-space-m);
-        margin-bottom: var(--fluid-space-m);
-        font-size: clamp(1.2rem, 0.8vw + 1rem, 2.5rem);
-        line-height: var(--lh-default);
-        max-width: 70ch;
-      }
+
 
       h1,
       h2,
@@ -280,10 +281,6 @@
         margin-top: 0;
       }
     }
-
-
-
-
   }
 }
 
@@ -291,6 +288,7 @@
 ############################################################################ */
 
 .card-grid {
+
   display: grid;
 
   gap: var(--fluid-space-xl);
@@ -303,6 +301,15 @@
   }
 
   .card {
+
+    &::before {
+      content: "";
+      display: block;
+      width: var(--fluid-space-m);
+      border-top: solid var(--border-width-m) var(--icon-color);
+      margin-top: var(--fluid-space-s);
+      margin-bottom: var(--fluid-space-m);
+    }
 
     h3 {
       margin-bottom: var(--quarter);
@@ -329,18 +336,6 @@
     }
   }
 
-  @media screen and (max-width: 20rem) {
-    & .card {
-      &::after {
-        content: "";
-        display: block;
-        margin-top: var(--fluid-space-xl);
-        border-bottom: var(--border-width) solid var(--color-darken);
-        width: var(--fluid-space-m);
-        margin-left: calc(var(--fluid-space-m) * -1);
-      }
-    }
-  }
 }
 
 /* Events
@@ -411,8 +406,8 @@
 /* Lehrveranstaltungsseite
 ############################################################################ */
 
-[data-layout="lehrveranstaltung"]{
-  .overview{
+[data-layout="lehrveranstaltung"] {
+  .overview {
     margin-bottom: var(--fluid-space-l);
   }
 }
@@ -420,9 +415,60 @@
 /* Is Simple
 ############################################################################ */
 
-.is-simple{
-  hr{
+.is-simple,
+.is-large {
+  hr {
     margin-top: var(--fluid-space-l);
     margin-bottom: var(--fluid-space-l);
+  }
+}
+
+
+/* Assignment & Link Overview
+############################################################################ */
+
+.assignment-overview,
+.link-overview {
+  .overview-item {
+    transition: background-color var(--tr-medium), padding-left var(--tr-fast);
+    padding-bottom: var(--fluid-space-m);
+
+    .item-title {
+      font-size: var(--size-xxl);
+      color: var(--color-darkest);
+      font-weight: var(--fw-medium);
+    }
+
+    .item-tags {
+      color: var(--color-dark);
+    }
+
+    .item-text {
+      color: var(--color-darkest);
+      margin-top: var(--space-l);
+      margin-bottom: var(--space-l);
+
+    }
+
+    &::before {
+      content: "";
+      display: block;
+      width: var(--fluid-space-m);
+      border-top: solid var(--border-width-m) var(--icon-color);
+      margin-bottom: var(--fluid-space-m);
+    }
+
+    &:has(>a):hover {
+      background-color: var(--decoration-color);
+      padding-left: var(--fluid-space-s);
+
+      .item-title {
+        color: var(--color-lightest)
+      }
+
+      .item-tags {
+        color: var(--color-lighten-strong);
+      }
+    }
   }
 }

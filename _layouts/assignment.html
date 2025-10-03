@@ -1,36 +1,28 @@
 ---
-layout: reduced
+layout: default
 ---
 
 <section class="section is-inverted">
-  <div class="container">
-    <div class="content is-large">
-      <div class="columns">
-        <div class="column is-8">
-          <h1>{% if page.icon %}<span class="large-icon">{{page.icon}}</span>&nbsp;&nbsp;{% endif %}{{ page.titel }}{% if page.raum %} | Raum {{page.raum}}{% endif %}</h1>
-        </div>
-        <div class="column is-4 has-text-right">
-          <a target="_blank" href="{{site.editbase}}{{ page.path }}"><span
-              class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
-        </div>
-      </div>
-      <hr>
-    </div>
-  </div>
+  <header class="has-edit-button">
+                
+    <h2 class="title">{{ page.titel }}</h2>
+            
+    <a target="_blank" href="https://github.com/th-koeln/mi-bachelor-screendesign/edit/master/{{ page.path }}"><span class="icon">edit</span>Bearbeiten</a>
+                
+  </header>
   
-  <div class="container">
-    <div class="content is-large">
-      {{ page.content }}
+  
+  <div class="content is-large">
+    {{ page.content }}
 
-      {% unless page.upload == null %}
-      <div class="notification is-info">
-        <p class="content">Laden Sie ihre Ergebnisse
-          {% unless page.deadline == null %} bis zum <strong>{{ page.deadline | date: "%-d. %B %Y" }}</strong>
-          {% endunless %} im
-          <a href="{{ page.upload }}" title="Upload-Bereich im Iilu-Kurs" target="_blank">Iilu-Kurs</a>
-          hoch.</p>
-      </div>
-      {% endunless %}
+    {% unless page.upload == null %}
+    <div class="notification is-info">
+      <p class="content">Laden Sie ihre Ergebnisse
+        {% unless page.deadline == null %} bis zum <strong>{{ page.deadline | date: "%-d. %B %Y" }}</strong>
+        {% endunless %} im
+        <a href="{{ page.upload }}" title="Upload-Bereich im Iilu-Kurs" target="_blank">Iilu-Kurs</a>
+        hoch.</p>
     </div>
+    {% endunless %}
   </div>
 </section>

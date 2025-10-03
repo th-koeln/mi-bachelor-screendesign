@@ -1,3 +1,6 @@
+- url: /
+  name: Home
+
 - url: angebote/
   name: Veranstaltungen
 
@@ -12,9 +15,6 @@
 
 - url: gestaltungsportfolio/
   name: Gestaltungsportfolio
-
-- url: nomenklatur/
-  name: Nomenklatur
 
 - url: links/
   name: Links  

@@ -124,7 +124,7 @@
   --z-level-front: 20;
   --z-level-overlay: 10;
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 800px) {
     --scaling-factor: 0.9;
     
   }

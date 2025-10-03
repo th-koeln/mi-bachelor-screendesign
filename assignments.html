@@ -6,67 +6,22 @@ layout: default
 {% assign tabtags = "Analyse|Basics|Farbe|Fläche|Interaktion|Layout|Konzeption|Layout|Linie|Projekt|Punkt|Teamarbeit|Typographie|Warm-up|WS2425" | split: "|" %}
 
 <section class="section">
-  <div class="container">
-
-    <h1 class="title is-1">Assignments</h1>
-    <h2 class="subtitle">Hier die Übersicht über alle Übungen.<br> Für das Gestaltungsportfolio sind nur die Übungen relevant, die in der diesjährigen Veranstaltung bearbeitet wurden.</h2>
-
+  <div class="content">
+    <h2 class="title">Assignments</h2>
+    <div class="text-hero">
+      <p>Hier die Übersicht über alle Übungen.Für das Gestaltungsportfolio sind nur die Übungen relevant, die in der diesjährigen Veranstaltung bearbeitet wurden.</p>
+    </div>
   </div>
-
 </section>
 <section class="section">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
-        <nav class="panel">
-          <p class="panel-heading">
-            Kategorien
-          </p>
-          <a class="panel-block" data-tab="overview-item">
-            <span class="panel-icon">
-              <i class="fa fa-book"></i>
-            </span> Alle
-          </a>
-          {% for navEle in tabtags %}
-          <a class="panel-block" data-tab="{{navEle}}">
-            <span class="panel-icon">
-              <i class="fa fa-book"></i>
-            </span> {{navEle}}
-          </a>
-          {% endfor %}
-        </nav>
-      </div>
-
-      <div class="assignments is-tab-content column is-two-thirds is-overview-item">
-        <div class="content assignment-overview">
-          {% for assignment in assignments %}
-          <div class="assignment-overview__item" data-tags="{{assignment.tags | join:' '}}">
-            <a href="{{assignment.url | relative_url}}">
-            <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-            <p style="color: #999999;">{{assignment.tags | join:' '}}</p>
-            </a>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-
-      {% for navEle in tabtags %}
-      <div class="assignments is-tab-content column is-two-thirds is-{{navEle}}">
-        <div class="content assignment-overview">
-
-          {% for assignment in assignments %} {% if assignment.tags contains navEle %}
-          <div class="assignment-overview__item">
-              <a href="{{assignment.url | relative_url}}">
-              <h2 class="title is-2" id="{{ assignment.id }}">{{ assignment.titel }}</h2>
-              <p style="color: #999999;">{{assignment.tags | join:' '}}</p>
-              </a>
-            </div>
-          {% endif %} {% endfor %}
-
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-
-  </div>
+  <ul class="content assignment-overview">
+    {% for assignment in assignments %}
+    <li class="overview-item" data-tags="{{assignment.tags | join:' '}}" data-eyecandy="move-in">
+      <a href="{{assignment.url | relative_url}}">
+        <p class="item-title" id="{{ assignment.id }}">{{ assignment.titel }}</p>
+        <p class="item-tags" >{{assignment.tags | join:', '}}</p>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
 </section>
