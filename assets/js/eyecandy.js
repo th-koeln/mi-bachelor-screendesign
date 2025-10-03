@@ -111,8 +111,9 @@ const ecSlideIn = (el, delay) => {
 
 const ecRotateIn = (el, delay) => {
   gsap.from(el, {
-    duration: 0.2 + Math.random() * 0.2,
+    duration: 0.3 + Math.random() * 0.2,
     rotationY: 90,
+    width: 0,
     ease: 'sine.in(1.7)',
     autoAlpha: 0,
     scrollTrigger: {
@@ -184,8 +185,7 @@ const animateLines = (text) => {
 };
 
 const initEyeCandy = () => {
-  console.log('Init EyeCandy');
-
+  
   const fontsReady =
     'fonts' in document && document.fonts?.ready ? document.fonts.ready : Promise.resolve(); // Fallback, falls Font Loading API nicht da ist
 

@@ -437,6 +437,8 @@
       font-size: var(--size-xxl);
       color: var(--color-darkest);
       font-weight: var(--fw-medium);
+      line-height: var(--lh-tight);
+      text-wrap: balance;
     }
 
     .item-tags {
