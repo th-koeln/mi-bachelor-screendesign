@@ -123,4 +123,9 @@
   --menu-button-width: 3.5rem;
   --z-level-front: 20;
   --z-level-overlay: 10;
+
+  @media screen and (max-width: 600px) {
+    --scaling-factor: 0.9;
+    
+  }
 }
