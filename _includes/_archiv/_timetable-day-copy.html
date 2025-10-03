@@ -1,0 +1,109 @@
+{% assign day = include.day %}
+{% assign difftime = include.difftime %}
+{% assign starttime = include.starttime %}
+{% assign time-correction = include.time-correction %}
+
+{% assign lehrveranstaltungen = (site.lehrveranstaltungen | sort: 'dauer,typ')) %}
+{% assign overlap-0 = 0 %}
+{% assign overlap-1 = 0 %}
+{% assign overlap-2 = 0 %}
+{% assign overlap-3 = 0 %}
+{% assign overlap-4 = 0 %}
+{% assign overlap-5 = 0 %}
+{% assign overlap-6 = 0 %}
+{% assign overlap-7 = 0 %}
+{% assign overlap-8 = 0 %}
+{% assign overlap-9 = 0 %}
+
+{{day}}
+
+<!--div class="column"-->
+<h3 class="datum">{{day.name}}, {{day.datum | date: '%d. %B %Y' | replace:"January","Januar" |
+  replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" |
+  replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
+<div class="timetable-wrap">
+
+  {% for i in (0..difftime) %}
+  {{i}}
+
+            {% assign stunde = i | plus: starttime | append: "" %}
+          {% if stunde.size == 1 %}
+          {% assign stunde = stunde | prepend: "0" %}
+          {% endif %}
+          {% assign searchTime = stunde | append: ":00" %}
+          {% assign searchTermin = day.datum | append: " " | append: searchTime %}
+
+    {% assign veranstaltungenHeute = '' | split: '' %}
+    {% for veranstaltung in lehrveranstaltungen %}
+    {% assign termine = veranstaltung | join: "termine" %}
+    {% if veranstaltung.termine contains searchTermin%}
+        {% assign veranstaltungenHeute = veranstaltungenHeute | push: veranstaltung %}
+        {% endif %}
+        {% endfor %}
+
+    {% for veranstaltung in veranstaltungenHeute %}
+      {% assign termine = veranstaltung.termine | split: "," %}
+      {% assign default-data = veranstaltung.raum | split: "|" %}
+      {% assign default-raum = default-data[0] %}
+
+      {% for entry in termine %}
+        {% assign entry-data = entry | split: "|" %}
+        {% assign termin = entry-data[0] %}
+        {% assign raum = entry-data[1] %}
+        {% assign dozent = entry-data[3] %}
+        {% assign termin-start-min = termin | date: '%M' %}
+        {% assign startzeit = termin | date: "%H" | append: "" %}
+        {% assign termin-zone = termin | date: '%s' | minus: time-correction %}
+        {% assign termin-to-check = termin-zone | date: '%Y-%m-%d' %}
+        {% assign aktueller-tag = day.datum | date: '%Y-%m-%d' %}
+        {% assign raumnummer = "" %}
+        <div class="column">
+          {% include /functions/resolve-types.html typ=veranstaltung.typ %}
+          <a href="{{site.baseurl}}{{veranstaltung.url}}">
+            <div class="veranstaltung {{veranstaltung.typ}}" style="margin-top: {{termin-start-min}}px;  height: {{veranstaltung.dauer}}px">
+              {% assign verantwortlich = veranstaltung.verantwortlich %}
+              {% if dozent != "" and dozent != nil %}
+              {% assign verantwortlich = dozent %}
+              {% endif %}
+              {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
+              <p class="title">{{typ-name}}:
+                {{veranstaltung.titel}}</p>
+
+              {% if (default-raum | append: "") != "" %}
+              {% assign raumnummer = default-raum | append: "" %}
+              {% endif %}
+
+              {% if raum.size > 1 %}
+              {% assign raumnummer = raum | append: "" %}
+              {% endif %}
+
+              {% include functions/resolve-urls.html target=raumnummer %}
+              {% assign preset-raum = name | append: "" %}
+              {% assign preset-href = url | append: "" %}
+
+              {% if preset-raum != "" %}
+              {% assign resolved-raum = preset-raum %}
+              {% assign resolved-href = preset-href %}
+              {% else %}
+              {% assign resolved-raum = raum %}
+              {% assign resolved-href = href %}
+              {% endif %}
+
+              {% assign check = typ-max-teilnehmer | strip_newlines %}
+              {% if check != "" %}
+              {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
+              <p class="subtitle">{{t}} <br>
+
+                {{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if anmeldung != '' and anmeldung != nil %} // Anmeldung erforderlich{% endif %}{% if termine.size > 1 %}
+                ({{termine.size}} Termine){% endif %}{% if raumnummer.size > 1 %} // {{resolved-raum}}{% endif %}</p>
+              {% endif %}
+
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+      
+    {% endfor %}
+  {% endfor %}
+
+</div>

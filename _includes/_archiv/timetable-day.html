@@ -1,0 +1,115 @@
+{% assign day = include.day %}
+{% assign difftime = include.difftime %}
+{% assign starttime = include.starttime %}
+
+{% assign lehrveranstaltungen = (site.lehrveranstaltungen | sort: 'dauer,typ') %}
+
+{%- comment -%}
+Erwartete Struktur je Veranstaltung v:
+- v.termine: "2026-01-23 15:00, 2026-01-30 15:00"  (oder nur ein Eintrag ohne Komma)
+- v.titel (optional) / v.name (Fallback)
+- v.dauer_minuten (optional; ganze Zahl)
+
+Ziel:
+- Alle Einzeltermine aller Veranstaltungen sammeln
+- Sortierung nach Startzeit (UNIX-Timestamp)
+- Ausgabe gruppiert nach Datum, optional mit Endzeit
+{%- endcomment -%}
+
+{%- assign einzeltermine = '' | split: '' -%}
+
+{%- for v in lehrveranstaltungen -%}
+  {%- assign titel = v.titel | default: v.name | default: "Ohne Titel" -%}
+  {%- assign termine = v.termine | split: "," -%}
+  {%- for t in termine -%}
+    {%- assign dt_raw = t | strip -%}
+    {%- assign ts = dt_raw | date: "%s" -%}
+    {%- assign datum = dt_raw | date: "%Y-%m-%d" -%}
+    {%- assign uhr = dt_raw | date: "%H:%M" -%}
+    {%- assign datum_schoen = dt_raw | date: '%d. %B %Y' | replace:"January","Januar" |
+  replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" |
+  replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" -%}
+
+    {%- assign teil = ts | append: "|" | append: v.id
+                        | append: "|" | append: uhr
+                        | append: "|" | append: titel
+                        | append: "|" | append: v.dauer
+                        | append: "|" | append: datum_schoen
+                        | append: "|" | append: v.id -%}
+
+    {%- assign einzeltermine = einzeltermine | push: teil -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{%- assign einzeltermine = einzeltermine | sort -%}
+
+{%- assign current_date = "" -%}
+{%- for e in einzeltermine -%}
+  {%- assign parts = e | split: "|" -%}
+  {%- assign ts = parts[0] -%}
+  {%- assign datum = parts[1] -%}
+  {%- assign uhr = parts[2] -%}
+  {%- assign titel = parts[3] -%}
+  {%- assign dauer = parts[4] -%}
+  {%- assign datum_schoen = parts[5] -%}
+  {%- assign id_veranstaltung = parts[6] -%}
+  
+  {% assign veranstaltungen = lehrveranstaltungen | where: "id", id_veranstaltung %}
+  {% assign veranstaltung = veranstaltungen.first %}
+
+  {%- if datum != current_date -%}
+    {%- if forloop.index > 1 -%}</ul>{%- endif -%}
+    <h3>{{ datum_schoen }}</h3>
+    <ul>
+    {%- assign current_date = datum -%}
+  {%- endif -%}
+
+  {%- if dauer and dauer != "" -%}
+    {%- assign dauer_s = dauer | times: 60 -%}
+    {%- assign end_ts = ts | plus: dauer_s -%}
+    {%- assign end_uhr = end_ts | date: "%H:%M" -%}
+    <li><strong>{{ uhr }}–{{ end_uhr }}</strong> – s->{{ titel }} {{veranstaltung.titel}}</li>
+  {%- else -%}
+    <li><strong>{{ uhr }}</strong> – {{ titel }}</li>
+  {%- endif -%}
+{% include /functions/resolve-types.html typ=veranstaltung.typ %}
+      {% assign verantwortlich = veranstaltung.verantwortlich %}
+    {% if dozent != "" and dozent != nil %}
+    {% assign verantwortlich = dozent %}
+    {% endif %}
+    {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
+    <p class="event-title">{{typ-name}}: {{veranstaltung.titel}}</p>
+
+    {% if (default-raum | append: "") != "" %}
+    {% assign raumnummer = default-raum | append: "" %}
+    {% endif %}
+
+    {% if raum.size > 1 %}
+    {% assign raumnummer = raum | append: "" %}
+    {% endif %}
+
+    {% include functions/resolve-urls.html target=raumnummer %}
+    {% assign preset-raum = name | append: "" %}
+    {% assign preset-href = url | append: "" %}
+
+    {% if preset-raum != "" %}
+    {% assign resolved-raum = preset-raum %}
+    {% assign resolved-href = preset-href %}
+    {% else %}
+    {% assign resolved-raum = raum %}
+    {% assign resolved-href = href %}
+    {% endif %}
+
+    {% assign check = typ-max-teilnehmer | strip_newlines %}
+    {% if check != "" %}
+    {% assign t = termin | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
+    <p class="event-subtitle">{{t}}
+      {{verantwortliche}} // {{typ-max-teilnehmer}} Teilnehmer{% if anmeldung != '' and anmeldung != nil %} // Anmeldung erforderlich{% endif %}{% if anzahlTermine > 1 %}
+      ({{anzahlTermine}} Termine){% endif %}{% if raumnummer.size > 1 %} // {{resolved-raum}}{% endif %}</p>
+    {% endif %}
+{%- endfor -%}
+{%- if einzeltermine.size > 0 -%}</ul>{%- endif -%}
+
+
+
+

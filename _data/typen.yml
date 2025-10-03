@@ -29,6 +29,9 @@ pruefung:
 other:
   name: Orga 
 
+free:
+  name: Frei   
+
 selbstlernphase:
   name: Selbstlernphase
 

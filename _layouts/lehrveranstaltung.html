@@ -4,63 +4,56 @@ layout: default
 
 <section class="section modulfacts">
 
-    <div class="container">
+    <div class="content is-simple">
 
-        <div class="content is-simple">
+        <header class="has-edit-button">
+                
+            <h2 class="title">{{ page.titel }}</h2>
+            
+            <a target="_blank" href="https://github.com/th-koeln/mi-bachelor-screendesign/edit/master/{{ page.path }}"><span class="icon">edit</span>Bearbeiten</a>
+                
+        </header>
 
-            <div class="columns">
-                <div class="column is-8">
-                    <h1>{{ page.titel }}</h1>
-                </div>
-                <div class="column is-4 has-text-right">
-                    <a target="_blank" href="https://github.com/th-koeln/mi-bachelor-screendesign/edit/master/{{ page.path }}"><span class="icon"><i class="fa fa-edit"></i></span> Bearbeiten</a>
-                </div>
-            </div>
+        {% include /functions/resolve-types.html typ=page.typ %}
 
-            {% include /functions/resolve-types.html typ=page.typ %}
+        <dl class="overview">
 
-            <dl class="overview">
+            {% assign check = page.dauer | strip_newlines %} {% if check != "" %}
+            <dt>Dauer</dt>
+            <dd>{{page.dauer}} min</dd>
+            {% endif %} {% assign check = page.typ | strip_newlines %} {% if check != "" %}
+            <dt>Typ</dt>
+            <dd>{{typ-name}}</dd>
 
-                {% assign check = page.dauer | strip_newlines %} {% if check != "" %}
-                <dt>Dauer</dt>
-                <dd>{{page.dauer}} min</dd>
-                {% endif %} {% assign check = page.typ | strip_newlines %} {% if check != "" %}
-                <dt>Typ</dt>
-                <dd>{{typ-name}}</dd>
+            {% capture teilnehmer %}{{typ-max-teilnehmer}} Teilnehmer{% endcapture %} {% if page.anzahl != "" and page.anzahl != nil %} {% assign teilnehmer = page.anzahl %} {% endif %}
 
-                {% capture teilnehmer %}{{typ-max-teilnehmer}} Teilnehmer{% endcapture %} {% if page.anzahl != "" and page.anzahl != nil %} {% assign teilnehmer = page.anzahl %} {% endif %}
+            {% assign check = anmeldung | strip_newlines %} {% if check != "" %}
+            <dt>Anmeldung erforderlich</dt>
+            <dd>bitte hier <a href="{{anmeldung}}">anmelden</a></dd>
+            {% endif %} 
 
-                {% assign check = anmeldung | strip_newlines %} {% if check != "" %}
-                <dt>Anmeldung erforderlich</dt>
-                <dd>bitte hier <a href="{{anmeldung}}">anmelden</a></dd>
-                {% endif %} 
+            <dt>Maximale Teilnehmerzahl</dt>
+            <dd>{{teilnehmer}}</dd>
+            {% endif %} {% include /functions/resolve-names.html verantwortlich=page.verantwortlich %}
+            <dt>Verantwortlich</dt>
+            <dd>{{verantwortliche}}</dd>
 
-                <dt>Maximale Teilnehmerzahl</dt>
-                <dd>{{teilnehmer}}</dd>
-                {% endif %} {% include /functions/resolve-names.html verantwortlich=page.verantwortlich %}
-                <dt>Verantwortlich</dt>
-                <dd>{{verantwortliche}}</dd>
+            {% assign check = page.empfohlene-voraussetzungen | strip_newlines %} {% if check != "" %} {% include /functions/resolve-voraussetzungen.html voraussetzungen=page.empfohlene-voraussetzungen %}
+            <dt>Empfohlene Trainings und Workshops als Vorraussetzung</dt>
+            <dd>{{voraussetzungen}}</dd>
+            {% endif %} {% assign check = page.info | strip_newlines %} {% if check != "" %}
+            <dt>Info</dt>
+            <dd>{{page.info}}</dd>
+            {% endif %}
 
-                {% assign check = page.empfohlene-voraussetzungen | strip_newlines %} {% if check != "" %} {% include /functions/resolve-voraussetzungen.html voraussetzungen=page.empfohlene-voraussetzungen %}
-                <dt>Empfohlene Trainings und Workshops als Vorraussetzung</dt>
-                <dd>{{voraussetzungen}}</dd>
-                {% endif %} {% assign check = page.info | strip_newlines %} {% if check != "" %}
-                <dt>Info</dt>
-                <dd>{{page.info}}</dd>
-                {% endif %}
-
-            </dl>
-        </div>
+        </dl>
+        
     </div>
 
-    <div class="modulbeschreibung">
-        <div class="container">
-            <div class="content">
-                {% assign check = page.termine | strip_newlines %} {% if check != "" %}
-                <h2>Termine:</h2>
-                {% include termine-auf-veranstaltungsseite.html termine=page.termine default-raum=page.raum %} {% endif %} 
-                {{ content }}
-            </div>
-        </div>
+    <div class="modulbeschreibung content" data-grid="simple">
+        {% assign check = page.termine | strip_newlines %} {% if check != "" %}
+        <h3>Termine:</h3>
+        {% include termine-auf-veranstaltungsseite.html termine=page.termine default-raum=page.raum %} {% endif %} 
+        {{ content }}
     </div>
 </section>

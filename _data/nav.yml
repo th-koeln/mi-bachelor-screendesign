@@ -13,8 +13,8 @@
 - url: gestaltungsportfolio/
   name: Gestaltungsportfolio
 
-- url: links/
-  name: Links
+- url: nomenklatur/
+  name: Nomenklatur
 
-- url: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/
-  name: Projekt 2025
+- url: links/
+  name: Links  

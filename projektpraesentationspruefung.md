@@ -3,8 +3,8 @@ layout: page
 titel: Informationen zur Screendesign Projektpräsentationsprüfung
 ---
 
-{% include functions/resolve-urls.html target="lias-pruefung" %}
-{% assign ilias-pruefung = link %}
+{% include functions/resolve-urls.html target="ilu-pruefung" %}
+{% assign iilu-pruefung = link %}
 
 {% include functions/resolve-urls.html target="ilias" %}
 {% assign ilias = link %}

@@ -10,13 +10,13 @@ mi-wiki-pruefung:
   name: Medieninformatik Wiki
   url: http://www.medieninformatik.fh-koeln.de/w/
 
-ilias:
-  name: Ilias
-  url: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
+ilu:
+  name: Ilu
+  url: https://ilu.th-koeln.de/goto.php/crs/675312
 
-ilias-pruefung:
-  name: Ilias
-  url: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
+ilu-pruefung:
+  name: Ilu
+  url: https://ilu.th-koeln.de/goto.php/crs/675312
 
 zoom-fd:
   name: "Zoom (Meeting-ID: 6078076173, Kenncode noss)"
@@ -28,19 +28,19 @@ zoom-fd-support:
   
 
 zoom-fd-vs:
-  name: "Zoom (Meeting-ID: 87910567579, Kenncode im Ilias)"
+  name: "Zoom (Meeting-ID: 87910567579, Kenncode im Ilu)"
   url: https://th-koeln.zoom.us/j/87910567579
 
 hybrid-gross:
-  name: "Hybrid: Raum 3.102 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilias)"
+  name: "Hybrid: Raum 3.102 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilu)"
   url: "https://th-koeln.zoom.us/j/82712097709"
 
 hybrid-klein:
-  name: "Hybrid: Raum 0.501 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilias)"
+  name: "Hybrid: Raum 0.501 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilu)"
   url: "https://th-koeln.zoom.us/j/82712097709"
 
 hybrid-studio:
-  name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilias)"
+  name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilu)"
   url: "https://th-koeln.zoom.us/j/82712097709"
 
 vor-ort: 

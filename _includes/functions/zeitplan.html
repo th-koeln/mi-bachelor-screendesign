@@ -1,48 +1,156 @@
-{% assign time-correction = 7200 %}
-{% assign week-count = 0 %}
-{% assign starttime = 09 %}
-{% assign endtime = 18 %}
-{% assign difftime = endtime | minus: starttime %}
-{% for week in site.data.dates %} {% assign week-count = week-count | plus: 1 %}
+{% assign day = include.day %}
+{% assign difftime = include.difftime %}
+{% assign starttime = include.starttime %}
 
-<div class="timetable">
-  <h2 class="title is-2" id="week-{{week-count}}"><span class="tag is-info">Woche {{week-count}}</span></h2>
-  {% for days in week %} {% assign check = days["day-1"].datum | strip_newlines %} {% if check != "" %} {% assign
-  date-start = days["day-1"].datum | append: " " | append: days["day-1"].start %} {% assign date-end =
-  days["day-1"].datum | append: " " | append:
-  days["day-1"].end %} {% assign sec-start = date-start | date: "%s" %} {% assign sec-end = date-end | date: "%s" %} {%
-  assign sec-diff = sec-end | minus: sec-start %} {% assign hours-diff = sec-diff | divided_by:3600 %} {% comment %}
-  Date Start: {{date-start
-  | date: "%d %m %Y %H:%M"}}<br> Date End: {{date-end | date: "%d %m %Y %H:%M"}}<br> Sec Start: {{sec-start}}<br> Sec
-  End: {{sec-end}}<br> Hours Diff: {{hours-diff}}
-  <hr> {% endcomment %}
+{% assign lehrveranstaltungen = (site.lehrveranstaltungen | sort: 'dauer,typ') %}
 
-  <!--div class="columns"-->
-  {% assign day1 = days["day-1"] %}
-  {% include /timetable-day.html day=day1 starttime=starttime difftime=difftime time-correction=time-correction %}
+{%- comment -%}
+Erwartete Struktur je Veranstaltung v:
+- v.termine: "2026-01-23 15:00, 2026-01-30 15:00"  (oder nur ein Eintrag ohne Komma)
+- v.titel (optional) / v.name (Fallback)
+- v.dauer_minuten (optional; ganze Zahl)
 
-  {% assign check = days["day-2"].datum | strip_newlines %}
-  {% if check != "" %}
-  {% assign day2 = days["day-2"] %}
-  {% include /timetable-day.html day=day2 starttime=starttime difftime=difftime time-correction=time-correction %}
+Ziel:
+- Alle Einzeltermine aller Veranstaltungen sammeln
+- Sortierung nach Startzeit (UNIX-Timestamp)
+- Ausgabe gruppiert nach Datum, optional mit Endzeit
+{%- endcomment -%}
+
+{%- assign einzeltermine = '' | split: '' -%}
+
+{%- for v in lehrveranstaltungen -%}
+  {%- assign titel = v.titel | default: v.name | default: "Ohne Titel" -%}
+  {%- assign termine = v.termine | split: "," -%}
+  {%- for t in termine -%}
+    {%- assign dt_raw = t | strip -%}
+    {%- assign ts = dt_raw | date: "%s" -%}
+    {%- assign datum = dt_raw | date: "%Y-%m-%d" -%}
+    {%- assign uhr = dt_raw | date: "%H:%M" -%}
+    {%- assign datum_schoen = dt_raw | date: '%d. %B %Y' | replace:"January","Januar" |
+  replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" |
+  replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" -%}
+
+    {%- assign teil = ts | append: "|" | append: datum
+                        | append: "|" | append: uhr
+                        | append: "|" | append: titel
+                        | append: "|" | append: v.dauer
+                        | append: "|" | append: datum_schoen
+                        | append: "|" | append: v.id -%}
+
+                        
+
+    {%- assign einzeltermine = einzeltermine | push: teil -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{%- assign einzeltermine = einzeltermine | sort -%}
+
+{%- assign current_date = "" -%}
+{% assign run = 0 %}
+{%- for e in einzeltermine -%}
+  {%- assign parts = e | split: "|" -%}
+  {%- assign ts = parts[0] -%}
+  {%- assign datum = parts[1] -%}
+  {%- assign uhr = parts[2] -%}
+  {%- assign titel = parts[3] -%}
+  {%- assign dauer = parts[4] -%}
+  {%- assign datum_schoen = parts[5] -%}
+  {%- assign id_veranstaltung = parts[6] -%}
+
+  {% assign veranstaltungen = lehrveranstaltungen | where: "id", id_veranstaltung %}
+  {% assign veranstaltung = veranstaltungen.first %}
+
+  
+  {% assign run = run | add: 1 %}
+  {% assign raum = veranstaltung.raum %}
+
+  {%- if datum != current_date -%}
+    {%- if forloop.index > 1 -%}</div>{%- endif -%}
+    <div class="event-list-day">
+    <h3>{{ datum_schoen }}</h3>
+    {% assign day_container_open = true %}
+    {%- assign current_date = datum -%}
+  {%- endif -%}
+  
+  <ul class="event-list-item">
+
+  {% if veranstaltung.typ == "free" %}
+  <li>keine Veranstaltung</li>
+  {% else %}
+
+  {%- if dauer and dauer != "" -%}
+    {%- assign dauer_s = dauer | times: 60 -%}
+    {%- assign end_ts = ts | plus: dauer_s -%}
+    {%- assign end_uhr = end_ts | date: "%H:%M" -%}
+    <li class="event-time">{{ uhr }}–{{ end_uhr }}</li>
+  {%- else -%}
+    <li class="event-time"><strong>{{ uhr }}</strong></li>
+  {%- endif -%}
+  
+
+  <li class="event-title">{{veranstaltung.titel}}</li>
+
+    {% assign verantwortlich = veranstaltung.verantwortlich %}
+    {% if dozent != "" and dozent != nil %}
+    {% assign verantwortlich = dozent %}
+    {% endif %}
+    {% include /functions/resolve-names.html verantwortlich=verantwortlich %}
+    
+    {% if (default-raum | append: "") != "" %}
+    {% assign raumnummer = default-raum | append: "" %}
+    {% endif %}
+
+    {% if raum.size > 1 %}
+    {% assign raumnummer = raum | append: "" %}
+    {% endif %}
+
+    {% include functions/resolve-urls.html target=raumnummer %}
+    {% assign preset-raum = name | append: "" %}
+    {% assign preset-href = url | append: "" %}
+
+    {% if preset-raum != "" %}
+    {% assign resolved-raum = preset-raum %}
+    {% assign resolved-href = preset-href %}
+    {% else %}
+    {% assign resolved-raum = raum %}
+    {% assign resolved-href = href %}
+    {% endif %}
+
+    {% include /functions/resolve-types.html typ=veranstaltung.typ %}
+
+    
+  <li class="event-data">
+    <dl>
+      <dt>Typ</dt>
+      <dd>{{typ-name}}</dd>
+
+      <dt>Verantwortlich</dt>
+      <dd>{{verantwortliche}}</dd>
+      
+      {% assign check = typ-max-teilnehmer | strip_newlines %}
+      {% if check != "" %}
+      <dt>Teilnehmer:innen</dt>
+      <dd>{{typ-max-teilnehmer}}</dd>
+      {% endif %}
+
+      {% if raumnummer.size > 1 %}
+      <dt>Ort</dt>
+      <dd>{{resolved-raum}}</dd>
+      {% endif %}
+
+      {% if anmeldung != '' and anmeldung != nil %}
+      <dt>Anmeldung</dt>
+      <dd>erforderlich</dd>
+      {% endif %}
+
+    </dl>
+    <a href="{{ site.baseurl }}{{veranstaltung.url}}">mehr</a>
+  </li>
   {% endif %}
-
-  {% assign check = days["day-3"].datum | strip_newlines %}
-  {% if check != "" %}
-  {% assign day3 = days["day-3"] %}
-  {% include /timetable-day.html day=day3 starttime=starttime difftime=difftime time-correction=time-correction %}
-  {% endif %}
+  </ul>
+{%- endfor -%}
 
 
-  {% assign check = days["day-4"].datum | strip_newlines %}
-  {% if check != "" %}
-  {% assign day4 = days["day-4"] %}
-  {% include /timetable-day.html day=day4 starttime=starttime difftime=difftime time-correction=time-correction %}
-  {% endif %}
-
-  <!--/div-->
-
-  {% endif %} {% endfor %}
+{%- if einzeltermine.size > 0 -%}{%- endif -%}
 </div>
 
-{% endfor %}

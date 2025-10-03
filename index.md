@@ -3,11 +3,11 @@ layout: home
 titel: Über das Modul
 ---
 
-{% include functions/resolve-urls.html target="lias-pruefung" %}
-{% assign ilias-pruefung = link %}
+{% include functions/resolve-urls.html target="ilu-pruefung" %}
+{% assign iilu-pruefung = link %}
 
-{% include functions/resolve-urls.html target="ilias" %}
-{% assign ilias = link %}
+{% include functions/resolve-urls.html target="ilu" %}
+{% assign ilu = link %}
 
 {% include functions/resolve-urls.html target="semesterprojekt" %}
 {% assign semesterprojekt = link %}
@@ -15,93 +15,46 @@ titel: Über das Modul
 {% include functions/resolve-urls.html target="projekt-repo-frontend" %}
 {% assign projektergebnisse = link %}
 
-<div>
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul „Screendesign”. Die Screendesign Tage starten morgens um **10:00 Uhr** mit einem kurzen Input, also vielleicht eher so mittelkurz, und dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+<div class="text-hero">
 
-Die erste reguläre Veranstaltung ist am **10. Oktober 2025** um **10:00 Uhr**. Der letzte Termin ist am **11. März 2026**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul **Screendesign**. Die Screendesign Tage starten morgens um **10:00 Uhr** mit einem kurzen Input. Dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) an.
+Die erste reguläre Veranstaltung ist am **10. Oktober 2025** um **10:00 Uhr**. Der letzte Termin ist am **30. Januar 2026**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+
+Bitte melden Sie sich zu diesem [Kurs im ILU]({{ilu}}) an.
+
 </div>
-
-<!--
-## E-Mail vom 29.09.2022
-Für alle, die sich noch nicht im Ilias Kurs angemeldet haben, hier der Text von der Mail, welche am 29.09.2022 über den Ilias Mailverteiler versendet wurde:
-
-<blockquote>
-Hallo zusammen,
-
-willkommen zum Modul Screendesign. Als Einstieg schaut euch
-bitte folgendes Video an
-https://www.youtube.com/watch?v=5nPUuIPBchM und lest euch
-die Informationen auf dieser Seite durch
-https://th-koeln.github.io/mi-bachelor-screendesign/.
-Falls ihr im Laufe des Semesters Fragen habt, sprecht uns
-bitte direkt in der Veranstaltung an oder nutzt das Forum im
-Ilias Kurs.
-
-Die erste Veranstaltung findet am 06. Oktober um 10:00 Uhr
-in Raum 0.501 und 0.502 statt.
-Verteilt euch bitte gleichmäßig auf diese beiden Räume
-und bringt einen Computer mit. Falls ihr keinen eigenen
-Computer habt, gebt uns bitte über das Forum im Ilias Kurs
-Bescheid.
-
-Wir nutzen in diesem Modul die Software „Figma“. Richtet
-euch als Vorbereitung schon einmal einen Account über
-https://www.figma.com mit eurer TH Mailadresse ein.
-Schaut euch als Nächstes von dieser YouTube Playlist
-mindestens die ersten beiden Videos an
-https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4.
-
-</blockquote>
--->
-
-<!-- ## Einschränkungen durch Covid-19, Stand 01.09.2022
-
-Wir gehen davon aus, dass wir die Veranstaltung in Präsenz durchführen. Es wird einige Feedbacktermine geben, die wir als Online-Termine anbieten. Im [Zeitplan](./timetable/) finden Sie die Veranstaltungstermine und auch den Ort der jeweiligen Veranstaltung.
- 
-Die Projektpräsentationsprüfung am Ende der vorlesungsfreien Zeit findet vor Ort in Gummersbach statt. Dazu haben wir hier eine Seite mit [Informationen zur Screendesign Projektpräsentationsprüfung](projektpraesentationspruefung) zusammengestellt. Bitte lesen Sie diese aufmerksam durch und folgen Sie den Anweisungen. Bei Fragen nutzen Sie bitte das [Forum zur Veranstaltung im Ilias](https://ilias.th-koeln.de/goto.php?target=frm_1167751&client_id=ILIAS_FH_Koeln).
- -->
 
 ## Worum geht es?
 
-Im Rahmen des Moduls sollen die Studierenden in die Lage versetzt werden, in interdisziplinären Teams die Design-Perspektive zu verstehen und einnehmen zu können. Sie sollen fähig sein, einen bestehenden Gestaltungskontext analysieren und erweitern zu können. Darüber hinaus sollen die Studierenden eine eigene gestalterische Grundkompetenz aufbauen.
+Im Modul Screendesign beschäftigen wir uns mit den Grundlagen visueller Kommunikation. Wir lernen zentrale Konzepte und Herangehensweisen im Design kennen – etwa visuelle Hierarchie oder Typografie – und wenden sie in konkreten Aufgaben an. Außerdem trainieren wir, Gestaltung systematisch zu analysieren und zu reflektieren. Wir setzen uns mit Regeln und Konzepten auseinander – von Gestaltgesetzen bis zum Grid-System – und nutzen sie, um bestehende Designs zu dekonstruieren oder Varianten zu entwickeln. Ziel ist es, ein Gespür dafür zu entwickeln, wie wir eigene Lösungen nicht nur erzeugen, sondern auch nachvollziehbar beschreiben und diskutieren können – sei es im Team, in Präsentationen oder in dokumentierten Entwurfsprozessen.
 
-Ok, jetzt mal etwas weniger didaktisch formuliert. Fangen wir vorne an. Wir sind Medieninformatiker:innen und keine Designer. Als Medieninformatiker:innen arbeiten wir jedoch oft in Teams mit Designern und anderen Disziplinen zusammen und können hier eine äußerst interessante Rolle übernehmen. Das beste, interessante, eigenständigste Designkonzept ist wenig Wert, wenn es nicht umgesetzt wird oder gar werden kann. Mindestens an dieser Stelle können wir einen wertvollen Beitrag zum Erfolg eines Projektes leisten, wenn wir:
-- die Ziele eines Gestaltungskonzepts verstehen
-- in der Lage sind, die zugrundeliegenden Gestaltungsregeln zu verstehen und ggf. abzubilden
-- wissen, welche Implementierungsmöglichkeiten zur Verfügung stehen
-- fachlich argumentieren und diskutieren können
-- ein Gestaltungssystem so aufbereiten können, dass es implementierbar ist
+Im weiteren Verlauf des Moduls entwickeln wir eigenständige Gestaltungslösungen für konkrete Aufgabenstellungen. Wir lernen, gestalterische Ziele zu definieren, passende Mittel auszuwählen und Entwürfe gezielt zu variieren. Dabei geht es nicht nur um Ästhetik, sondern um Funktion und Kommunikation: Wie muss ein Interface aussehen, damit es Vertrauen schafft? Wie kann ein Layout Orientierung geben? 
 
-## Was sind die Ziele?
-
-Mit dem Modul sollen die folgenden Lernziele erreicht werden:
-
-- Die Studierenden kennen wesentliche Begriffe der visuellen Kommunikation und können diese anwenden, indem sie verbal gestellte Übungsaufgaben visualisieren und verbalisierte Korrekturen und Veränderungsvorschläge umsetzen und iterieren, um später Briefings, Angebote oder Korrekturwünsche im Design-Kontext zu verstehen oder zu verfassen.
-- Die Studierenden können Gestaltungslösungen und -kontexte analysieren, argumentieren, diskutieren, dokumentieren und bewerten, indem Sie Gestaltungen anhand verschiedener Regeln und Konzepte kreieren, dekomponieren, beschreiben und variieren, um eigene Lösungen innerhalb eines Gestaltungskontextes generieren zu können.
-- Die Studierenden können in einem gegebenen Gestaltungskontext eigene Gestaltungslösungen entwickeln, systematisch variieren und argumentieren, indem Sie Gestaltungsziele verstehen und formulieren können und Gestaltungsregeln (Raster, Layout, Typographie, etc.) anwenden, um gegebene funktionale und/oder kommunikative Ziele zu erreichen.
+Im Modul Screendesign lernen wir, wie visuelle Kommunikation funktioniert – und wie wir sie gezielt einsetzen können. Dafür machen wir Theorie sichtbar: Begriffe wie visuelle Hierarchie, Kontrast oder Rhythmus setzen wir direkt in Gestaltung um. Wir entwickeln Entwürfe, reagieren auf Feedback und überarbeiten unsere Arbeiten in mehreren Schleifen. So bereiten wir uns auf reale Kommunikationsprozesse vor – zum Beispiel darauf, wie wir später auf Briefings, Änderungswünsche oder Angebote professionell reagieren können.
 
 
 ### Ausrichtung auf MedieninformatikerInnen in der Schnittstellenrolle zum Design
 
 In interdisziplinären Projektteams nehmen Medieninformatiker:innen oftmals eine Schnittstellenrolle ein. Hier fühlt man sich zumeist sicherer und professioneller, wenn man Ahnung hat und die Denke und Sprache der anderen Disziplin versteht. Jede Disziplin hat ihre eigene Fachsprache. Das ist im Design genauso. Wir können im Team besser agieren, wenn wir die Fachsprache verstehen und anwenden können. Wie groß ist der Durchschuss? Sollten wir die Headlines besser in Versalien setzen? Wie lang läuft die Copy? Und warum sind die BUs so klein? Welcher Schriftschnitt ist das? Mit dererlei Fragen und Aussagen sollten wir umgehen können.
 
+![Arbeit aus dem Gestaltungsportfolio von Evelyn Fischer](images/results/sd-uebung-fischer.webp 'Arbeit aus dem Gestaltungsportfolio von Evelyn Fischer')
+
 ## Wie funktioniert das Modul?
 
-Das Modul „Screendesign” teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu praktische Übungen und Workshops machen. Typische Fragen sind z.B.: Wie gehen wir mit Schrift um? Was sind sinnvolle Proportionen? Wie entwickeln wir ein gemeinsames Zielbild? Wie lassen sich Entwürfe angemessen visualisieren? 
+Das Modul Screendesign teilt sich in zwei Teile. Wir werden uns im ersten Teil mit grundlegenden Fragen, Phänomenen und Herausforderungen im Design befassen und hierzu praktische Übungen und Workshops machen. Typische Fragen sind z.B.: Wie gehen wir mit Schrift um? Was sind sinnvolle Proportionen? Wie entwickeln wir ein gemeinsames Zielbild? Wie lassen sich Entwürfe angemessen visualisieren? 
 
-Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. Die Ergebnisse müssen von den Studierenden in einem Gestaltungsportfolio gesammelt werden und zwei dieser Ergebnisse müssen im Rahmen der Portfoliopräsentation in einer 7 minütigen Präsentation vorgestellt und argumentiert werden.
+Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. Die Ergebnisse müssen von den Studierenden in einem Gestaltungsportfolio gesammelt werden und zwei dieser Ergebnisse müssen im Rahmen der Portfoliopräsentation in einer kurzen Präsentation vorgestellt und argumentiert werden.
 
 ### Projekt
 
 Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. <!-- Wir starten mit einem Ganztagsworkshop in das Projektthema.--> Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
-Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielten meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn die Studierenden inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) angemeldet werden.
+Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielten meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn sie inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im ILU angemeldet werden.
 
 Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns dieses Jahr mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/). -->
 
-![Projekt als roter Faden](images/projekt.svg 'Projekt als roter Faden')
+![Arbeit aus dem Gestaltungsportfolio von Samra Mohamed](images/results/sduebunglinientransformationenAnziehungAbstoungMohamed_.webp 'Arbeit aus dem Gestaltungsportfolio von Samra Mohamed')
 
 
 ### Veranstaltungsarten
@@ -120,16 +73,18 @@ Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltungen](angebot
 
 ## Prüfung & erforderliche Artefakte
 
-Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Vorstellung sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen sich die Studierenden im PSSO anmelden und einen Termin im ILU buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sich die Studierenden unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird um ihre Arbeit entsprechend auszurichten.
+Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen sich sie sich im PSSO anmelden und einen Termin im ILU buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
 
 Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, das die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung erstellt wurden. 
 
 Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und Bewertung finden Sie bei der Erläuterung des [Niveaustufenmodells](niveaustufen/).
 
+![Arbeit aus dem Gestaltungsportfolio von Samra Mohamed](images/results/sduebunglinientransformationenSymmetrieAsymmetrieMohamed.webp 'Arbeit aus dem Gestaltungsportfolio von Samra Mohamed')
+
 ### Die 6 Schritte zur Prüfung
 
 - Step 1: im PSSO anmelden. Dies ist vom **11.11.2025** bis **01.03.2026** möglich.
-- Step 2: [Termin im ILU buchen - (Link folgt)]()
+- Step 2: [Termin im ILU buchen]({{ilu}})
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im ILU eintragen und Artefakte bereit stellen - (Link folgt)]()
@@ -141,15 +96,15 @@ Ein Teil der Artefakte wird auf der Website mit den {{projektergebnisse}}n verö
 
 ## Eingesetzte Software
 
-Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch nur auf Figma ein. Die Nutzung von Figma für Studenten ist kostenlos und [erfordert lediglich eine Verifizierung](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-Education-status). Weitere Infos dazu sind auf [Figma](https://www.figma.com/pricing-faq/) zu finden.
+Im Rahmen des Moduls werden wir in nahezu allen Workshops Layout und Prototyping Software benutzen. Dazu werden wir auch spezielle Trainings anbieten. Wir empfehlen die Nutzung von [Figma](https://www.figma.com/). Natürlich gibt es noch eine ganze Reihe an vergleichbaren Tools, wie Sketch, Framer, Affinity Designer, UX Pin, etc. Sie können gerne auch ein alternatives Softwarewerkzeug nutzen. In den Trainings gehen wir jedoch ausschließlich auf Figma ein. Die Nutzung von Figma für Studenten ist kostenlos und [erfordert lediglich eine Verifizierung](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-Education-status). Weitere Infos dazu sind auf [Figma](https://www.figma.com/pricing-faq/) zu finden.
 
-Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gimp.org/downloads/).
+Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gimp.org/downloads/). 
 
+![Arbeit aus dem Gestaltungsportfolio von Tolga Akkus](images/results/sdaufgabetypographischeflaechenkombinationen2Akkus.webp 'Arbeit aus dem Gestaltungsportfolio von Tolga Akkus')
 
 ## Wie kann ich mich vorbereiten?
 
-Bitte bereiten Sie sich für die Workshops mit folgendem Tool vor:
-- [Learn Figma](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
+Bitte bereiten Sie sich für die Workshops mit dem [Learn Figma Video](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA) vor.
 
 Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:
 - [Informationsvisualisierung: Web - Print - Signaletik. Erfolgreiches Informationsdesign: Leitsysteme, Wissensvermittlung und Informationsarchitektur / Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050418640)
