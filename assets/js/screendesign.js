@@ -10,7 +10,6 @@ markdown.convert = function (ele) {
 }
 markdown.init = function () {
   document.querySelectorAll("[markdown]").forEach(function (ele) {
-    console.log(ele);
     markdown.convert(ele);
   });
 }

@@ -7,11 +7,12 @@
 - url: timetable/
   name: Zeitplan
 
+
+- url: material/
+  name: Material & Übungen
+  
 - url: niveaustufen/
   name: Artefakte & Niveaustufen
-
-- url: assignments/
-  name: Übungen
 
 - url: gestaltungsportfolio/
   name: Gestaltungsportfolio
@@ -19,8 +20,6 @@
 - url: nomenklatur/
   name: Nomenklatur
 
-- url: material/
-  name: Material  
 
 - url: links/
   name: Links    
