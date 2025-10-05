@@ -10,6 +10,10 @@ published: true
 dauer: 120
 raum: vor-ort-ferchau
 info: 
+material: |
+  - [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/learning-nuggets-railslove.pdf)
+assignments: |
+  - [Barrierefreiheit, erste Schritte](/mi-bachelor-screendesign/assignments/barrierefreiheit-2025/)
 ---
 
 
@@ -39,8 +43,7 @@ Daher befassen wir uns heute mit:
 
 
 
-## Material
-- [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/learning-nuggets-railslove.pdf)
+## Weiterführendes Material
 - [WAVE](https://wave.webaim.org/)
 - [Design for everyone with these accessibility-focused plugins](https://www.figma.com/blog/design-for-everyone-with-these-accessibility-focused-plugins/)
 - [Accessibility and inclusion in design](https://www.figma.com/resource-library/creating-accessible-and-inclusive-design/?fuid=363042135887205264)
@@ -59,8 +62,6 @@ Daher befassen wir uns heute mit:
 - [Stark - Contrast & Accessibility Checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker)
 - [Contrast](https://www.figma.com/community/plugin/748533339900865323/contrast)
 
-## Übungen
-- [Barrierefreiheit, erste Schritte](/mi-bachelor-screendesign/assignments/barrierefreiheit-2025/)
 
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma

@@ -4,6 +4,9 @@ tags: Warm-up
 upload: 
 deadline: 2023-10-19
 published: true
+uploaddate: 16.10.2025, 23:59 Uhr
+uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316&ass_id=23812&from_overview=1
+
 ---
 
 Entwerfen Sie ein (typografisches) Plakat, auf dem Begriff/ das Konzept «Abstraktion» in der Informatik erklärt wird. Dabei gelten folgende Rahmenbedingungen:
@@ -16,6 +19,6 @@ Entwerfen Sie ein (typografisches) Plakat, auf dem Begriff/ das Konzept «Abstra
 
 ---
 
-Exportieren Sie das Motiv als PDF und laden Sie diese im [Ilu](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316&ass_id=23812&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie das Motiv als PDF und laden Sie diese im Ilu hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-```sd-uebung-plakat-abstraktion-NACHNAME.pdf```
+> sd-plakat-abstraktion-NACHNAME.pdf

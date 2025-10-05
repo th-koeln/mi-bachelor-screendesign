@@ -10,6 +10,15 @@ published: true
 dauer: 300
 raum: vor-ort-ferchau
 info: 
+assignments: |
+  - [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
+
+material: |
+  - [Pen & Paper](https://cnoss.github.io/pen-and-paper/)
+  - [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
+  - [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
+  - [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/)
+
 ---
 
 ## Worum geht es?
@@ -23,14 +32,3 @@ Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verwor
 - Optional: hellgrauer, gelber, roter und hellblauer Marker oder Buntstift
 - 5 Blatt DIN A4 ohne Punktraster
 - 5 Blatt DIN A4 mit [Punktraster](https://www.viaprinto.de/media/documents/help/layouts/produkte/raster/vorlage_punktraster_DIN_A4_hoch.zip)
-
-## Material
-- [Pen & Paper](https://cnoss.github.io/pen-and-paper/)
-- [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
-- [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
-- [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/)
-
-## Übungen
-<!--- [Typographie 2](/mi-bachelor-screendesign/assignments/basics-typographie-2/)-->
-- [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
-

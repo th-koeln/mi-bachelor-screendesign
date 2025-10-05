@@ -54,6 +54,19 @@ layout: default
         {% assign check = page.termine | strip_newlines %} {% if check != "" %}
         <h3>Termine:</h3>
         {% include termine-auf-veranstaltungsseite.html termine=page.termine default-raum=page.raum %} {% endif %} 
+
+        {% if page.material %}
+        <h2>Material</h2>
+        {{ page.material | markdownify }}
+        {% endif %}
+
+        {% if page.assignments %}
+        {% assign assignments = page.assignments | split: "- " %}
+        <h2>Übung{% if assignments.size > 2 %}en{% endif %}</h2>
+        {{ page.assignments | markdownify }}
+        {% endif %}
+
         {{ content }}
+
     </div>
 </section>

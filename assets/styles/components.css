@@ -88,7 +88,7 @@
     align-items: center;
     justify-content: center;
     padding: 0;
-    gap: var(--fluid-space-m);
+    gap: var(--space-l);
 
     li {
       display: block;
@@ -255,7 +255,10 @@
         grid-column: 2;
       }
 
-
+      img{
+        display: block;
+        grid-column: 2;
+      }
 
       h1,
       h2,
@@ -428,6 +431,7 @@
 ############################################################################ */
 
 .assignment-overview,
+.material-overview,
 .link-overview {
   .overview-item {
     transition: background-color var(--tr-medium), padding-left var(--tr-fast);
@@ -439,6 +443,18 @@
       font-weight: var(--fw-medium);
       line-height: var(--lh-tight);
       text-wrap: balance;
+
+      a{
+        color: inherit;
+        text-decoration: none;
+        border: none;
+      }
+    }
+
+    .item-headline{
+      margin-top: var(--space-xl);
+      font-size: var(--size-l);
+      color: var(--color-dark);
     }
 
     .item-tags {

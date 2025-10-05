@@ -13,7 +13,7 @@ Die Basis für den heutigen Workshop bildet folgende [Vorlage](https://www.figma
 
 Hier sollen nun für die Gestaltung der systematisch Card 64 Varianten gebildet werden und dargestellt werden. Plazieren Sie die Übersicht in einem eigenen Frame und exportieren Sie diesen als PNGs (1x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-- `sd-uebung-variantenbildung-card-NACHNAME.png`
+- `sd-variantenbildung-card-NACHNAME.png`
 
 ## Schritt 2:
 
@@ -21,7 +21,7 @@ Erzeugen Sie aus der besten Variante ein Card Grid und platzieren Sie diese auf 
 
 Exportieren Sie die Arbeitsflächen als PNGs (1x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-- `sd-uebung-variantenbildung-overview-NACHNAME.png`
+- `sd-variantenbildung-overview-NACHNAME.png`
 
 ## Hierzu gibt es ein kleines Video aus dem letzten Jahr:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aaugAwZU1hQ?si=hDrPRGUsrYZO47e4&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

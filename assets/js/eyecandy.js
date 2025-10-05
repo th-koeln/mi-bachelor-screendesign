@@ -36,14 +36,14 @@ const ecImageFadeIn = (image) => {
         onEnter: () => {
           gsap.fromTo(
             image,
-            { opacity: 0, scale: 1.1 },
+            { opacity: 0, scale: 0.5 },
             { opacity: 1, scale: 1, duration: 1, ease: 'power2.out' },
           );
         },
         onEnterBack: () => {
           gsap.fromTo(
             image,
-            { opacity: 0, scale: 1.1 },
+            { opacity: 0, scale: 0.5 },
             { opacity: 1, scale: 1, duration: 1, ease: 'power2.out' },
           );
         },
@@ -273,7 +273,7 @@ const addChoreography = () => {
   if (width < 768) return;
 
   if(home !== null){
-    home.querySelectorAll('h2, h3').forEach((ele) => { ele.dataset.eyecandy = 'rotate-in'; });
+    home.querySelectorAll('h2, h3').forEach((ele) => { ele.dataset.eyecandy = 'fade-in'; });
   };
 };
 

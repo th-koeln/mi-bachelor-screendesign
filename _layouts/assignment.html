@@ -15,14 +15,9 @@ layout: default
   <div class="content is-large">
     {{ page.content }}
 
-    {% unless page.upload == null %}
-    <div class="notification is-info">
-      <p class="content">Laden Sie ihre Ergebnisse
-        {% unless page.deadline == null %} bis zum <strong>{{ page.deadline | date: "%-d. %B %Y" }}</strong>
-        {% endunless %} im
-        <a href="{{ page.upload }}" title="Upload-Bereich im Iilu-Kurs" target="_blank">Iilu-Kurs</a>
-        hoch.</p>
-    </div>
-    {% endunless %}
+    {% if page.uploadlink %}
+    Bitte laden Sie Ihr Ergebniss bis zum {{ page.uploaddate }} unter folgendem <a href="{{page.uploadlink}}">Link im ILU</a> hoch.
+    {% endif %}
+
   </div>
 </section>

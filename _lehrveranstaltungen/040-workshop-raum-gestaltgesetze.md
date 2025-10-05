@@ -10,6 +10,9 @@ published: true
 dauer: 180
 raum: vor-ort-w
 info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltgesetze
+
+assignments: |
+  - [Visualisierung von Gestaltgesetzen](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze-2025/)
 ---
 
 ## Worum geht es?
@@ -17,19 +20,13 @@ info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltge
 Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wundervollen Gestaltgesetzen. Damit bekommen wir mehr Ordnung und Struktur in unsere Gestaltungskonzepte.
 
 ## Was muss ich mitbringen?
-
 -   eigener Rechner mit Figma
 -   Gute Übung in Figma
 
-## Material
+## Weiterführendes Material
 
--   [Figma Shortcuts für die deutsche Tastatur](<https://www.figma.com/proto/q2OVHiUu6hdDiOZLzDmUL9/Shortcuts-(International)?scaling=contain&node-id=9%3A146>)
+- [Figma Shortcuts für die deutsche Tastatur](<https://www.figma.com/proto/q2OVHiUu6hdDiOZLzDmUL9/Shortcuts-(International)?scaling=contain&node-id=9%3A146>)
 
-## Übungen
-
-In der heutigen Session sollen folgende Übungen bearbeitet werden:
-
--   [Visualisierung von Gestaltgesetzen](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze-2025/)
 
 ## Upload
 

@@ -15,4 +15,4 @@ Erzeugen Sie nun jeweils eine in den Farben invertierte Version jeder Kompositio
 
 Exportieren Sie alle acht Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=474196&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-```sd-uebung-punkt-positiv-negativ-NUMMER-NACHNAME.png```
+```sd-punkt-positiv-negativ-NACHNAME-NUMMER.png```

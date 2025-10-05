@@ -10,15 +10,20 @@ published: false
 dauer: 300
 raum: vor-ort-ferchau
 info: 
+material: |
+  - [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/#/1/33)
+  - [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
+  - [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/#/1/20)
+   
+assignments: |
+  - [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
+  - [Layoutkonzept für das cda entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-cda-entwickeln/)
+
+
 ---
 
 ## Worum geht es?
 Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben und entwickeln Layouts, die aus mehreren Komponenten bestehen.
-
-## Material
-- [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/#/1/33)
-- [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
-- [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/#/1/20)
 
 ### Layout & Abstände
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
@@ -46,7 +51,5 @@ Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verwor
 - [Figma Mirror](https://www.figma.com/mirror)
 - [Evaluation der Veranstaltung](/mi-bachelor-screendesign/download/evaluations/WiSe_24_25-Screendesign.pdf)
 
-## Übungen
-- [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
-- [Layoutkonzept für das cda entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-cda-entwickeln/)
+
 

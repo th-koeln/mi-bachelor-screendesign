@@ -16,5 +16,11 @@
 - url: gestaltungsportfolio/
   name: Gestaltungsportfolio
 
+- url: nomenklatur/
+  name: Nomenklatur
+
+- url: material/
+  name: Material  
+
 - url: links/
-  name: Links  
+  name: Links    

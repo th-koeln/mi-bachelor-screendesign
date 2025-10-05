@@ -1,10 +1,10 @@
 ---
 layout: page-einspalter
 titel: Nomenklatur für Dateiabgaben
-published: false
+published: true
 ---
 
-Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen) definierten Übergabepunkt. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien und Archive sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
+Zur Abgabe der notwendigen Dateien nutzen Sie bitte den in [Niveaustufen und Deliverables](/mi-bachelor-screendesign/niveaustufen) definierten Übergabepunkt. Laden Sie bitte ausschließlich einzelene Dateien, meist *.png oder *.jpg Dateien hoch. Bitte denken Sie daran, dass wir erkennen müssen, von wem die jeweiligen Dateien sind. Darum berücksichtigen Sie bitte die folgenden Regeln:
 
 ## Dateinamen
 <!--
@@ -22,15 +22,16 @@ Zur Abgabe der notwendigen Dateien, bzw. \*.zip Archive, nutzen Sie bitte den in
 
 Die Benamung von Dateien und Archiven muss folgendem Muster folgen:
 
-> sd-ARTEFAKTNAME-NACHNAME1-NACHNAME2.DATEIENDUNG
+> sd-ARTEFAKTNAME-NACHNAME-INDEX.DATEIENDUNG
 
 Am Beispiel eines Einzelartefakts würde das so aussehen:
 
-> sd-gestaltungsportfolio-noss-1.png
+> sd-plakat-abtraktion-noss.png
 
-Der Dateiname eines Teamartefakts würde beispielhaft wie folgt aussehen:
+Oder bei einer Serie wie folgt:
 
-> sd-styleguide-noss-schaefer.pdf
+> sd-punkt-positiv-negativ-noss-02.png
+
 
 
 Bitte laden Sie keine Archive (*.zip, *.tar, *.rar oder Ähnliches) hoch und verwenden Sie in den Dateinamen nur folgende Zeichen: [0-9] [a-z] [A-Z] -_\.

@@ -10,6 +10,8 @@ empfohlene-voraussetzungen:
 published: false
 dauer: 240
 info: Gutes Design entsteht zumeist durch die Auswahl der besten Variante. Doch wie erzeuge ich systematisch Varianten?
+assignments: |
+  - [Variantenbildung am Beispiel von Cards](/mi-bachelor-screendesign/assignments/workshop-variantenbildung-cards-2023/)
 ---
 
 
@@ -37,9 +39,5 @@ Gleichzeitig benötigen wir im Screendesign häufig verschiedene Varianten eines
 - [Morphologischer Kasten](https://de.wikipedia.org/wiki/Morphologische_Analyse_(Kreativitätstechnik))
 - [Cards Design Pattern](https://ui-patterns.com/patterns/cards)
 
-## Übungen
-- [Variantenbildung am Beispiel von Cards](/mi-bachelor-screendesign/assignments/workshop-variantenbildung-cards-2023/)
-
 ## Upload
-
 Bitte laden Sie Ihre Ergebnisse für diese Aufgabe bis zum **19.12.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.

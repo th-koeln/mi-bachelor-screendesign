@@ -10,6 +10,9 @@ published: true
 dauer: 90
 raum: vor-ort-v
 info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wie können wir diese im Designprozess einsetzen?
+material: |
+  - [Folien zu Räumlichkeit](https://cnoss.github.io/slides/presentations/screendesign/raeumlichkeit/)
+  - [Folien zu Gestaltgesetzen](https://cnoss.github.io/slides/presentations/screendesign/gestaltgesetze/)
 ---
 
 
@@ -19,8 +22,6 @@ Sobald es darum geht mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu p
 
 Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und die Spielregeln als auch einige Tipps für die [Portfoliopräsentation](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
 
-## Material
-- [Folien zu Räumlichkeit](https://cnoss.github.io/slides/presentations/screendesign/raeumlichkeit/)
-- [Folien zu Gestaltgesetzen](https://cnoss.github.io/slides/presentations/screendesign/gestaltgesetze/)
+## Weiterführendes Material
 - [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
 - [Laws Of UX](https://lawsofux.com)

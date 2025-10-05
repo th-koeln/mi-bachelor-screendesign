@@ -20,4 +20,4 @@ Entwerfen Sie ein (typografisches) Plakat, auf dem Begriff/ das Konzept «Serial
 
 Exportieren Sie das Motiv als PDF und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452322&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-```sd-uebung-plakat-serialisierung-NACHNAME.pdf```
+```sd-plakat-serialisierung-NACHNAME.pdf```

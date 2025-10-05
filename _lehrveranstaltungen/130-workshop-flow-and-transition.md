@@ -10,6 +10,10 @@ published: true
 dauer: 120
 raum: vor-ort-ferchau
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
+assignments: |
+  - [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-and-transition/)
+material: |
+  - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
 ---
 
 In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Schwerpunkt Interaktionsabläufe und Übergänge. In den meisten Anwendungen haben wir idealerweise keine Abfolge von statischen Screens, sondern versuchen, dem User die Benutzung mithilfe von sinnvollen Übergängen und Hervorhebungen zu erleichtern und seine Aufmerksamkeit zu lenken.
@@ -25,8 +29,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - eigener Rechner mit Figma
 - Sehr gute Kenntnisse in Figma
 
-##  Material
-- [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
+## Weiterführendes Material
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 - [Understanding motion](https://material.io/design/motion/understanding-motion.html#principles)
 - [Motion in UX Design: 6 Effective Types of Web Animation](https://blog.tubikstudio.com/web-animation/)
@@ -48,8 +51,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Figma: Mit Smart-Animation erweiterte Animationen erstellen](https://help.figma.com/hc/de/articles/360039818874-Mit-Smart-Animation-erweiterte-Animationen-erstellen)
 - [Figma: Einführung in Prototyping](https://help.figma.com/hc/de/articles/360040314193-Einführung-in-Prototyping-in-Figma/)
 
-## Übungen
-- [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-and-transition/)
+
 
 ## Video zum Google Sheets Sync Plugin
 

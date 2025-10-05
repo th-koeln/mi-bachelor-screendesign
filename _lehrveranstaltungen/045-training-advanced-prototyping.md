@@ -10,6 +10,9 @@ published: true
 dauer: 300
 raum: zoom-fd
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
+assignments: |
+  - [Advanced Prototyping](/mi-bachelor-screendesign/assignments/training-002-advanced-prototyping/)
+
 ---
 
 ## Worum geht es?
@@ -48,7 +51,3 @@ Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, 
 ## Tools
 - [Figma Plugin - Color Shades & Tints Generator](https://www.figma.com/community/plugin/1221190866182222979/color-shades-tints-generator)
 - [Color Designer](https://colordesigner.io)
-
-## Übungen
-In der heutigen Session soll folgende Aufgabe bearbeitet werden:
-- [Advanced Prototyping](/mi-bachelor-screendesign/assignments/training-002-advanced-prototyping/)

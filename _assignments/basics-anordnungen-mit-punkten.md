@@ -11,6 +11,7 @@ published: true
 
 Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich große, hellgraue Fläche. Platzieren Sie anschließend ein weißes Rechteck von **780x500px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, schwarzen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
 
+<!--
 1. Konfrontation
 2. Zerfall
 3. Rhytmus
@@ -19,8 +20,8 @@ Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich gr
 6. Verdichtung
 7. Durchbrechung
 8. Richtung
+-->
 
-<!-- Begriffe aus 2023:
 
 1. Ansammlung
 2. Streuung
@@ -31,7 +32,7 @@ Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich gr
 7. Ordnung
 8. Aufstieg
 
--->
+
 
 <!-- 5. Systematik -->
 <!--6. Komplexität-->

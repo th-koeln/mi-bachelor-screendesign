@@ -9,6 +9,9 @@ published: true
 dauer: 300
 raum: vor-ort-v
 info: 
+material: |
+ - [Räume](../../images/workshop-raeume.png)
+ - [Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2025-onboarding/)
 ---
 
 ## Worum geht es?
@@ -38,9 +41,7 @@ Los geht's! 💪🏽
 - Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // Raum 3.103 & 3.104, Support: Christian
 
 
-## Material
-- [Räume](../../images/workshop-raeume.png)
-- [Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2025-onboarding/)
+
 
 
 

@@ -10,6 +10,11 @@ published: true
 dauer: 180
 raum: zoom-fd
 info: Übungen rund um die Themen Fläche, Farbe und Proportionen
+assignments: |
+  - [Bildmontage mit farbigen Bildern](../../assignments/basics-farbige-bilder/)
+  - [Permutation mit Flächenausschnitten](../../assignments/basics-permuation-und-farbe/)
+uploaddate: 20.11.2025 23:55 Uhr
+uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
 ---
 
 ## Worum geht es?
@@ -21,18 +26,10 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 -   eigener Rechner mit Figma
 -   Kenntnisse in Figma
 
-## Material
-
+## Weiterführendes Material
 - [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
 - [Multicolor Tool](http://labs.tineye.com/multicolr/)
 
-## Übungen
-
-- [Bildmontage mit farbigen Bildern](../../assignments/basics-farbige-bilder/)
-- [Permutation mit Flächenausschnitten](../../assignments/basics-permuation-und-farbe/)
-
-## Upload
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **20.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
 
 <!--
 ## Sie haben keinen Rechner?

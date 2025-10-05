@@ -10,6 +10,9 @@ published: true
 dauer: 120
 raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
+material: |
+  - [Folien zu Typographie](https://cnoss.github.io/slides/presentations/screendesign/typographie/)
+  - [Folien zu Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
 ---
 
 ## Worum geht es?
@@ -18,9 +21,7 @@ info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendes
 
 Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern guter Gestaltung. Auch, oder gerade im Screendesign, ist Text und damit Schrift ein wesentlicher Informationsträger. Hier lauern viele Untiefen, aber auch jede Menge Möglichkeiten für gute Gestaltung.  
 
-## Material
-- [Folien zu Typographie](https://cnoss.github.io/slides/presentations/screendesign/typographie/)
-- [Folien zu Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
+## Weiterführendes Material
 - [Typography on screens](https://m3.material.io/styles/typography/applying-type)
 - [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
 - [Clevere Typografie macht Spaß Poster](https://www.cleverprinting.de/das-kostenlose-cleverprinting-typoposter/)

@@ -10,6 +10,10 @@ published: true
 dauer: 120
 raum: vor-ort-v
 info: Was sind grundlegende Fragen im Design und welche Rolle spielt Design in der Medieninformatik?
+
+material: |
+  - [Folien zu Design in der Medieninformatik](https://cnoss.github.io/slides/presentations/screendesign/design-in-der-medieninformatik/)
+
 ---
 
 
@@ -21,8 +25,6 @@ Heute befassen wir uns mit einer Reihe von Grundbegriffen und Sichtweisen im Des
 - Woran erkennen wir gutes Design?
 - Wie können wir Design beschreiben?
 
+## Sketchnotes aus dem Input!
 
-## Material
-- [Folien zu Design in der Medieninformatik](https://cnoss.github.io/slides/presentations/screendesign/design-in-der-medieninformatik/)
-
-## Sketchnotes aus dem Input![Sketchnotes SD Design in der MI](../../images/recordings/sd-session-02.jpg "Sketchnotes SD Design in der MI")
+[Sketchnotes SD Design in der MI](../../images/recordings/sd-session-02.jpg "Sketchnotes SD Design in der MI")

@@ -10,6 +10,13 @@ published: true
 dauer: 180
 raum: vor-ort-w
 info: Heute wir es ein bisschen komplexer :) Wir kümmern uns um Linien.
+assignments: |
+  - [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
+  - [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
+
+material: |
+  - [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
+  - [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
 ---
 
 ## Worum geht es?
@@ -20,18 +27,6 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, 
 
 -   eigener Rechner mit Figma
 -   Basiskenntnisse in Figma
-
-## Material
-
--   [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
--   [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
-
-## Übungen
-
-In der heutigen Session sollen folgende Übungen bearbeitet werden.
-
--   [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
--   [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
 
 ## Upload
 

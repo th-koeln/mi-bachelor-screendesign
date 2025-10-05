@@ -17,5 +17,5 @@ Im Ergebnis soll eine interessante Komposition entstehen. Fügen sie dieser bitt
 
 Exportieren Sie die Komposition als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-- ```sd-uebung-permutation-NACHNAME.png```
+- ```sd-permutation-NACHNAME.png```
 

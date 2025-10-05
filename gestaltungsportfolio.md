@@ -19,7 +19,7 @@ Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der G
 - eine Lösung zu den Übungen aus dem Themenfeld Linie
 - eine Lösung zu den Übungen aus dem Themenfeld Fläche
 - eine Lösung zu den Übungen aus dem Themenfeld Farbe
-- eine Lösung zur Übungen aus dem Themenfeld Gestaltgesetze
+- eine Lösung zu den Übungen aus dem Themenfeld Gestaltgesetze & Räumlichkeit
 - eine Lösung zu den Übungen aus dem Themenfeld Typographie & Textsatz
 
 
@@ -36,4 +36,4 @@ Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](
 Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Für jeden Teilnehmer:in stehen fünf Minuten Präsentationszeit zur Verfügung. Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung, anstatt sie zu beschreiben.
 
 ## Abgabe
-Das Portfolio muss bis zum {{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}} 15:00 Uhr im [{{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}}) hochgeladen sein.
+Das Portfolio muss bis zum {{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}} im [{{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}}) hochgeladen sein.
