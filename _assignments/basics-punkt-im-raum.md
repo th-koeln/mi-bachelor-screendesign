@@ -19,6 +19,6 @@ Gestalten Sie eine Serie von Punktkompositionen, die eine Bewegung oder Reise du
 
 Erstellen Sie mindestens drei Kompositionen, die unterschiedliche Aspekte der Bewegung im Raum darstellen. Jede Komposition soll eine andere Art von Bewegung zeigen (z. B. eine gerade Linie, eine kurvige Fahrt, eine sprunghafte Bewegung). Fügen Sie jeder Komposition eine kurze Bezeichnung hinzu, die erklärt, welche Art von Bewegung Sie darstellen.
 
-Exportieren Sie alle Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=474196&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie alle Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-punkte-im-raum-NACHNAME-NUMMER.png```

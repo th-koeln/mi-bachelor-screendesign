@@ -15,7 +15,7 @@ material: |
   - [Folien zum Modulablauf](https://cnoss.github.io/slides/presentations/screendesign/about-screendesign/)
 
 assignments: |
-  - [Was will ich hier](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-was-will-ich-hier/)
+  - [Was will ich hier?](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-was-will-ich-hier/)
   - [Plakat Abstraktion](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-abstraktion/)
 
 
@@ -32,7 +32,7 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **16.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cd:mz&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=452322) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **16.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316) hoch.
 
 
 

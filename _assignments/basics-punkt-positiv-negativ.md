@@ -13,6 +13,6 @@ Erzeugen Sie nun beliebig viele schwarze Punkte (na gut, Kreise) mit einem Durch
 
 Erzeugen Sie nun jeweils eine in den Farben invertierte Version jeder Komposition.
 
-Exportieren Sie alle acht Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=474196&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie alle acht Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-punkt-positiv-negativ-NACHNAME-NUMMER.png```

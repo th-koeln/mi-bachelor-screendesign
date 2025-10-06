@@ -7,7 +7,7 @@ published: true
 headerClass: is-small
 ---
 
-Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-sketch-und-figma-basics/).
+Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool Ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-sketch-und-figma-basics/).
 
 ---
 
@@ -67,7 +67,7 @@ In dieser Aufgabe sollen Sie einen komplett neuen Screen mit minimaler Hilfestel
 
 ---
 
-Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452322&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-podcast-player-01-NACHNAME.png```
 

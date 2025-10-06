@@ -22,7 +22,7 @@ assignments: |
   - [Punkt und Raum – Der Punkt als Bewegung im Raum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
 
 uploaddate: 23.10.2025 23:55 Uhr
-uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
+uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317
 ---
 
 ## Worum geht es?
