@@ -33,6 +33,10 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 - eigener Rechner mit Figma
 - Basiskenntnisse in Figma
 
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **23.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch.
+
 <!-- ## Mitschnitte
 
 Die Mitschnitte der Session liegen im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_2049885&client_id=ILIAS_FH_Koeln). -->

@@ -32,7 +32,11 @@ Als Hilfestellung finden Sie nun einige Abmessungen:
 
 ## Figma 2: Alben
 
-Bauen Sie den hier abgebildeten Screen so detailgetreu wie möglich nach. 
+Bauen Sie den hier abgebildeten Screen so detailgetreu wie möglich nach.
+
+Benutzen Sie als Basis den Screen, den Sie in Aufgabe 1 erstellt haben. Die benötigten Bilder sind im Materialpaket zu finden.
+
+**ACHTUNG:** Zu manchen Elementen liegen absichtlich keine Abmessungen vor. Erschließen Sie sich diese bitte aus dem Kontext.
 
 ![Layout](../images/figma-basics-2-1.jpg)
 
@@ -40,11 +44,6 @@ Als Hilfestellung finden Sie nun einige Abmessungen:
 
 ![Abmessungen](../images/figma-basics-2-2.jpg)
 ![Abmessungen](../images/figma-basics-2-3.jpg)
-
-
-Benutzen Sie als Basis den Screen, den Sie in Aufgabe 1 erstellt haben. Die benötigten Bilder sind im Materialpaket zu finden.
-
-**ACHTUNG:** Zu manchen Elementen liegen absichtlich keine Abmessungen vor. Erschließen Sie sich diese bitte aus dem Kontext.
 
 
 ## Figma 3: Landscape
