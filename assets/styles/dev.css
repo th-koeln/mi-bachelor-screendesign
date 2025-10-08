@@ -5,9 +5,8 @@
 
 .content{
   img.eyecandy, [data-eyecandy="image-fade-in"]{
-    opacity: 0.5;
-    transform: scale(0.5);
-    transition: opacity 0.3s ease, transform 0.3s ease;
+    opacity: 0.2;
+    transform: scale(0.2);
     will-change: opacity, transform;
   }
 }

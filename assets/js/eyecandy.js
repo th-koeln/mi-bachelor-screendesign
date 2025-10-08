@@ -3,9 +3,13 @@ gsap.registerPlugin(ScrollTrigger, SplitText);
 const toMilliseconds = (v) => (v.endsWith('s') ? parseFloat(v) * 1000 : parseFloat(v));
 
 const ecFunkyDance = (ele) => {
+
+  ele.style.willChange = 'transform, opacity';
+  ele.parentElement.style.overflow = 'hidden';
+
   SplitText.create(ele, {
     type: 'chars, words, lines',
-
+    
     autoSplit: true,
     onSplit(self) {
       return gsap.from(self.chars, {
@@ -30,26 +34,24 @@ const ecFunkyDance = (ele) => {
 };
 
 const ecImageFadeIn = (image) => {
-        ScrollTrigger.create({
-        trigger: image,
-        start: 'top 80%',
-        onEnter: () => {
-          gsap.fromTo(
-            image,
-            { opacity: 0, scale: 0.5 },
-            { opacity: 1, scale: 1, duration: 1, ease: 'power2.out' },
-          );
-        },
-        onEnterBack: () => {
-          gsap.fromTo(
-            image,
-            { opacity: 0, scale: 0.5 },
-            { opacity: 1, scale: 1, duration: 1, ease: 'power2.out' },
-          );
-        },
-        onLeave: () => gsap.set(image, { opacity: 0, scale: 1.1 }),
-        onLeaveBack: () => gsap.set(image, { opacity: 0, scale: 1.1 }),
-      });
+  ScrollTrigger.create({
+    trigger: image,
+    start: 'top 80%',
+    onEnter: () => {
+      gsap.fromTo(
+        image,
+        { opacity: 0, scale: 0.2 },
+        { opacity: 1, scale: 1, duration: 1, ease: 'power2.out' },
+      );
+    },
+    onEnterBack: () => {
+      gsap.fromTo(
+        image,
+        { opacity: 0, scale: 0.2 },
+        { opacity: 1, scale: 1, duration: 1, ease: 'power2.out' },
+      );
+    }
+  });
 };
 
 const ecSlideInChars = (ele) => {
@@ -185,7 +187,7 @@ const animateLines = (text) => {
 };
 
 const initEyeCandy = () => {
-  
+
   const fontsReady =
     'fonts' in document && document.fonts?.ready ? document.fonts.ready : Promise.resolve(); // Fallback, falls Font Loading API nicht da ist
 
@@ -263,16 +265,16 @@ const addChoreography = () => {
 
   const home = document.querySelector('[data-layout="home"]');
 
-  if(home !== null){
+  if (home !== null) {
     home.querySelectorAll('h1').forEach((ele) => { ele.dataset.eyecandy = 'slide-in-chars'; });
     home.querySelectorAll('.content img').forEach((ele) => { ele.dataset.eyecandy = 'image-fade-in'; });
   }
 
 
-  
+
   if (width < 768) return;
 
-  if(home !== null){
+  if (home !== null) {
     home.querySelectorAll('h2, h3').forEach((ele) => { ele.dataset.eyecandy = 'fade-in'; });
   };
 };
@@ -325,7 +327,7 @@ const ecFunkyDanceOld = (ele) => {
         onEnter: () => {
           gsap.fromTo(
             image,
-            { opacity: 0, scale: 1.1 },
+            { opacity: 0, scale: 1 },
             { opacity: 1, scale: 1, duration: 1, ease: 'power2.out' },
           );
         },
