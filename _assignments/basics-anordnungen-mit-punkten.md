@@ -38,7 +38,7 @@ Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich gr
 <!--6. Komplexität-->
 
 
-Erzeugen Sie bei Bedarf eine Maske, um Anschnitte im Ranbreich realisieren zu können. Bleiben Sie auf der syntaktischen Ebene. 
+Erzeugen Sie bei Bedarf eine Maske, um Anschnitte im Randbereich realisieren zu können. Bleiben Sie auf der syntaktischen Ebene. 
 
 Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. 
 
@@ -49,7 +49,7 @@ Platzieren Sie jeweils Ihren Namen und den Begriff des Motivs in einer serifenlo
 
 Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jeweiligen Begriff hinzu. Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. Nutzen Sie für die Darstellung des Begriffs eine serifenlose Schrift im Schriftgrad 18. Bitte schreiben Sie auch Ihren Namen auf die graue Fläche. Die Gesamtkomposition soll so reduziert und eindeutig sein wie möglich. -->
 
-Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=474196&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-punkt-anordnungen-NACHNAME–BEGRIFF.png`
 

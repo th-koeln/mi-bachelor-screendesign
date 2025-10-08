@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 published: true
 dauer: 180
 raum: vor-ort-w
-info: Heute wir es ein bisschen komplexer :) Wir kümmern uns um Linien.
+info: Heute wird es ein bisschen komplexer :) Wir kümmern uns um Linien.
 assignments: |
   - [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
   - [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
@@ -30,7 +30,7 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **30.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **30.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679318&mode=ongoing&from_overview=1) hoch.
 
 <!-- ## Mitschnitte
 

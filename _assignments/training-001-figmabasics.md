@@ -7,7 +7,7 @@ published: true
 headerClass: is-small
 ---
 
-Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-sketch-und-figma-basics/).
+Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool Ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-sketch-und-figma-basics/).
 
 ---
 
@@ -32,7 +32,11 @@ Als Hilfestellung finden Sie nun einige Abmessungen:
 
 ## Figma 2: Alben
 
-Bauen Sie den hier abgebildeten Screen so detailgetreu wie möglich nach. 
+Bauen Sie den hier abgebildeten Screen so detailgetreu wie möglich nach.
+
+Benutzen Sie als Basis den Screen, den Sie in Aufgabe 1 erstellt haben. Die benötigten Bilder sind im Materialpaket zu finden.
+
+**ACHTUNG:** Zu manchen Elementen liegen absichtlich keine Abmessungen vor. Erschließen Sie sich diese bitte aus dem Kontext.
 
 ![Layout](../images/figma-basics-2-1.jpg)
 
@@ -40,11 +44,6 @@ Als Hilfestellung finden Sie nun einige Abmessungen:
 
 ![Abmessungen](../images/figma-basics-2-2.jpg)
 ![Abmessungen](../images/figma-basics-2-3.jpg)
-
-
-Benutzen Sie als Basis den Screen, den Sie in Aufgabe 1 erstellt haben. Die benötigten Bilder sind im Materialpaket zu finden.
-
-**ACHTUNG:** Zu manchen Elementen liegen absichtlich keine Abmessungen vor. Erschließen Sie sich diese bitte aus dem Kontext.
 
 
 ## Figma 3: Landscape
@@ -67,7 +66,7 @@ In dieser Aufgabe sollen Sie einen komplett neuen Screen mit minimaler Hilfestel
 
 ---
 
-Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=452322&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-podcast-player-01-NACHNAME.png```
 

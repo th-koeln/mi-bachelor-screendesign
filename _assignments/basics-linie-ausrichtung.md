@@ -16,6 +16,6 @@ Erzeugen Sie nun ein paralleles Linienraster aus schwarzen Linien mit gleichmä�
 
 Die quadratische Struktur muss erkennbar bleiben. Ein paar Tricks zeigen wir Ihnen gleich. Wiederholen Sie den Vorgang für eine zweite Arbeitsfläche, sodass zwei Komposisitonen entstehen. Fügen Sie Ihren Namen jeweils mit ein.
 
-Exportieren Sie die beiden Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilExerciseHandlerGUI&ref_id=482917&cmd=showOverview) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie die beiden Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679318&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-linienbloecke-NACHNAME-NUMMER.png```

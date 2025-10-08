@@ -21,7 +21,7 @@ Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner 
 
 Die erste reguläre Veranstaltung ist am **10. Oktober 2025** um **10:00 Uhr**. Der letzte Termin ist am **06. Februar 2026**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
-Bitte melden Sie sich zu diesem [Kurs im ILU]({{ilu}}) an.
+Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) an.
 
 </div>
 
@@ -67,13 +67,13 @@ Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns d
 
 **Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit und müssen durch Screenmovies vorbereitet werden. 
 
-**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172) anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im ILU hochgeladen wurden.
+**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im ILU hochgeladen wurden.
 
 Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltungen](angebote/) im Rahmen des Moduls.
 
 ## Prüfung & erforderliche Artefakte
 
-Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten sie möglichst umfassend und professionell erläutern, wie sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen sich sie sich im PSSO anmelden und einen Termin im ILU buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
+Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten Sie möglichst umfassend und professionell erläutern, wie Sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen Sie sich im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden und einen Termin im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
 
 Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, das die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung erstellt wurden. 
 
@@ -83,8 +83,8 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im PSSO anmelden. Dies ist von Oktober 2025 bis März 2026 möglich.
-- Step 2: [Termin im ILU buchen]({{ilu}})
+- Step 1: im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden. Dies ist von Oktober 2025 bis März 2026 möglich.
+- Step 2: [Termin im ILU buchen - (Link folgt)]
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im ILU eintragen und Artefakte bereit stellen - (Link folgt)]()
