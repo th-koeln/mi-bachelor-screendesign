@@ -12,7 +12,7 @@ raum: vor-ort-w
 info: Basistraining für den Umgang mit Figma
 
 assignments: |
-  - [Übungen](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
+  - [Podcast Player](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
 
 uploaddate: 16.10.2025 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316
