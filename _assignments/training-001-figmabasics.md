@@ -1,4 +1,4 @@
----
+x---
 titel: Figma Basics
 tags: 
   - Warm-up
@@ -7,7 +7,7 @@ published: true
 headerClass: is-small
 ---
 
-Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool Ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-sketch-und-figma-basics/).
+Diese Aufgabe dient zum Warmwerden mit dem Gestaltungstool Figma. Sie können auch jedes andere Tool Ihrer Wahl verwenden. Hilfestellungen bekommen Sie in dem [dazu vorgesehenen Training](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-figma-basics/).
 
 ---
 
@@ -17,7 +17,7 @@ Legen Sie sich einen [Figma-Account](https://www.figma.com/) an. Registrieren Si
 
 ## Figma 1: Grundlage
 
-Laden Sie das [Materialpaket](../../download/trainings/figma/figma-training-material.zip) herunter. Hier finden Sie Schriftarten und eine Sketch-Datei, welche Sie in Figma importieren können. Nutzen Sie diese Datei als Ausgangspunkt.
+Laden Sie das [Materialpaket](../../download/trainings/figma/figma-training-material.zip) herunter. Hier finden Sie Schriftarten und eine Figma-Datei, welche Sie in Figma importieren können. Nutzen Sie diese Datei als Ausgangspunkt.
 
 Bauen Sie den hier abgebildeten Screen so detailgetreu wie möglich nach. Bitte arbeiten Sie dabei so präzise wie möglich, so dass ihre Layouts der Vorlage 1zu1 entsprechen.
 
