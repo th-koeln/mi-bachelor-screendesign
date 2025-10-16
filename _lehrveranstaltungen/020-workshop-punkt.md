@@ -17,9 +17,9 @@ material: |
   - [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 
 assignments: |
-  - [Syntaktisch aussagekräftige Anordnungen mit Punkten](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
-  - [Wechselwirkung zwischen Positiv- und Negativraum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
-  - [Punkt und Raum – Der Punkt als Bewegung im Raum](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
+  - [Wechselwirkung zwischen Positiv- und Negativraum](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+  - [Syntaktisch aussagekräftige Anordnungen mit Punkten](/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
+  - [Punkt und Raum – Der Punkt als Bewegung im Raum](/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
 
 uploaddate: 23.10.2025 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317

@@ -266,8 +266,9 @@ const addChoreography = () => {
   const home = document.querySelector('[data-layout="home"]');
 
   if (home !== null) {
-    home.querySelectorAll('h1').forEach((ele) => { ele.dataset.eyecandy = 'slide-in-chars'; });
+    home.querySelectorAll('h1').forEach((ele) => { ele.dataset.eyecandy = 'funky-dance'; });
     home.querySelectorAll('.content img').forEach((ele) => { ele.dataset.eyecandy = 'image-fade-in'; });
+
   }
 
 
