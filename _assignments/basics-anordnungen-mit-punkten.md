@@ -51,7 +51,7 @@ Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jeweiligen B
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-`sd-aufgabe-punkt-anordnungen-NACHNAME–BEGRIFF.png`
+> `sd-aufgabe-punkt-anordnungen-NACHNAME–BEGRIFF.png`
 
 <!--
 ## Punkt 2: Begriffspaare
