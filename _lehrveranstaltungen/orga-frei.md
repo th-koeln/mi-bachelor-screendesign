@@ -4,7 +4,7 @@ kuerzel: o-ft
 verantwortlich: cn
 typ: free
 pflicht: false
-termine: 2025-11-22 10:00, 2025-12-27 10:00, 2025-11-01 10:00, 2026-01-03 10:00
+termine: 2025-11-28 10:00, 2025-12-26 10:00, 2026-01-02 10:00, 2026-01-09 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 540

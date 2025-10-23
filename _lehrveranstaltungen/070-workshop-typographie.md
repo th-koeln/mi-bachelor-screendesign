@@ -4,10 +4,10 @@ kuerzel: w-elmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-11-21 13:00
+termine: 2025-11-14 13:00
 empfohlene-voraussetzungen:
 published: true
-dauer: 120
+dauer: 180
 raum: vor-ort-w
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 assignments: |

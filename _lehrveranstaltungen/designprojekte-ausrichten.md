@@ -4,9 +4,9 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-12-12 10:00
+termine: 2025-12-12 13:00
 published: true
-dauer: 300
+dauer: 180
 raum: vor-ort-v
 info: 
 material: |
