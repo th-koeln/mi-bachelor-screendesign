@@ -7,9 +7,9 @@ tags:
 published: true
 ---
 
-Legen Sie eine weiße Arbeitsfläche(Frame) mit einer Größe von **1200x1200px** an. Legen Sie darauf ein Grid mit fünf Spalten und fünf Zeilen an. Der Randabstand und der Abstand nach oben beträgt 50px, der Spaltenabstand beträgt 20px. 
+Legen Sie eine dunkelgraue Arbeitsfläche(Frame) mit einer Größe von **1200x1200px** an. Legen Sie darauf ein Grid mit fünf Spalten und fünf Zeilen an. Der Randabstand und der Abstand nach oben beträgt 50px, der Spaltenabstand beträgt 20px. 
 
-Erzeugen Sie nun ein paralleles Linienraster aus schwarzen Linien mit gleichmäßigem Abstand für jedes Quadrat der Rasterfläche (zwischen 10 und 120 Linien). Wiederholen Sie das für alle 16 Quadrate. Erzeugen Sie nun eine interessante Gesamtkomposition, indem Sie die Liniengruppe in den jeweiligen Quadraten variieren. Variiert werden darf:
+Erzeugen Sie nun ein paralleles Linienraster aus weißen Linien mit gleichmäßigem Abstand für jedes Quadrat der Rasterfläche (zwischen 10 und 120 Linien). Wiederholen Sie das für alle 16 Quadrate. Erzeugen Sie nun eine interessante Gesamtkomposition, indem Sie die Liniengruppe in den jeweiligen Quadraten variieren. Variiert werden darf:
 - die Lage der Linien
 - die Stärke der Linien
 - die Anzahl der Linien

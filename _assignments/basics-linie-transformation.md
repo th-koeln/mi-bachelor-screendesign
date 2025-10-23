@@ -7,9 +7,9 @@ tags:
 published: true
 ---
 
-Legen Sie drei weiße Arbeitsflächen(Frames) mit einer Größe von **1430x425px** an. Legen Sie darauf jeweils ein Grid mit fünf Spalten an. Der Randabstand beträgt 50px, der Spaltenabstand beträgt 20px. 
+Legen Sie drei dunkelgraue Arbeitsflächen(Frames) mit einer Größe von **1430x425px** an. Legen Sie darauf jeweils ein Grid mit fünf Spalten an. Der Randabstand beträgt 50px, der Spaltenabstand beträgt 20px. 
 
-Visualisieren Sie nun in den fünf Spalten nur mit Linien folgende Begriffspaare und einen Übergang zwischen diesen Paaren (als Serie). Verwenden Sie pro Begriffspaar eine Arbeitsfläche. 
+Visualisieren Sie nun in den fünf Spalten nur mit weißen Linien folgende Begriffspaare und einen Übergang zwischen diesen Paaren (als Serie). Verwenden Sie pro Begriffspaar eine Arbeitsfläche. 
 
 1. Symmetrie und Asymmetrie
 2. Anziehung und Abstoßung
