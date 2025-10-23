@@ -9,7 +9,7 @@ published: true
 
 <!--Erzeugen Sie auf einer gellgrauen Fläche von **1024x1366 Pixeln** (hochformat) ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils **16 gleich großen schwarzen Punkten** diese sieben Begriffe dar: -->
 
-Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** eine gleich große, mittelgraue Fläche. Platzieren Sie anschließend ein schwarzes Rechteck von **780x500px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, weißen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
+Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** mit mittelgrauer Füllung. Platzieren Sie anschließend ein schwarzes Rechteck von **780x500px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, weißen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
 
 <!--
 1. Konfrontation
@@ -51,7 +51,7 @@ Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jeweiligen B
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-`sd-aufgabe-punkt-anordnungen-NACHNAME–BEGRIFF.png`
+> `sd-aufgabe-punkt-anordnungen-NACHNAME–BEGRIFF.png`
 
 <!--
 ## Punkt 2: Begriffspaare
