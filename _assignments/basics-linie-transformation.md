@@ -17,4 +17,4 @@ Visualisieren Sie nun in den fünf Spalten nur mit weißen Linien folgende Begri
 
 Fügen Sie Ihren Namen jeweils mit ein und exportieren Sie die drei Visualisierungen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679318&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-```sd-linientransformationen-NACHNAME-BEGRIFF.png```
+> ```sd-linientransformationen-NACHNAME-BEGRIFF.png```
