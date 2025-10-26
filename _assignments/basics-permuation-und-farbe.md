@@ -15,7 +15,7 @@ Im Ergebnis soll eine interessante Komposition entstehen. Fügen sie dieser bitt
 - kurze Definition des Begriffs
 - Ihren Namen
 
-Exportieren Sie die Komposition als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie die Komposition als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&mode=future&from_overview=1&ass_id=23823) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 - ```sd-permutation-NACHNAME.png```
 

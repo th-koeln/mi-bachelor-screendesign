@@ -27,7 +27,7 @@ Einzel- oder Teamartefakt
 : {{site.data.abgaben.artefakt0.gruppe}}
 
 Übergabepunkt
-: [{{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}})
+: [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23824)
 
 Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die gestalterische Auseinandersetzung der Studierenden von basalen Fragen und Themen im Screendesign. Dabei sollen folgende Fragen beantwortet werden:
 - wie präzise agiert der Studierende bei der Bearbeitung der GestaltungsÜbungen
@@ -89,7 +89,7 @@ Einzel- oder Teamartefakt
 : {{site.data.abgaben.artefakt1.gruppe}}
 
 Übergabepunkt
-: [{{site.data.abgaben.artefakt1.uebergabepunkt-text}}]({{site.data.abgaben.artefakt1.uebergabepunkt-link}})
+: [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23825)
 
 Das wesentliche Deliverable des Projekts ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/Kontexte umfasst.
 

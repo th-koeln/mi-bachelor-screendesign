@@ -15,7 +15,7 @@ Erarbeiten Sie mit Hilfe des [Color Wheels (Adobe)](https://color.adobe.com/de/c
 
 Suchen Sie nun zur jeweiligen Farbe passende Bilder, z.B. mit Hilfe des [Multicolor Tools](http://labs.tineye.com/multicolr/) und montieren diese ins Raster der Montagefläche. Nutzen Sie die Maskenfunktion zur Auswahl des optimalen Bildausschnitts. Wenn Sie fertig sind, duplizieren Sie die Montagefläche und invertieren die Farbe der Montagefläche und der Beschriftung. 
 
-Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im Ilias hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
+Exportieren Sie das Motiv als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&mode=future&from_overview=1&ass_id=23822) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
 - ```sd-aufgabe-farbige-bilder-NACHNAME-bg-schwarz.png```
 - ```sd-aufgabe-farbige-bilder-NACHNAME-bg-weiss.png```
