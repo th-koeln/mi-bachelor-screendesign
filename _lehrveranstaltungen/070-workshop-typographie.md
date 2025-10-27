@@ -17,3 +17,7 @@ assignments: |
 ## Worum geht es?
 
 Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus steigen wir mit einer Analyseaufgabe in das Screendesign Projekt 2025 ein.
+
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **20.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.

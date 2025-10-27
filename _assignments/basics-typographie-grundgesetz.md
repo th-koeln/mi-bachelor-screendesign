@@ -23,7 +23,7 @@ Wählen Sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des
 
 Setzen sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=731711&mode=future&from_overview=1&ass_id=26940) und verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-1.1-NACHNAME.png` \
 `sd-aufgabe-typo-1.1-explanation-NACHNAME.png` \
@@ -43,7 +43,7 @@ Nehmen Sie einen der Entwürfe aus Übung 1 und setzen Sie ihn auf drei verschie
 
 Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=731711&mode=future&from_overview=1&ass_id=26941) und verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-2.1-NACHNAME.png` \
 `sd-aufgabe-typo-2.1-explanation-NACHNAME.png` \
@@ -61,7 +61,8 @@ Wählen Sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder ha
 
 Erzeugen Sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=731711&mode=future&from_overview=1&ass_id=26942) und verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-3.1-NACHNAME.png` \
 `sd-aufgabe-typo-3.1-explanation-NACHNAME.png` \
@@ -79,7 +80,8 @@ Setzen Sie einen Artikel oder ein Grundrecht so um, als wäre es Teil einer Prot
 
 Erzeugen Sie mindestens vier Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=731711&mode=future&from_overview=1&ass_id=26943) und verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 `sd-aufgabe-typo-4.1-NACHNAME.png` \
 `sd-aufgabe-typo-4.1-explanation-NACHNAME.png` \
