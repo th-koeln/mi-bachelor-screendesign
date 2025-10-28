@@ -17,5 +17,4 @@ Exportieren Sie alle acht Kompositionen als PNG (2x) und laden Sie diese im [ILU
 
 > ```sd-punkt-positiv-negativ-NACHNAME-NUMMER.png```
 
-### Technische Hilfestellung
-[Figma - Layout Grids](https://www.youtube.com/watch?v=zd8wrAdURN0&t=106s)
+
