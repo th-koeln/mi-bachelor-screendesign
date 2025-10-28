@@ -19,7 +19,8 @@ material: |
   - [Gestaltungselement Fläche & Form](https://cnoss.github.io/slides/presentations/screendesign/flaeche-und-form/)
   - [Figur und Grund](https://cnoss.github.io/slides/presentations/screendesign/figur-und-grund/)
   - [Figma tutorial: Boolean operations](https://www.youtube.com/watch?v=kH14-N_c5go)
-  - [Figma Tutorial: Text Tool and Fonts](https://www.youtube.com/watch?v=5i-ebNTjad8)
+  - [Figma tutorial: Text tool and Fonts](https://www.youtube.com/watch?v=5i-ebNTjad8)
+  - [Figma tutorial: Color picker](https://www.youtube.com/watch?v=V7waqacFYZs)
 ---
 
 ## Worum geht es?
