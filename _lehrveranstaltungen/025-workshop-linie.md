@@ -16,9 +16,9 @@ assignments: |
 material: |
   - [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
   - [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
-  - [Figma Tutorial - Masks](https://www.youtube.com/watch?v=tUcBcz8bjVs)
-  - [Figma Tutorial- Boolean operations](https://www.youtube.com/watch?v=8ZaX6qEcUCU)
-  - [Figma Tutorial - Alignment & Distribution](https://www.youtube.com/watch?v=qQyaPqem0TA)
+  - [Figma tutorial - Masks](https://www.youtube.com/watch?v=tUcBcz8bjVs)
+  - [Figma tutorial- Boolean operations](https://www.youtube.com/watch?v=8ZaX6qEcUCU)
+  - [Figma tutorial - Alignment & Distribution](https://www.youtube.com/watch?v=qQyaPqem0TA)
 
 ---
 
