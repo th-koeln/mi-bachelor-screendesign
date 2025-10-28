@@ -13,14 +13,13 @@ info: Heute wird es ein bisschen komplexer :) Wir kümmern uns um Linien.
 assignments: |
   - [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
   - [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
-
-  - [Figma - Masks](https://www.youtube.com/watch?v=tUcBcz8bjVs)
-  - [Figma - Boolean Operations](https://www.youtube.com/watch?v=8ZaX6qEcUCU)
-  - [Figma - Alignment & Distribution](https://www.youtube.com/watch?v=qQyaPqem0TA)
-
 material: |
   - [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
   - [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
+  - [Figma Tutorial - Masks](https://www.youtube.com/watch?v=tUcBcz8bjVs)
+  - [Figma Tutorial- Boolean operations](https://www.youtube.com/watch?v=8ZaX6qEcUCU)
+  - [Figma Tutorial - Alignment & Distribution](https://www.youtube.com/watch?v=qQyaPqem0TA)
+
 ---
 
 ## Worum geht es?
