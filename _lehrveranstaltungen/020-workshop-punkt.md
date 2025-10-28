@@ -16,6 +16,10 @@ material: |
   - [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
   - [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
 
+  - [Figma - Layout Grids](https://www.youtube.com/watch?v=zd8wrAdURN0&t=106s)
+  - [Figma - Components fundamentals](https://www.youtube.com/watch?v=7dJBDU8HBeQ)
+  - [Figma - Guides](https://www.youtube.com/watch?v=0xafhHNEsp8)
+
 assignments: |
   - [Wechselwirkung zwischen Positiv- und Negativraum](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
   - [Syntaktisch aussagekräftige Anordnungen mit Punkten](/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
