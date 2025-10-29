@@ -233,6 +233,15 @@
     display: block;
   }
 
+  ol{
+    padding-left: var(--size-l);
+    li{
+      padding-left: var(--half);
+      margin-bottom: var(--size-s);
+      list-style-type: decimal;
+    }
+  }
+
   .text-hero,
   p:has(img) {
     display: block;

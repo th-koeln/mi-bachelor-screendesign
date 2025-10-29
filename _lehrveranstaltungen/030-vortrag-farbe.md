@@ -16,7 +16,7 @@ material: |
 
 ## Worum geht es?
 
-> „Es sind Harmonien und Kontraste in den Farben verborgen, die ganz von selbst zusammenwirken.“ <br><small>Vincent van Gogh</small>
+«Es sind Harmonien und Kontraste in den Farben verborgen, die ganz von selbst zusammenwirken.» <br><small>Vincent van Gogh</small><br><br>
 
 Genau darum geht es heute: Farbe, eines der wirkungsvollsten Gestaltungsmittel. Leider im Guten wie im Schlechten, denn der Einsatz von Farbe kann unsere Gestaltung sehr stark aufwerten, aber leider auch sehr stark abwerten. Warum das so ist, erfahren Sie heute. Dazu natürlich einige Grundlagen und Informationen, die sich prima bei „Wer wird Millionär“ einsetzen lassen. 
 

@@ -21,7 +21,7 @@ Nutzen Sie [Adobe Color](https://color.adobe.com/de/create/image), um aus den Bi
 
 Platzieren Sie nun das warme und das kalte Farbklima aus mindestens fünf Farben auf je einer Arbeitsfläche von **600x170px**. Visualisieren Sie das jeweilige Klima mit gleich großen Farbflächen.
 
-Erstellen Sie nun zwei schwarze Montageflächen von **1024x1440px**. Erzeugen Sie aus jedem Klima **5 Varianten**, indem Sie die Proportionen der Flächen zueinander verändern. Position, Höhe und Breite des Farbbandes selbst dürfen nicht variiert werden. Setzen Sie die Varianten auf die Montagefläche. Nutzen Sie dabei eine sinnvolle Rasterung, sodass die vertikalen Bezüge stimmig sind (Gesetz der guten Fortsetzung). Zwischen den einzelnen Farbbändern sollte ein angemessener Zeilenabstand sein.
+Erstellen Sie nun zwei schwarze Montageflächen von **1440x1440px**. Erzeugen Sie aus jedem Klima **5 Varianten**, indem Sie die Proportionen der Flächen zueinander verändern. Position, Höhe und Breite des Farbbandes selbst dürfen nicht variiert werden. Setzen Sie die Varianten auf die Montagefläche. Nutzen Sie dabei eine sinnvolle Rasterung, sodass die vertikalen Bezüge stimmig sind (Gesetz der guten Fortsetzung). Zwischen den einzelnen Farbbändern sollte ein angemessener Zeilenabstand sein.
 
 Im Workshop erarbeiten wir dazu noch einige Details. Addieren Sie Ihren Namen und das Ausgangsbild zur Gesamtkomposition.
 
