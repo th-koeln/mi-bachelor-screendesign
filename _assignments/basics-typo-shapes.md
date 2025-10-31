@@ -6,6 +6,7 @@ tags:
   - Typographie
   - WS2425
 published: true
+headerClass: is-small
 ---
 
 Legen Sie eine weiße Arbeitsfläche (Frame) mit einer Größe von **1480x800px** an. 
@@ -24,5 +25,6 @@ Hierbei gilt:
 
 Erzeugen Sie zwei Varianten und exportieren Sie die beiden Varianten als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679319&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
-- ```sd-aufgabe-typographische-flaechenkombinationen-1-NACHNAME.png```
-- ```sd-aufgabe-typographische-flaechenkombinationen-2-NACHNAME.png```
+> ```sd-aufgabe-typographische-flaechenkombinationen-1-NACHNAME.png```
+
+> ```sd-aufgabe-typographische-flaechenkombinationen-2-NACHNAME.png```

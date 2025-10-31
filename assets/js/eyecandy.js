@@ -13,10 +13,10 @@ const ecFunkyDance = (ele) => {
     autoSplit: true,
     onSplit(self) {
       return gsap.from(self.chars, {
-        duration: 1.5 + Math.random() * 0.5,
-        yPercent: 'random([-100, 100])',
-        scale: 'random(0.5, 9.5)',
-        ease: 'back.out(1.7)',
+        duration: Math.random() * 0.5,
+        yPercent: 'random([-10, 10])',
+        scale: 'random(0.8, 1.2)',
+        ease: 'back.out(1.2)',
         autoAlpha: 0,
         scrollTrigger: {
           trigger: ele,
@@ -270,8 +270,6 @@ const addChoreography = () => {
     home.querySelectorAll('.content img').forEach((ele) => { ele.dataset.eyecandy = 'image-fade-in'; });
 
   }
-
-
 
   if (width < 768) return;
 

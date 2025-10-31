@@ -6,6 +6,7 @@ tags:
   - Fläche
   - WS2425
 published: true
+headerClass: is-small
 ---
 
 ## Schritt 1: Fotos machen
@@ -27,5 +28,6 @@ Im Workshop erarbeiten wir dazu noch einige Details. Addieren Sie Ihren Namen un
 
 Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679319&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
-- ```sd-aufgabe-farbklima-NACHNAME-kalt.png```
-- ```sd-aufgabe-farbklima-NACHNAME-warm.png```
+> ```sd-aufgabe-farbklima-NACHNAME-kalt.png```
+
+> ```sd-aufgabe-farbklima-NACHNAME-warm.png```
