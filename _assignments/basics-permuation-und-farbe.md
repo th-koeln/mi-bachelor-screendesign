@@ -17,5 +17,24 @@ Im Ergebnis soll eine interessante Komposition entstehen. Fügen sie dieser bitt
 
 Exportieren Sie die Komposition als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&mode=future&from_overview=1&ass_id=23823) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-- ```sd-permutation-NACHNAME.png```
+> ```sd-permutation-NACHNAME.png```
+
+---
+
+### Definition
+
+**Permutation** bezeichnet in der Gestaltung und insbesondere in der formalen Systemarbeit die **systematische Anordnung oder Umstellung von Elementen innerhalb einer festen Menge**. Anders als bei zufälligen Kombinationen basiert eine Permutation auf einer klar definierten Ausgangsmenge, deren Elemente in ihrer Anzahl konstant bleiben, jedoch **in ihrer Reihenfolge, Position oder Kombination variiert werden**.
+
+Im gestalterischen Kontext dient Permutation oft dazu, **Muster, Rhythmen oder serielle Variationen** zu erzeugen, ohne neue Elemente einzuführen. Sie wird eingesetzt, um innerhalb begrenzter Mittel **Vielfalt, Transformation oder Spannung** zu erzeugen – etwa durch das Vertauschen von Farben, Formen, Richtungen oder Platzierungen im Raster.
+
+Permutation folgt meist einem **regelbasierten oder algorithmischen Prinzip**, kann aber auch gezielt unterbrochen oder gebrochen werden, um Irritation, Asymmetrie oder neue Ordnungen sichtbar zu machen. In der Auseinandersetzung mit Permutation wird deutlich, wie stark sich visuelle Wirkung allein durch **Anordnung und Kontext** verändern lässt – ein zentrales Thema in der strukturellen Gestaltung.
+
+---
+
+### How To Duplicate Figma File to Drafts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkEn0AJif90?si=FMTcZLigT9XwG4hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 

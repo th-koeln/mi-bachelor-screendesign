@@ -1,5 +1,5 @@
 ---
-titel: Raum & Gestaltgesetze
+titel: Raum & Anordnungen
 kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
@@ -12,7 +12,8 @@ raum: vor-ort-w
 info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltgesetze
 
 assignments: |
-  - [Visualisierung von Gestaltgesetzen](/mi-bachelor-screendesign/assignments/basics-raeumlichkeit-gestaltgesetze-2025/)
+  - [Permutation mit Flächenausschnitten](/mi-bachelor-screendesign/assignments/basics-permuation-und-farbe/)
+  - [Gruppierung im Raster](/mi-bachelor-screendesign/assignments/gruppierung-im-raster/)
 ---
 
 ## Worum geht es?

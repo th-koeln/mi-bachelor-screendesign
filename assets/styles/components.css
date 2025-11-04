@@ -485,6 +485,7 @@
       margin-top: var(--space-xl);
       font-size: var(--size-m);
       color: var(--color-darkest);
+      max-width: var(--max-width-content);
     }
 
     .item-tags {
@@ -495,6 +496,7 @@
       color: var(--color-darkest);
       margin-top: var(--space-l);
       margin-bottom: var(--space-l);
+      max-width: var(--max-width-content);
 
     }
 
