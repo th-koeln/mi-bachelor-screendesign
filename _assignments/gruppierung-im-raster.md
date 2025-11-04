@@ -59,7 +59,9 @@ Legen das Raster an. Entwickeln Sie für jede Variante ein Konzept, das gezielt 
 - Farbvorgabe reduzieren: Nur zwei Farben + Schwarz/Weiß – erhöht den Fokus auf Struktur.
 - Negative Form nutzen: Elemente als „Lücken“ oder Leerzellen gestalten – Gruppen durch Leere erzeugen.
 
-<br><br>
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **13.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679320&ass_id=27181&mode=future&from_overview=1) hoch.
 
 > ```sd-gruppierung-im-raster-NACHNAME-NUMMER.png```
 

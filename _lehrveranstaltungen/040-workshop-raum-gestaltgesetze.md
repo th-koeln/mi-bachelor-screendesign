@@ -31,7 +31,7 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **13.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679320&mode=future&from_overview=1&ass_id=23821) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **13.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679320&ass_id=27181&mode=ongoing&from_overview=1) hoch.
 
 <!--
 ## Sie haben keinen Rechner?
