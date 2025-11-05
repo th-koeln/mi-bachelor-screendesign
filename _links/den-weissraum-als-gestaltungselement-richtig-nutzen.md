@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 titel: Den Weißraum als Gestaltungselement richtig nutzen
@@ -6,3 +7,4 @@ text: Sehr pragmatischer Zugang zum Thema Negativraum
 tags:
   - Negativraum
 ---
+-->

@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 titel: Fonts in the wild
@@ -7,3 +8,5 @@ tags:
   - Inspiration
   - Typo
 ---
+
+-->

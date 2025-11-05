@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 titel: Mailchimp Patternlab
@@ -6,3 +7,4 @@ text: Schöner Styleguide von Mailchimp
 tags:
   - Styleguide
 ---
+-->

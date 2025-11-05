@@ -1,3 +1,4 @@
+<!-- 
 ---
 layout: default
 titel: Anders gesehen – Die Kunst des Negativraums
@@ -7,3 +8,4 @@ tags:
   - Inspiration
   - Negativraum
 ---
+-->
