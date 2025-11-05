@@ -52,7 +52,7 @@ Folgende Gruppierungskonzepte sollen jeweils mindestens einmal vorkommen:
 
 ## Vorgehen
 
-Legen das Raster an. Entwickeln Sie für jede Variante ein Konzept, das gezielt ein Prinzip oder eine Kombination visualisiert. Halten Sie sich an die definierte Elementanzahl. ede Variante wird in einem eigenen Frame umgesetzt. Beschriften Siejede Variante knapp mit dem angewendeten Prinzip.
+Legen Sie das Raster an. Entwickeln Sie für jede Variante ein Konzept, das gezielt ein Prinzip oder eine Kombination visualisiert. Halten Sie sich an die definierte Elementanzahl. Jede Variante wird in einem eigenen Frame umgesetzt. Beschriften Sie jede Variante knapp mit dem angewendeten Prinzip.
 
 ## Weitere mögliche Varianten
 
