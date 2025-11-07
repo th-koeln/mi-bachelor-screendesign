@@ -20,3 +20,5 @@ material: |
 
 Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern guter Gestaltung. Auch, oder gerade im Screendesign, ist Text und damit Schrift ein wesentlicher Informationsträger. Hier lauern viele Untiefen, aber auch jede Menge Möglichkeiten für gute Gestaltung.  
 
+Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und ein paar Tipps für die [Portfoliopräsentation](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
+

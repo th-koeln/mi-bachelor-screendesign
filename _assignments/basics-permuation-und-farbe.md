@@ -21,13 +21,20 @@ Exportieren Sie die Komposition als PNG (2x) und laden Sie diese im [ILU](https:
 
 ---
 
-### Definition
+### Definition Permutation
 
 **Permutation** bezeichnet in der Gestaltung und insbesondere in der formalen Systemarbeit die **systematische Anordnung oder Umstellung von Elementen innerhalb einer festen Menge**. Anders als bei zufälligen Kombinationen basiert eine Permutation auf einer klar definierten Ausgangsmenge, deren Elemente in ihrer Anzahl konstant bleiben, jedoch **in ihrer Reihenfolge, Position oder Kombination variiert werden**.
 
 Im gestalterischen Kontext dient Permutation oft dazu, **Muster, Rhythmen oder serielle Variationen** zu erzeugen, ohne neue Elemente einzuführen. Sie wird eingesetzt, um innerhalb begrenzter Mittel **Vielfalt, Transformation oder Spannung** zu erzeugen – etwa durch das Vertauschen von Farben, Formen, Richtungen oder Platzierungen im Raster.
 
 Permutation folgt meist einem **regelbasierten oder algorithmischen Prinzip**, kann aber auch gezielt unterbrochen oder gebrochen werden, um Irritation, Asymmetrie oder neue Ordnungen sichtbar zu machen. In der Auseinandersetzung mit Permutation wird deutlich, wie stark sich visuelle Wirkung allein durch **Anordnung und Kontext** verändern lässt – ein zentrales Thema in der strukturellen Gestaltung.
+
+## Was sind Superformen?
+
+Eine Superform ist die übergeordnete, zusammengesetzte Form, die entsteht, wenn mehrere Subformen (Grundformen oder Module) kombiniert, addiert oder permutiert werden.
+Sie ist also das Resultat der formalen Synthese — das, was entsteht, wenn du verschiedene Teilformen zu einer neuen Gesamtgestalt vereinst.
+
+  ![Beispiel von Superformen](../images/superform.png)
 
 ---
 
