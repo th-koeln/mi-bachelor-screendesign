@@ -19,8 +19,8 @@ published: true
 Hochformat Tablet-Format 990 × 1310 px
 <br><br>
 **Rasterdefinition:**  
-- 24 Spalten über die Breite mit margin=20 und padding=10
-- Rasterzellen sollen quadratisch sein → ergibt 32 Zeilen mit margin=20 und padding=10
+- 24 Spalten über die Breite mit margin=20 und gutter=10
+- Rasterzellen sollen quadratisch sein → ergibt 32 Zeilen mit margin=20 und gutter=10
 
 Das Raster muss als  gedachte Struktur konsequent berücksichtigt werden.
 <br><br>
