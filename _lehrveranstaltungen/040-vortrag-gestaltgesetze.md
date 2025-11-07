@@ -25,3 +25,9 @@ Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und die Spie
 ## Weiterführendes Material
 - [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
 - [Laws Of UX](https://lawsofux.com)
+
+## Anmeldung zur Probelehrveranstaltung 
+Hier finden Sie den Link zur [Anmeldung der Probelehrveranstaltung](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yw:of&cmdClass=ilObjGroupGUI&ref_id=599241&redirectSource=ilGroupRegistrationGUI), die im Rahmen des Berufungsverfahrens für die Professur „Geschlechtersensible Informatik und Ingenieurwissenschaften“ stattfindet.
+
+
+
