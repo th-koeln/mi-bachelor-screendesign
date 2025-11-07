@@ -10,7 +10,7 @@ published: true
 ---
 
 <br><br>
-**In dieser Übung werden verschiedene visuelle Prinzipien der Gruppierung innerhalb eines streng definierten Rasters untersucht. Die Studierenden arbeiten mit einer großen Anzahl einfacher grafischer Elemente und erkunden, wie durch Nähe, Ähnlichkeit, Ausrichtung, Kontrast, Störung und Tiefenwirkung Gruppen entstehen – oder aufgelöst werden.**
+**In dieser Übung werden verschiedene visuelle Prinzipien der Gruppierung innerhalb eines streng definierten Rasters erarbeitet. Wir arbeiten mit einer großen Anzahl einfacher grafischer Elemente und erkunden, wie durch Nähe, Ähnlichkeit, Ausrichtung, Kontrast, Störung und Tiefenwirkung Gruppen entstehen – oder aufgelöst werden.**
 
 ## Rahmenbedingungen
 
@@ -36,9 +36,9 @@ Im Zentrum steht das Verhältnis von Einzelelement und Gesamtstruktur, das bewus
 
 ## Gestaltungsaufgabe
 
-Erstellen Sie nun neun eigenständige Kompositionen, die auf dem oben beschriebenen Raster basieren. Jede Variante thematisiert ein oder mehrere Gruppierungsprinzipien. Es geht nicht nur darum, Regelhaftigkeit zu zeigen, sondern auch um das Erzeugen, Unterlaufen oder Brechen dieser visuellen Ordnungen.
+Erstellen Sie nun vier eigenständige Kompositionen, die auf dem oben beschriebenen Raster basieren. Jede Variante thematisiert ein oder mehrere Gruppierungsprinzipien. Es geht nicht nur darum, Regelhaftigkeit zu zeigen, sondern auch um das Erzeugen, Unterlaufen oder Brechen dieser visuellen Ordnungen.
 
-Folgende Gruppierungskonzepte sollen jeweils mindestens einmal vorkommen:
+Sechs der folgenden Gruppierungskonzepte sollen jeweils mindestens einmal vorkommen:
 
 - Gruppierung durch Nähe
 - Gruppierung durch Ähnlichkeit der Form
