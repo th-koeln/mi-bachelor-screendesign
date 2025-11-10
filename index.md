@@ -123,7 +123,7 @@ Die Links sind zum Teil nur aus dem Hochschulnetz oder via VPN erreichbar.
 Verantwortlicher Dozent des Moduls ist Prof. Christian Noss. Das komplette Betreuerteam besteht aus:
 {% for betreuer in site.data.people %}
 {% if betreuer[1].email contains "@" %}
-- {{betreuer[1].name}}
+- <a href="#" data-js-goto="{{betreuer[1].email | split: "" | reverse | join: ""  | replace: ".", "_TRENN_"  | replace: "@", "_AT_" }}">{{betreuer[1].name}}</a>
 {% endif %}
 {% endfor %}
 

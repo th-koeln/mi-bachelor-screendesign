@@ -38,10 +38,31 @@ const addMenuGUI = () => {
   });
 };
 
+/* Go To
+------------------------------------------------------------------------------*/
+
+const translateGoto = () => {
+  document.querySelectorAll('[data-js-goto]').forEach((element) => {
+    element.addEventListener('click', (event) => {
+      console.log('Clicked goto element');
+      event.preventDefault();
+      const ele = element.dataset.jsGoto;
+      const email = ele
+        .replace('_AT_', '@')
+        .replace(/_TRENN_/g, '.')
+        .split('')
+        .reverse()
+        .join('');
+      window.location.href = `mailto:${email}`; 
+    });
+  }); 
+};
+
 /* Main
 ############################################################################ */
 
 document.addEventListener('DOMContentLoaded', () => {
   addMenuGUI();
   markdown.init();
+  translateGoto();
 });
