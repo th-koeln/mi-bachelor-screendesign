@@ -44,7 +44,6 @@ const addMenuGUI = () => {
 const translateGoto = () => {
   document.querySelectorAll('[data-js-goto]').forEach((element) => {
     element.addEventListener('click', (event) => {
-      console.log('Clicked goto element');
       event.preventDefault();
       const ele = element.dataset.jsGoto;
       const email = ele
