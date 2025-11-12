@@ -12,14 +12,14 @@ Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund
 
 ## Kontext
 
-Sie wählen passende Schriften für eine Serie von Ausstellungsplakaten und eine Website. In beiden Fällen ist der Text geschrieben, das Bildmaterial vorhanden, die Layouts gesetzt, aber es fehlt noch eine Aufwahl der passenden Schrift für die großen typographischen Element wir Headlines und Untertitel.
+Sie wählen passende Schriften für eine Serie von Ausstellungsplakaten und eine Website. In beiden Fällen ist der Text geschrieben, das Bildmaterial vorhanden, die Layouts gesetzt, aber es fehlt noch eine Aufwahl der passenden Schrift für die großen typographischen Elemente, wie Headlines und Untertitel.
 
 Nutzen Sie folgende [Vorlage](https://www.figma.com/design/4PeuSBVUxiNvyTQBWHot7I/Vorlage-Schraiftauswahl?node-id=0-1&t=jDTJsgHLkhybNyMH-1) und fügen Sie diese zu Ihrem Workspace hinzu. 
 
 
 ### Teil 1: Schrift für Ausstellungsplakate
 
-Sie erhalten Wireframes von mehreren Ausstellungsplakaten. Jedes Plakat bezieht sich auf eine andere Ausstellung mit spezifischem Thema und Charakter. Die Inhalte (Bilder, Layout, Fließtexte) sind bereits definiert – Ihre Aufgabe besteht in der Auswahl passender Schrift für die großen Texte, z.B. Headline, Untertitel, ggf. ergänzende Informationen wie Datum oder Ort
+Sie erhalten Wireframes von mehreren Ausstellungsplakaten. Jedes Plakat bezieht sich auf eine andere Ausstellung mit spezifischem Thema und Charakter. Die Inhalte (Bilder, Layout, Fließtexte) sind bereits definiert – Ihre Aufgabe besteht in der Auswahl der passenden Schrift für die großen Texte, z.B. Headline, Untertitel, ggf. ergänzende Informationen wie Datum oder Ort.
 
 Wählen Sie für jede Ausstellung eine geeignete Schrift oder ein stimmiges Schrift-Duo. Achten Sie auf typografische Ausdruckskraft und Angemessenheit.
 
@@ -30,6 +30,8 @@ Platzieren Sie neben jedem Plakat ein kleines **Typo-Fähnchen** mit folgenden I
 * **Name(n) der verwendeten Schrift(en)**
 * **Kurze Begründung (2–3 Sätze):** Warum haben Sie diese Schrift gewählt? 
 
+Laden Sie Ihre Ergebnisse bis zum **20.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
+
 > 010-Poster-Grow-1-NAME.png<br>020-Poster-Grow-2-NAME.png<br>030-Info-Grow-NAME.png<br>040-Poster-Dynamic-Typo-NAME.png<br>050-Info-Dynamic-Typo-NAME.png<br>060-Poster-Artificial-animals-NAME.png<br>070-Info-Artificial-animals-NAME.png<br>080-Poster--Blood-Flows-1-NAME.png<br>090-Poster-Blood-Flows-2-NAME.png<br>100-Info-Blood-Flows-NAME.png
 
 ---
@@ -39,7 +41,7 @@ Platzieren Sie neben jedem Plakat ein kleines **Typo-Fähnchen** mit folgenden I
 
 Statt einer Ausstellung wählen Sie nun die Schrift für die Website einer **Opernsängerin**. Die Website ist ein Portfolio, das sowohl Professionalität als auch Persönlichkeit ausstrahlen soll – eine Einladung an Veranstalter:innen, Presse, Fans.
 
-Das Design ist bereits als Wireframe mit Bildmaterial und Fließtexten vorbereitet. Ihre Aufgabe besteht darin, die **großen Textebene** typografisch zu inszenieren:
+Das Design ist bereits als Wireframe mit Bildmaterial und Fließtexten vorbereitet. Ihre Aufgabe besteht darin, die **große Textebene** typografisch zu inszenieren:
 
 * Hauptheadline (z. B. Name der Sängerin, Startseiten-Titel)
 * Abschnittsüberschriften
@@ -61,6 +63,8 @@ Fügen Sie ein **Typo-Fähnchen** bei, das folgende Informationen enthält:
 
 * **Verwendete Schrift(en)**
 * **Kurze Begründung (2–3 Sätze):** Warum passt diese Schrift zu dieser Persönlichkeit, zu diesem Beruf, zu dieser Website?
+
+Laden Sie Ihre Ergebnisse bis zum **20.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
 
 > 110-Sofia-Berger-NAME.png<br>120-Info-Website-NAME.png
 
