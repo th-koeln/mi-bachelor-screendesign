@@ -3,7 +3,7 @@ titel: Blöcke mit Linien
 tags: 
   - Basics
   - Linie
-  - WS2425
+  - WS2526
 published: true
 ---
 
@@ -19,3 +19,4 @@ Die quadratische Struktur muss erkennbar bleiben. Ein paar Tricks zeigen wir Ihn
 Exportieren Sie die beiden Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679318&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 ```sd-linienbloecke-NACHNAME-NUMMER.png```
+

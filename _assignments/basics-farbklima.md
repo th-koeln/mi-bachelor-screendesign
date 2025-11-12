@@ -4,7 +4,7 @@ tags:
   - Basics
   - Farbe
   - Fläche
-  - WS2425
+  - WS2526
 published: true
 headerClass: is-small
 ---

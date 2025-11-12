@@ -2,9 +2,9 @@
 titel: Permutation mit Flächenausschnitten
 tags: 
   - Basics
-  - Farbe
   - Fläche
   - Permutation
+  - WS2526
 published: true
 ---
 
