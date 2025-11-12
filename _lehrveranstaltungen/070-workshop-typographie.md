@@ -16,7 +16,7 @@ assignments: |
 
 ## Worum geht es?
 
-Heute befassen wir uns mit der Auswahl geeigneter Typographie. Darüber hinaus steigen wir mit einer Analyseaufgabe in das Screendesign Projekt 2025 ein.
+Heute befassen wir uns mit der Auswahl geeigneter Typographie.
 
 ## Upload
 
