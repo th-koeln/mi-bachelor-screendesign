@@ -11,7 +11,7 @@ dauer: 180
 raum: vor-ort-w
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 assignments: |
-  - [Typographie](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/) 
+  - [Typographie](/mi-bachelor-screendesign/assignments/basics-typographie-schriftwahl/) 
 ---
 
 ## Worum geht es?

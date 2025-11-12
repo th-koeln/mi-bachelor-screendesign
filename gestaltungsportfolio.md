@@ -15,12 +15,15 @@ Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeu
 
 Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie aus dem Themenfeld jeweils **Ihre beste Lösung** aus. Folgende Lösungen gehen in das Portfolio ein:
 
-- eine Lösung zu den Übungen aus dem Themenfeld Punkt
+- eine Lösung zu den Übungen aus dem Themenfeld Punkt:
+  {% include portfolio-assignments.html year="WS2526" topic="punkt" %}
 - eine Lösung zu den Übungen aus dem Themenfeld Linie
 - eine Lösung zu den Übungen aus dem Themenfeld Fläche
 - eine Lösung zu den Übungen aus dem Themenfeld Farbe
 - eine Lösung zu den Übungen aus dem Themenfeld Gestaltgesetze & Räumlichkeit
 - eine Lösung zu den Übungen aus dem Themenfeld Typographie & Textsatz
+
+
 
 
 Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **sechs Übungen**. Berücksichtigen Sie unbedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
