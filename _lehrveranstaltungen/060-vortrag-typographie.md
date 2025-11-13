@@ -12,6 +12,7 @@ raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
 material: |
   - [Folien zu Typographie](https://cnoss.github.io/slides/presentations/screendesign/typographie/)
+  - [Folien zur Auswahl von Schriften](https://cnoss.github.io/slides/presentations/screendesign/auswahl-von-schriften/)
 ---
 
 ## Worum geht es?
