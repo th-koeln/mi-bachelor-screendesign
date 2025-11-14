@@ -29,6 +29,17 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [https://fonts.google.com/knowledge/choosing_type](https://fonts.google.com/knowledge/choosing_type)
 - [Pairing typefaces](https://fonts.google.com/knowledge/choosing_type/pairing_typefaces)
 
+## Open Source Schriftplattformen 
+- [Open Foundry](https://open-foundry.com)
+- [Are.na](https://www.are.na/frederic-brodbeck/open-source-typefaces)
+- [Google Fonts](https://fonts.google.com)
+- [Fonts in use](https://fontsinuse.com/sets/10908/open-source-free-type)
+
+## Kommerzielle Schriftplattformen
+- [Monotype](https://www.monotype.com/resources/guide-type-styles)
+- [LLineto](https://lineto.com/typefaces)
+- [Fonts.com](https://www.fonts.com)
+
 ## Typo Games & Tools
 - [Kerning Game](https://type.method.ac/)
 - [Shape Game](https://shape.method.ac/)
