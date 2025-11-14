@@ -1,5 +1,5 @@
 ---
-titel: Verschiedene Übungen
+titel: Verschiedene Übungen zu Fläche und Typographie
 kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
@@ -8,7 +8,7 @@ termine: 2025-11-21 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 150
-raum: zoom-fd
+raum: vor-ort-w
 info: Übungen rund um die Themen Fläche, Farbe und Proportionen
 assignments: |
   - [Bildmontage mit farbigen Bildern](../../assignments/basics-farbige-bilder/)
