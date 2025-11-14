@@ -21,7 +21,7 @@ Nutzen Sie folgende [Vorlage](https://www.figma.com/design/4PeuSBVUxiNvyTQBWHot7
 
 Sie erhalten Wireframes von mehreren Ausstellungsplakaten. Jedes Plakat bezieht sich auf eine andere Ausstellung mit spezifischem Thema und Charakter. Die Inhalte (Bilder, Layout, Fließtexte) sind bereits definiert – Ihre Aufgabe besteht in der Auswahl der passenden Schrift für die großen Texte, z.B. Headline, Untertitel, ggf. ergänzende Informationen wie Datum oder Ort.
 
-Wählen Sie für jede Ausstellung eine geeignete Schrift oder ein stimmiges Schrift-Duo. Achten Sie auf typografische Ausdruckskraft und Angemessenheit.
+Wählen Sie für jede Ausstellung eine geeignete Schrift oder ein stimmiges [Schrift-Duo](https://www.fontpair.co/). Achten Sie auf typografische Ausdruckskraft und Angemessenheit.
 
 Orientieren Sie sich an Erkenntnissen aus der Vorlesung, z. B. zu den Arten des Lesens, zur Wirkung von Schriftarten oder zur funktionalen vs. expressiven Typografie.
 
