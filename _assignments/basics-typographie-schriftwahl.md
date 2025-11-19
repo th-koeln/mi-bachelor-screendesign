@@ -3,6 +3,7 @@ titel: Auswahl von Schriften
 tags: 
     - Basics
     - Typographie
+    - WS2526
 published: true
 ---
 

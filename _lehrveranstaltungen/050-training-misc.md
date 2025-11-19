@@ -12,7 +12,7 @@ raum: vor-ort-w
 info: Übungen rund um die Themen Fläche, Farbe und Proportionen
 assignments: |
   - [Bildmontage mit farbigen Bildern](../../assignments/basics-farbige-bilder/)
-  - [Permutation mit Flächenausschnitten](../../assignments/basics-permuation-und-farbe/)
+  - [Typographie und Schriftsatz: Grundgesetz](../../assignments/basics-typographie-grundgesetz/)
 uploaddate: 20.11.2025 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
 ---

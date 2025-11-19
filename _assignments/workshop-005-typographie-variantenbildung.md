@@ -2,7 +2,6 @@
 titel: Variantenbildung am Beispiel von Typographie und Textsatz
 tags: 
   - Typographie
-  - WS2526
 published: true
 ---
 

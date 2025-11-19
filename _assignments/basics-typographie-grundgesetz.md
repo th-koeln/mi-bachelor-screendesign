@@ -1,9 +1,9 @@
 ---
-titel: Typographie und Schriftsatz
+titel: Typographie und Schriftsatz am Beipiel des Grundgesetzes
 tags: 
-    - Basics
-    - Typographie
-    - WS2425
+  - Basics
+  - Typographie
+  - WS2526
 published: true
 ---
 
@@ -23,9 +23,9 @@ Wählen Sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des
 
 Setzen sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=731711&mode=future&from_overview=1&ass_id=26940) und verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-`sd-aufgabe-typo-1.1-NACHNAME.png` \
+> `sd-aufgabe-typo-1.1-NACHNAME.png` \
 `sd-aufgabe-typo-1.1-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-1.2-NACHNAME.png` \
 `sd-aufgabe-typo-1.2-explanation-NACHNAME.png` \
@@ -43,9 +43,9 @@ Nehmen Sie einen der Entwürfe aus Übung 1 und setzen Sie ihn auf drei verschie
 
 Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=731711&mode=future&from_overview=1&ass_id=26941) und verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-`sd-aufgabe-typo-2.1-NACHNAME.png` \
+> `sd-aufgabe-typo-2.1-NACHNAME.png` \
 `sd-aufgabe-typo-2.1-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-2.2-NACHNAME.png` \
 `sd-aufgabe-typo-2.2-explanation-NACHNAME.png` \
@@ -61,16 +61,16 @@ Wählen Sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder ha
 
 Erzeugen Sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
-Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=731711&mode=future&from_overview=1&ass_id=26942) und verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
-
-`sd-aufgabe-typo-3.1-NACHNAME.png` \
+> `sd-aufgabe-typo-3.1-NACHNAME.png` \
 `sd-aufgabe-typo-3.1-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-3.2-NACHNAME.png` \
 `sd-aufgabe-typo-3.2-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-3.3-NACHNAME.png` \
 `sd-aufgabe-typo-3.3-explanation-NACHNAME.png`
 
+<!--
 
 ---
 
@@ -90,7 +90,6 @@ Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=i
 `sd-aufgabe-typo-4.3-NACHNAME.png` \
 `sd-aufgabe-typo-4.3-explanation-NACHNAME.png`
 
-<!--
 ## Typographie 1
 
 Gesucht sind passende Schriften für drei fiktive Unternehmen. Erzeugen sie für jedes Unternehmen eine weiße Arbeitsfläche von **500x250 Pixeln**. Suchen sie nun für jedes Unternehmen eine oder zwei aufeinander abgestimmte Schriften, die auf die Kommunikationsziele des jeweiligen Unternehmens einzahlen. Setzen sie den Namen und den Slogan des jeweiligen Unternehmens unter Verwendung der von Ihnen gewählten Schriftart(en) auf die Arbeitsfläche. Unternehmensnamen und -slogan können auch in unterschiedlichen Schriftarten, -varianten oder schnitten gesetzt werden.
