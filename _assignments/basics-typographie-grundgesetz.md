@@ -1,5 +1,5 @@
 ---
-titel: Typographie und Schriftsatz am Beipiel des Grundgesetzes
+titel: Typographie und Schriftsatz am Beispiel des Grundgesetzes
 tags: 
   - Basics
   - Typographie
@@ -21,7 +21,9 @@ Wählen Sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des
   - **Variante 2**: Emotional, inspirierend und provokant (experimentelle Schriftarten, ungewöhnliche Kompositionen).  
   - **Variante 3**: Zeitgenössisch, reduziert, modern (Sans-Serif, minimalistisch).  
 
-Setzen sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
+Setzen Sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
+
+Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27315&mode=future&from_overview=1) hoch.
 
 Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
@@ -43,6 +45,8 @@ Nehmen Sie einen der Entwürfe aus Übung 1 und setzen Sie ihn auf drei verschie
 
 Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
+Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27316&mode=future&from_overview=1) hoch.
+
 Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 > `sd-aufgabe-typo-2.1-NACHNAME.png` \
@@ -61,6 +65,8 @@ Wählen Sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder ha
 
 Erzeugen Sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
+Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27317&mode=future&from_overview=1) hoch.
+
 Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 > `sd-aufgabe-typo-3.1-NACHNAME.png` \
@@ -68,7 +74,9 @@ Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 `sd-aufgabe-typo-3.2-NACHNAME.png` \
 `sd-aufgabe-typo-3.2-explanation-NACHNAME.png` \
 `sd-aufgabe-typo-3.3-NACHNAME.png` \
-`sd-aufgabe-typo-3.3-explanation-NACHNAME.png`
+`sd-aufgabe-typo-3.3-explanation-NACHNAME.png` \
+`sd-aufgabe-typo-3.4-NACHNAME.png` \
+`sd-aufgabe-typo-3.4-explanation-NACHNAME.png`
 
 <!--
 

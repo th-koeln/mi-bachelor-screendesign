@@ -26,6 +26,10 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 -   eigener Rechner mit Figma
 -   Kenntnisse in Figma
 
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **27.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679333) hoch.
+
 ## Weiterführendes Material
 - [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)
 - [Multicolor Tool](http://labs.tineye.com/multicolr/)
