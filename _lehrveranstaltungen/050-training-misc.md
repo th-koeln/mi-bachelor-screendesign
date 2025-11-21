@@ -15,6 +15,9 @@ assignments: |
   - [Typographie und Schriftsatz: Grundgesetz](../../assignments/basics-typographie-grundgesetz/)
 uploaddate: 20.11.2025 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
+material: |
+  - [Figma Tutorial: Text Tool and Fonts](https://www.youtube.com/watch?v=5i-ebNTjad8](https://www.youtube.com/watch?v=5i-ebNTjad8)
+  - [Figma: Text and typography](https://help.figma.com/hc/en-us/sections/360006606853-Text-and-typography)
 ---
 
 ## Worum geht es?
