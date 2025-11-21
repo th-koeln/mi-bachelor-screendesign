@@ -13,7 +13,7 @@ info: Wie setze ich Schrift sinnvoll und zielführend ein?
 assignments: |
   - [Auswahl von Schriften](/mi-bachelor-screendesign/assignments/basics-typographie-schriftwahl/)
 material: |
-  - [Figma Tutorial: Text Tool and Fonts](https://www.youtube.com/watch?v=5i-ebNTjad8](https://www.youtube.com/watch?v=5i-ebNTjad8)
+  - [Figma Tutorial: Text Tool and Fonts](https://www.youtube.com/watch?v=5i-ebNTjad8(https://www.youtube.com/watch?v=5i-ebNTjad8)
   - [Figma: Text and typography](https://help.figma.com/hc/en-us/sections/360006606853-Text-and-typography)
 ---
 
