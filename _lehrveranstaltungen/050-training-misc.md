@@ -7,7 +7,7 @@ pflicht: false
 termine: 2025-11-21 13:00
 empfohlene-voraussetzungen:
 published: true
-dauer: 150
+dauer: 120
 raum: vor-ort-w
 info: Übungen rund um die Themen Fläche, Farbe und Proportionen
 assignments: |
