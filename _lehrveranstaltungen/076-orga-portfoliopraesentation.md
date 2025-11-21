@@ -32,4 +32,4 @@ Weitere Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](.
 
 - [Gestaltungsportfolio](../../gestaltungsportfolio/)
 - [Niveaustufen](../../niveaustufen/)
-- [Upload Portfolio im {{site.data.abgaben.artefakt0.uebergabepunkt-text}}]({{site.data.abgaben.artefakt0.uebergabepunkt-link}})
+- [Upload Portfolio im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23824)
