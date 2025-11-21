@@ -5,7 +5,6 @@ tags:
   - Raster
   - Gestaltgesetze
   - Hierarchisierung
-  - Farbe
   - WS2526
 published: true
 ---

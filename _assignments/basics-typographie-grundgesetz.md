@@ -21,7 +21,7 @@ Wählen Sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des
   - **Variante 2**: Emotional, inspirierend und provokant (experimentelle Schriftarten, ungewöhnliche Kompositionen).  
   - **Variante 3**: Zeitgenössisch, reduziert, modern (Sans-Serif, minimalistisch).  
 
-Setzen Sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
+Setzen Sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Setzen Sie den Namen des Artikels auf die Fläche, sodass deutlich wird, welcher Artikel ausgewählt wurde (z.B. <<Artikel 5 Absatz 1>>). Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
 Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27315&mode=future&from_overview=1) hoch.
 
@@ -43,7 +43,7 @@ Nehmen Sie einen der Entwürfe aus Übung 1 und setzen Sie ihn auf drei verschie
 - Ergänzen Sie die Arbeitsflächen mit einem erklärenden Fließtext, der das gewählte Grundrecht interpretiert oder hinterfragt. (etwa 200 Worte)
 - Variieren Sie die Textausrichtung und -komposition zwischen den Formaten, ohne das Grundlayout zu verlieren. Erzeugen Sie mindestens drei Varianten.
 
-Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
+Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz. Setzen Sie den Namen des Artikels auf die Fläche, sodass deutlich wird, welcher Artikel ausgewählt wurde (z.B. <<Artikel 5 Absatz 1>>).
 
 Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27316&mode=future&from_overview=1) hoch.
 
@@ -63,7 +63,7 @@ etc.
 
 Wählen Sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten…». Zerlegen Sie diesen Artikel in einzelne Worte oder kurze Wortgruppen und setzen Sie diese auf einer Fläche mit der Größe ihrer Wahl. Gestalten Sie den Text zunächst **chaotisch**, als ob die Worte *auseinandergerissen* wären. Experimentieren Sie mit überlappenden Texten, verzerrten Schriftarten oder ungewöhnlichen Lesereihenfolgen. Im nächsten Schritt bringen Sie Ordnung in das Chaos: Entwickeln Sie eine klar strukturierte Komposition, die das gleiche Zitat zeigt, aber lesbar, harmonisch und ruhig wirkt.
 
-Erzeugen Sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
+Erzeugen Sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz. Setzen Sie den Namen des Artikels auf die Fläche, sodass deutlich wird, welcher Artikel ausgewählt wurde (z.B. <<Artikel 5 Absatz 1>>).
 
 Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27317&mode=future&from_overview=1) hoch.
 
