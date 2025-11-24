@@ -22,3 +22,11 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 
 Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und ein paar Tipps für die [Portfoliopräsentation](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
 
+
+## Zug ausgefallen …
+
+… daher hab ich mal spontan mitgeschnitten. Die Qualität ist nicht überragend, aber besser als nix.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0AsMCePyIU?si=V7OxmI6LHrgOzDDT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mr_LYeZX8EQ?si=Yb4YgArmPFYrFHRi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
