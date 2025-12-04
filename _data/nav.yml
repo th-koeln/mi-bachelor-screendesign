@@ -20,6 +20,8 @@
 - url: nomenklatur/
   name: Nomenklatur
 
+- url: projekte/
+  name: Projekte
 
 - url: links/
   name: Links    
