@@ -1,5 +1,5 @@
 ---
-titel: Designprojekt ausrichten & Designkonzept erstellen
+titel: Designprojekt ausrichten & Fundament legen
 kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
@@ -10,28 +10,29 @@ dauer: 180
 raum: vor-ort-v
 info: 
 material: |
- - [Räume](../../images/workshop-raeume.png)
- - [Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2025-onboarding/)
+ - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
+ - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
 ---
 
 ## Worum geht es?
 
-Heute legen wir gemeinsam den Grundstein für erfolgreiche Screendesign-Projekte. Die Startphase ist dabei entscheidend: Hier definieren wir nicht nur, was wir gestalten wollen, sondern auch, warum und für wen. Gemeinsam analysieren wir, welche Ziele wir verfolgen, welche Herausforderungen wir lösen möchten und wie wir diese mit durchdachten Konzepten und klarer Ausrichtung angehen können. Wir nutzen verschiedene Methoden und Techniken, um Nutzerbedürfnisse, Projektanforderungen und kreative Visionen in Einklang zu bringen. 
+Heute legen wir gemeinsam den Grundstein für ein erfolgreiches Screendesign-Projekt. Die Startphase ist dabei entscheidend: Hier definieren wir nicht nur, was wir gestalten wollen, sondern auch, warum und für wen. Gemeinsam analysieren wir, welche Ziele wir verfolgen, welche Herausforderungen wir lösen möchten und wie wir diese mit durchdachten Konzepten und klarer Ausrichtung angehen können. Wir nutzen verschiedene Methoden und Techniken, um Nutzerbedürfnisse, Projektanforderungen und kreative Visionen in Einklang zu bringen. 
 
-Am Ende des Workshops haben wir eine solide Grundlage geschaffen, um unser Designprojekt selbstbewusst zu starten – mit klaren Zielen, einem strukturierten Konzept und einem Team, das in die gleiche Richtung arbeitet.
+Am Ende des Workshops haben wir eine solide Grundlage geschaffen, um unser Designprojekt selbstbewusst zu starten – mit abgestimmten Zielen, einem strukturierten Konzept und einem Team, das in die gleiche Richtung arbeitet.
 
 Los geht's! 💪🏽
 
 ## Ablauf
 
 
-|10:00|3.102|[Recap von letzter Woche](https://cnoss.github.io/interactive-data/mindmaps/sd-projekt-2025-onboarding/), Einführung und Auftrag|
+|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag|
 |ca. 10:45|Workshop Räume| Themenworkshops|
-|14:00|3.102|Vorstellung der Ergebnisse|
+|15:00|3.102|Vorstellung der Ergebnisse|
 
 
 ## Themen & Bereiche
 
+<!--
 
 - Flight 1: [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/) // Raum 3.218, Support: Volker
 - Flight 2: [Rebriefing, Wirkung & Polaritätsprofil](/mi-bachelor-screendesign/assignments/workshop-rebriefing-und-projektausrichtung/) // Raum 3.103, Support: Christian
@@ -41,7 +42,7 @@ Los geht's! 💪🏽
 - Flight 6: [Inspiration Mapping](/mi-bachelor-screendesign/assignments/workshop-inspiration-mapping/) // Raum 3.103 & 3.104, Support: Christian
 
 
-
+-->
 
 
 

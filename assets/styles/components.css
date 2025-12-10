@@ -255,6 +255,29 @@
     }
   }
 
+  table{
+    
+    width: 100%;
+    max-width: var(--max-width-content);
+
+    th, td{
+      padding-bottom: var(--space-xs);
+      text-align: left;
+
+      & + &{
+        padding-left: var(--space-s);
+      }
+    }
+
+    tr + tr{
+      border-top: solid var(--border-width) var(--color-darken);
+      th, td{
+        padding-top: var(--space-xs);
+      }
+    }
+
+  }
+
   .text-hero,
   p:has(img) {
     display: block;
@@ -307,7 +330,7 @@
         /*transform: skewY(-15deg);
         text-transform: uppercase;
         transform-origin: top right;*/
-        margin-top: -0.28em;
+        margin-top: -0.27em;
       }
 
       ul {
