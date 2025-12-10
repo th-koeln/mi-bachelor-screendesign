@@ -48,6 +48,3 @@ In Screendesign Präsentationen, aber auch in anderen Projektvorstellungen, wird
 
 ### Design ist keine Geschmackssache
 Es geht weder bei dem Modul noch bei dem Projekt um Ihren persönlichen Geschmack (und auch nicht um meinen). Es geht vielmehr darum, die Projektziele und den Projektkontext zu verstehen und eine Gestaltungslösung zu entwickeln, die im Rahmen des Projektkontextes funktioniert und auf die Projektziele einzahlt. Vermeiden Sie daher Begriffe und Floskeln wie: wir fanden, uns gefiel, etc. 
-
-### Kurzdokumentation & Patternlab
-Sie können in der Projektpräsentationkurz auf die Kurzdokumentation eingehen, müssen es aber nicht, denn diese soll eigentlich für sich selbst stehen. Der Styleguide eignet sich oftmals auch in der Präsentation gut, um die grundlegende Systematik des Entwurfs zu erklären.

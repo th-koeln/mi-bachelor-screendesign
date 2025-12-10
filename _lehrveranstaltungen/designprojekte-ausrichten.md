@@ -10,6 +10,8 @@ dauer: 180
 raum: vor-ort-v
 info: 
 material: |
+  - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
+  - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
  - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
  - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
 ---

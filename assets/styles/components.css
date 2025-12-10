@@ -259,6 +259,7 @@
     
     width: 100%;
     max-width: var(--max-width-content);
+    margin-bottom: var(--fluid-space-l);
 
     th, td{
       padding-bottom: var(--space-xs);
