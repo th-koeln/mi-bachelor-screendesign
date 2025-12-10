@@ -1,14 +1,14 @@
 ---
-titel: Barrierfreiheit im Screendesign
+titel: Workshop – Barrierfreiheit im Screendesign
 kuerzel: w-fat
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-01-30 10:00
+termine: 2026-01-23 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
-dauer: 120
-raum: vor-ort-ferchau
+dauer: 240
+raum: vor-ort-v
 info: 
 material: |
   - [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/learning-nuggets-railslove.pdf)

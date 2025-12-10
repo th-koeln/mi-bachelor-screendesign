@@ -1,5 +1,5 @@
 ---
-titel: <del>Diskussion Ihres aktuellen Projektstandes</del>
+titel: <del>Feedback zu ihrem aktuellen Projektstand</del>
 kuerzel: f-fsl
 verantwortlich: alle
 typ: other
