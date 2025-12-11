@@ -26,13 +26,13 @@ Darüber hinaus soll der Workshop Impulse für alternative Darstellungs- und Int
 
 #### Analyse des bestehenden Systems der Fakultät 10
 
-Zunächst wird das derzeit genutzte Frontend des Veranstaltungsplanungssystems analysiert. Dabei werden zentrale Aspekte betrachtet, etwa Informationsstruktur, Navigationsverhalten, visuelle Gestaltung, Responsivität, Barrierefreiheit sowie mögliche Nutzungsschwierigkeiten. Ziel ist es, ein klares Bild über funktionale Schwächen, ungenutzte Potenziale und gestalterische Defizite zu erhalten.
+Zunächst wird das derzeit genutzte Frontend des Veranstaltungsplanungssystems analysiert. Dabei werden zentrale Aspekte betrachtet, etwa Informationsstruktur, Navigationsverhalten, visuelle Gestaltung, Responsivität, Barrierefreiheit sowie mögliche Nutzungsschwierigkeiten. Ziel ist es, ein Bild über funktionale Schwächen, ungenutzte Potenziale und gestalterische Defizite aber auch positiver Aspekte zu erhalten.
 
 #### Erarbeitung eines Analysebogens (systematische Kriterienentwicklung)
-Bitte entwickeln Sie im Plenum oder in Kleingruppen ein Raster zur systematischen Analyse von Interfaces. Überlegen sie, welche Aspekte bei der Beurteilung relevant sind (z. B. Informationsstruktur, visuelle Klarheit, Navigationslogik, Reaktionszeiten, Barrierefreiheit, Verständlichkeit von Labels, technische Stabilität, emotionale Wirkung etc.). Ziel ist ein praxisnahes, aber reflektiertes Instrument zur vergleichenden Bewertung.
+Bitte entwickeln Sie im Plenum oder in Kleingruppen ein Raster zur systematischen Analyse von Interfaces. Überlegen sie, welche Aspekte bei der Beurteilung relevant sind (z. B. Informationsstruktur, visuelle Klarheit, Navigationslogik, Reaktionszeiten, Barrierefreiheit, Verständlichkeit von Labels, emotionale Wirkung etc.). Ziel ist ein praxisnahes, aber reflektiertes Instrument zur vergleichenden Bewertung.
 
-#### Sichtung und Auswahl weiterer Referenzsysteme
-Ergänzend werden weitere digitale Interfaces zur Veranstaltungsplanung recherchiert. Dazu zählen andere Hochschulsysteme (z. B. LSF, UnivIS, Untis), Plattformen wie Moodle sowie konzeptionelle Ansätze aus Designportalen. Die Auswahl soll möglichst breit angelegt sein, um vielfältige Lösungsmuster sichtbar zu machen.
+#### Sichtung und Auswahl von Referenzsystemen
+Hierzu werden digitale Interfaces zur Veranstaltungsplanung bzw. -darstellung recherchiert. Dazu zählen andere Hochschulsysteme, Buchungsplattformen sowie konzeptionelle Ansätze aus Designportalen. Die Auswahl soll möglichst breit angelegt sein, um vielfältige Lösungsmuster sichtbar zu machen.
 
 #### Systematische Analyse der ausgewählten Interfaces
 Die Beispiele werden im Hinblick auf verschiedene Aspekte analysiert: Informationsdarstellung, Interaktionsdesign, visuelle Hierarchie, Responsivität, Verständlichkeit, Navigationsstruktur und Barrierefreiheit. Je nach Schwerpunkt der Gruppe kann die Analyse tiefergehend oder vergleichend erfolgen.
@@ -54,7 +54,9 @@ Diese Ergebnisse können später als Referenzrahmen für Entwurf, Prototyping un
 
 ### Material
 
+- [Aktuelle Prod Version](https://hops.gm.th-koeln.de/hops/modules/timetable/)
 - Designplattformen [dribbble.com](https://dribbble.com), [behance.net](https://www.behance.net) oder [pttrns.com](https://pttrns.com)
+- [Awwwards](https://www.awwwards.com)
 - [Miro Board zur Sicherung der Ergebnisse](https://miro.com/app/board/uXjVGcl-pBI=/?share_link_id=625477324631)
 
 </div>

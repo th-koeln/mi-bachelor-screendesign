@@ -48,7 +48,7 @@ Aus den User Stories werden Erfordernisse abgeleitet. Dabei wird zwischen einem 
 Diese Ergebnisse bilden die inhaltliche Grundlage für die weitere Analyse-, Konzeptions- und Entwurfsarbeit. Sie können im weiteren Projektverlauf verfeinert, ergänzt und überprüft werden.
 
 ### Material
-
+* [Nutzerzentriertes Design, EMI Folien](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&reloadpublic=1&cmd=&ref_id=1)
 * [Stakeholder Mapping](https://projekte-leicht-gemacht.de/blog/methoden/stakeholder/stakeholder-mapping/)
 * [Personas](https://www.nngroup.com/articles/persona/)
 * [Nutzungskontext](https://www.uxsense.eu/kontextanalyse-nutzerkontextanalyse-benutzerkontext/)
