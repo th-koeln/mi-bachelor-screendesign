@@ -51,3 +51,4 @@ Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, 
 ## Tools
 - [Figma Plugin - Color Shades & Tints Generator](https://www.figma.com/community/plugin/1221190866182222979/color-shades-tints-generator)
 - [Color Designer](https://colordesigner.io)
+- [Google Sheets Sync](https://www.figma.com/de-de/community/plugin/735770583268406934/google-sheets-sync)
