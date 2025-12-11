@@ -14,7 +14,7 @@ Heute beschäftigen wir uns mit dem Thema „Advanced Prototyping”. Hilfestell
 
 ## Übung 1 - Variablen und Text Styles
 
-Laden Sie das [Materialpaket](../../download/trainings/advanced-prototyping/material-advanced-prototyping.zip) herunter und importieren Sie das enthaltene Projekt in Figma.
+Fügen Sie diese [Figma-Vorlage](https://www.figma.com/design/BQoZkTtpaeKOkojVgqguit/podcast-player?node-id=0-1&t=JoSAhbLOR8LBnbhu-1) ihrem Workspace hinzu. Sie ist die Ausgangsbasis für die folgenden Übungen.
 
 * Erzeugen Sie Variablen für alle verwendeten Farben und weisen Sie diese den vorhandenen Elementen zu.
 * Erzeugen Sie Variablen für alle verwendeten Schrifgrößen und -schnitte und der eingesetzen Schriftfamilie.
