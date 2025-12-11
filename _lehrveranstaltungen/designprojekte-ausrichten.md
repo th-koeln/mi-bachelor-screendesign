@@ -5,15 +5,16 @@ verantwortlich: cn
 typ: workshop
 pflicht: false
 termine: 2025-12-12 13:00
-published: true
+published: false
 dauer: 180
 raum: vor-ort-v
 info: 
 material: |
-  - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
-  - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
- - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
- - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
+   - [Teamarbeit](https://christiannoss.de/de/thoughts/probleme-im-team)
+   - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
+   - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+   - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
+   - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
 ---
 
 ## Worum geht es?
@@ -27,7 +28,7 @@ Los geht's! 💪🏽
 ## Ablauf
 
 
-|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag|
+|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
 |ca. 10:45|Workshop Räume| Themenworkshops|
 |15:00|3.102|Vorstellung der Ergebnisse|
 

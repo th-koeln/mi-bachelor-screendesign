@@ -11,6 +11,9 @@ dauer: 360
 raum: vor-ort-v
 info: Das Projekt für dieses Jahr wird vorgestellt.
 material: |
+  - [Teamarbeit](https://christiannoss.de/de/thoughts/probleme-im-team)
+  - [Softskills](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/analysen/stellenausschreibungen/stepstone/alle-kategorien.png)
+  - [Analyse Stellenausschreibungen Medieninformatik](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/stellenausschreibungen/)
   - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
   - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
   - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
@@ -28,14 +31,18 @@ Los geht's! 💪🏽
 ## Ablauf
 
 
-|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag|
+|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
 |ca. 11:00|Workshop Räume| Themenworkshops|
-|15:00|3.102|Vorstellung der Ergebnisse|
+|14:30|3.102|Vorstellung der Ergebnisse|
+|15:30|3.102|Teambörse|
 
 
 ## Themen & Bereiche
 
-folgen in Kürze
+- Flight 1: [Nutzergruppen und Anforderungen: Stakeholder identifizieren und verstehen](/mi-bachelor-screendesign/assignments/workshop-projekt-nutzerinnern-erfordernisse), Raum tdb
+- Flight 2: [Gestaltungsrichtlinien und Spielräume: Rahmenbedingungen klären](/mi-bachelor-screendesign/assignments/workshop-projekt-gestaltung-analysieren), Raum tdb
+- Flight 3: [Best Practices und Schwachstellen: Analyse existierender Systeme](/mi-bachelor-screendesign/assignments/workshop-projekt-best-practices), Raum tdb
+- Flight 4: [Struktur und Daten: Die Anatomie von Veranstaltungen](/mi-bachelor-screendesign/assignments/workshop-projekt-struktur-und-daten), Raum 3.109, Support: Uwe Müsse
 
 <!--
 
