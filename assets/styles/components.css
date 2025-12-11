@@ -234,6 +234,15 @@
     hyphens: auto;
   }
 
+  h2{
+    margin-top: var(--fluid-space-s) !important;
+    
+
+    & + * {
+      margin-top: var(--fluid-space-s) !important;
+    }
+  }
+
   img {
     margin-top: var(--fluid-space-l);
     margin-bottom: var(--fluid-space-l);
@@ -330,8 +339,8 @@
         text-align: right;
         /*transform: skewY(-15deg);
         text-transform: uppercase;
-        transform-origin: top right;*/
-        margin-top: -0.27em;
+        transform-origin: top right;
+        margin-top: -0.27em;*/
       }
 
       ul {

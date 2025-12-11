@@ -39,9 +39,9 @@ Los geht's! 💪🏽
 
 ## Themen & Bereiche
 
-- Flight 1: [Nutzergruppen und Anforderungen: Stakeholder identifizieren und verstehen](/mi-bachelor-screendesign/assignments/workshop-projekt-nutzerinnern-erfordernisse), Raum tdb
-- Flight 2: [Gestaltungsrichtlinien und Spielräume: Rahmenbedingungen klären](/mi-bachelor-screendesign/assignments/workshop-projekt-gestaltung-analysieren), Raum tdb
-- Flight 3: [Best Practices und Schwachstellen: Analyse existierender Systeme](/mi-bachelor-screendesign/assignments/workshop-projekt-best-practices), Raum tdb
+- Flight 1: [Nutzergruppen und Anforderungen: Stakeholder identifizieren und verstehen](/mi-bachelor-screendesign/assignments/workshop-projekt-nutzerinnern-erfordernisse), Raum tdb, Support: tba
+- Flight 2: [Gestaltungsrichtlinien und Spielräume: Rahmenbedingungen klären](/mi-bachelor-screendesign/assignments/workshop-projekt-gestaltung-analysieren), Raum tdb, Support: tba
+- Flight 3: [Best Practices und Schwachstellen: Analyse existierender Systeme](/mi-bachelor-screendesign/assignments/workshop-projekt-best-practices), Raum tdb, Support: tba
 - Flight 4: [Struktur und Daten: Die Anatomie von Veranstaltungen](/mi-bachelor-screendesign/assignments/workshop-projekt-struktur-und-daten), Raum 3.109, Support: Uwe Müsse
 
 <!--
