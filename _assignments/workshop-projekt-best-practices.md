@@ -54,7 +54,7 @@ Diese Ergebnisse können später als Referenzrahmen für Entwurf, Prototyping un
 
 ### Material
 
-* Designplattformen wie [dribbble.com](https://dribbble.com), [behance.net](https://www.behance.net) oder [pttrns.com](https://pttrns.com)
-* Miroboard für die Ergebnisssicherung
+- Designplattformen [dribbble.com](https://dribbble.com), [behance.net](https://www.behance.net) oder [pttrns.com](https://pttrns.com)
+- [Miro Board zur Sicherung der Ergebnisse](https://miro.com/app/board/uXjVGcl-pBI=/?share_link_id=625477324631)
 
 </div>

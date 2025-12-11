@@ -47,9 +47,11 @@ Diese Ergebnisse bilden die Grundlage für die gestalterischen Entscheidungen im
 
 ### Material
 
-* [Atomic Design Konzept](https://atomicdesign.bradfrost.com/chapter-2/)
-* [Klarna Styleguide](https://brand.klarna.com)
-* [Styleguide HU Berlin](https://www.hu-berlin.de/fileadmin/Mediathek/Zentrale_Seiten/Medien___Kommunikation/Dokumente/HU-Corporate-Design.pdf)
-* [Styleguide der Bundesregierung](https://styleguide.bundesregierung.de/sg-de)
+- [Atomic Design Konzept](https://atomicdesign.bradfrost.com/chapter-2/)
+- [Klarna Styleguide](https://brand.klarna.com)
+- [Styleguide HU Berlin](https://www.hu-berlin.de/fileadmin/Mediathek/Zentrale_Seiten/Medien___Kommunikation/Dokumente/HU-Corporate-Design.pdf)
+- [Styleguide der Bundesregierung](https://styleguide.bundesregierung.de/sg-de)
+- [Miro Board zur Sicherung der Ergebnisse](https://miro.com/app/board/uXjVGckv1pM=/?share_link_id=545357401766)
 
 
+</div>

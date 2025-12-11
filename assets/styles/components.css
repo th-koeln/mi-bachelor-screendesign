@@ -208,6 +208,15 @@
 
 .content {
 
+  img[alt="icon"]{
+    display: inline-block !important;
+    width: auto;
+    height: 1em;
+    margin-bottom: -0.2em;
+    padding-right: var(--quarter);
+    margin-top: auto;
+  }
+
   .title {
     font-size: var(--size-xxl);
     margin-bottom: var(--fluid-space-m);

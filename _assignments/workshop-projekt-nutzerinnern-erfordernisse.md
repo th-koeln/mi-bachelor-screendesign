@@ -49,10 +49,10 @@ Diese Ergebnisse bilden die inhaltliche Grundlage für die weitere Analyse-, Kon
 
 ### Material
 
-* Vorlagen für Stakeholder-Mapping (z. B. auf Papier oder digital)
-* Persona-Templates (z. B. aus vorherigen Projekten oder adaptierbar aus [IDEO](https://www.designkit.org/methods/persona-profile))
-* Szenarienkarten oder einfache Formate zur Beschreibung von Nutzungssituationen
-* Strukturvorlagen zur Formulierung von User Stories („Als [Nutzer:in] möchte ich …, um …“)
-* Kurzer Input zur Unterscheidung von Erfordernissen und Anforderungen (z. B. an der Tafel oder als Ausdruck)
+* [Stakeholder Mapping](https://projekte-leicht-gemacht.de/blog/methoden/stakeholder/stakeholder-mapping/)
+* [Personas](https://www.nngroup.com/articles/persona/)
+* [Nutzungskontext](https://www.uxsense.eu/kontextanalyse-nutzerkontextanalyse-benutzerkontext/)
+* [Strukturvorlagen zur Formulierung von User Stories](https://monday.com/blog/de/entwicklung/user-story-template/)
+- [Miro Board zur Sicherung der Ergebnisse](https://miro.com/app/board/uXjVGclYX0E=/?share_link_id=308775153452)
 
 </div>

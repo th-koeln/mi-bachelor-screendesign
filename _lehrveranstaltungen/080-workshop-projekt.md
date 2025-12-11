@@ -11,11 +11,12 @@ dauer: 360
 raum: vor-ort-v
 info: Das Projekt für dieses Jahr wird vorgestellt.
 material: |
+  - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
+  - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
   - [Teamarbeit](https://christiannoss.de/de/thoughts/probleme-im-team)
   - [Softskills](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/analysen/stellenausschreibungen/stepstone/alle-kategorien.png)
   - [Analyse Stellenausschreibungen Medieninformatik](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/stellenausschreibungen/)
-  - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
-  - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+  - [Nutzerzentriertes Design](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=729223)
   - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
   - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
 ---
@@ -39,10 +40,10 @@ Los geht's! 💪🏽
 
 ## Themen & Bereiche
 
-- Flight 1: [Nutzergruppen und Anforderungen: Stakeholder identifizieren und verstehen](/mi-bachelor-screendesign/assignments/workshop-projekt-nutzerinnern-erfordernisse), Raum tdb, Support: tba
-- Flight 2: [Gestaltungsrichtlinien und Spielräume: Rahmenbedingungen klären](/mi-bachelor-screendesign/assignments/workshop-projekt-gestaltung-analysieren), Raum tdb, Support: tba
-- Flight 3: [Best Practices und Schwachstellen: Analyse existierender Systeme](/mi-bachelor-screendesign/assignments/workshop-projekt-best-practices), Raum tdb, Support: tba
-- Flight 4: [Struktur und Daten: Die Anatomie von Veranstaltungen](/mi-bachelor-screendesign/assignments/workshop-projekt-struktur-und-daten), Raum 3.109, Support: Uwe Müsse
+- Flight 1: [Nutzergruppen und Anforderungen](/mi-bachelor-screendesign/assignments/workshop-projekt-nutzerinnern-erfordernisse), Raum 3.217, Support: Anna Stein, Karten: ![icon](/mi-bachelor-screendesign/assets/images/gruppe-rot.png)![icon](/mi-bachelor-screendesign/assets/images/gruppe-orange.png)
+- Flight 2: [Gestaltungsrichtlinien und Spielräume](/mi-bachelor-screendesign/assignments/workshop-projekt-gestaltung-analysieren), Raum 3.218, Support: Volker Schaefer, Karten: ![icon](/mi-bachelor-screendesign/assets/images/gruppe-blitz.png)
+- Flight 3: [Best Practices und Schwachstellen](/mi-bachelor-screendesign/assignments/workshop-projekt-best-practices), Raum 3.110, Support: Christian Noss, Karten: ![icon](/mi-bachelor-screendesign/assets/images/gruppe-idee.png)![icon](/mi-bachelor-screendesign/assets/images/gruppe-fragezeichen.png)
+- Flight 4: [Struktur und Daten](/mi-bachelor-screendesign/assignments/workshop-projekt-struktur-und-daten), Raum 3.109, Support: Uwe Müsse, Karten: ![icon](/mi-bachelor-screendesign/assets/images/gruppe-blau.png)![icon](/mi-bachelor-screendesign/assets/images/gruppe-gruen.png)
 
 <!--
 
