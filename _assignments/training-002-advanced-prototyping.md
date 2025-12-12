@@ -34,10 +34,9 @@ Duplizieren Sie daraufhin die Frames, stellen Sie sie auf das Querformat ein und
 
 ## Übung 4 - Google Sheets Sync
 
-Die Playlist soll nun dynamisch mit Inhalten aus einem Google Sheet befüllt werden
-	•	Installieren Sie das [Google Sheets Sync Plugin](https://www.figma.com/de-de/community/plugin/735770583268406934/google-sheets-sync)
-	•	Verbinden Sie das Plugin mit dem folgenden Google Sheet:
-https://docs.google.com/spreadsheets/d/1cNWdVcJ7_LBgH3YxF-VcbNx0RGr9kudf6qnl4rmFLR8/edit?gid=0#gid=0
-	•	Ordnen Sie die Datenfelder aus dem Sheet den entsprechenden Textelementen der Playlist zu (Datum, Titel, Größe).
-	•	Achten Sie darauf, dass die Struktur der Komponenten so angelegt ist, dass dynamische Inhalte problemlos übernommen werden können (z. B. durch sauberes Autolayout).
-	•	Aktualisieren Sie die Inhalte über das Plugin und prüfen Sie, ob alle Felder korrekt befüllt werden.
+Die Playlist soll nun dynamisch mit Inhalten aus einem Google Sheet befüllt werden.
+* Installieren Sie das [Google Sheets Sync Plugin](https://www.figma.com/de-de/community/plugin/735770583268406934/google-sheets-sync).
+* Verbinden Sie das Plugin mit dem folgenden [Google Sheet](https://docs.google.com/spreadsheets/d/1cNWdVcJ7_LBgH3YxF-VcbNx0RGr9kudf6qnl4rmFLR8/edit?gid=0#gid=0).
+* Ordnen Sie die Datenfelder aus dem Sheet den entsprechenden Textelementen der Playlist zu (Datum, Titel, Größe).
+* Achten Sie darauf, dass die Struktur der Komponenten so angelegt ist, dass dynamische Inhalte problemlos übernommen werden können (z. B. durch sauberes Autolayout).
+* Aktualisieren Sie die Inhalte über das Plugin und prüfen Sie, ob alle Felder korrekt befüllt werden.
