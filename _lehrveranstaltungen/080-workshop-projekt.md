@@ -11,14 +11,15 @@ dauer: 360
 raum: vor-ort-v
 info: Das Projekt für dieses Jahr wird vorgestellt.
 material: |
-  - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
-  - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
-  - [Teamarbeit](https://christiannoss.de/de/thoughts/probleme-im-team)
-  - [Softskills](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/analysen/stellenausschreibungen/stepstone/alle-kategorien.png)
-  - [Analyse Stellenausschreibungen Medieninformatik](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/stellenausschreibungen/)
-  - [Nutzerzentriertes Design](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=729223)
-  - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
-  - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
+   - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+   - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
+   - [Teamarbeit](https://christiannoss.de/de/thoughts/probleme-im-team)
+   - [Project Survival](/mi-bachelor-screendesign/download/misc/EMI-1-Pager-Projekt.pdf)
+   - [Softskills](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/analysen/stellenausschreibungen/stepstone/alle-kategorien.png)
+   - [Analyse Stellenausschreibungen Medieninformatik](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/stellenausschreibungen/)
+   - [Nutzerzentriertes Design](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=729223)
+   - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
+   - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
 ---
 
 ## Worum geht es?
