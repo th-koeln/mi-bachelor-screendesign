@@ -8,7 +8,7 @@ termine: 2025-12-19 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
-raum: zoom-fd
+raum: hybrid-mutabor
 info: Wie können wir Prototypen mit Figma systematisch aufbauen?
 assignments: |
   - [Advanced Prototyping](/mi-bachelor-screendesign/assignments/training-002-advanced-prototyping/)

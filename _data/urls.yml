@@ -39,9 +39,9 @@ hybrid-klein:
   name: "Hybrid: Raum 0.501 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilu)"
   url: "https://th-koeln.zoom.us/j/82712097709"
 
-hybrid-studio:
-  name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 82712097709, Kenncode ist im Ilu)"
-  url: "https://th-koeln.zoom.us/j/82712097709"
+hybrid-mutabor:
+  name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 82712097709, Kenncode: 504843)"
+  url: "https://th-koeln.zoom-x.de/j/68541801147"
 
 vor-ort: 
   name: Raum XYZ
