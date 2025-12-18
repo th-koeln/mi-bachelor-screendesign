@@ -35,7 +35,6 @@ Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, 
 - [Styles](https://help.figma.com/hc/en-us/articles/360039238753-Styles-in-Figma)
 - [Components](https://help.figma.com/hc/en-us/sections/4403935997847-Components)
 - [Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-constraints-to-define-how-layers-resize)
-
 - [Properties](https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties)
 - [Autolayout](https://help.figma.com/hc/en-us/sections/13165750874519-Use-auto-layout)
 - [Best practices: components, styles, and shared libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
