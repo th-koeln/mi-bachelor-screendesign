@@ -1,5 +1,5 @@
 ---
-titel: Workshop – Barrierfreiheit im Screendesign
+titel: Workshop – Barrierefreiheit im Screendesign
 kuerzel: w-fat
 verantwortlich: cn
 typ: workshop

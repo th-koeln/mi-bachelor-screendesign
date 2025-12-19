@@ -6,7 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2030-01-16 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
-published: true
+published: false
 dauer: 120
 raum: vor-ort-ferchau
 info: 
