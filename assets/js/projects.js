@@ -3,7 +3,8 @@ const projectDataUrls = [
   'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2021.json',
   'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2022.json',
   'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2023.json',
-  'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2024.json'
+  'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2024.json',
+  'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2025.json'
 ];
 
 const imageBaseUrl = 'https://th-koeln.github.io/mi-bachelor-screendesign-projekte/';
@@ -45,6 +46,7 @@ const addProjects = () => {
                 <h2 class="project-title">${project.subtitle}</h2>
                 <h3 class="project-year">${project.title}</h3>
                 <p class="project-desc">${project.excerpt}</p>
+                <p>Weitere Informationen zum <a href="${docBaseUrl}${project.id}/index.html">Projekt</a></p>
 
                 <ul class="project-list">
                   ${projects}

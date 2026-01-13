@@ -8,7 +8,7 @@ termine: 2026-02-06 10:00, 2026-02-06 13:30
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150
-raum: vor-ort-ferchau
+raum: vor-ort-w
 anzahl: 15 Teams pro Slot
 info: 
 ---

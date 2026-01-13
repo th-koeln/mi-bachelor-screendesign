@@ -8,7 +8,7 @@ termine: 2026-01-16 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: false
 dauer: 300
-raum: vor-ort-ferchau
+raum: vor-ort-v
 info: 
 material: |
   - [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/#/1/33)
