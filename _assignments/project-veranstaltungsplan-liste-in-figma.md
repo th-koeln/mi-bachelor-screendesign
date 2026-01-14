@@ -60,3 +60,8 @@ Diese Übung ist technisch und methodisch ausgerichtet – der Fokus liegt auf *
 ## Upload
 
 Ein Upload von gehaltvollen Ergebnissen bringt bis zu 5 Bonuspunkte für das Abschlussprojekt. 
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=770941&mode=future&from_overview=1&ass_id=27791) hoch.
+
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+> `sd-veranstaltungsliste-NACHNAME.png` 

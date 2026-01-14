@@ -87,4 +87,20 @@ Entwerfen Sie auf Basis Ihrer Funktionsskizzen aus Schritt 2 **konkrete Layout-V
 
 ## Upload
 
-Ein Upload von gehaltvollen Ergebnissen bringt bis zu 5 Bonuspunkte für das Abschlussprojekt. 
+Ein Upload von gehaltvollen Ergebnissen bringt bis zu 5 Bonuspunkte für das Abschlussprojekt.
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=770941&mode=future&from_overview=1&ass_id=27790) hoch.
+
+Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+> `sd-funktionsbereiche-mobile-NACHNAME-01.png` \
+`sd-funktionsbereiche-mobile-NACHNAME-02.png` \
+`sd-funktionsbereiche-mobile-NACHNAME-03.png` \
+`sd-funktionsbereiche-mobile-NACHNAME-04.png` \
+`sd-funktionsbereiche-mobile-NACHNAME-05.png`
+
+
+> `sd-funktionsbereiche-desktop-NACHNAME-01.png` \
+`sd-funktionsbereiche-desktop-NACHNAME-02.png` \
+`sd-funktionsbereiche-desktop-NACHNAME-03.png` \
+`sd-funktionsbereiche-desktop-NACHNAME-04.png` \
+`sd-funktionsbereiche-desktop-NACHNAME-05.png`

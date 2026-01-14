@@ -49,6 +49,12 @@ zum [Projektbriefing](https://th-koeln.github.io/mi-bachelor-screendesign-projek
 
 Ergebnisse aus dem [Best Practices und Schwachstellen](https://miro.com/app/board/uXjVGcl6MJ0=/?share_link_id=558297045373)
 
+## Uploads
+
+
+Ein Upload von gehaltvollen Ergebnissen bringt bis zu 5 Bonuspunkte für das Abschlussprojekt.
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=770941) hoch.
+
 <!--
 ## Alte Übung
   - [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
