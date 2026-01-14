@@ -8,7 +8,7 @@ termine: 2026-01-16 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 300
-raum: vor-ort-ferchau
+raum: vor-ort-v
 info: 
 assignments: |
   - [Funktionen und Funktionsbereiche](/mi-bachelor-screendesign/assignments/project-veranstaltungsplan-funktionen-und-funktionsbereiche)
