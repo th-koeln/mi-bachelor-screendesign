@@ -5,10 +5,25 @@ tags:
 published: true
 ---
 
-**Ziel der Übung:**
+## Ziel der Übung
 Sie bauen in Figma eine funktionale, dynamisch befüllbare **Veranstaltungsliste** als **Organism** – unter Verwendung von [Komponenten](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma), [Auto Layout](https://help.figma.com/hc/de/articles/360040451373-Leitfaden-zum-Auto-Layout) und dem [Google Sheets Sync Plugin](https://www.figma.com/de-de/community/plugin/735770583268406934/google-sheets-sync).
 
 Diese Übung ist technisch und methodisch ausgerichtet – der Fokus liegt auf **Struktur, Modularität und Datenhandling**, nicht auf finalem Look & Feel.
+
+--- 
+
+## Material
+- [Google Sheets Sync Plugin](https://www.figma.com/de-de/community/plugin/735770583268406934/google-sheets-sync)
+- [Google Sheets Sync Plugin Doku](https://docs.sheetssync.app)
+- [Tabelle mit Veranstaltungen](https://docs.google.com/spreadsheets/d/1m-zY9TQf1zGWPPyYnxvrrzNeAYLqd8THYcUGQqy_uvA/edit?usp=sharing)
+
+### Figma Template
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/QjeSJhbGUXoVFdKBugOP0Q/Vorlage-f%C3%BCr-Layoutworkshop-2025-26?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+<br>
+### Kleines Video zur Nutzung des Google Sheets Sync Plugins
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aaugAwZU1hQ?si=TDkNTM4fpxgeGrVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 

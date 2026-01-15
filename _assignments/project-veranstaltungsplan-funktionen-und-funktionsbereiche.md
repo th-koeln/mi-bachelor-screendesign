@@ -5,7 +5,7 @@ tags:
 published: true
 ---
 
-**Ziel der Aufgabe:**
+## Ziel der Aufgabe
 Sie analysieren die vorliegenden User Stories aus dem Projekt-Workshop, leiten daraus konkrete funktionale Anforderungen für das Interface ab und entwickeln erste strukturelle Layoutideen. Dabei orientieren Sie sich an Prinzipien des [Atomic Design](https://atomicdesign.bradfrost.com/table-of-contents/).
 
 ---
