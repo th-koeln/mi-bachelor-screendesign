@@ -85,7 +85,7 @@ Entwerfen Sie auf Basis Ihrer Funktionsskizzen aus Schritt 2 **konkrete Layout-V
 
 #### Material
 * [DIN A4 mit Punktraster - Smartphone](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/din-a4-raster-smartphone.pdf)
-* [DIN A4 mit Punktraster - Desktop](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/misc/din-a4-raster-desktop.pdf)
+* [DIN A4 mit Punktraster - Desktop](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/din-a4-raster-desktop.pdf)
 
 ---
 
