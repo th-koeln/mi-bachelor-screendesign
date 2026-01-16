@@ -83,6 +83,10 @@ Entwerfen Sie auf Basis Ihrer Funktionsskizzen aus Schritt 2 **konkrete Layout-V
 * Denken Sie an Blickführung, Priorisierung, responsive Design-Grundsätze.
 * Ziel ist **Exploration**, nicht Perfektion.
 
+#### Material
+* [DIN A4 mit Punktraster - Smartphone](https://github.com/th-koeln/mi-bachelor-screendesign/blob/master/download/misc/din-a4-raster-smartphone.pdf)
+* [DIN A4 mit Punktraster - Desktop](https://github.com/th-koeln/mi-bachelor-screendesign/blob/master/download/misc/din-a4-raster-desktop.pdf)
+
 ---
 
 ## Upload
