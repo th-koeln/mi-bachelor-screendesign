@@ -8,7 +8,7 @@ termine: 2026-01-23 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 60
-raum: vor-ort-v
+raum: vor-ort-ferchau
 anzahl: beliebig viele Teilnehmer
 info:
 ---

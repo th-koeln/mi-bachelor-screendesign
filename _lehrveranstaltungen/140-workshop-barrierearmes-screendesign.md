@@ -8,7 +8,7 @@ termine: 2026-01-23 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 240
-raum: vor-ort-v
+raum: vor-ort-ferchau
 info: 
 material: |
   - [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/learning-nuggets-railslove.pdf)
