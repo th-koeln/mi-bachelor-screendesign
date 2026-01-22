@@ -1,7 +1,7 @@
 ---
 titel: Workshop – Barrierefreiheit im Screendesign
 kuerzel: w-fat
-verantwortlich: cn
+verantwortlich: Finn Maybauer
 typ: workshop
 pflicht: false
 termine: 2026-01-23 11:00
@@ -10,10 +10,7 @@ published: true
 dauer: 240
 raum: vor-ort-ferchau
 info: 
-material: |
-  - [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/learning-nuggets-railslove.pdf)
-assignments: |
-  - [Barrierefreiheit, erste Schritte](/mi-bachelor-screendesign/assignments/barrierefreiheit-2025/)
+
 ---
 
 
@@ -63,21 +60,11 @@ Daher befassen wir uns heute mit:
 - [Contrast](https://www.figma.com/community/plugin/748533339900865323/contrast)
 
 
-## Was muss ich mitbringen?
-- eigener Rechner mit Figma
-- Gute Kenntnisse in Figma
 
 ## Tutorial Video
 
 <br>
 <iframe style="width:100%; aspect-ratio: 16/9" src="https://www.youtube.com/embed/2wUP4cm38ec?si=9gEmU66s5iSDtgi7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Außerdem
-
-Dank an [Jan Kus](https://jankus.name) für die Unterstützung!
-
-- [Digitale Zukunft gestalten: Der 2100 Podcast von Jan und Tim](https://open.spotify.com/show/7b2qaXZ2jmGdyjDxERzzmZ?si=7b1f4529b4bb48de)
-- [Mehr zu Railslove](https://railslove.com)
 
 
 
