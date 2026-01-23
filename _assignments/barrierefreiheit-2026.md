@@ -5,7 +5,7 @@ tags:
 published: true
 ---
 
-## Aufgabe
+## Aufgabe (Zeit ca. 45 min)
 
 Recherche zu einer Anspruchsgruppe deiner Wahl:
 
