@@ -8,7 +8,7 @@ termine: 2026-01-30 10:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 300
-raum: vor-ort-v
+raum: vor-ort-ferchau
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 assignments: |
   - [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-and-transition/)
