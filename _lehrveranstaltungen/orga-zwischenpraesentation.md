@@ -19,7 +19,7 @@ Bitte buchen Sie pro Team **einen** Zeitslot [hier](https://ilu.th-koeln.de/ilia
 
 ## Selbsteinschätzung Teamarbeit
 
-Füllen Sie für Ihr Team folgende [Selbsteinschätzung zur Teamarbeit](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=777228) aus und laden Sie es im ILU hoch.
+Füllen Sie für Ihr Team folgende [Selbsteinschätzung zur Teamarbeit](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=777228) aus und laden Sie es im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=777231) hoch.
 
 ## Worum geht es?
 
