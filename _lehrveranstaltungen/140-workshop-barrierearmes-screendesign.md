@@ -53,6 +53,7 @@ Daher befassen wir uns heute mit:
 - [WCAGs in Plain English](https://aaardvarkaccessibility.com/wcag-plain-english/)
 - [Accessibility Personas](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
 - [Easy Web Check](https://easy-web-check.bf-lernen.de/de)
+- [BR Doku Reihe "Sehen statt Hören" zur Gehörlosenkultur (YouTube)](https://www.youtube.com/playlist?list=PLP4hePAK6Tv6X1ZzLdbc_jLws5DyjQI-M)
 
 ## Web Browser Tools
 
