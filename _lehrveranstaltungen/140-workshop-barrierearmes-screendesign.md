@@ -50,6 +50,7 @@ Daher befassen wir uns heute mit:
 - [Barrierefreiheitsstärkungsgesetz](https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/barrierefreiheitsstaerkungsgesetz.html)
 - [Web Content Accessibility Guidelines 2.0](https://www.w3.org/WAI/standards-guidelines/wcag/)
 - [Web Content Accessibility Guidelines 3.0 Draft](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
+- [WCAGs in Plain English](https://aaardvarkaccessibility.com/wcag-plain-english/)
 - [Accessibility Personas](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
 - [Easy Web Check](https://easy-web-check.bf-lernen.de/de)
 
