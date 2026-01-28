@@ -17,6 +17,10 @@ info:
 
 Bitte buchen Sie pro Team **einen** Zeitslot [hier](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679436) im ILU. 
 
+## Selbsteinschätzung Teamarbeit
+
+Füllen Sie für Ihr Team folgende [Selbsteinschätzung zur Teamarbeit](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=777228) aus und laden Sie es im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=777231) hoch.
+
 ## Worum geht es?
 
 Die Zwischenpräsentation dient dazu, den aktuellen Stand des Projekts transparent zu machen, Feedback einzuholen und sicherzustellen, dass die Teams auf dem richtigen Weg sind. Sie ist ein Checkpoint, an dem Teams ihre bisherigen Ergebnisse validieren, um frühzeitig Verbesserungspotenziale zu erkennen und sicherzustellen, dass die Projektziele erreicht werden. Gleichzeitig ermöglicht sie den Austausch von Ideen zwischen den Teams und fördert das Lernen voneinander.  
