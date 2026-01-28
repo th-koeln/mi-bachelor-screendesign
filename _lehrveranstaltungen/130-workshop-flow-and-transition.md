@@ -37,25 +37,14 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Two Tips for Better UX Storytelling](https://www.nngroup.com/articles/two-tips-better-ux-storytelling/)
 - [How To Use Storytelling In UX](https://www.smashingmagazine.com/2022/04/use-storytelling-ux/)
 
-
-- [Google Tabelle mit Daten](https://docs.google.com/spreadsheets/d/1cNWdVcJ7_LBgH3YxF-VcbNx0RGr9kudf6qnl4rmFLR8/edit?usp=sharing)
-
 ## Tools & Tutorials
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
 - [Flinto for Mac: sehr ausgereiftes GUI Design Animation Tool](https://www.flinto.com)
 - [Framer: Programmierbares Animation Tool](https://framer.com/)
-- [Framer Tutorials](https://framer.com/getstarted/guide/)
-- [Tutorial für den Einsatz von Keynote als Prototyping Tool](https://www.smashingmagazine.com/2015/08/animating-in-keynote/)
-- [Google Sheets Sync Plugin für Figma](https://www.figma.com/community/plugin/735770583268406934/google-sheets-sync)
-
 - [Figma: Mit Smart-Animation erweiterte Animationen erstellen](https://help.figma.com/hc/de/articles/360039818874-Mit-Smart-Animation-erweiterte-Animationen-erstellen)
 - [Figma: Einführung in Prototyping](https://help.figma.com/hc/de/articles/360040314193-Einführung-in-Prototyping-in-Figma/)
 
 
-
-## Video zum Google Sheets Sync Plugin
-
-<iframe style="width:100%; aspect-ratio: 16/9"  src="https://www.youtube.com/embed/aaugAwZU1hQ?si=x_NI42cc5ORRfX6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!--
 - [Flow & Transition am Beispiel einer kleinen Audio App](/mi-bachelor-screendesign/assignments/workshop-flow-and-transition/)
 -->
