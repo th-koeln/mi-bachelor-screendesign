@@ -21,7 +21,7 @@ Erstellen Sie fünf Varianten dieses Setups, indem Sie es jeweils duplizieren. V
 - die Dauer
 - es können auch eigene Formen oder Inhalte verwendet werden
 
-Ziel ist es, ein Gefühl für Übergänge, Timing und Bewegung zu entwickeln. Filmen Sie Ihre Varianten auf dem Smartphone via Screencast ab und laden die Filme im Ilu hoch.
+Ziel ist es, ein Gefühl für Übergänge, Timing und Bewegung zu entwickeln. Filmen Sie Ihre Varianten auf dem Smartphone via Screencast ab und laden die Filme im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=781184&mode=future&from_overview=1&ass_id=27960) hoch.
 
 **Zeit: 20 Minuten**
 
@@ -41,7 +41,7 @@ Erstellen Sie anschließend zwei unterschiedliche Varianten dieses Flows, indem 
 - unterschiedliche Timings und Easings einsetzen
 - gezielt mit Übergängen ein mentales Modell der Informationsarchitektur unterstützen
 
-Filmen Sie beide Varianten als Screencast direkt auf dem Smartphone ab und laden Sie das Video anschließend im Ilu hoch. Ein Upload von gehaltvollen Ergebnissen bringt bis zu 3 Bonuspunkte für das Abschlussprojekt. 
+Filmen Sie beide Varianten als Screencast direkt auf dem Smartphone ab und laden Sie das Video anschließend im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=781184&mode=future&from_overview=1&ass_id=27961) hoch. Ein Upload von gehaltvollen Ergebnissen bringt bis zu 3 Bonuspunkte für das Abschlussprojekt. 
 
 **Zeit: 40 Minuten**
 
@@ -70,7 +70,13 @@ Achten Sie bei der Umsetzung darauf:
 
 Diese Übung eignet sich als Basis für spätere Erweiterungen (z. B. Swipe-Interaktionen, Mehrfachauswahl, Filter, etc.).
 
-Teilen Sie Ihr Ergebnis und laden Sie den Share-Link in ILU hoch. Ein Upload eines gehaltvollen Ergebnisses bringt bis zu 3 Bonuspunkte für das Abschlussprojekt. 
+
+Teilen Sie Ihr Ergebnis und laden Sie den Share-Link zusammen mit den Namen Ihrer Mitglieder in [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nf:b0&cmdClass=ilDclRecordListGUI&cmd=show&ref_id=781256) hoch. Ein Upload eines gehaltvollen Ergebnisses bringt bis zu 3 Bonuspunkte für das Abschlussprojekt. 
+
+Für den Share-Link:
+- Oben rechts in Figma auf den Share-Button klicken 
+- Einstellen, dass jeder, der diesen Link verfügt es sehen kann
+- oben rechts im geöffneten Fenster auf "Copy link" klicken 
 
 
 ## Figma Template Complex Flows
