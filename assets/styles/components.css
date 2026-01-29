@@ -224,7 +224,8 @@
   }
 
   &>p,
-  &>ul>li {
+  &>ul>li,
+  dl {
     max-width: var(--max-width-content);
   }
 
@@ -406,7 +407,7 @@
       }
 
       dd {
-        margin-bottom: var(--quarter);
+        margin-bottom: var(--half);
       }
     }
   }

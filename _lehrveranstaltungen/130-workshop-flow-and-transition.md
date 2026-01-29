@@ -1,5 +1,5 @@
 ---
-titel: Flow & Transition
+titel: Prototyping, Flow & Transition
 kuerzel: w-fat
 verantwortlich: cn
 typ: workshop
@@ -11,7 +11,7 @@ dauer: 300
 raum: vor-ort-ferchau
 info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Screens gehen. Was gibt es hier zu beachten?
 assignments: |
-  - [Flow & Transition am Beispiel unseres Podcast Players](/mi-bachelor-screendesign/assignments/flow-and-transition/)
+  - [Flow & Transition am Beispiel der Veranstaltungsliste](/mi-bachelor-screendesign/assignments/flow-and-transition-2026/)
 material: |
   - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
 ---
