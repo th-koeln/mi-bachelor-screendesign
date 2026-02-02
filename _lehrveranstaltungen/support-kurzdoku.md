@@ -8,7 +8,7 @@ termine: 2026-04-10 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90
-raum: zoom-fd-support
+raum: zoom-fd-support-kurzdoku
 anzahl: beliebig Teilnehmer
 info:
 ---

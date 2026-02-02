@@ -1,5 +1,5 @@
 ---
-titel: Feedback & Support für Ihre Projektumsetzung
+titel: Support für Ihre Projektumsetzung
 kuerzel: f-fsl
 verantwortlich: mj
 typ: feedback
@@ -8,7 +8,7 @@ termine: 2026-02-13 10:00, 2026-02-27 10:00, 2026-03-13 10:00, 2026-03-27 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
-raum: vor-ort-w
+raum: hybrid-support
 anzahl: beliebig Teilnehmer
 info:
 ---
