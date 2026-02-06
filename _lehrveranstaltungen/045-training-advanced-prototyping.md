@@ -51,3 +51,10 @@ Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, 
 - [Figma Plugin - Color Shades & Tints Generator](https://www.figma.com/community/plugin/1221190866182222979/color-shades-tints-generator)
 - [Figma Plugin - Google Sheets Sync](https://www.figma.com/de-de/community/plugin/735770583268406934/google-sheets-sync)
 - [Color Designer](https://colordesigner.io)
+
+## Video Tutorial
+
+In diesem Figma-Video wird Schritt für Schritt ein dynamisches Veranstaltungs-/Stundenplan-Layout aufgebaut. Zunächst wird eine Colorcode-Komponente inklusive Varianten erstellt. Anschließend werden mithilfe von Auto Layout strukturierte Textfelder für Wochentage und Uhrzeiten sowie für Veranstaltung und Lehrende angelegt. Danach werden Colorcode-Komponente und Haarlinie integriert, ein Profilbild der Lehrperson eingefügt und eine Veranstaltungsliste erstellt. Zum Schluss wird gezeigt, wie die Elemente automatisch mit Inhalten aus Google Sheets befüllt werden, sodass Aktualisierungen schnell übernommen werden können.
+<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljn_-YS4Zrw?si=iRfl_Wc7nZTUCi8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
