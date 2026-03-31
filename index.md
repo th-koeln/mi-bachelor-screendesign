@@ -50,7 +50,7 @@ Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. 
 
 Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. <!-- Wir starten mit einem Ganztagsworkshop in das Projektthema.--> Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
-Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielten meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn sie inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im ILU angemeldet werden.
+Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielten meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn sie inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) angemeldet werden.
 
 Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns dieses Jahr mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/). -->
 
@@ -67,13 +67,13 @@ Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns d
 
 **Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit und müssen durch Screenmovies vorbereitet werden. 
 
-**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im ILU hochgeladen wurden.
+**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679439) anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im ILU hochgeladen wurden.
 
 Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltungen](angebote/) im Rahmen des Moduls.
 
 ## Prüfung & erforderliche Artefakte
 
-Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten Sie möglichst umfassend und professionell erläutern, wie Sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen Sie sich im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden und einen Termin im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
+Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten Sie möglichst umfassend und professionell erläutern, wie Sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen Sie sich im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden und einen Termin im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
 
 Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, das die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung erstellt wurden. 
 
@@ -84,11 +84,11 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 ### Die 6 Schritte zur Prüfung
 
 - Step 1: im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden. Dies ist von Oktober 2025 bis März 2026 möglich.
-- Step 2: [Termin im ILU buchen - (Link folgt)]
+- Step 2: [Termin im ILU buchen](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
-- Step 5: [Infos im ILU eintragen und Artefakte bereit stellen - (Link folgt)]()
-- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 13.04. - 15.04.2026 in Gummersbach statt.
+- Step 5: [Infos im ILU eintragen und Artefakte bereit stellen](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&from_overview=1&ass_id=23825)
+- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 13.04. - 14.04.2026 in Gummersbach statt.
 
 
 **Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**
