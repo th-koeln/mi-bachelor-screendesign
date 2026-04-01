@@ -87,7 +87,7 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 - Step 2: [Termin im ILU buchen](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
-- Step 5: [Infos im ILU eintragen und Artefakte bereit stellen](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&from_overview=1&ass_id=23825)
+- Step 5: [Infos im ILU eintragen](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nf:b0&cmdClass=ilDclRecordListGUI&cmd=show&ref_id=772374) und [Artefakte bereit stellen](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&from_overview=1&ass_id=23825)
 - Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 13.04. - 14.04.2026 in Gummersbach statt.
 
 
