@@ -4,7 +4,7 @@ kuerzel: t-sb
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2025-10-10 13:00
+termine: 2026-10-02 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 150
@@ -14,7 +14,7 @@ info: Basistraining für den Umgang mit Figma
 assignments: |
   - [Podcast Player](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
 
-uploaddate: 16.10.2025 23:55 Uhr
+uploaddate: 08.10.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316
 ---
 
@@ -42,6 +42,6 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **16.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **08.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316) hoch.
 
 

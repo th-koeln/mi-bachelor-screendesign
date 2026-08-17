@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2025-10-10 10:00
+termine: 2026-10-02 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
@@ -33,7 +33,7 @@ Heute wird erklärt, wie das Modul funktioniert. Dabei wird auf folgende Fragen 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **16.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **08.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316) hoch.
 
 
 

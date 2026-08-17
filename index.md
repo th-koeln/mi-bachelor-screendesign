@@ -19,7 +19,7 @@ titel: Über das Modul
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul **Screendesign**. Die Screendesign Tage starten morgens um **10:00 Uhr** mit einem kurzen Input. Dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste reguläre Veranstaltung ist am **10. Oktober 2025** um **10:00 Uhr**. Der letzte Termin ist am **06. Februar 2026**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+Die erste reguläre Veranstaltung ist am **02. Oktober 2026** um **10:00 Uhr**. Der letzte Termin ist am **29. Januar 2027**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
 Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) an.
 
@@ -83,12 +83,12 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden. Dies ist von Oktober 2025 bis März 2026 möglich.
+- Step 1: im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden. Dies ist von Oktober 2026 bis März 2027 möglich.
 - Step 2: [Termin im ILU buchen](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
 - Step 5: [Infos im ILU eintragen](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nf:b0&cmdClass=ilDclRecordListGUI&cmd=show&ref_id=772374) und [Artefakte bereit stellen](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&from_overview=1&ass_id=23825)
-- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 13.04. - 14.04.2026 in Gummersbach statt.
+- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 23.03. - 25.03.2027 in Gummersbach statt.
 
 
 **Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**

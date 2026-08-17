@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-10-31 13:00
+termine: 2026-10-23 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -39,4 +39,4 @@ Hier können Sie Ihre [Fotos hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **06.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679319&mode=ongoing&from_overview=1) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **29.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679319&mode=ongoing&from_overview=1) hoch.

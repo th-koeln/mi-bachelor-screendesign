@@ -5,7 +5,7 @@ tags:
   - Raster
   - Gestaltgesetze
   - Hierarchisierung
-  - WS2526
+  - WS2627
 published: true
 ---
 
@@ -61,7 +61,7 @@ Legen Sie das Raster an. Entwickeln Sie für jede Variante ein Konzept, das gezi
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **13.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679320&ass_id=27181&mode=future&from_overview=1) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **05.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679320&ass_id=27181&mode=future&from_overview=1) hoch.
 
 > ```sd-gruppierung-im-raster-NACHNAME-NUMMER.png```
 

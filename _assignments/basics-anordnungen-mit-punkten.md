@@ -3,7 +3,7 @@ titel: Syntaktisch aussagekräftige Anordnungen mit Punkten
 tags: 
   - Basics
   - Punkt
-  - WS2526
+  - WS2627
 published: true
 ---
 

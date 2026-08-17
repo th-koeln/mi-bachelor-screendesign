@@ -4,7 +4,7 @@ kuerzel: f-fsl
 verantwortlich: mj
 typ: feedback
 pflicht: true
-termine: 2026-04-10 10:00
+termine: 2027-03-19 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

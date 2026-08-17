@@ -3,7 +3,7 @@ titel: Typographie und Schriftsatz am Beispiel des Grundgesetzes
 tags: 
   - Basics
   - Typographie
-  - WS2526
+  - WS2627
 published: true
 ---
 
@@ -23,7 +23,7 @@ Wählen Sie ein Grundrecht aus dem Grundgesetz, z.B. Artikel 1: «Die Würde des
 
 Setzen Sie den Text auf eine weiße Fläche in der Größe ihrer Wahl. Setzen Sie den Namen des Artikels auf die Fläche, sodass deutlich wird, welcher Artikel ausgewählt wurde (z.B. <<Artikel 5 Absatz 1>>). Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz.
 
-Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27315&mode=future&from_overview=1) hoch.
+Laden Sie Ihre Ergebnisse bis zum 19.11.2026 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27315&mode=future&from_overview=1) hoch.
 
 Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
@@ -45,7 +45,7 @@ Nehmen Sie einen der Entwürfe aus Übung 1 und setzen Sie ihn auf drei verschie
 
 Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz. Setzen Sie den Namen des Artikels auf die Fläche, sodass deutlich wird, welcher Artikel ausgewählt wurde (z.B. <<Artikel 5 Absatz 1>>).
 
-Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27316&mode=future&from_overview=1) hoch.
+Laden Sie Ihre Ergebnisse bis zum 19.11.2026 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27316&mode=future&from_overview=1) hoch.
 
 Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
@@ -65,7 +65,7 @@ Wählen Sie einen Artikel aus dem Grundgesetz, zum Beispiel Artikel 5 «Jeder ha
 
 Erzeugen Sie mindestens zwei chaotische und zwei strukturierte Varianten. Erläutern und begründen Sie auf einer weiteren Fläche Ihre gestalterischen Entscheidungen (z.B. Schriftwahl, Komposition, Format, etc) kurz. Setzen Sie den Namen des Artikels auf die Fläche, sodass deutlich wird, welcher Artikel ausgewählt wurde (z.B. <<Artikel 5 Absatz 1>>).
 
-Laden Sie Ihre Ergebnisse bis zum 27.11.2025 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27317&mode=future&from_overview=1) hoch.
+Laden Sie Ihre Ergebnisse bis zum 19.11.2026 23:55 Uhr im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679333&ass_id=27317&mode=future&from_overview=1) hoch.
 
 Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 

@@ -4,7 +4,7 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-11-21 13:00
+termine: 2026-11-13 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 120
@@ -13,7 +13,7 @@ info: Übungen rund um die Themen Fläche, Farbe und Proportionen
 assignments: |
   - [Bildmontage mit farbigen Bildern](/mi-bachelor-screendesign/assignments/basics-farbige-bilder/)
   - [Typographie und Schriftsatz: Grundgesetz](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/)
-uploaddate: 20.11.2025 23:55 Uhr
+uploaddate: 19.11.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
 material: |
   - [Figma Tutorial: Text Tool and Fonts](https://www.youtube.com/watch?v=5i-ebNTjad8)
@@ -31,7 +31,7 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **27.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679333) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **19.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679333) hoch.
 
 ## Weiterführendes Material
 - [Color Wheel von Adobe](https://color.adobe.com/de/create/color-wheel/)

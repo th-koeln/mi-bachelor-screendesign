@@ -4,7 +4,7 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2025-12-19 10:00
+termine: 2026-12-11 10:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300
