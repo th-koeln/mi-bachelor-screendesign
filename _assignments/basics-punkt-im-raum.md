@@ -3,7 +3,7 @@ titel: Punkt und Raum – Der Punkt als Bewegung im Raum
 tags: 
   - Basics
   - Punkt
-  - WS2526
+  - WS2627
 published: true
 ---
 

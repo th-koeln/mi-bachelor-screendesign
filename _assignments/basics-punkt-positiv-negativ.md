@@ -3,7 +3,7 @@ titel: Wechselwirkung zwischen Positiv- und Negativraum
 tags: 
   - Basics
   - Punkt
-  - WS2526
+  - WS2627
 published: true
 ---
 

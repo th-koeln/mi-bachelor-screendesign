@@ -4,7 +4,7 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-10-17 13:00
+termine: 2026-10-09 13:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
@@ -25,7 +25,7 @@ assignments: |
   - [Syntaktisch aussagekräftige Anordnungen mit Punkten](/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
   - [Punkt und Raum – Der Punkt als Bewegung im Raum](/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
 
-uploaddate: 23.10.2025 23:55 Uhr
+uploaddate: 15.10.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317
 ---
 
@@ -39,7 +39,7 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **23.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **15.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch.
 
 <!-- ## Mitschnitte
 
