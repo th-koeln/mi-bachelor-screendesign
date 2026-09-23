@@ -4,7 +4,7 @@ kuerzel: t-sb
 verantwortlich: vs
 typ: training
 pflicht: false
-termine: 2026-10-02 13:00
+termine: 2026-10-02 14:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 150

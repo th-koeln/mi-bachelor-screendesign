@@ -4,11 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: workshop
 pflicht: false
-<<<<<<< HEAD
-termine: 2026-12-04 10:00
-=======
 termine: 2026-12-04 11:00
->>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360

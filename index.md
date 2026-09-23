@@ -19,11 +19,9 @@ titel: Über das Modul
 
 Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul **Screendesign**. Die Screendesign Tage starten morgens um **11:00 Uhr** mit einem kurzen Input. Dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-<<<<<<< HEAD
-Die erste reguläre Veranstaltung ist am **02. Oktober 2026** um **10:00 Uhr**. Der letzte Termin ist am **29. Januar 2027**. Alle Termine finden Sie im [Zeitplan](./timetable/).
-=======
+
 Die erste reguläre Veranstaltung ist am **02. Oktober 2026** um **11:00 Uhr**. Der letzte Termin ist am **29. Januar 2027**. Alle Termine finden Sie im [Zeitplan](./timetable/).
->>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
+
 
 Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=869327) an.
 

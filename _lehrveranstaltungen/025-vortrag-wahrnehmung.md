@@ -4,11 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-<<<<<<< HEAD
-termine: 2026-10-16 10:00
-=======
 termine: 2026-10-16 11:00
->>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120

@@ -4,11 +4,7 @@ kuerzel: f-fsl
 verantwortlich: mj
 typ: feedback
 pflicht: true
-<<<<<<< HEAD
-termine: 2027-03-19 10:00
-=======
 termine: 2027-03-19 11:00
->>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen: 
 published: true
 dauer: 90

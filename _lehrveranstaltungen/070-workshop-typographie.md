@@ -4,7 +4,7 @@ kuerzel: w-elmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-11-06 13:00
+termine: 2026-11-06 14:00
 empfohlene-voraussetzungen:
 published: true
 dauer: 180
