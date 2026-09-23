@@ -4,7 +4,7 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-12-04 10:00
+termine: 2026-12-04 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 360
@@ -33,7 +33,7 @@ Los geht's! 💪🏽
 ## Ablauf
 
 
-|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
+|11:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
 |ca. 11:00|Workshop Räume| Themenworkshops|
 |14:30|3.102|Vorstellung der Ergebnisse|
 |15:30|3.102|[Teambörse](https://miro.com/app/board/uXjVGcMGb9M=/?share_link_id=26511478326)|

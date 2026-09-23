@@ -28,7 +28,7 @@ Los geht's! 💪🏽
 ## Ablauf
 
 
-|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
+|11:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
 |ca. 10:45|Workshop Räume| Themenworkshops|
 |15:00|3.102|Vorstellung der Ergebnisse|
 

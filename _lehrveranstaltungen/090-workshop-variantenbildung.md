@@ -4,7 +4,7 @@ kuerzel: w-vb
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-12-19 10:00
+termine: 2026-12-19 11:00
 raum: vor-ort-ferchau
 empfohlene-voraussetzungen:
 published: false
