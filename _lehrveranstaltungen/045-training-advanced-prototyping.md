@@ -4,7 +4,11 @@ kuerzel: t-ld
 verantwortlich: vs
 typ: training
 pflicht: false
+<<<<<<< HEAD
 termine: 2026-12-11 10:00
+=======
+termine: 2026-12-11 11:00
+>>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen: 
 published: true
 dauer: 300

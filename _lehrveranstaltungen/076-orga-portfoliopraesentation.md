@@ -4,7 +4,11 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
+<<<<<<< HEAD
 termine: 2026-11-27 10:00
+=======
+termine: 2026-11-27 11:00
+>>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen:
 published: true
 dauer: 180

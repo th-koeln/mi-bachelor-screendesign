@@ -4,7 +4,11 @@ kuerzel: o-p
 verantwortlich: cn
 typ: pruefung
 pflicht: true
+<<<<<<< HEAD
 termine: 2027-01-29 10:00, 2027-01-29 13:30
+=======
+termine: 2027-01-29 11:00, 2027-01-29 13:30
+>>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen: 
 published: true
 dauer: 150

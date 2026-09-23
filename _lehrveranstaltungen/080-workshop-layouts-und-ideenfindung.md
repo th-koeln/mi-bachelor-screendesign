@@ -4,7 +4,11 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
+<<<<<<< HEAD
 termine: 2026-12-18 10:00
+=======
+termine: 2026-12-18 11:00
+>>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
 published: true
 dauer: 300

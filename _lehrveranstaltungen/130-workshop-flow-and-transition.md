@@ -4,7 +4,11 @@ kuerzel: w-fat
 verantwortlich: cn
 typ: workshop
 pflicht: false
+<<<<<<< HEAD
 termine: 2027-01-22 10:00
+=======
+termine: 2027-01-22 11:00
+>>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 published: true
 dauer: 300

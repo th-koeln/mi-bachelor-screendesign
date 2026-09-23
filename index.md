@@ -17,11 +17,15 @@ titel: Über das Modul
 
 <div class="text-hero">
 
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul **Screendesign**. Die Screendesign Tage starten morgens um **10:00 Uhr** mit einem kurzen Input. Dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul **Screendesign**. Die Screendesign Tage starten morgens um **11:00 Uhr** mit einem kurzen Input. Dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
+<<<<<<< HEAD
 Die erste reguläre Veranstaltung ist am **02. Oktober 2026** um **10:00 Uhr**. Der letzte Termin ist am **29. Januar 2027**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+=======
+Die erste reguläre Veranstaltung ist am **02. Oktober 2026** um **11:00 Uhr**. Der letzte Termin ist am **29. Januar 2027**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+>>>>>>> ddc3150c1d46470c13af219e1fec4cbc2ad752f4
 
-Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) an.
+Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=869327) an.
 
 </div>
 
@@ -107,13 +111,16 @@ Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gim
 Bitte bereiten Sie sich für die Workshops mit dem [Learn Figma Video](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA) vor.
 
 Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:
+- [Building Design Systems / Sarrah Vesselov](https://link.springer.com/book/10.1007/979-8-8688-2512-5)
 - [Informationsvisualisierung: Web - Print - Signaletik. Erfolgreiches Informationsdesign: Leitsysteme, Wissensvermittlung und Informationsarchitektur / Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050418640)
 - [Interaction- und Interfacedesign: Web-, Game-, Produkt- und Servicedesign Usability und Interface als Corporate Identity / Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050392166)
 - [Kompendium der visuellen Information und Kommunikation / Kerstin Alexander](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050419679)
 - [Simplicity: die zehn Gesetze der Einfachheit / John Maeda](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT015123236)
 - [Webdesign: Screendesign / Peter Bühler, Patrick Schlaich, Dominik Sinner](https://link.springer.com/chapter/10.1007%2F978-3-662-53918-7_3)
+- [Flexible Visual Systems / M. Lorenz](https://thb-koeln.digibib.net/search/katalog/record/(DE-605)HT021094713?be-katalog-sort=date_desc&q-al=flexible+visuelle+systeme&start=1&count=20&hitcount=6&pos=3)
 - [Visualizing complexity: Handbuch modulares Informationsdesign / Darjan Hil und Nicole Lachenmeier](https://www.degruyter.com/document/doi/10.1515/9783035625073/html)
 - [Laws of UX: 10 praktische Grundprinzipien für intuitives, menschenzentriertes UX-Design / Yablonski, Jon ; Kommer, Christoph](https://content-select.com/de/portal/media/view/5f4a4d25-f458-43bb-a3a6-0ee6b0dd2d03?forceauth=1)
+- [Inclusive Design for a Digital World / Reginé M. Gilbert](https://link.springer.com/book/10.1007/979-8-8688-1820-2)
 
 Die Links sind zum Teil nur aus dem Hochschulnetz oder via VPN erreichbar.
 
