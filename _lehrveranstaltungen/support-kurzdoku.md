@@ -3,7 +3,7 @@ titel: Technischer Support bei der Kurzdokumentation
 kuerzel: f-fsl
 verantwortlich: mj
 typ: feedback
-pflicht: true
+pflicht: false
 termine: 2027-03-19 11:00
 empfohlene-voraussetzungen: 
 published: true

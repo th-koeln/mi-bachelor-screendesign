@@ -3,7 +3,7 @@ titel: Support für Ihre Projektumsetzung
 kuerzel: f-fsl
 verantwortlich: mj
 typ: feedback
-pflicht: true
+pflicht: false
 termine: 2027-02-05 11:00, 2027-02-19 11:00, 2027-03-05 11:00, 2027-03-12 11:00
 empfohlene-voraussetzungen: 
 published: true

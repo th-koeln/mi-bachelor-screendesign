@@ -3,7 +3,7 @@ titel: <del>Feedback zu ihrem aktuellen Projektstand</del>
 kuerzel: f-fsl
 verantwortlich: alle
 typ: other
-pflicht: true
+pflicht: false
 termine: 2027-02-20 16:00
 empfohlene-voraussetzungen: 
 published: false

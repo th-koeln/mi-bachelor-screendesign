@@ -3,7 +3,7 @@ titel: Feedback zu Ihrem aktuellen Projektstand
 kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
-pflicht: true
+pflicht: false
 termine: 2027-02-12 16:00, 2027-02-26 16:00,  2027-03-17 16:00,  2027-03-10 16:00
 empfohlene-voraussetzungen: 
 published: true
