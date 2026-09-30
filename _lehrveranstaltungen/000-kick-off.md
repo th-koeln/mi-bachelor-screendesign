@@ -15,7 +15,7 @@ material: |
   - [Folien zum Modulablauf](https://cnoss.github.io/slides/presentations/screendesign/about-screendesign/)
 
 assignments: |
-  - [Plakat Abstraktion](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-abstraktion/)
+  - [Plakat Begriffe der Informatik](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-begriffe-2026/)
 
 old-assignment: |
   - [Was will ich hier?](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-was-will-ich-hier/)
