@@ -75,7 +75,7 @@ Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltungen](angebot
 
 ## Prüfung & erforderliche Artefakte
 
-Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten Sie möglichst umfassend und professionell erläutern, wie Sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen Sie sich im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden und einen Termin im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
+Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten Sie möglichst umfassend und professionell erläutern, wie Sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen Sie sich im [CAMS](https://cams.th-koeln.de/) anmelden und einen Termin im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
 
 Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, das die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung erstellt wurden. 
 
@@ -85,11 +85,11 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden. Dies ist von Oktober 2026 bis März 2027 möglich.
-- Step 2: [Termin im ILU buchen](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520)
+- Step 1: im [CAMS](https://cams.th-koeln.de/) anmelden. Hier finden Sie die [Anmeldetermine für die Prüfungen](https://www.medieninformatik.th-koeln.de/mi-5.0/medieninformatik-bachelor/pruefungsanmeldung/).
+- Step 2: Termin im ILU buchen (Terminbuchung wird im Februar freigeschaltet)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
-- Step 5: [Infos im ILU eintragen](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nf:b0&cmdClass=ilDclRecordListGUI&cmd=show&ref_id=772374) und [Artefakte bereit stellen](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&from_overview=1&ass_id=23825)
+- Step 5: Infos im ILU eintragen und Artefakte bereit stellen
 - Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 23.03. - 25.03.2027 in Gummersbach statt.
 
 
