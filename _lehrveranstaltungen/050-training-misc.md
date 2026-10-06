@@ -6,6 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2026-11-13 13:00
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: true
 dauer: 120
 raum: vor-ort-w

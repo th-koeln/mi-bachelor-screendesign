@@ -6,6 +6,7 @@ typ: feedback
 pflicht: false
 termine: 2027-01-15 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 60
 raum: vor-ort-ferchau

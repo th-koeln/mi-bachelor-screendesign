@@ -6,13 +6,14 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-02 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: "Was war der beste Tag in der letzten Woche und warum?"
 published: true
 dauer: 120
 raum: vor-ort-v
 info: Wie funktioniert das Modul?
 
 material: |
-  - [Folien zum Modulablauf](https://cnoss.github.io/slides/presentations/screendesign/about-screendesign/)
+  - [Folien zum Modulablauf](presentations/screendesign/about-screendesign/)
 
 assignments: |
   - [Plakat Begriffe der Informatik](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/kick-off-plakat-begriffe-2026/)
@@ -38,5 +39,3 @@ Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **08.10.2026 23
 
 
 <!-- ## Ergebnisse Hier können Sie sich [Ihre Arbeitsergebnisse]() anschauen. -->
-
-![Sketchnotes SD KickOff](../../images/recordings/sd-session-01.jpg "Sketchnotes SD KickOff")

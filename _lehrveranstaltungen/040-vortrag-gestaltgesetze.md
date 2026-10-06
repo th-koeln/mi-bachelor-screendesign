@@ -6,13 +6,29 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-30 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 90
 raum: vor-ort-v
 info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wie können wir diese im Designprozess einsetzen?
 material: |
-  - [Folien zu Räumlichkeit](https://cnoss.github.io/slides/presentations/screendesign/raeumlichkeit/)
-  - [Folien zu Gestaltgesetzen](https://cnoss.github.io/slides/presentations/screendesign/gestaltgesetze/)
+  - [Haltung: Alternativen](presentations/screendesign-und-visuelle-kommunikation/haltung-alternativen/)
+  - [Phänomen: Scheinbewegung und Zeit](presentations/screendesign-und-visuelle-kommunikation/phaenomen-scheinbewegung-und-zeit/)
+  - [Phänomen: Pop-out](presentations/screendesign-und-visuelle-kommunikation/phaenomen-pop-out/)
+  - [Phänomen: Tiefenstaffelung](presentations/screendesign-und-visuelle-kommunikation/phaenomen-tiefenstaffelung/)
+  - [Prinzip: Gestaltpsychologie](presentations/screendesign-und-visuelle-kommunikation/prinzip-gestaltpsychologie/)
+  - [Prinzip: Nähe und Abstand](presentations/screendesign-und-visuelle-kommunikation/prinzip-naehe-und-abstand/)
+  - [Prinzip: Ähnlichkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-aehnlichkeit/)
+  - [Prinzip: Geschlossenheit und Region](presentations/screendesign-und-visuelle-kommunikation/prinzip-geschlossenheit-und-region/)
+  - [Prinzip: Fortsetzung und Schicksal](presentations/screendesign-und-visuelle-kommunikation/prinzip-fortsetzung-und-schicksal/)
+  - [Prinzip: Räumlichkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-raeumlichkeit/)
+  - [Prinzip: Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-hierarchie/)
+  - [Methode: Unschärfe- und Graustufentest](presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/)
+  <!-- Bisherige Folien (Fallback):
+  - [Folien zu Räumlichkeit](presentations/screendesign/raeumlichkeit/)
+  - [Folien zu Gestaltgesetzen](presentations/screendesign/gestaltgesetze/)
+  -->
+
 ---
 
 

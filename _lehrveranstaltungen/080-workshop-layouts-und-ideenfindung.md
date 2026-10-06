@@ -6,6 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2026-12-18 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
+check-in-frage: 
 published: true
 dauer: 300
 raum: vor-ort-v
@@ -15,10 +16,27 @@ assignments: |
   - [Veranstaltungsliste in Figma](/mi-bachelor-screendesign/assignments/project-veranstaltungsplan-liste-in-figma)
 
 material: |
+  - [Haltung: Alternativen](presentations/screendesign-und-visuelle-kommunikation/haltung-alternativen/)
+  - [Methode: Skizzieren](presentations/screendesign-und-visuelle-kommunikation/methode-skizzieren/)
+  - [Methode: Variieren entlang einer Achse](presentations/screendesign-und-visuelle-kommunikation/methode-variieren-achse/)
+  - [Methode: Morphologischer Kasten](presentations/screendesign-und-visuelle-kommunikation/methode-morphologischer-kasten/)
+  - [Methode: SLIP](presentations/screendesign-und-visuelle-kommunikation/methode-slip/)
+  - [Prinzip: Entscheiden erleichtern](presentations/screendesign-und-visuelle-kommunikation/prinzip-entscheiden-erleichtern/)
+  - [Prinzip: Chunking](presentations/screendesign-und-visuelle-kommunikation/prinzip-chunking/)
+  - [Phänomen: Gedächtnis](presentations/screendesign-und-visuelle-kommunikation/phaenomen-gedaechtnis/)
+  - [Methode: Layoutanalyse](presentations/screendesign-und-visuelle-kommunikation/methode-layoutanalyse/)
+  - [Methode: Gestaltungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-gestaltungsraster/)
+  - [Methode: Spacing-System](presentations/screendesign-und-visuelle-kommunikation/methode-spacing-system/)
+  - [Prinzip: Rhythmus und Gleichgewicht](presentations/screendesign-und-visuelle-kommunikation/prinzip-rhythmus-und-gleichgewicht/)
+  - [Prinzip: Proportion](presentations/screendesign-und-visuelle-kommunikation/prinzip-proportion/)
+  - [Prinzip: Weißraum](presentations/screendesign-und-visuelle-kommunikation/prinzip-weissraum/)
+  - [Prinzip: Inhalt bestimmt Form](presentations/screendesign-und-visuelle-kommunikation/prinzip-inhalt-bestimmt-form/)
   - [Pen & Paper](https://cnoss.github.io/pen-and-paper/)
-  - [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
-  - [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/)
   - [Atomic Design](https://bradfrost.com/blog/post/design-tokens-atomic-design-❤%EF%B8%8F/)
+  <!-- Bisherige Folien (Fallback):
+  - [Folien zu Proportionen](presentations/screendesign/proportionen-und-abstaende/)
+  - [Folien zum Thema Layout](presentations/screendesign/layout/)
+  -->
 
 ---
 

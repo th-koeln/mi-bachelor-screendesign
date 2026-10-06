@@ -6,6 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2027-01-22 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
+check-in-frage: 
 published: true
 dauer: 300
 raum: vor-ort-ferchau
@@ -13,7 +14,12 @@ info: Beim Interfacedesign gestalten wir oftmals Abläufe, die über mehrere Scr
 assignments: |
   - [Flow & Transition am Beispiel der Veranstaltungsliste](/mi-bachelor-screendesign/assignments/flow-and-transition-2026/)
 material: |
+  - [Phänomen: Scheinbewegung und Zeit](presentations/screendesign-und-visuelle-kommunikation/phaenomen-scheinbewegung-und-zeit/)
+  - [Phänomen: Blickführung](presentations/screendesign-und-visuelle-kommunikation/phaenomen-blickfuehrung/)
+  - [Prinzip: Bewegung](presentations/screendesign-und-visuelle-kommunikation/prinzip-bewegung/)
+  - [Prinzip: Feedback und Zustände](presentations/screendesign-und-visuelle-kommunikation/prinzip-feedback-und-zustaende/)
   - [Folien: Flow & Transistion](../../download/workshops/flow-and-transition/workshop-flow-and-transition.pdf)
+
 ---
 
 In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Schwerpunkt Interaktionsabläufe und Übergänge. In den meisten Anwendungen haben wir idealerweise keine Abfolge von statischen Screens, sondern versuchen, dem User die Benutzung mithilfe von sinnvollen Übergängen und Hervorhebungen zu erleichtern und seine Aufmerksamkeit zu lenken.

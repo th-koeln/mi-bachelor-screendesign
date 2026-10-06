@@ -6,6 +6,7 @@ typ: pruefung
 pflicht: true
 termine: 2027-03-23 09:00, 2027-03-24 09:00, 2027-03-25 09:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 420
 raum: pruefung

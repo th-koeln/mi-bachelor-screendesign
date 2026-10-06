@@ -6,12 +6,25 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-23 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 120
 raum: vor-ort-v
 info: Wie funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erzielen und wie setzen wir Farbe am sinnvollsten ein?
 material: |
-  - [Folien zu Farbe](https://cnoss.github.io/slides/presentations/screendesign/farben/)
+  - [Haltung: Für alle und Verantwortung](presentations/screendesign-und-visuelle-kommunikation/haltung-fuer-alle-und-verantwortung/)
+  - [Phänomen: Farbe ist relativ](presentations/screendesign-und-visuelle-kommunikation/phaenomen-farbe-ist-relativ/)
+  - [Phänomen: Wenn Farbe stört](presentations/screendesign-und-visuelle-kommunikation/phaenomen-farbe-stoert/)
+  - [Prinzip: Farbkontraste](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbkontraste/)
+  - [Prinzip: Farbwirkung](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbwirkung/)
+  - [Prinzip: Farbe codieren](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbe-codieren/)
+  - [Prinzip: Farbe und Lesbarkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbe-und-lesbarkeit/)
+  - [Methode: Kontrast prüfen](presentations/screendesign-und-visuelle-kommunikation/methode-kontrast-pruefen/)
+  - [Methode: Moodboard und Farbklima](presentations/screendesign-und-visuelle-kommunikation/methode-moodboard-und-farbklima/)
+  <!-- Bisherige Folien (Fallback):
+  - [Folien zu Farbe](presentations/screendesign/farben/)
+  -->
+
 ---
 
 ## Worum geht es?

@@ -6,6 +6,7 @@ typ: other
 pflicht: false
 termine: 2027-02-20 16:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: false
 dauer: 90
 raum: verschoben auf den 04.03.

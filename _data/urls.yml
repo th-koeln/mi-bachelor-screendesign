@@ -54,7 +54,7 @@ vor-ort:
   name: Raum XYZ
 
 vor-ort-v:
-  name: "Raum 3.102"
+  name: "Raum 3.106"
 
 vor-ort-w:
   name: "Raum 3.216"
@@ -66,7 +66,7 @@ pruefung:
   name: Raum 3.217
 
 portfolio-pruefung: 
-  name: Raum 3.102
+  name: Raum 3.106
 
 semesterprojekt:
   name: Projektaufgabe WS25/26

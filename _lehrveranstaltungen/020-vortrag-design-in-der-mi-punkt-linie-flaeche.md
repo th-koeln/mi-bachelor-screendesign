@@ -6,25 +6,39 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-09 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 120
 raum: vor-ort-v
-info: Was sind grundlegende Fragen im Design und welche Rolle spielt Design in der Medieninformatik?
+info: Warum »gefällt mir« nicht reicht und wie Sie einen Screen so beschreiben, dass andere ihn nachbauen können
 
 material: |
-  - [Folien zu Design in der Medieninformatik](https://cnoss.github.io/slides/presentations/screendesign/design-in-der-medieninformatik/)
+  - [Design in der Medieninformatik](presentations/screendesign-und-visuelle-kommunikation/rahmen-einstieg/)
+  - [Haltung: Beobachten und Begründen](presentations/screendesign-und-visuelle-kommunikation/haltung-beobachten-und-begruenden/)
+  - [Die fünf Elemente](presentations/screendesign-und-visuelle-kommunikation/rahmen-die-fuenf-elemente/)
+  - [Prinzip: Zielgruppe und Kontext](presentations/screendesign-und-visuelle-kommunikation/prinzip-zielgruppe-und-kontext/)
+  - [Aktive Pause](presentations/screendesign-und-visuelle-kommunikation/rahmen-pause/)
+  - [Methode: Beschreibungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-beschreibungsraster/)
+  - [Prinzip: Visuelle Variablen](presentations/screendesign-und-visuelle-kommunikation/prinzip-visuelle-variablen/)
+  <!-- Bisherige Folien (Fallback):
+  - [Folien zu Design in der Medieninformatik](presentations/screendesign/design-in-der-medieninformatik/)
+  -->
 
 ---
 
 
 ## Worum geht es?
 
-Heute befassen wir uns mit einer Reihe von Grundbegriffen und Sichtweisen im Design. Hier mal ein paar Beispiele:
-- Welche Rolle spielt Design?
-- Welche Rolle kommt dem Design in der Informatik/ Medieninformatik zu?
-- Woran erkennen wir gutes Design?
-- Wie können wir Design beschreiben?
+Letzte Woche ging es darum, warum Design in der Medieninformatik wichtig ist. Heute wird es konkret: Wir bauen das Werkzeug, mit dem Sie über Gestaltung sprechen, ohne auf »gefällt mir« auszuweichen.
 
-## Sketchnotes aus dem Input!
+- Warum ist »gefällt mir« kein Argument?
+- Wie ist dieses Modul aufgebaut? Wir lernen die fünf Elemente kennen: Phänomen, Prinzip, Methode, Begriff und Haltung.
+- Für wen gestalten wir eigentlich?
+- Wie beschreiben Sie einen Screen so präzise, dass jemand ihn nachzeichnen kann, der ihn nie gesehen hat?
 
-[Sketchnotes SD Design in der MI](../../images/recordings/sd-session-02.jpg "Sketchnotes SD Design in der MI")
+Den größten Teil der Zeit arbeiten Sie selbst: zu zweit, im Beschreibungs-Pingpong. Am Ende haben Sie ein Raster, das Sie das ganze Semester begleitet.
+
+## Was muss ich mitbringen?
+
+- Ihr Smartphone (zum Scannen der QR-Codes)
+- Papier und Stift: ein Blatt zum Schreiben, eines zum Zeichnen

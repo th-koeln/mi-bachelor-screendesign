@@ -6,6 +6,7 @@ typ: feedback
 pflicht: false
 termine: 2027-02-05 11:00, 2027-02-19 11:00, 2027-03-05 11:00, 2027-03-12 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 120
 raum: hybrid-support

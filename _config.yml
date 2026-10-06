@@ -137,3 +137,9 @@ defaults:
       type: assignments
     values:
       layout: assignment
+
+# Basis-URL für Folien im Feld "material" (relative Links wie "presentations/…").
+# Lokal (jekyll serve) zeigt sie auf den Slides-Dev-Server, deployt auf GitHub Pages.
+slides:
+  production: https://cnoss.github.io/slides
+  development: http://192.168.2.224:8080

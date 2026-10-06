@@ -6,6 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2026-10-16 14:00
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: true
 dauer: 180
 raum: vor-ort-w
@@ -14,8 +15,8 @@ assignments: |
   - [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
   - [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
 material: |
-  - [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
-  - [Linie](https://cnoss.github.io/slides/presentations/screendesign/linie/)
+  - [Eindeutigkeit](presentations/screendesign/eindeutigkeit/)
+  - [Linie](presentations/screendesign/linie/)
   - [Figma tutorial - Masks](https://www.youtube.com/watch?v=tUcBcz8bjVs)
   - [Figma tutorial- Boolean operations](https://www.youtube.com/watch?v=8ZaX6qEcUCU)
   - [Figma tutorial - Alignment & Distribution](https://www.youtube.com/watch?v=qQyaPqem0TA)
@@ -24,7 +25,7 @@ material: |
 
 ## Worum geht es?
 
-Nach dem Punkt kommt die Linie und damit ein paar weitere Gestaltungsparameter, wie Lage und Richtung. Mal schauen, was man damit so anstellen kann.
+Nach dem Punkt kommt die Linie und damit ein paar weitere visuelle Variablen, wie Lage und Richtung. Mal schauen, was man damit so anstellen kann.
 
 ## Was muss ich mitbringen?
 

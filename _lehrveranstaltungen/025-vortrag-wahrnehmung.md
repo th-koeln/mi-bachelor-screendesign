@@ -6,13 +6,27 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-16 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 120
 raum: vor-ort-v
 info: Ein paar Basics zu visueller Wahrnehmung und Wahrnehmungsarbeit
 material: |
-  - [Folien zu Visueller Wahrnehmung](https://cnoss.github.io/slides/presentations/screendesign/visuelle-wahrnehmung/)
-  - [Folien zu Wahrnehmungsarbeit](https://cnoss.github.io/slides/presentations/screendesign/wahrnehmungsarbeit/)
+  - [Haltung: Beobachten und Begründen](presentations/screendesign-und-visuelle-kommunikation/haltung-beobachten-und-begruenden/)
+  - [Phänomen: Der erste Eindruck](presentations/screendesign-und-visuelle-kommunikation/phaenomen-erster-eindruck/)
+  - [Phänomen: Was wir übersehen](presentations/screendesign-und-visuelle-kommunikation/phaenomen-blindheit/)
+  - [Phänomen: Täuschungen](presentations/screendesign-und-visuelle-kommunikation/phaenomen-taeuschungen/)
+  - [Phänomen: Sinnsuche](presentations/screendesign-und-visuelle-kommunikation/phaenomen-sinnsuche/)
+  - [Prinzip: Kommunikation](presentations/screendesign-und-visuelle-kommunikation/prinzip-kommunikation/)
+  - [Prinzip: Wahrnehmungsarbeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-wahrnehmungsarbeit/)
+  - [Prinzip: Reduzieren](presentations/screendesign-und-visuelle-kommunikation/prinzip-reduzieren/)
+  - [Methode: Schnelle Wahrnehmungstests](presentations/screendesign-und-visuelle-kommunikation/methode-wahrnehmungstests/)
+  - [Prinzip: Kräfte](presentations/screendesign-und-visuelle-kommunikation/prinzip-kraefte/)
+  <!-- Bisherige Folien (Fallback):
+  - [Folien zu Visueller Wahrnehmung](presentations/screendesign/visuelle-wahrnehmung/)
+  - [Folien zu Wahrnehmungsarbeit](presentations/screendesign/wahrnehmungsarbeit/)
+  -->
+
 ---
 
 

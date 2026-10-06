@@ -6,6 +6,7 @@ typ: training
 pflicht: false
 termine: 2026-12-11 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 300
 raum: hybrid-mutabor

@@ -6,6 +6,7 @@ typ: workshop
 pflicht: false
 termine: 2026-10-30 14:00
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: true
 dauer: 180
 raum: vor-ort-w
@@ -14,6 +15,9 @@ info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltge
 assignments: |
   - [Permutation mit Flächenausschnitten](/mi-bachelor-screendesign/assignments/basics-permuation-und-farbe/)
   - [Gruppierung im Raster](/mi-bachelor-screendesign/assignments/gruppierung-im-raster/)
+material: |
+  - [Prinzip: Ausrichtung und Raster](presentations/screendesign-und-visuelle-kommunikation/prinzip-ausrichtung-und-raster/)
+  - [Methode: Permutation](presentations/screendesign-und-visuelle-kommunikation/methode-permutation/)
 ---
 
 ## Worum geht es?

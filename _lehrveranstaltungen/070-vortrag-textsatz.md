@@ -6,12 +6,23 @@ typ: vortrag
 pflicht: false
 termine: 2026-11-13 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 120
 raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
 material: |
-  - [Folien zu Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
+  - [Haltung: Feedback](presentations/screendesign-und-visuelle-kommunikation/haltung-feedback/)
+  - [Prinzip: Lesetext](presentations/screendesign-und-visuelle-kommunikation/prinzip-lesetext/)
+  - [Prinzip: Satz](presentations/screendesign-und-visuelle-kommunikation/prinzip-satz/)
+  - [Prinzip: Tabellen und Daten](presentations/screendesign-und-visuelle-kommunikation/prinzip-tabellen-und-daten/)
+  - [Prinzip: Text im Interface](presentations/screendesign-und-visuelle-kommunikation/prinzip-text-im-interface/)
+  - [Methode: Typografische Skala](presentations/screendesign-und-visuelle-kommunikation/methode-typografische-skala/)
+  - [Methode: Crit](presentations/screendesign-und-visuelle-kommunikation/methode-crit/)
+  <!-- Bisherige Folien (Fallback):
+  - [Folien zu Textsatz](presentations/screendesign/textsatz/)
+  -->
+
 ---
 
 ## Worum geht es?

@@ -1,0 +1,5 @@
+{% comment %}
+  Rendert ein Material-Feld. Relative Folienlinks "](presentations/…)" bekommen
+  je nach Umgebung die Basis-URL aus site.slides (production oder development).
+  Aufruf: {% include material.html content=page.material %}
+{% endcomment %}{% if jekyll.environment == "production" %}{% assign slides_base = site.slides.production %}{% else %}{% assign slides_base = site.slides.development %}{% endif %}{% assign slides_prefix = "](" | append: slides_base | append: "/presentations/" %}{{ include.content | replace: "](presentations/", slides_prefix | markdownify }}

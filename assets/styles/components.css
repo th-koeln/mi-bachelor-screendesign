@@ -244,6 +244,11 @@
     hyphens: auto;
   }
 
+  h3 {
+    font-size: var(--base-font-size);
+    color: var(--color-darkest);
+  }
+
   h2{
     margin-top: var(--fluid-space-s) !important;
     
@@ -341,6 +346,13 @@
       h6 {
         grid-column: 1;
         margin-top: 0;
+      }
+
+      /* Rausgezogene Überschrift und erstes Element rechts daneben
+         teilen sich eine Grundlinie */
+      :is(h1, h2, h3, h4, h5, h6),
+      :is(h1, h2, h3, h4, h5, h6) + * {
+        align-self: baseline;
       }
 
       h2,

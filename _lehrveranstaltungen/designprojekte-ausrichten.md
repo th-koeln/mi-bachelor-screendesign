@@ -5,6 +5,7 @@ verantwortlich: cn
 typ: workshop
 pflicht: false
 termine: 2026-12-04 13:00
+check-in-frage: 
 published: false
 dauer: 180
 raum: vor-ort-v

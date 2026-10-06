@@ -4,6 +4,9 @@
 - url: angebote/
   name: Veranstaltungen
 
+- url: veranstaltungskonzept/
+  name: Konzept
+
 - url: timetable/
   name: Zeitplan
 

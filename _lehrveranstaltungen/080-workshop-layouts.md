@@ -6,14 +6,15 @@ typ: workshop
 pflicht: false
 termine: 2026-12-18 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
+check-in-frage: 
 published: false
 dauer: 300
 raum: vor-ort-v
 info: 
 material: |
-  - [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/#/1/33)
-  - [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
-  - [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/#/1/20)
+  - [Textsatz](presentations/screendesign/textsatz/#/1/33)
+  - [Folien zu Proportionen](presentations/screendesign/proportionen-und-abstaende/) 
+  - [Folien zum Thema Layout](presentations/screendesign/layout/#/1/20)
    
 assignments: |
   - [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)

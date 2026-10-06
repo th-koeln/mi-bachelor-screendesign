@@ -6,6 +6,7 @@ typ: feedback
 pflicht: false
 termine: 2027-03-19 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 90
 raum: zoom-fd-support-kurzdoku

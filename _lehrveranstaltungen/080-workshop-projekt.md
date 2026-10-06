@@ -6,20 +6,34 @@ typ: workshop
 pflicht: false
 termine: 2026-12-04 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 360
 raum: vor-ort-v
 info: Das Projekt für dieses Jahr wird vorgestellt.
 material: |
-   - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
-   - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
-   - [Teamarbeit](https://christiannoss.de/de/thoughts/probleme-im-team)
-   - [Project Survival](/mi-bachelor-screendesign/download/misc/EMI-1-Pager-Projekt.pdf)
-   - [Softskills](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/analysen/stellenausschreibungen/stepstone/alle-kategorien.png)
-   - [Analyse Stellenausschreibungen Medieninformatik](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/stellenausschreibungen/)
-   - [Nutzerzentriertes Design](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=729223)
-   - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
-   - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
+  - [Haltung: Kontext](presentations/screendesign-und-visuelle-kommunikation/haltung-kontext/)
+  - [Methode: Double Diamond](presentations/screendesign-und-visuelle-kommunikation/methode-double-diamond/)
+  - [Prinzip: Zielgruppe und Kontext](presentations/screendesign-und-visuelle-kommunikation/prinzip-zielgruppe-und-kontext/)
+  - [Prinzip: Identität und Passung](presentations/screendesign-und-visuelle-kommunikation/prinzip-identitaet-und-passung/)
+  - [Prinzip: Bildsprache](presentations/screendesign-und-visuelle-kommunikation/prinzip-bildsprache/)
+  - [Methode: Rebriefing](presentations/screendesign-und-visuelle-kommunikation/methode-rebriefing/)
+  - [Methode: Zielgruppe verdichten](presentations/screendesign-und-visuelle-kommunikation/methode-zielgruppe/)
+  - [Methode: Was gibt es schon?](presentations/screendesign-und-visuelle-kommunikation/methode-was-gibt-es-schon/)
+  - [Methode: Gestaltungskontext analysieren](presentations/screendesign-und-visuelle-kommunikation/methode-gestaltungskontext/)
+  - [Methode: Gestaltungsziel formulieren](presentations/screendesign-und-visuelle-kommunikation/methode-gestaltungsziel/)
+  - [Methode: Axis Map](presentations/screendesign-und-visuelle-kommunikation/methode-axis-map/)
+  - [Methode: Entscheidungslog](presentations/screendesign-und-visuelle-kommunikation/methode-entscheidungslog/)
+  - [Infos zu den Bewertungskriterien](/mi-bachelor-screendesign/niveaustufen/)
+  - [Infos zur Prüfungsart](/mi-bachelor-screendesign/projektpraesentationspruefung/)
+  - [Teamarbeit](https://christiannoss.de/de/thoughts/probleme-im-team)
+  - [Project Survival](/mi-bachelor-screendesign/download/misc/EMI-1-Pager-Projekt.pdf)
+  - [Softskills](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/analysen/stellenausschreibungen/stepstone/alle-kategorien.png)
+  - [Analyse Stellenausschreibungen Medieninformatik](https://medieninformatik.pages.archi-lab.io/po5/reakkreditierung/stellenausschreibungen/)
+  - [Nutzerzentriertes Design](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=729223)
+  - [Räume](https://www.figma.com/design/UrepMaGdj9TjHTkD6cVE76/kleinkram?node-id=2401-54&t=UUKOraQXrZwXrwir-4)
+  - [Vorstellung des Projekts](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/)
+
 ---
 
 ## Worum geht es?

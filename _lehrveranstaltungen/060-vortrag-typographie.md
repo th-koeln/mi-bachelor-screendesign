@@ -6,13 +6,25 @@ typ: vortrag
 pflicht: false
 termine: 2026-11-06 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 120
 raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
 material: |
-  - [Folien zu Typographie](https://cnoss.github.io/slides/presentations/screendesign/typographie/)
-  - [Folien zur Auswahl von Schriften](https://cnoss.github.io/slides/presentations/screendesign/auswahl-von-schriften/)
+  - [Haltung: Handwerk](presentations/screendesign-und-visuelle-kommunikation/haltung-handwerk/)
+  - [Phänomen: Wortbilder](presentations/screendesign-und-visuelle-kommunikation/phaenomen-wortbilder/)
+  - [Prinzip: Wirkung von Schrift](presentations/screendesign-und-visuelle-kommunikation/prinzip-schrift-wirkung/)
+  - [Prinzip: Mikrotypografie](presentations/screendesign-und-visuelle-kommunikation/prinzip-mikrotypografie/)
+  - [Prinzip: Typografische Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-typografische-hierarchie/)
+  - [Methode: Schriftklassifikation](presentations/screendesign-und-visuelle-kommunikation/methode-schriftklassifikation/)
+  - [Methode: Schriftauswahl](presentations/screendesign-und-visuelle-kommunikation/methode-schriftauswahl/)
+  - [Methode: Semantisches Differential](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
+  <!-- Bisherige Folien (Fallback):
+  - [Folien zu Typographie](presentations/screendesign/typographie/)
+  - [Folien zur Auswahl von Schriften](presentations/screendesign/auswahl-von-schriften/)
+  -->
+
 ---
 
 ## Worum geht es?

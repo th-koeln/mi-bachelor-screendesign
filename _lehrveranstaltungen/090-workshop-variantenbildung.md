@@ -7,6 +7,7 @@ pflicht: false
 termine: 2026-12-19 11:00
 raum: vor-ort-ferchau
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: false
 dauer: 240
 info: Gutes Design entsteht zumeist durch die Auswahl der besten Variante. Doch wie erzeuge ich systematisch Varianten?

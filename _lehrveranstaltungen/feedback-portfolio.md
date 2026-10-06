@@ -6,6 +6,7 @@ typ: feedback
 pflicht: false
 termine: 2026-11-13 15:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 60
 raum: vor-ort-w

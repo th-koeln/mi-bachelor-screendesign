@@ -6,12 +6,18 @@ typ: workshop
 pflicht: false
 termine: 2027-01-15 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
+check-in-frage: 
 published: true
 dauer: 240
 raum: vor-ort-ferchau
 info: 
 material: |
- - [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/screendesign-2025-26_accesibility_finn-maybauer.pdf)
+  - [Haltung: Für alle und Verantwortung](presentations/screendesign-und-visuelle-kommunikation/haltung-fuer-alle-und-verantwortung/)
+  - [Methode: Barrierefreiheit prüfen](presentations/screendesign-und-visuelle-kommunikation/methode-barrierefreiheit-pruefen/)
+  - [Methode: Heuristische Evaluation](presentations/screendesign-und-visuelle-kommunikation/methode-heuristische-evaluation/)
+  - [Methode: Kontrast prüfen](presentations/screendesign-und-visuelle-kommunikation/methode-kontrast-pruefen/)
+  - [Prinzip: Farbe codieren](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbe-codieren/)
+  - [Foliensatz zum Thema](/mi-bachelor-screendesign/download/workshops/barrierefreiheit/screendesign-2025-26_accesibility_finn-maybauer.pdf)
 assignments: |
   - [Recherche zu Anspruchsgruppen](/mi-bachelor-screendesign/assignments/barrierefreiheit-2026/)
 ---

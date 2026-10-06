@@ -6,11 +6,15 @@ typ: pruefung
 pflicht: true
 termine: 2027-01-29 11:00, 2027-01-29 13:30
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 150
 raum: vor-ort-w
 anzahl: 15 Teams pro Slot
 info: 
+material: |
+  - [Methode: Crit](presentations/screendesign-und-visuelle-kommunikation/methode-crit/)
+  - [Methode: Remix](presentations/screendesign-und-visuelle-kommunikation/methode-remix/)
 ---
 
 ## Anmeldung

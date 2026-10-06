@@ -6,6 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-23 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: false
 dauer: 120
 raum: vor-ort-v

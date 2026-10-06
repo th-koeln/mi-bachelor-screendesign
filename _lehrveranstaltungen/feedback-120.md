@@ -6,6 +6,7 @@ typ: feedback
 pflicht: false
 termine: 2022-01-27 14:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: false
 dauer: 120
 raum: zoom-fd

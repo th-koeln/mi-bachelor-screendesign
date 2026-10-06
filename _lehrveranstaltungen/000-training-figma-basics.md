@@ -6,6 +6,7 @@ typ: training
 pflicht: false
 termine: 2026-10-02 14:00
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: true
 dauer: 150
 raum: vor-ort-w

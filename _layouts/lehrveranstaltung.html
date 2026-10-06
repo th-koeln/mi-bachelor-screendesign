@@ -57,7 +57,7 @@ layout: default
 
         {% if page.material %}
         <h2>Material</h2>
-        {{ page.material | markdownify }}
+        {% include material.html content=page.material %}
         {% endif %}
 
         {% if page.assignments %}
