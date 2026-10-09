@@ -28,11 +28,10 @@ material: |
   - [Figma tutorial: Text tool and fonts](https://www.youtube.com/watch?v=5i-ebNTjad8)
   - [Figma tutorial: Color picker](https://www.youtube.com/watch?v=V7waqacFYZs)
   - [Figma: Convert text to vector paths](https://help.figma.com/hc/en-us/articles/360047239073-Convert-text-to-vector-paths)
-  <!-- Bisherige Folien (Fallback):
+
+archiv: |
   - [Gestaltungselement Fläche & Form](presentations/screendesign/flaeche-und-form/)
   - [Figur und Grund](presentations/screendesign/figur-und-grund/)
-  -->
-
 ---
 
 ## Worum geht es?

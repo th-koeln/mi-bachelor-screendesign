@@ -21,18 +21,20 @@ material: |
   - [Figma tutorial - Layout grids](https://www.youtube.com/watch?v=zd8wrAdURN0&t=106s)
   - [Figma tutorial - Components fundamentals](https://www.youtube.com/watch?v=7dJBDU8HBeQ)
   - [Figma tutorial - Guides](https://www.youtube.com/watch?v=0xafhHNEsp8)
-  <!-- Bisherige Folien (Fallback):
-  - [Semiotik](presentations/screendesign/semiotik/)
-  - [Punkt](presentations/screendesign/punkt/)
-  - [Eindeutigkeit](presentations/screendesign/eindeutigkeit/)
-  -->
 assignments: |
-  - [Wechselwirkung zwischen Positiv- und Negativraum](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+  - [Position und Format](/mi-bachelor-screendesign/assignments/basics-punkt-position-und-format/)
   - [Syntaktisch aussagekräftige Anordnungen mit Punkten](/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
-  - [Punkt und Raum – Der Punkt als Bewegung im Raum](/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
+  - [Punkt und Raum: Der Punkt als Bewegung im Raum](/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
 
 uploaddate: 15.10.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317
+
+archiv: |
+  - [Semiotik](presentations/screendesign/semiotik/)
+  - [Positiv- und Negativraum im Raster](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+  - [Punkt](presentations/screendesign/punkt/)
+  - [Eindeutigkeit](presentations/screendesign/eindeutigkeit/)
+  - [Wechselwirkung zwischen Positiv- und Negativraum](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ-2026/)
 ---
 
 ## Worum geht es?

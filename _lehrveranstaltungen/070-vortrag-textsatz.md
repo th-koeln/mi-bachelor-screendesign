@@ -19,10 +19,9 @@ material: |
   - [Prinzip: Text im Interface](presentations/screendesign-und-visuelle-kommunikation/prinzip-text-im-interface/)
   - [Methode: Typografische Skala](presentations/screendesign-und-visuelle-kommunikation/methode-typografische-skala/)
   - [Methode: Crit](presentations/screendesign-und-visuelle-kommunikation/methode-crit/)
-  <!-- Bisherige Folien (Fallback):
-  - [Folien zu Textsatz](presentations/screendesign/textsatz/)
-  -->
 
+archiv: |
+  - [Folien zu Textsatz](presentations/screendesign/textsatz/)
 ---
 
 ## Worum geht es?

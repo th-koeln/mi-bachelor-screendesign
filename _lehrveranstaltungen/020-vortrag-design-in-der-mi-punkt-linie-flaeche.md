@@ -17,13 +17,12 @@ material: |
   - [Haltung: Beobachten und Begründen](presentations/screendesign-und-visuelle-kommunikation/haltung-beobachten-und-begruenden/)
   - [Die fünf Elemente](presentations/screendesign-und-visuelle-kommunikation/rahmen-die-fuenf-elemente/)
   - [Prinzip: Zielgruppe und Kontext](presentations/screendesign-und-visuelle-kommunikation/prinzip-zielgruppe-und-kontext/)
-  - [Aktive Pause](presentations/screendesign-und-visuelle-kommunikation/rahmen-pause/)
   - [Methode: Beschreibungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-beschreibungsraster/)
   - [Prinzip: Visuelle Variablen](presentations/screendesign-und-visuelle-kommunikation/prinzip-visuelle-variablen/)
-  <!-- Bisherige Folien (Fallback):
-  - [Folien zu Design in der Medieninformatik](presentations/screendesign/design-in-der-medieninformatik/)
-  -->
 
+archiv: |
+  - [Folien zu Design in der Medieninformatik](presentations/screendesign/design-in-der-medieninformatik/)
+  - [Aktive Pause](presentations/screendesign-und-visuelle-kommunikation/rahmen-pause/)
 ---
 
 
@@ -32,7 +31,7 @@ material: |
 Letzte Woche ging es darum, warum Design in der Medieninformatik wichtig ist. Heute wird es konkret: Wir bauen das Werkzeug, mit dem Sie über Gestaltung sprechen, ohne auf »gefällt mir« auszuweichen.
 
 - Warum ist »gefällt mir« kein Argument?
-- Wie ist dieses Modul aufgebaut? Wir lernen die fünf Elemente kennen: Phänomen, Prinzip, Methode, Begriff und Haltung.
+- Wie sind die Inhalte dieses Moduls geordnet? Wir lernen die fünf Elemente kennen: Phänomen, Prinzip, Methode, Begriff und Haltung.
 - Für wen gestalten wir eigentlich?
 - Wie beschreiben Sie einen Screen so präzise, dass jemand ihn nachzeichnen kann, der ihn nie gesehen hat?
 

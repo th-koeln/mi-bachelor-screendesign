@@ -9,7 +9,7 @@ published: true
 
 <!--Erzeugen Sie auf einer gellgrauen Fläche von **1024x1366 Pixeln** (hochformat) ein weißes Rechteck von **780x442 Pixeln**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils **16 gleich großen schwarzen Punkten** diese sieben Begriffe dar: -->
 
-Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** mit mittelgrauer Füllung. Platzieren Sie anschließend ein schwarzes Rechteck von **780x500px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 16 gleich großen, weißen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
+Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** mit hellgrauer Füllung. Platzieren Sie anschließend ein schwarzes Rechteck von **780x500px**. Die Ausrichtung des Rechtecks darf verändert werden. Stellen Sie auf diesem Rechteck mit jeweils 20 gleich großen, weißen Punkten folgende acht Begriffe dar. Dublizieren Sie dazu die Arbeitsfläche entsprechend acht Mal. 
 
 <!--
 1. Konfrontation
@@ -20,7 +20,7 @@ Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** mit mittelgrau
 6. Verdichtung
 7. Durchbrechung
 8. Richtung
--->
+
 
 
 1. Ansammlung
@@ -34,8 +34,18 @@ Erzeugen Sie auf einer Arbeitsfläche (Frame) von **1024x1360px** mit mittelgrau
 
 
 
-<!-- 5. Systematik -->
-<!--6. Komplexität-->
+5. Systematik
+Komplexität-->
+
+
+- Annäherung
+- Abstoßung
+- Gleichgewicht
+- Schwere
+- Stau
+- Ausbruch
+- Lücke
+- Verdrängung
 
 
 Erzeugen Sie bei Bedarf eine Maske, um Anschnitte im Randbereich realisieren zu können. Bleiben Sie auf der syntaktischen Ebene. 

@@ -24,11 +24,10 @@ material: |
   - [Prinzip: Räumlichkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-raeumlichkeit/)
   - [Prinzip: Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-hierarchie/)
   - [Methode: Unschärfe- und Graustufentest](presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/)
-  <!-- Bisherige Folien (Fallback):
+
+archiv: |
   - [Folien zu Räumlichkeit](presentations/screendesign/raeumlichkeit/)
   - [Folien zu Gestaltgesetzen](presentations/screendesign/gestaltgesetze/)
-  -->
-
 ---
 
 

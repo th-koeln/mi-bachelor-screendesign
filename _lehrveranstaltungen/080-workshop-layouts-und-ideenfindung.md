@@ -33,11 +33,10 @@ material: |
   - [Prinzip: Inhalt bestimmt Form](presentations/screendesign-und-visuelle-kommunikation/prinzip-inhalt-bestimmt-form/)
   - [Pen & Paper](https://cnoss.github.io/pen-and-paper/)
   - [Atomic Design](https://bradfrost.com/blog/post/design-tokens-atomic-design-❤%EF%B8%8F/)
-  <!-- Bisherige Folien (Fallback):
+
+archiv: |
   - [Folien zu Proportionen](presentations/screendesign/proportionen-und-abstaende/)
   - [Folien zum Thema Layout](presentations/screendesign/layout/)
-  -->
-
 ---
 
 ## Worum geht es?

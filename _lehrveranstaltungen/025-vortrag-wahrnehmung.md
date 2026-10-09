@@ -12,7 +12,7 @@ dauer: 120
 raum: vor-ort-v
 info: Ein paar Basics zu visueller Wahrnehmung und Wahrnehmungsarbeit
 material: |
-  - [Haltung: Beobachten und Begründen](presentations/screendesign-und-visuelle-kommunikation/haltung-beobachten-und-begruenden/)
+  - [Haltung: Gestaltung lenkt](presentations/screendesign-und-visuelle-kommunikation/haltung-fuer-alle-und-verantwortung/)
   - [Phänomen: Der erste Eindruck](presentations/screendesign-und-visuelle-kommunikation/phaenomen-erster-eindruck/)
   - [Phänomen: Was wir übersehen](presentations/screendesign-und-visuelle-kommunikation/phaenomen-blindheit/)
   - [Phänomen: Täuschungen](presentations/screendesign-und-visuelle-kommunikation/phaenomen-taeuschungen/)
@@ -22,11 +22,10 @@ material: |
   - [Prinzip: Reduzieren](presentations/screendesign-und-visuelle-kommunikation/prinzip-reduzieren/)
   - [Methode: Schnelle Wahrnehmungstests](presentations/screendesign-und-visuelle-kommunikation/methode-wahrnehmungstests/)
   - [Prinzip: Kräfte](presentations/screendesign-und-visuelle-kommunikation/prinzip-kraefte/)
-  <!-- Bisherige Folien (Fallback):
+
+archiv: |
   - [Folien zu Visueller Wahrnehmung](presentations/screendesign/visuelle-wahrnehmung/)
   - [Folien zu Wahrnehmungsarbeit](presentations/screendesign/wahrnehmungsarbeit/)
-  -->
-
 ---
 
 

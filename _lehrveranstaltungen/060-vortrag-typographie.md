@@ -20,11 +20,10 @@ material: |
   - [Methode: Schriftklassifikation](presentations/screendesign-und-visuelle-kommunikation/methode-schriftklassifikation/)
   - [Methode: Schriftauswahl](presentations/screendesign-und-visuelle-kommunikation/methode-schriftauswahl/)
   - [Methode: Semantisches Differential](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
-  <!-- Bisherige Folien (Fallback):
+
+archiv: |
   - [Folien zu Typographie](presentations/screendesign/typographie/)
   - [Folien zur Auswahl von Schriften](presentations/screendesign/auswahl-von-schriften/)
-  -->
-
 ---
 
 ## Worum geht es?

@@ -142,4 +142,4 @@ defaults:
 # Lokal (jekyll serve) zeigt sie auf den Slides-Dev-Server, deployt auf GitHub Pages.
 slides:
   production: https://cnoss.github.io/slides
-  development: http://192.168.2.224:8080
+  development: http://localhost:8080

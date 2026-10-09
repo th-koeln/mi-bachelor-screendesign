@@ -1,5 +1,5 @@
 ---
-titel: Wechselwirkung zwischen Positiv- und Negativraum
+titel: Positiv- und Negativraum im Raster
 tags: 
   - Basics
   - Punkt

@@ -21,10 +21,9 @@ material: |
   - [Prinzip: Farbe und Lesbarkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbe-und-lesbarkeit/)
   - [Methode: Kontrast prüfen](presentations/screendesign-und-visuelle-kommunikation/methode-kontrast-pruefen/)
   - [Methode: Moodboard und Farbklima](presentations/screendesign-und-visuelle-kommunikation/methode-moodboard-und-farbklima/)
-  <!-- Bisherige Folien (Fallback):
-  - [Folien zu Farbe](presentations/screendesign/farben/)
-  -->
 
+archiv: |
+  - [Folien zu Farbe](presentations/screendesign/farben/)
 ---
 
 ## Worum geht es?
