@@ -4,7 +4,7 @@ tags:
   - Basics
   - Punkt
   - WS2627
-published: true
+published: false
 ---
 
 Legen Sie neun quadratische Arbeitsflächen (Frames) mit einer Größe von jeweils **500x500px** an und platzieren Sie auf jeder Fläche einen Punkt mit einem Durchmesser von **500px**.
