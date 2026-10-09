@@ -21,6 +21,7 @@ Probieren Sie verschiedene Kombinationen aus, bevor Sie sich festlegen. Sobald d
 
 <img src="../../download/workshops/punkt-linie/beispiel-punkt-position-und-format.png" alt="Beispiel: neun quadratische Flächen mit je einem Punkt und daneben drei daraus zusammengesetzte Streifen" style="max-height:80vh">
 
-Exportieren Sie die neun Quadrate und die drei Streifen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie die neun Quadrate und die drei Streifen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i:cm:cl&cmdClass=ilExSubmissionFileGUI&cmd=submissionScreen&ref_id=878711&ass_id=31716&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 > ```sd-punkt-position-format-NACHNAME-NUMMER.png```
+
