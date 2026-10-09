@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 check-in-frage: 
 published: true
 dauer: 180
-raum: vor-ort-w
+raum: vor-ort-v
 info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um den Punkt.
 
 material: |

@@ -6,7 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-09 11:00
 empfohlene-voraussetzungen: 
-check-in-frage: 
+check-in-frage: "Wie sah Ihr Morgen aus?"
 published: true
 dauer: 120
 raum: vor-ort-v
@@ -19,6 +19,7 @@ material: |
   - [Prinzip: Zielgruppe und Kontext](presentations/screendesign-und-visuelle-kommunikation/prinzip-zielgruppe-und-kontext/)
   - [Methode: Beschreibungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-beschreibungsraster/)
   - [Prinzip: Visuelle Variablen](presentations/screendesign-und-visuelle-kommunikation/prinzip-visuelle-variablen/)
+  - [Plakate aus dem Kick-off (PDF)](/mi-bachelor-screendesign/download/inputs/plakate-kick-off-ws-26-27/plakate-kick-off-ws-26-27.pdf)
 
 archiv: |
   - [Folien zu Design in der Medieninformatik](presentations/screendesign/design-in-der-medieninformatik/)
