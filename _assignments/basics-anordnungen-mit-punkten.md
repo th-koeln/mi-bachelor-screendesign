@@ -59,7 +59,7 @@ Platzieren Sie jeweils Ihren Namen und den Begriff des Motivs in einer serifenlo
 
 Bleiben Sie auf der syntaktischen Ebene. Fügen Sie den Motiven den jeweiligen Begriff hinzu. Integrieren Sie bitte auch eine (non-funktionale) Möglichkeit zur Navigation zum nächsten Motiv. Nutzen Sie für die Darstellung des Begriffs eine serifenlose Schrift im Schriftgrad 18. Bitte schreiben Sie auch Ihren Namen auf die graue Fläche. Die Gesamtkomposition soll so reduziert und eindeutig sein wie möglich. -->
 
-Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i:cm:cl&cmdClass=ilExSubmissionFileGUI&cmd=submissionScreen&ref_id=878711&ass_id=31715&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 > `sd-aufgabe-punkt-anordnungen-NACHNAME–BEGRIFF.png`
 
