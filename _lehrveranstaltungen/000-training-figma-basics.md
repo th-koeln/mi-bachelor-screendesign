@@ -16,7 +16,7 @@ assignments: |
   - [Podcast Player](/mi-bachelor-screendesign/assignments/training-001-figmabasics/)
 
 uploaddate: 08.10.2026 23:55 Uhr
-uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679316
+uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=878710&from_overview=1&ass_id=31735
 ---
 
 ## Worum geht es?
