@@ -4,7 +4,7 @@ kuerzel: w-sg
 verantwortlich: alle
 typ: workshop-mit-anmeldung
 pflicht: false
-termine: 2024-02-02 10:00
+termine: 2024-02-02 11:00
 empfohlene-voraussetzungen:
 published: false
 raum: vor-ort-w

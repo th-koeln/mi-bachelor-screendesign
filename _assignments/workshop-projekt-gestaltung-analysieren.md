@@ -2,7 +2,7 @@
 titel: Gestaltungsrichtlinien und Spielräume – Rahmenbedingungen klären
 tags: 
   - Analyse
-  - WS2526
+  - WS2627
 raum: 3.109
 icon: 🎨
 published: true

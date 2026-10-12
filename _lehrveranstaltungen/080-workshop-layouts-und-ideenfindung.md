@@ -4,21 +4,39 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-01-16 10:00
+termine: 2026-12-18 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
+check-in-frage: 
 published: true
 dauer: 300
-raum: vor-ort-ferchau
+raum: vor-ort-v
 info: 
 assignments: |
-  - [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
+  - [Funktionen und Funktionsbereiche](/mi-bachelor-screendesign/assignments/project-veranstaltungsplan-funktionen-und-funktionsbereiche)
+  - [Veranstaltungsliste in Figma](/mi-bachelor-screendesign/assignments/project-veranstaltungsplan-liste-in-figma)
 
 material: |
+  - [Haltung: Alternativen](presentations/screendesign-und-visuelle-kommunikation/haltung-alternativen/)
+  - [Methode: Skizzieren](presentations/screendesign-und-visuelle-kommunikation/methode-skizzieren/)
+  - [Methode: Variieren entlang einer Achse](presentations/screendesign-und-visuelle-kommunikation/methode-variieren-achse/)
+  - [Methode: Morphologischer Kasten](presentations/screendesign-und-visuelle-kommunikation/methode-morphologischer-kasten/)
+  - [Methode: SLIP](presentations/screendesign-und-visuelle-kommunikation/methode-slip/)
+  - [Prinzip: Entscheiden erleichtern](presentations/screendesign-und-visuelle-kommunikation/prinzip-entscheiden-erleichtern/)
+  - [Prinzip: Chunking](presentations/screendesign-und-visuelle-kommunikation/prinzip-chunking/)
+  - [Phänomen: Gedächtnis](presentations/screendesign-und-visuelle-kommunikation/phaenomen-gedaechtnis/)
+  - [Methode: Layoutanalyse](presentations/screendesign-und-visuelle-kommunikation/methode-layoutanalyse/)
+  - [Methode: Gestaltungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-gestaltungsraster/)
+  - [Methode: Spacing-System](presentations/screendesign-und-visuelle-kommunikation/methode-spacing-system/)
+  - [Prinzip: Rhythmus und Gleichgewicht](presentations/screendesign-und-visuelle-kommunikation/prinzip-rhythmus-und-gleichgewicht/)
+  - [Prinzip: Proportion](presentations/screendesign-und-visuelle-kommunikation/prinzip-proportion/)
+  - [Prinzip: Weißraum](presentations/screendesign-und-visuelle-kommunikation/prinzip-weissraum/)
+  - [Prinzip: Inhalt bestimmt Form](presentations/screendesign-und-visuelle-kommunikation/prinzip-inhalt-bestimmt-form/)
   - [Pen & Paper](https://cnoss.github.io/pen-and-paper/)
-  - [Textsatz](https://cnoss.github.io/slides/presentations/screendesign/textsatz/)
-  - [Folien zu Proportionen](https://cnoss.github.io/slides/presentations/screendesign/proportionen-und-abstaende/) 
-  - [Folien zum Thema Layout](https://cnoss.github.io/slides/presentations/screendesign/layout/)
+  - [Atomic Design](https://bradfrost.com/blog/post/design-tokens-atomic-design-❤%EF%B8%8F/)
 
+archiv: |
+  - [Folien zu Proportionen](presentations/screendesign/proportionen-und-abstaende/)
+  - [Folien zum Thema Layout](presentations/screendesign/layout/)
 ---
 
 ## Worum geht es?
@@ -32,3 +50,29 @@ Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verwor
 - Optional: hellgrauer, gelber, roter und hellblauer Marker oder Buntstift
 - 5 Blatt DIN A4 ohne Punktraster
 - 5 Blatt DIN A4 mit [Punktraster](https://www.viaprinto.de/media/documents/help/layouts/produkte/raster/vorlage_punktraster_DIN_A4_hoch.zip)
+
+## Rahmen für die Layouts
+
+
+Entwickeln Sie ein Gestaltungs- und Interaktionskonzept für das neue Frontend der digitalen Veranstaltungsübersicht an der Fakultät 10. Berücksichtigen Sie dabei die unterschiedlichen Bedürfnisse und Nutzungsszenarien von Studierenden, Lehrenden und Mitarbeitenden. Ziel ist ein zugängliches, flexibles und gut strukturiertes Interface, die komplexe Veranstaltungsdaten übersichtlich darstellt und sinnvolle Interaktionen ermöglicht – vom schnellen Überblick bis zu detaillierten Informationen. Das Konzept muss auf verschiedenen Endgeräten (Desktop, Tablet, Smartphone) funktionieren und situationsabhängige Nutzungskontexte berücksichtigen. 
+
+zum [Projektbriefing](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/index.html)
+
+- [Was? Inhalt](https://miro.com/app/board/uXjVGcl-pBI=/?share_link_id=646679994334)
+- [Warum? Ziel](https://miro.com/app/board/uXjVGclYX0E=/?moveToWidget=3458764652269940241&cot=14)
+- [Für wen? Zielgruppe](https://miro.com/app/board/uXjVGclYX0E=/?share_link_id=913929271465)
+- [Wo? Präsentationsmedium](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2025/index.html)
+- [Wie? stilistische Festlegungen](https://miro.com/app/board/uXjVGckv1pM=/?share_link_id=552762983321)
+
+Ergebnisse aus dem [Best Practices und Schwachstellen](https://miro.com/app/board/uXjVGcl6MJ0=/?share_link_id=558297045373)
+
+## Uploads
+
+
+Ein Upload von gehaltvollen Ergebnissen bringt bis zu 5 Bonuspunkte für das Abschlussprojekt.
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=770941) hoch.
+
+<!--
+## Alte Übung
+  - [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
+-->

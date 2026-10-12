@@ -23,9 +23,12 @@ zoom-fd:
   url: https://th-koeln.zoom.us/j/6078076173
 
 zoom-fd-support:
-  name: "Zoom (Meeting-ID: 68888524749, Kenncode design)"
-  url: https://th-koeln.zoom.us/j/68888524749
-  
+  name: "Zoom (Meeting-ID: 67691453001, Kenncode design)"
+  url: https://th-koeln.zoom-x.de/j/67691453001
+
+zoom-fd-support-kurzdoku:
+  name: "Zoom (Meeting-ID: 67440973035, Kenncode design)"
+  url: https://th-koeln.zoom-x.de/j/67440973035  
 
 zoom-fd-vs:
   name: "Zoom (Meeting-ID: 87910567579, Kenncode im Ilu)"
@@ -43,11 +46,15 @@ hybrid-mutabor:
   name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 82712097709, Kenncode: 504843)"
   url: "https://th-koeln.zoom-x.de/j/68541801147"
 
+hybrid-support:
+  name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 67691453001, Kenncode design)"
+  url: https://th-koeln.zoom-x.de/j/67691453001
+
 vor-ort: 
   name: Raum XYZ
 
 vor-ort-v:
-  name: "Raum 3.102"
+  name: "Raum 3.106"
 
 vor-ort-w:
   name: "Raum 3.216"
@@ -59,7 +66,7 @@ pruefung:
   name: Raum 3.217
 
 portfolio-pruefung: 
-  name: Raum 3.102
+  name: Raum 3.106
 
 semesterprojekt:
   name: Projektaufgabe WS25/26

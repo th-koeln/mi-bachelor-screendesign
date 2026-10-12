@@ -3,9 +3,10 @@ titel: <del>Feedback zu ihrem aktuellen Projektstand</del>
 kuerzel: f-fsl
 verantwortlich: alle
 typ: other
-pflicht: true
-termine: 2026-02-28 16:00
+pflicht: false
+termine: 2027-02-20 16:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: false
 dauer: 90
 raum: verschoben auf den 04.03.

@@ -4,8 +4,9 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-11-07 13:00
+termine: 2026-10-30 14:00
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: true
 dauer: 180
 raum: vor-ort-w
@@ -14,6 +15,9 @@ info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltge
 assignments: |
   - [Permutation mit Flächenausschnitten](/mi-bachelor-screendesign/assignments/basics-permuation-und-farbe/)
   - [Gruppierung im Raster](/mi-bachelor-screendesign/assignments/gruppierung-im-raster/)
+material: |
+  - [Prinzip: Ausrichtung und Raster](presentations/screendesign-und-visuelle-kommunikation/prinzip-ausrichtung-und-raster/)
+  - [Methode: Permutation](presentations/screendesign-und-visuelle-kommunikation/methode-permutation/)
 ---
 
 ## Worum geht es?
@@ -31,7 +35,7 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **13.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679320&ass_id=27181&mode=ongoing&from_overview=1) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **05.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679320&ass_id=27181&mode=ongoing&from_overview=1) hoch.
 
 <!--
 ## Sie haben keinen Rechner?

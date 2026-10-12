@@ -3,12 +3,13 @@ titel: Technischer Support bei der Kurzdokumentation
 kuerzel: f-fsl
 verantwortlich: mj
 typ: feedback
-pflicht: true
-termine: 2026-04-10 10:00
+pflicht: false
+termine: 2027-03-19 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 90
-raum: zoom-fd-support
+raum: zoom-fd-support-kurzdoku
 anzahl: beliebig Teilnehmer
 info:
 ---
@@ -20,4 +21,4 @@ In dieser Session unterstützen wir Teams, die nicht mit der Bereitstellung der 
 
 Für die Termine in der **vorlesungsfreien Zeit müssen Sie einen Termin im ILU buchen**. Melden Sie sich hierzu bitte frühzeitig an, sodass wir mit Ihnen planen und rechnen können.
 
-- [Terminbuchung für Feedbacktermine im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=543070)
+- [Terminbuchung für den technischen Support bei der Kurzdokumentation im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=704195)

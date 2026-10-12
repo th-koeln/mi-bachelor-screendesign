@@ -3,9 +3,10 @@ titel: Feedback zum Stand des Gestaltungsportfolios
 kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
-pflicht: true
-termine: 2025-11-21 15:00
+pflicht: false
+termine: 2026-11-13 15:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 60
 raum: vor-ort-w

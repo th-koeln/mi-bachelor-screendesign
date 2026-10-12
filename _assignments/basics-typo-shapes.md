@@ -4,7 +4,7 @@ tags:
   - Basics
   - Fläche
   - Typographie
-  - WS2526
+  - WS2627
 published: true
 headerClass: is-small
 ---

@@ -4,8 +4,9 @@ kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2025-10-31 10:00
+termine: 2026-10-23 11:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: false
 dauer: 120
 raum: vor-ort-v

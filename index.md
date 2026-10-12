@@ -17,11 +17,13 @@ titel: Über das Modul
 
 <div class="text-hero">
 
-Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul **Screendesign**. Die Screendesign Tage starten morgens um **10:00 Uhr** mit einem kurzen Input. Dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
+Hier finden Sie alle relevanten Informationen, Lernmaterialien, Ansprechpartner etc. zum Modul **Screendesign**. Die Screendesign Tage starten morgens um **11:00 Uhr** mit einem kurzen Input. Dann haben wir in der Regel einen oder mehrere Slots mit Trainings oder Workshops. Mehr Informationen dazu finden Sie unter [Veranstaltungsarten](#veranstaltungsarten).
 
-Die erste reguläre Veranstaltung ist am **10. Oktober 2025** um **10:00 Uhr**. Der letzte Termin ist am **06. Februar 2026**. Alle Termine finden Sie im [Zeitplan](./timetable/).
 
-Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) an.
+Die erste reguläre Veranstaltung ist am **02. Oktober 2026** um **11:00 Uhr**. Der letzte Termin ist am **29. Januar 2027**. Alle Termine finden Sie im [Zeitplan](./timetable/).
+
+
+Bitte melden Sie sich zu diesem [Kurs im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=869327) an.
 
 </div>
 
@@ -50,7 +52,7 @@ Im Rahmen der zugehörigen Workshops werden einige Gestaltungsübungen gemacht. 
 
 Der zweite Teil wird in Projektform durchgeführt, d.h. ein Projekt bildet hier den roten Faden. <!-- Wir starten mit einem Ganztagsworkshop in das Projektthema.--> Damit die Teilnehmer das Projekt möglichst gut realisieren können, bieten wir eine Reihe von Veranstaltungen wie Workshops und Vorträge an. Diese können freiwillig und nach eigenem Ermessen besucht werden.
 
-Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielten meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn sie inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im ILU angemeldet werden.
+Um Feedback zu ihren Ideen und Entwürfen zu bekommen werden regelmäßige Termine angeboten. **Diese sollten unbedingt wahrgenommen werden**, denn wir konnten in den letzten Jahren eine signifikante Korrelation zwischen wahrgenommenen Feedbackterminen und erzielter Modulnote feststellen, anders gesagt: Teams, die an keinem Feedbacktermin teilgenommen haben, erzielten meist deutlich schlechtere Modulnoten, als Teams, die an Feedback Terminen teilgenommen haben. Wenn sie inhaltliche, gestalterische oder technische Unterstützung brauchen, können Sie die Supporttermine wahrnehmen. Zu allen Veranstaltungen, außer den Vorträgen, muss sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) angemeldet werden.
 
 Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns dieses Jahr mit der Gestaltung einer mobilen Version des [Lucas Cranch Online Archives](http://lucascranach.org/). Hier finden Sie weitere [Informationen zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/). -->
 
@@ -67,13 +69,13 @@ Das Projekt wird in Zweierteams durchgeführt. <!--Im Projekt befassen wir uns d
 
 **Trainings** trainieren den Umgang mit Domänen-spezifischer Software, verbessern die Handlungsfähigkeit und -geschwindigkeit und müssen durch Screenmovies vorbereitet werden. 
 
-**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im ILU hochgeladen wurden.
+**Feedbacks & Support** geben den Studierenden die Chance, Rückmeldung zu Ihrer Arbeit, dem aktuellen Stand und Ihrem Fortschritt zu bekommen. Dies muss von den Studierenden gut vorbereitet sein und eigenständig dokumentiert werden. Zu Feedbackterminen müssen Sie sich im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679439) anmelden. Das Feedback findet vor allen angemeldeten Teilnehmern im Plenum statt. Es kann nur über Artefakte gesprochen werden, die zuvor im ILU hochgeladen wurden.
 
 Hier finden Sie eine [Übersicht über alle angebotenen Veranstaltungen](angebote/) im Rahmen des Moduls.
 
 ## Prüfung & erforderliche Artefakte
 
-Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten Sie möglichst umfassend und professionell erläutern, wie Sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen Sie sich im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden und einen Termin im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=675312) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
+Die Prüfungsform ist eine [Projektpräsentationsprüfung](projektpraesentationspruefung/). Dabei präsentieren die Teams ihr Projekt in 20 Minuten. In der Präsentation sollten Sie möglichst umfassend und professionell erläutern, wie Sie im Projekt vorgegangen sind und warum welche Designentscheidungen getroffen wurden. Zur Prüfung müssen Sie sich im [CAMS](https://cams.th-koeln.de/) anmelden und einen Termin im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=773520) buchen. Die Bewertung erfolgt mit Hilfe eines [Niveaustufenmodells](niveaustufen/). Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet wird.
 
 Neben dem eigentlichen Projekt muss ein Gestaltungsportfolio abgegeben werden, das die Arbeiten enthält, die im Rahmen der Übungen im ersten Teil der Veranstaltung erstellt wurden. 
 
@@ -83,12 +85,12 @@ Eine Übersicht über alle prüfungsrelevanten Artefakte, deren Gewichtung und B
 
 ### Die 6 Schritte zur Prüfung
 
-- Step 1: im [PSSO](https://psso.th-koeln.de/qisserver/rds?state=user&type=0&category=auth.logout) anmelden. Dies ist von Oktober 2025 bis März 2026 möglich.
-- Step 2: [Termin im ILU buchen - (Link folgt)]
+- Step 1: im [CAMS](https://cams.th-koeln.de/) anmelden. Hier finden Sie die [Anmeldetermine für die Prüfungen](https://www.medieninformatik.th-koeln.de/mi-5.0/medieninformatik-bachelor/pruefungsanmeldung/).
+- Step 2: Termin im ILU buchen (Terminbuchung wird im Februar freigeschaltet)
 - Step 3: Artefakte erzeugen, auf Basis des [Niveaustufenmodells](niveaustufen/) prüfen und pünktlich bereitstellen. Die Termine sind auch bei den [Niveaustufen](niveaustufen/) vermerkt.
 - Step 4: [Eigenständigkeitserklärung](https://th-koeln.github.io/mi-bachelor-screendesign/download/misc/screendesign_eigenstaendigkeitserklaerung.pdf) ausfüllen und bereitstellen
-- Step 5: [Infos im ILU eintragen und Artefakte bereit stellen - (Link folgt)]()
-- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 13.04. - 15.04.2026 in Gummersbach statt.
+- Step 5: Infos im ILU eintragen und Artefakte bereit stellen
+- Step 6: Gut vorbereitet zur Prüfung kommen :\). Die Prüfungen finden vom 23.03. - 25.03.2027 in Gummersbach statt.
 
 
 **Beachten Sie unbedingt die [Abgabetermine der Artefakte](niveaustufen/)!**
@@ -107,13 +109,16 @@ Außerdem benötigen Sie einen einfachen Bildeditor, z.B. [Gimp](https://www.gim
 Bitte bereiten Sie sich für die Workshops mit dem [Learn Figma Video](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA) vor.
 
 Darüber hinaus gibt es bei Figma eine schöne Einleitung mit dem Namen [Learn Design](https://www.figma.com/resources/learn-design/). Diese gibt eine gute Übersicht und einen guten Einstieg in das Thema Screendesign. Für diejenigen, die tiefer einsteigen möchten, anbei ein paar Leseempfehlungen:
+- [Building Design Systems / Sarrah Vesselov](https://link.springer.com/book/10.1007/979-8-8688-2512-5)
 - [Informationsvisualisierung: Web - Print - Signaletik. Erfolgreiches Informationsdesign: Leitsysteme, Wissensvermittlung und Informationsarchitektur / Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050418640)
 - [Interaction- und Interfacedesign: Web-, Game-, Produkt- und Servicedesign Usability und Interface als Corporate Identity / Torsten Stapelkamp](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050392166)
 - [Kompendium der visuellen Information und Kommunikation / Kerstin Alexander](http://www.digibib.net/permalink/832/FHBK-x/HBZ:TT050419679)
 - [Simplicity: die zehn Gesetze der Einfachheit / John Maeda](http://www.digibib.net/permalink/832/FHBK-x/HBZ:HT015123236)
 - [Webdesign: Screendesign / Peter Bühler, Patrick Schlaich, Dominik Sinner](https://link.springer.com/chapter/10.1007%2F978-3-662-53918-7_3)
+- [Flexible Visual Systems / M. Lorenz](https://thb-koeln.digibib.net/search/katalog/record/(DE-605)HT021094713?be-katalog-sort=date_desc&q-al=flexible+visuelle+systeme&start=1&count=20&hitcount=6&pos=3)
 - [Visualizing complexity: Handbuch modulares Informationsdesign / Darjan Hil und Nicole Lachenmeier](https://www.degruyter.com/document/doi/10.1515/9783035625073/html)
 - [Laws of UX: 10 praktische Grundprinzipien für intuitives, menschenzentriertes UX-Design / Yablonski, Jon ; Kommer, Christoph](https://content-select.com/de/portal/media/view/5f4a4d25-f458-43bb-a3a6-0ee6b0dd2d03?forceauth=1)
+- [Inclusive Design for a Digital World / Reginé M. Gilbert](https://link.springer.com/book/10.1007/979-8-8688-1820-2)
 
 Die Links sind zum Teil nur aus dem Hochschulnetz oder via VPN erreichbar.
 

@@ -1,11 +1,12 @@
 ---
-titel: Feedback zu ihrem aktuellen Projektstand
+titel: Feedback zu Ihrem aktuellen Projektstand
 kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
-pflicht: true
-termine: 2026-02-13 16:00, 2026-02-20 16:00, 2026-02-27 16:00
+pflicht: false
+termine: 2027-02-12 16:00, 2027-02-26 16:00,  2027-03-17 16:00,  2027-03-10 16:00
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 90
 raum: zoom-fd
@@ -17,4 +18,4 @@ info:
 
 Für die Termine in der **vorlesungsfreien Zeit müssen Sie einen Termin im ILU buchen**. Melden Sie sich hierzu bitte frühzeitig an, sodass wir mit Ihnen planen und rechnen können.
 
-- [Terminbuchung für Feedbacktermine im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=543070)
+- [Terminbuchung für Feedbacktermine im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679439)

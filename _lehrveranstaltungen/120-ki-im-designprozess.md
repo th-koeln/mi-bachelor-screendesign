@@ -4,9 +4,10 @@ kuerzel: w-lfve
 verantwortlich: vs
 typ: workshop
 pflicht: false
-termine: 2030-01-16 10:00
+termine: 2030-01-16 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
-published: true
+check-in-frage: 
+published: false
 dauer: 120
 raum: vor-ort-ferchau
 info: 

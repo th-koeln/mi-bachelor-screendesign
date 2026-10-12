@@ -4,7 +4,7 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop-mit-anmeldung
 pflicht: false
-termine: 2024-01-19 10:00
+termine: 2024-01-19 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw
 published: false
 dauer: 270

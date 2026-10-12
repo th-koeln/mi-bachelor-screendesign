@@ -15,12 +15,12 @@ Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeu
 
 Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der Grundlagenworkshops. Bitte wählen Sie aus dem Themenfeld jeweils **Ihre beste Lösung** aus. Folgende Lösungen gehen in das Portfolio ein:
 
-- eine Lösung zu den Übungen aus dem Themenfeld Punkt: {% include portfolio-assignments.html year="WS2526" topic="punkt" %}
-- eine Lösung zu den Übungen aus dem Themenfeld Linie: {% include portfolio-assignments.html year="WS2526" topic="linie" %}
-- eine Lösung zu den Übungen aus dem Themenfeld Fläche: {% include portfolio-assignments.html year="WS2526" topic="fläche" %}
-- eine Lösung zu den Übungen aus dem Themenfeld Farbe: {% include portfolio-assignments.html year="WS2526" topic="farbe" %}
-- eine Lösung zu den Übungen aus dem Themenfeld Gestaltgesetze & Räumlichkeit: {% include portfolio-assignments.html year="WS2526" topic="gestaltgesetze" %}
-- eine Lösung zu den Übungen aus dem Themenfeld Typographie & Textsatz: {% include portfolio-assignments.html year="WS2526" topic="typographie" %}
+- eine Lösung zu den Übungen aus dem Themenfeld Punkt: {% include portfolio-assignments.html year="WS2627" topic="punkt" %}
+- eine Lösung zu den Übungen aus dem Themenfeld Linie: {% include portfolio-assignments.html year="WS2627" topic="linie" %}
+- eine Lösung zu den Übungen aus dem Themenfeld Fläche: {% include portfolio-assignments.html year="WS2627" topic="fläche" %}
+- eine Lösung zu den Übungen aus dem Themenfeld Farbe: {% include portfolio-assignments.html year="WS2627" topic="farbe" %}
+- eine Lösung zu den Übungen aus dem Themenfeld Gestaltgesetze & Räumlichkeit: {% include portfolio-assignments.html year="WS2627" topic="gestaltgesetze" %}
+- eine Lösung zu den Übungen aus dem Themenfeld Typographie & Textsatz: {% include portfolio-assignments.html year="WS2627" topic="typographie" %}
 
 
 

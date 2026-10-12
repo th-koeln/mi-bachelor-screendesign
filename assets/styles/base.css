@@ -158,7 +158,7 @@ dl dt::after {
 
 dl dd {
   display: block;
-  margin-bottom: var(--quarter);
+  margin-bottom: var(--half);
 }
 
 .title {

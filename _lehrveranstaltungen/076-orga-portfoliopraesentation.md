@@ -4,13 +4,16 @@ kuerzel: o-zp
 verantwortlich: cn,vs
 typ: pruefung
 pflicht: true
-termine: 2025-12-05 10:00
+termine: 2026-11-27 11:00
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: true
 dauer: 180
 anzahl: 40 Studierende
 raum: portfolio-pruefung
 info: Dies ist ein Pflichttermin. Die Anwesenheit ist für das Bestehen des Moduls erforderlich.
+material: |
+  - [Methode: Crit](presentations/screendesign-und-visuelle-kommunikation/methode-crit/)
 ---
 
 ## Worum geht es?

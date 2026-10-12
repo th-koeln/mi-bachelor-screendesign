@@ -4,18 +4,26 @@ kuerzel: o-p
 verantwortlich: cn
 typ: pruefung
 pflicht: true
-termine: 2026-02-06 10:00, 2026-02-06 13:30
+termine: 2027-01-29 11:00, 2027-01-29 13:30
 empfohlene-voraussetzungen: 
+check-in-frage: 
 published: true
 dauer: 150
-raum: vor-ort-ferchau
+raum: vor-ort-w
 anzahl: 15 Teams pro Slot
 info: 
+material: |
+  - [Methode: Crit](presentations/screendesign-und-visuelle-kommunikation/methode-crit/)
+  - [Methode: Remix](presentations/screendesign-und-visuelle-kommunikation/methode-remix/)
 ---
 
 ## Anmeldung
 
-Bitte buchen Sie pro Team **einen** Zeitslot [hier](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yk:m2&cmdClass=ilObjBookingPoolGUI&cmd=render&ref_id=546558) im ILU. 
+Bitte buchen Sie pro Team **einen** Zeitslot [hier](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=679436) im ILU. 
+
+## Selbsteinschätzung Teamarbeit
+
+Füllen Sie für Ihr Team folgende [Selbsteinschätzung zur Teamarbeit](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yy:nz&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=777228) aus und laden Sie es im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=777231) hoch.
 
 ## Worum geht es?
 

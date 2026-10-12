@@ -1,10 +1,10 @@
 ---
-titel: Wechselwirkung zwischen Positiv- und Negativraum
+titel: Positiv- und Negativraum im Raster
 tags: 
   - Basics
   - Punkt
-  - WS2526
-published: true
+  - WS2627
+published: false
 ---
 
 Legen Sie eine schwarze Arbeitsfläche (Frame) mit einer Größe von **1020x1020px** an. Legen Sie darauf ein quadratisches Raster mit 34px Länge und Breite an.

@@ -224,7 +224,8 @@
   }
 
   &>p,
-  &>ul>li {
+  &>ul>li,
+  dl {
     max-width: var(--max-width-content);
   }
 
@@ -241,6 +242,11 @@
     color: var(--headline-color);
     text-wrap: balance;
     hyphens: auto;
+  }
+
+  h3 {
+    font-size: var(--base-font-size);
+    color: var(--color-darkest);
   }
 
   h2{
@@ -342,6 +348,13 @@
         margin-top: 0;
       }
 
+      /* Rausgezogene Überschrift und erstes Element rechts daneben
+         teilen sich eine Grundlinie */
+      :is(h1, h2, h3, h4, h5, h6),
+      :is(h1, h2, h3, h4, h5, h6) + * {
+        align-self: baseline;
+      }
+
       h2,
       h3,
       h4 {
@@ -406,7 +419,7 @@
       }
 
       dd {
-        margin-bottom: var(--quarter);
+        margin-bottom: var(--half);
       }
     }
   }

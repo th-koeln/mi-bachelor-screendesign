@@ -4,7 +4,8 @@ kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-12-12 13:00
+termine: 2026-12-04 13:00
+check-in-frage: 
 published: false
 dauer: 180
 raum: vor-ort-v
@@ -28,7 +29,7 @@ Los geht's! 💪🏽
 ## Ablauf
 
 
-|10:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
+|11:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
 |ca. 10:45|Workshop Räume| Themenworkshops|
 |15:00|3.102|Vorstellung der Ergebnisse|
 

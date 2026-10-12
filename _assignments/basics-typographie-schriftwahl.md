@@ -3,7 +3,7 @@ titel: Auswahl von Schriften
 tags: 
     - Basics
     - Typographie
-    - WS2526
+    - WS2627
 published: true
 ---
 
@@ -31,7 +31,7 @@ Platzieren Sie neben jedem Plakat ein kleines **Typo-Fähnchen** mit folgenden I
 * **Name(n) der verwendeten Schrift(en)**
 * **Kurze Begründung (2–3 Sätze):** Warum haben Sie diese Schrift gewählt? 
 
-Laden Sie Ihre Ergebnisse bis zum **20.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
+Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
 
 > 010-Poster-Grow-1-NAME.png<br>020-Poster-Grow-2-NAME.png<br>030-Info-Grow-NAME.png<br>040-Poster-Dynamic-Typo-NAME.png<br>050-Info-Dynamic-Typo-NAME.png<br>060-Poster-Artificial-animals-NAME.png<br>070-Info-Artificial-animals-NAME.png<br>080-Poster--Blood-Flows-1-NAME.png<br>090-Poster-Blood-Flows-2-NAME.png<br>100-Info-Blood-Flows-NAME.png
 
@@ -65,7 +65,7 @@ Fügen Sie ein **Typo-Fähnchen** bei, das folgende Informationen enthält:
 * **Verwendete Schrift(en)**
 * **Kurze Begründung (2–3 Sätze):** Warum passt diese Schrift zu dieser Persönlichkeit, zu diesem Beruf, zu dieser Website?
 
-Laden Sie Ihre Ergebnisse bis zum **20.11.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
+Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
 
 > 110-Sofia-Berger-NAME.png<br>120-Info-Website-NAME.png
 

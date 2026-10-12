@@ -4,34 +4,42 @@ kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2025-10-17 13:00
+termine: 2026-10-09 14:00
 empfohlene-voraussetzungen:
+check-in-frage: 
 published: true
 dauer: 180
-raum: vor-ort-w
+raum: vor-ort-v
 info: Wir fangen einfach an mit einigen Grundlagen und Gestaltungsübungen rund um den Punkt.
 
 material: |
-  - [Semiotik](https://cnoss.github.io/slides/presentations/screendesign/semiotik/)
-  - [Punkt](https://cnoss.github.io/slides/presentations/screendesign/punkt/)
-  - [Eindeutigkeit](https://cnoss.github.io/slides/presentations/screendesign/eindeutigkeit/)
-
+  - [Prinzip: Kommunikation](presentations/screendesign-und-visuelle-kommunikation/prinzip-kommunikation/)
+  - [Prinzip: Semiotik](presentations/screendesign-und-visuelle-kommunikation/prinzip-semiotik/)
+  - [Prinzip: Visuelle Variablen](presentations/screendesign-und-visuelle-kommunikation/prinzip-visuelle-variablen/)
+  - [Prinzip: Kräfte](presentations/screendesign-und-visuelle-kommunikation/prinzip-kraefte/)
+  - [Prinzip: Eindeutigkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-eindeutigkeit/)
   - [Figma tutorial - Layout grids](https://www.youtube.com/watch?v=zd8wrAdURN0&t=106s)
   - [Figma tutorial - Components fundamentals](https://www.youtube.com/watch?v=7dJBDU8HBeQ)
   - [Figma tutorial - Guides](https://www.youtube.com/watch?v=0xafhHNEsp8)
-
 assignments: |
-  - [Wechselwirkung zwischen Positiv- und Negativraum](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+  - [Position und Format](/mi-bachelor-screendesign/assignments/basics-punkt-position-und-format/)
   - [Syntaktisch aussagekräftige Anordnungen mit Punkten](/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
-  - [Punkt und Raum – Der Punkt als Bewegung im Raum](/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
+  - [Punkt und Raum: Der Punkt als Bewegung im Raum](/mi-bachelor-screendesign/assignments/basics-punkt-im-raum/)
 
-uploaddate: 23.10.2025 23:55 Uhr
+uploaddate: 15.10.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317
+
+archiv: |
+  - [Semiotik](presentations/screendesign/semiotik/)
+  - [Positiv- und Negativraum im Raster](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ/)
+  - [Punkt](presentations/screendesign/punkt/)
+  - [Eindeutigkeit](presentations/screendesign/eindeutigkeit/)
+  - [Wechselwirkung zwischen Positiv- und Negativraum](/mi-bachelor-screendesign/assignments/basics-punkt-positiv-negativ-2026/)
 ---
 
 ## Worum geht es?
 
-Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidimensionaler Gestaltung: dem Punkt. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln möglich sind. Dabei entdecken wir die verschiedenen Gestaltungsparameter der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
+Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidimensionaler Gestaltung: dem Punkt. Klingt langweilig? Ist es aber nicht. Wir werden schauen, welche Aussagen und Wirkungen mit extrem minimierten Gestaltungsmitteln möglich sind. Dabei entdecken wir die verschiedenen visuellen Variablen der einzelnen Elemente, lernen verschiedene Formate kennen und ich werde Sie mit dem Einfordern von Varianten in den Wahnsinn treiben. Das wird super!
 
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
@@ -39,7 +47,7 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **23.10.2025 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Veranstaltung bis zum **15.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679317) hoch.
 
 <!-- ## Mitschnitte
 
