@@ -18,7 +18,7 @@ material: |
 
 ## Worum geht es?
 
-Sobald es darum geht mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu platzieren wird es leider kompliziert (siehe Wahrnehmungsarbeit). Heute schauen wir uns einige Konzepte und Ansätze an, wie wir dieser Komplexität begegnen können. 
+Sobald es darum geht mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu platzieren wird es leider kompliziert (siehe Wahrnehmungsarbeit).
 
 Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und die Spielregeln als auch einige Hinweise für die [Portfoliopräsentation](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
 
