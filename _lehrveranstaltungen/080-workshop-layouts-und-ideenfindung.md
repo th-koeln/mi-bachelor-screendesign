@@ -40,7 +40,7 @@ archiv: |
 ---
 
 ## Worum geht es?
-Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben und entwickeln Layouts, die aus mehreren Komponenten bestehen.
+Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben und entwickeln Layouts,
 
 ## Bitte folgende Utensilien mitbringen:
 - Kugelschreiber mit schwarzer Mine
