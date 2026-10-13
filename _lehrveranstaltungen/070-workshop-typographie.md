@@ -20,6 +20,7 @@ assignments: |
 Heute befassen wir uns mit der Auswahl geeigneter Typographie.
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Raum & Anordnungen](/mi-bachelor-screendesign/lehrveranstaltungen/040-workshop-raum-gestaltgesetze/)).
 

@@ -74,6 +74,7 @@ Daher befassen wir uns heute mit:
 - [Figma Annotation Kit for Accessibility](https://www.figma.com/community/file/1311421011482282592)
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Für diese Übungen werden keine neuen Figma-Fertigkeiten benötigt.
 

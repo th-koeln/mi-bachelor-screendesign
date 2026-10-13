@@ -39,6 +39,7 @@ Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir dami
 - Fingerfertigkeit in Figma
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Linie](/mi-bachelor-screendesign/lehrveranstaltungen/025-workshop-linie/)).
 

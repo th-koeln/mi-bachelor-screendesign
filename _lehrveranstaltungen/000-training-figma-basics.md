@@ -39,6 +39,7 @@ Wenn Sie bereits fit im Umgang mit Figma sind, dann bringt Ihnen das Training re
 - [Figma - Setup Education Plan](https://help.figma.com/hc/en-us/articles/360041061214-Verify-your-status-for-a-free-Education-team#Create_your_Education_team)
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Das ist das Handwerkszeug für alle weiteren Workshops. Dort finden Sie dann jeweils nur noch die Fertigkeiten, die neu dazukommen.
 

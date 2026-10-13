@@ -36,6 +36,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - Sehr gute Kenntnisse in Figma
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Ideenfindung, Wireframes & Layouts](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-layouts-und-ideenfindung/)).
 

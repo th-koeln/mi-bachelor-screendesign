@@ -61,6 +61,7 @@ Los geht's! 💪🏽
 - Flight 4: [Struktur und Daten](/mi-bachelor-screendesign/assignments/workshop-projekt-struktur-und-daten), Raum 3.109, Support: Uwe Müsse, Karten: ![icon](/mi-bachelor-screendesign/assets/images/gruppe-blau.png)![icon](/mi-bachelor-screendesign/assets/images/gruppe-gruen.png)
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Für diese Übungen werden keine neuen Figma-Fertigkeiten benötigt.
 

@@ -29,6 +29,7 @@ Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wunderv
 -   Gute Übung in Figma
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Fläche, Flächenaufteilung & Farbe](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-form/)).
 

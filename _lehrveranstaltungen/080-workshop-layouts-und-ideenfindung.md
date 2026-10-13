@@ -67,6 +67,7 @@ zum [Projektbriefing](https://th-koeln.github.io/mi-bachelor-screendesign-projek
 Ergebnisse aus dem [Best Practices und Schwachstellen](https://miro.com/app/board/uXjVGcl6MJ0=/?share_link_id=558297045373)
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Advanced Prototyping](/mi-bachelor-screendesign/lehrveranstaltungen/045-training-advanced-prototyping/)).
 

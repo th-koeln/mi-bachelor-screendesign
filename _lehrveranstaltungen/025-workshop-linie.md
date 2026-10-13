@@ -30,6 +30,7 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere visuelle Variablen, wi
 -   Basiskenntnisse in Figma
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Punkt](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt/)).
 

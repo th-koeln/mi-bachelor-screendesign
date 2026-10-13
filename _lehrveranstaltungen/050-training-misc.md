@@ -28,6 +28,7 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 -   Kenntnisse in Figma
 
 ## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
 Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Typographie](/mi-bachelor-screendesign/lehrveranstaltungen/070-workshop-typographie/)).
 
