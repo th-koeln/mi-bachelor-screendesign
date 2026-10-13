@@ -73,8 +73,8 @@ Daher befassen wir uns heute mit:
 - [Contrast](https://www.figma.com/community/plugin/748533339900865323/contrast)
 - [Figma Annotation Kit for Accessibility](https://www.figma.com/community/file/1311421011482282592)
 
-## Tutorial Video
+## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-<br>
-<iframe style="width:100%; aspect-ratio: 16/9" src="https://www.youtube.com/embed/2wUP4cm38ec?si=9gEmU66s5iSDtgi7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Für diese Übungen werden keine neuen Figma-Fertigkeiten benötigt.
 

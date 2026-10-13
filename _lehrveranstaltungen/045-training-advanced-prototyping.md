@@ -30,15 +30,25 @@ Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, 
 ## Was muss ich mitbringen?
 - sicherer Umgang in Figma
 
-## Figma Dokumentation
+## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-- [Variables](https://help.figma.com/hc/en-us/sections/14506605769879-Variables)
-- [Styles](https://help.figma.com/hc/en-us/articles/360039238753-Styles-in-Figma)
-- [Components](https://help.figma.com/hc/en-us/sections/4403935997847-Components)
-- [Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-constraints-to-define-how-layers-resize)
-- [Properties](https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties)
-- [Autolayout](https://help.figma.com/hc/en-us/sections/13165750874519-Use-auto-layout)
-- [Best practices: components, styles, and shared libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/)
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Verschiedene Übungen zu Fläche und Typographie](/mi-bachelor-screendesign/lehrveranstaltungen/050-training-misc/)).
+
+- **Variables:** In Variables legen Sie Farben, Zahlen und Schriftwerte einmal zentral an und verknüpfen sie mit Ihren Ebenen. Ändern Sie später einen Wert, ändert sich der ganze Podcast Player mit.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/15339657135383-Leitfaden-zu-Variablen-in-Figma) · [Video](https://www.youtube.com/watch?v=1ONxxlJnvdM)
+- **Text Styles:** Ein Text Style fasst Schrift, Größe, Schnitt und Zeilenabstand zusammen. Verknüpfen Sie diese Werte mit Ihren Typographie-Variablen, bleiben alle Texte einheitlich.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360039957034-Create-and-apply-text-styles) · [Video](https://www.youtube.com/watch?v=APNWWhXIg04)
+- **Variants:** Mit Variants packen Sie verschiedene Zustände einer Komponente in ein Component Set, etwa Play und Pause. In der Instanz schalten Sie dann rechts in der Seitenleiste zwischen den Zuständen um.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360056440594-Create-and-use-variants) · [Video](https://www.youtube.com/watch?v=y29Xwt9dET0)
+- **Component Properties:** Mit Properties für Text, Sichtbarkeit und Instance Swap passen Sie Instanzen an, ohne für jede Abwandlung eine neue Komponente zu bauen. Titel oder Icon ändern Sie dann direkt in der Seitenleiste.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/5579474826519-Komponenteneigenschaften-untersuchen) · [Video](https://www.youtube.com/watch?v=iIq8FLt1hUY)
+- **Auto Layout:** Auto Layout (<kbd>Shift</kbd> + <kbd>A</kbd>) ordnet Elemente in einem Frame neben- oder untereinander an, mit festen Abständen und Innenabständen. Kommt ein Eintrag in der Playlist dazu oder fällt einer weg, rutscht der Rest von selbst nach.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040451373-Leitfaden-zum-Auto-Layout) · [Video](https://www.youtube.com/watch?v=Aik8tMRdI90)
+- **Constraints:** Constraints bestimmen, was mit einer Ebene passiert, wenn ihr Frame breiter oder schmaler wird: ob sie am Rand bleibt oder mitwächst. Das brauchen Sie, um aus den Hochformat-Screens die Querformat-Versionen zu machen.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360039957734-Apply-constraints-to-define-how-layers-resize) · [Video](https://www.youtube.com/watch?v=JZyUE5dY1Wk)
+- **Plugins nutzen:** Plugins rüsten Funktionen nach, die Figma selbst nicht hat. Für die Playlist nutzen Sie Google Sheets Sync, das die Einträge aus einer Tabelle in Ihr Design holt.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360042532714-Use-plugins-in-files)
 
 ## Readings
 
