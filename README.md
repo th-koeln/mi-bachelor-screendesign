@@ -3,7 +3,7 @@
 - Verantwortlicher Dozent: Christian Noss // http://www.christiannoss.de
 - https://th-koeln.github.io/mi-bachelor-screendesign
 
-## Figma-Fertigkeiten pflegen
+# Figma-Fertigkeiten pflegen
 
 Jeder Workshop und jedes Training des laufenden Semesters (`_lehrveranstaltungen/`) hat eine Sektion **„Figma-Fertigkeiten“**. Dort stehen die Figma-Fertigkeiten, die für die verknüpften Assignments neu dazukommen, jeweils mit einem Link zur Figma-Hilfe und einem Video vom offiziellen Figma-YouTube-Kanal. Die Sektionen bauen chronologisch aufeinander auf, und keine Fertigkeit wird wiederholt.
 
