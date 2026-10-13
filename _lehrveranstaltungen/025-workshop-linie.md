@@ -17,9 +17,6 @@ assignments: |
 material: |
   - [Eindeutigkeit](presentations/screendesign/eindeutigkeit/)
   - [Linie](presentations/screendesign/linie/)
-  - [Figma tutorial - Masks](https://www.youtube.com/watch?v=tUcBcz8bjVs)
-  - [Figma tutorial- Boolean operations](https://www.youtube.com/watch?v=8ZaX6qEcUCU)
-  - [Figma tutorial - Alignment & Distribution](https://www.youtube.com/watch?v=qQyaPqem0TA)
 
 ---
 
@@ -31,6 +28,17 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere visuelle Variablen, wi
 
 -   eigener Rechner mit Figma
 -   Basiskenntnisse in Figma
+
+## Figma-Fertigkeiten
+
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Punkt](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt/)).
+
+- **Kontureigenschaften (Stroke):** Linien zeichnen Sie mit dem Line-Tool (<kbd>L</kbd>). Strichstärke und Linienenden stellen Sie unter Stroke ein, und über die Strichstärke steuern Sie auch, wie dicht eine Zelle wirkt.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360049283914-Kontureigenschaften-anwenden-und-anpassen)
+- **Drehen und wiederholt duplizieren:** Gedreht wird über das Winkelfeld in der Seitenleiste oder direkt an einer Ecke, mit <kbd>Shift</kbd> in 15°-Schritten. Wenn Sie eine Linie duplizieren und die Kopie verschieben, merkt sich Figma den Versatz, und jedes weitere <kbd>Cmd</kbd>/<kbd>Strg</kbd> + <kbd>D</kbd> setzt die nächste Linie im selben Abstand.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360039956914-Ausrichtung-Drehung-und-Position-anpassen) · [Video](https://www.youtube.com/watch?v=m4_KFckrW2c)
+- **Gleiche Ebenen gemeinsam bearbeiten:** Bei bis zu 120 Linien pro Zelle wollen Sie nicht jede einzeln anklicken. Mit „Select matching layers“ markieren Sie alle gleichartigen Linien auf einmal und ändern zum Beispiel die Strichstärke für alle zusammen.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/21635177948567-Mehrere-Objekte-auf-der-Arbeitsfl%C3%A4che-gleichzeitig-bearbeiten) · [Video](https://www.youtube.com/watch?v=tMZE-7iYAN4)
 
 ## Upload
 

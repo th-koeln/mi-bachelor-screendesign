@@ -35,6 +35,25 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - eigener Rechner mit Figma
 - Sehr gute Kenntnisse in Figma
 
+## Figma-Fertigkeiten
+
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Ideenfindung, Wireframes & Layouts](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-layouts-und-ideenfindung/)).
+
+- **Prototyp-Verbindungen:** Im Prototype-Tab ziehen Sie eine Verbindung von einem Element zu einem anderen Frame. Dabei legen Sie fest, wann etwas passiert (z. B. On click) und was passiert (z. B. Navigate to).
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040315773-Verbinde-deinen-Prototyp) · [Video](https://www.youtube.com/watch?v=bKiK4N3SWEo)
+- **Übergänge (Animations):** Für jede Verbindung wählen Sie eine Animation wie Dissolve, Move in, Push oder Slide in und die Richtung. Probieren Sie ruhig mehrere aus, denn je nach Übergang wirkt die Beziehung zwischen zwei Screens ganz anders.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360040522373-Prototype-animations) · [Video](https://www.youtube.com/watch?v=-d6zNGeF59M)
+- **Smart Animate:** Smart Animate sucht in zwei Frames nach Ebenen mit gleichem Namen und animiert, was sich an ihnen ändert, etwa Position, Größe oder Farbe. Deshalb ist eine saubere Benennung hier besonders wichtig.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360039818874-Mit-Smart-Animation-erweiterte-Animationen-erstellen) · [Video](https://www.youtube.com/watch?v=6Id4INKEwb8)
+- **Easing und Dauer:** Über die Easing-Kurve (Ease out, Spring oder eine eigene Bezier-Kurve) und die Dauer bestimmen Sie, wie sich eine Animation anfühlt. Genau damit experimentieren Sie im Warm-up.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360051748654-Prototype-easing-and-spring-animations) · [Video](https://www.youtube.com/watch?v=cAkOH9uaXHA)
+- **Interaktive Komponenten:** Sie können die Varianten einer Komponente auch direkt miteinander verbinden, zum Beispiel den Favoriten-Button an und aus. Jede Instanz reagiert dann im Prototyp von selbst, ohne dass Sie dafür extra Screens bauen müssen.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360061175334-Interaktive-Komponenten-mit-Varianten-erstellen) · [Video](https://www.youtube.com/watch?v=ReNbXhaL3Xk)
+- **Prototyp auf dem Smartphone ansehen:** Mit der Figma-App für iOS und Android öffnen Sie Ihren Prototyp direkt auf dem Handy und können ihn dort als Screencast aufnehmen. Übergänge und Timings fühlen sich auf dem Gerät oft anders an als am Rechner.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360040321093-View-prototypes-on-a-mobile-device) · [Video](https://www.youtube.com/watch?v=Uz6PkkIXwfE)
+- **Prototyp teilen:** Über „Share“ erzeugen Sie einen Link zu Ihrem Prototyp. Damit wir ihn bei der Abgabe öffnen können, muss dort „Anyone with the link“ eingestellt sein.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040531773-Dateien-und-Prototypen-teilen)
+
 ## Weiterführendes Material
 - [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 - [Understanding motion](https://material.io/design/motion/understanding-motion.html#principles)
@@ -47,8 +66,6 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 - [Protopie: UI Animationstool für Win und Mac](https://www.protopie.io/)
 - [Flinto for Mac: sehr ausgereiftes GUI Design Animation Tool](https://www.flinto.com)
 - [Framer: Programmierbares Animation Tool](https://framer.com/)
-- [Figma: Mit Smart-Animation erweiterte Animationen erstellen](https://help.figma.com/hc/de/articles/360039818874-Mit-Smart-Animation-erweiterte-Animationen-erstellen)
-- [Figma: Einführung in Prototyping](https://help.figma.com/hc/de/articles/360040314193-Einführung-in-Prototyping-in-Figma/)
 
 
 <!--

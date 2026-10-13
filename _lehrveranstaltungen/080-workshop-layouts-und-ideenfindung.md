@@ -66,6 +66,15 @@ zum [Projektbriefing](https://th-koeln.github.io/mi-bachelor-screendesign-projek
 
 Ergebnisse aus dem [Best Practices und Schwachstellen](https://miro.com/app/board/uXjVGcl6MJ0=/?share_link_id=558297045373)
 
+## Figma-Fertigkeiten
+
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Advanced Prototyping](/mi-bachelor-screendesign/lehrveranstaltungen/045-training-advanced-prototyping/)).
+
+- **Verschachtelte Instanzen:** Die Veranstaltungsliste ist aus kleineren Komponenten zusammengesetzt, etwa Colorcode, Uhrzeit und Listeneintrag. Diese verschachtelten Instanzen können Sie innerhalb der großen Komponente anpassen oder austauschen, ohne sie aufzulösen.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/39723486706455-Components-collection-Nesting-instances-fundamentals) · [Video](https://www.youtube.com/watch?v=V7jrPgxekRE)
+- **Responsive Komponenten mit Auto Layout und Constraints:** Mit „Hug contents“ und „Fill container“ und passenden Constraints passen sich Listeneinträge an verschiedene Breiten an. Das brauchen Sie, wenn Sie die optionale responsive Variante angehen.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/18894664907287-Create-a-responsive-card-with-auto-layout-and-constraints) · [Video](https://www.youtube.com/watch?v=1odqpkfkDL8)
+
 ## Uploads
 
 

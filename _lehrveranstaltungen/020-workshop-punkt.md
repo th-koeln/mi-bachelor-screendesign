@@ -18,9 +18,6 @@ material: |
   - [Prinzip: Visuelle Variablen](presentations/screendesign-und-visuelle-kommunikation/prinzip-visuelle-variablen/)
   - [Prinzip: Kräfte](presentations/screendesign-und-visuelle-kommunikation/prinzip-kraefte/)
   - [Prinzip: Eindeutigkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-eindeutigkeit/)
-  - [Figma tutorial - Layout grids](https://www.youtube.com/watch?v=zd8wrAdURN0&t=106s)
-  - [Figma tutorial - Components fundamentals](https://www.youtube.com/watch?v=7dJBDU8HBeQ)
-  - [Figma tutorial - Guides](https://www.youtube.com/watch?v=0xafhHNEsp8)
 assignments: |
   - [Position und Format](/mi-bachelor-screendesign/assignments/basics-punkt-position-und-format/)
   - [Syntaktisch aussagekräftige Anordnungen mit Punkten](/mi-bachelor-screendesign/assignments/basics-anordnungen-mit-punkten/)
@@ -44,6 +41,23 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 ## Was muss ich mitbringen?
 - eigener Rechner mit Figma
 - Basiskenntnisse in Figma
+
+## Figma-Fertigkeiten
+
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Figma Basics](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-figma-basics/)).
+
+- **Duplizieren und Einfügen:** Mit <kbd>Cmd</kbd>/<kbd>Strg</kbd> + <kbd>D</kbd> verdoppeln Sie einen Punkt oder einen ganzen Frame, das brauchen Sie in diesen Übungen ständig. Ebenfalls praktisch: „Paste here“ setzt eine Kopie an eine bestimmte Stelle, „Paste to replace“ tauscht ein Element gegen ein anderes aus.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/4409078832791-Copy-and-paste-objects) · [Video](https://www.youtube.com/watch?v=PKOH6Yq2BtU)
+- **Ausrichten und Verteilen:** Mit den Ausrichten-Buttons oben in der rechten Seitenleiste setzen Sie Punkte genau an den Rand oder in die Mitte des Frames. Sollen mehrere Punkte gleiche Abstände haben, nehmen Sie Distribute oder Tidy up.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360039956914-Ausrichtung-Drehung-und-Position-anpassen) · [Video](https://www.youtube.com/watch?v=qQyaPqem0TA)
+- **Masken:** Eine Maske zeigt nur das, was innerhalb einer bestimmten Form liegt. Damit dürfen Punkte über den Rand des schwarzen Rechtecks hinauslaufen und werden trotzdem sauber abgeschnitten.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040450253-Masken) · [Video](https://www.youtube.com/watch?v=tUcBcz8bjVs)
+- **Components:** Machen Sie aus Ihrem Punkt eine Komponente (<kbd>Cmd</kbd>/<kbd>Strg</kbd> + <kbd>Alt</kbd> + <kbd>K</kbd>) und arbeiten Sie mit Instanzen davon. Wollen Sie später die Größe ändern, reicht eine Änderung an der Hauptkomponente, und alle Punkte in allen Frames ziehen mit.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360038662654-Einf%C3%BChrung-in-Figma-Komponenten) · [Video](https://www.youtube.com/watch?v=7dJBDU8HBeQ)
+- **Layout Grids:** Ein Layout Grid (heißt in Figma inzwischen „Layout-Hilfslinien“) legt ein Raster über den Frame, an dem Elemente einrasten. Bei den 500 × 500-Formaten hilft das, die Positionen der Punkte systematisch durchzuspielen.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040450513-Erstelle-Layout-Hilfslinien) · [Video](https://www.youtube.com/watch?v=zd8wrAdURN0&t=106s)
+- **Lineale und Guides:** Mit <kbd>Shift</kbd> + <kbd>R</kbd> blenden Sie die Lineale ein und ziehen daraus einzelne Hilfslinien. Gut, wenn mehrere Frames eine gemeinsame Kante oder Mitte haben sollen.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360040449713-Add-guides-to-the-canvas-or-frames) · [Video](https://www.youtube.com/watch?v=0xafhHNEsp8)
 
 ## Upload
 
