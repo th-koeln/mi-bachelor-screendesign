@@ -12,8 +12,8 @@ dauer: 180
 raum: vor-ort-w
 info: Heute wird es ein bisschen komplexer :) Wir kümmern uns um Linien.
 assignments: |
-  - [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
-  - [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
+  - [Blöcke mit Linien](/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
+  - [Transformationen mit Linien](/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
 material: |
   - [Eindeutigkeit](presentations/screendesign/eindeutigkeit/)
   - [Linie](presentations/screendesign/linie/)

@@ -12,7 +12,7 @@ dauer: 120
 raum: vor-ort-v
 info: Wie funktioniert Farbwahrnehmung, welche Wirkung können wir mit Farbe erzielen und wie setzen wir Farbe am sinnvollsten ein?
 material: |
-  - [Haltung: Für alle und Verantwortung](presentations/screendesign-und-visuelle-kommunikation/haltung-fuer-alle-und-verantwortung/)
+  - [Farbe: Einstieg und Grundlagen](presentations/screendesign-und-visuelle-kommunikation/rahmen-farbe/)
   - [Phänomen: Farbe ist relativ](presentations/screendesign-und-visuelle-kommunikation/phaenomen-farbe-ist-relativ/)
   - [Phänomen: Wenn Farbe stört](presentations/screendesign-und-visuelle-kommunikation/phaenomen-farbe-stoert/)
   - [Prinzip: Farbkontraste](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbkontraste/)
