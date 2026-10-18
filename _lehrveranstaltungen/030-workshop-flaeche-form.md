@@ -13,6 +13,7 @@ raum: vor-ort-w
 info: Komplexere Konzepte und Übungen zu den Themen Fläche und Form.
 
 assignments: |
+  - [Form und Farbe, Kontraste](/mi-bachelor-screendesign/assignments/basics-form-und-farbe-kontraste/)
   - [Farbstreifen erstellen](/mi-bachelor-screendesign/assignments/basics-farbklima/)
   - [Typographische Flächenkomposition](/mi-bachelor-screendesign/assignments/basics-typo-shapes/)
 
@@ -24,6 +25,8 @@ material: |
   - [Prinzip: Formsemantik](presentations/screendesign-und-visuelle-kommunikation/prinzip-formsemantik/)
   - [Prinzip: Kontrast und Hervorhebung](presentations/screendesign-und-visuelle-kommunikation/prinzip-kontrast-und-hervorhebung/)
   - [Adobe Color](http://color.adobe.com)
+  - [Ease Colors](https://easecolors.com/de/)
+  - [Coolors](https://coolors.co)
   - [Figma tutorial: Boolean operations](https://www.youtube.com/watch?v=kH14-N_c5go)
   - [Figma tutorial: Text tool and fonts](https://www.youtube.com/watch?v=5i-ebNTjad8)
   - [Figma tutorial: Color picker](https://www.youtube.com/watch?v=V7waqacFYZs)

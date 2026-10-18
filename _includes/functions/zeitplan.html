@@ -66,7 +66,7 @@ Ziel:
 
   {%- if datum != current_date -%}
     {%- if forloop.index > 1 -%}</div>{%- endif -%}
-    <div class="event-list-day">
+    <div class="event-list-day" data-date="{{ datum }}">
     <h3>{{ datum_schoen }}</h3>
     {% assign day_container_open = true %}
     {%- assign current_date = datum -%}

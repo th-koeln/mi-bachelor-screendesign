@@ -485,10 +485,34 @@
       grid-template-columns: 1fr 1fr 1fr 1fr;
       gap: var(--space-m);
     }
+
+    &.is-today h3::after {
+      content: "heute";
+      margin-left: 0.5em;
+      font-size: var(--size-s);
+      color: var(--interaction-color);
+    }
   }
 
+  .goto-today {
+    position: fixed;
+    right: var(--fluid-space-xs);
+    bottom: var(--fluid-space-xs);
+    z-index: 10;
+    padding: var(--half) var(--size-m);
+    border: none;
+    border-radius: 2em;
+    background: var(--interaction-color);
+    color: var(--color-lightest);
+    font-weight: var(--fw-bold);
+    cursor: pointer;
+    box-shadow: 0 0.2em 0.8em var(--color-darken);
 
-
+    &:hover,
+    &:focus-visible {
+      background: var(--color-darker);
+    }
+  }
 }
 
 /* Lehrveranstaltungsseite
