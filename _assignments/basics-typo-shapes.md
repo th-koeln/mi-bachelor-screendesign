@@ -23,7 +23,7 @@ Hierbei gilt:
 - Die Buchstaben dürfen nicht gedreht, verzerrt oder in ihrer Form verändert werden.
 - Das Wort muss noch lesbar/ erkennbar sein.
 
-Erzeugen Sie zwei Varianten und exportieren Sie die beiden Varianten als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679319&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
+Erzeugen Sie zwei Varianten und exportieren Sie die beiden Varianten als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878713&ass_id=31720) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
 > ```sd-aufgabe-typographische-flaechenkombinationen-1-NACHNAME.png```
 

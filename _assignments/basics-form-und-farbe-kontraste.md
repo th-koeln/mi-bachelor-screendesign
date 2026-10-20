@@ -23,6 +23,6 @@ Die Reihenfolge der Kompositionen, die Abstände, Schriftwahl und Schriftgröße
 
 ![Schema: 16 Arbeitsflächen, Auswahl von neun Kompositionen, Montage auf der Präsentationsfläche mit Namen](../images/form-und-farbe-kontraste.svg)
 
-Exportieren Sie nur die Präsentationsfläche als PNG (2x) und laden Sie diese eine Datei im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679319&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Exportieren Sie nur die Präsentationsfläche als PNG (2x) und laden Sie diese eine Datei im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878713&ass_id=31720) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 > ```sd-form-und-farbe-kontraste-NACHNAME.png```
