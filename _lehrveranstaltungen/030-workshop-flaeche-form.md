@@ -14,7 +14,6 @@ info: Komplexere Konzepte und Übungen zu den Themen Fläche und Form.
 
 assignments: |
   - [Form und Farbe, Kontraste](/mi-bachelor-screendesign/assignments/basics-form-und-farbe-kontraste/)
-  - [Farbstreifen erstellen](/mi-bachelor-screendesign/assignments/basics-farbklima/)
   - [Typographische Flächenkomposition](/mi-bachelor-screendesign/assignments/basics-typo-shapes/)
 
 material: |
@@ -35,6 +34,7 @@ material: |
 archiv: |
   - [Gestaltungselement Fläche & Form](presentations/screendesign/flaeche-und-form/)
   - [Figur und Grund](presentations/screendesign/figur-und-grund/)
+  - [Farbstreifen erstellen](/mi-bachelor-screendesign/assignments/basics-farbklima/)
 ---
 
 ## Worum geht es?
