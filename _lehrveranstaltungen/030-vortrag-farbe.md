@@ -21,6 +21,7 @@ material: |
   - [Prinzip: Farbe und Lesbarkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbe-und-lesbarkeit/)
   - [Methode: Kontrast prüfen](presentations/screendesign-und-visuelle-kommunikation/methode-kontrast-pruefen/)
   - [Methode: Moodboard und Farbklima](presentations/screendesign-und-visuelle-kommunikation/methode-moodboard-und-farbklima/)
+  - [Tool: CSS Colour Playground](https://colour.korinek.hu)
 
 archiv: |
   - [Folien zu Farbe](presentations/screendesign/farben/)
