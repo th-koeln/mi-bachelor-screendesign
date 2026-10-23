@@ -13,46 +13,32 @@ headerClass: is-small
 {% endfor %}
 
 <section class="section" data-content="timetable">
-  <div class="content" data-starting-date="date-{{site.data.dates["week-1"]["day-1"]["datum"]}}">
+  <div class="content">
     <h2 class="title">Zeitplan</h2>
     {% include /functions/zeitplan.html %}
   </div>
+  <button type="button" class="goto-today" hidden>Gehe zu heute</button>
 </section>
 
 <script>
+(() => {
+  const pad = n => String(n).padStart(2, "0");
+  const now = new Date();
+  const today = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}`;
 
-Date.getWeeksBetween = function (date1, date2) {
-  const ONE_WEEK = 1000 * 60 * 60 * 24 * 7;
-  const date1_ms = date1.getTime();
-  const date2_ms = date2.getTime();
+  // Erster Termin ab heute, sonst der letzte Termin im Plan
+  const days = [...document.querySelectorAll("[data-content='timetable'] [data-date]")];
+  const target = days.find(day => day.dataset.date >= today) || days[days.length - 1];
+  if (!target) return;
 
-  const difference_ms = Math.abs(date1_ms - date2_ms);
+  if (target.dataset.date === today) target.classList.add("is-today");
 
-  return Math.floor(difference_ms / ONE_WEEK);
-}
+  const button = document.querySelector(".goto-today");
+  button.hidden = false;
+  button.addEventListener("click", () => {
+    target.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
 
-Date.prototype.getFirstDayOfWeek = function () {
-  const day = this.getDay();
-  const currDate = this.getDate();
-  const tempDate = new Date(this.toString());
-
-  if (day > 0) {
-    tempDate.setDate(currDate - (day - 1))
-  }
-
-  return tempDate;
-}
-
-const startingDateData = document.querySelector("[data-starting-date]").dataset.startingDate.replace("date-", "");
-const startingDate = new Date(startingDateData);
-const today = new Date();
-
-// counting starts at 1
-let diffWeek = Date.getWeeksBetween(startingDate.getFirstDayOfWeek(), today) + 1;
-let scrollTarget = `#week-${diffWeek}`;
-
-document.querySelector(scrollTarget).scrollIntoView({ 
-  behavior: 'smooth' 
-});
-
+  target.scrollIntoView({ behavior: "smooth", block: "start" });
+})();
 </script>

@@ -12,8 +12,8 @@ dauer: 180
 raum: vor-ort-w
 info: Heute wird es ein bisschen komplexer :) Wir kümmern uns um Linien.
 assignments: |
-  - [Blöcke mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
-  - [Transformationen mit Linien](https://th-koeln.github.io/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
+  - [Blöcke mit Linien](/mi-bachelor-screendesign/assignments/basics-linie-ausrichtung/)
+  - [Transformationen mit Linien](/mi-bachelor-screendesign/assignments/basics-linie-transformation/)
 material: |
   - [Eindeutigkeit](presentations/screendesign/eindeutigkeit/)
   - [Linie](presentations/screendesign/linie/)
@@ -43,7 +43,7 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **22.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679318&mode=ongoing&from_overview=1) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **22.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878712) hoch.
 
 <!-- ## Mitschnitte
 

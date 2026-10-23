@@ -6,7 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-09 11:00
 empfohlene-voraussetzungen: 
-check-in-frage: "Wie sah Ihr Morgen aus?"
+check-in-frage: "Was gab es heute Morgen zum Frühstück, oder gab es gar keins?"
 published: true
 dauer: 120
 raum: vor-ort-v

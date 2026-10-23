@@ -5,7 +5,7 @@ tags:
   - Farbe
   - Fläche
   - WS2627
-published: true
+published: false
 headerClass: is-small
 ---
 
@@ -26,7 +26,7 @@ Erstellen Sie nun zwei schwarze Montageflächen von **1440x1440px**. Erzeugen Si
 
 Im Workshop erarbeiten wir dazu noch einige Details. Addieren Sie Ihren Namen und das Ausgangsbild zur Gesamtkomposition.
 
-Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679319&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
+Exportieren Sie die einzelnen Motive als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878713) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
 > ```sd-aufgabe-farbklima-NACHNAME-kalt.png```
 

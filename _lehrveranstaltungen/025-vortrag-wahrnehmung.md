@@ -6,7 +6,7 @@ typ: vortrag
 pflicht: false
 termine: 2026-10-16 11:00
 empfohlene-voraussetzungen: 
-check-in-frage: 
+check-in-frage: Begriffspaare
 published: true
 dauer: 120
 raum: vor-ort-v

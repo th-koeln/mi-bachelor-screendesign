@@ -1,0 +1,22 @@
+---
+titel: Blöcke mit Linien
+tags: 
+  - Basics
+  - Linie
+  - WS2526
+published: false
+---
+
+Legen Sie eine dunkelgraue Arbeitsfläche(Frame) mit einer Größe von **1200x1200px** an. Legen Sie darauf ein Grid mit fünf Spalten und fünf Zeilen an. Der Randabstand und der Abstand nach oben beträgt 50px, der Spaltenabstand beträgt 20px. 
+
+Erzeugen Sie nun ein paralleles Linienraster aus weißen Linien mit gleichmäßigem Abstand für jedes Quadrat der Rasterfläche (zwischen 10 und 120 Linien). Wiederholen Sie das für alle 25 Quadrate. Erzeugen Sie nun eine interessante Gesamtkomposition, indem Sie die Liniengruppe in den jeweiligen Quadraten variieren. Variiert werden darf:
+- die Lage der Linien
+- die Stärke der Linien
+- die Anzahl der Linien
+
+Die quadratische Struktur muss erkennbar bleiben. Ein paar Tricks zeigen wir Ihnen gleich. Wiederholen Sie den Vorgang für eine zweite Arbeitsfläche, sodass zwei Komposisitonen entstehen. Fügen Sie Ihren Namen jeweils mit ein.
+
+Exportieren Sie die beiden Kompositionen als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679318&mode=ongoing&from_overview=1) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+
+```sd-linienbloecke-NACHNAME-NUMMER.png```
+
