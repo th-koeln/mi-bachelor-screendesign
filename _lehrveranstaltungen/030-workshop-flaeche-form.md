@@ -45,6 +45,20 @@ Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir dami
 - eigener Rechner mit Figma
 - Fingerfertigkeit in Figma
 
+## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
+
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Linie](/mi-bachelor-screendesign/lehrveranstaltungen/025-workshop-linie/)).
+
+- **Color Picker:** Im Color Picker tippen Sie Farben als Hex-Wert ein oder schalten auf HSB bzw. RGB um. So übernehmen Sie die Werte aus Adobe Color genau in Ihre Farbstreifen.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360041003774-Update-fills-using-the-color-picker) · [Video](https://www.youtube.com/watch?v=V7waqacFYZs)
+- **Pipette (Eyedropper):** Mit der Pipette (<kbd>I</kbd>) nehmen Sie eine Farbe direkt aus einem Foto oder einer anderen Fläche auf. Damit können Sie die Farben Ihrer Fotos in Figma noch einmal überprüfen.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/27643269375767-Sample-colors-with-the-eyedropper-tool) · [Video](https://www.youtube.com/watch?v=3q99bZC3Be4)
+- **Text in Vektorpfade umwandeln:** Klicken Sie mit der rechten Maustaste auf den Text und wählen Sie „Flatten“ oder „Outline stroke“. Danach sind die Buchstaben keine Schrift mehr, sondern Formen, die Sie wie jede andere Fläche bearbeiten können.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360047239073-Convert-text-to-vector-paths)
+- **Boolean Operations:** Mit Union, Subtract, Intersect und Exclude verrechnen Sie Buchstaben und Rechtecke zu neuen Flächen. Solange Sie das Ergebnis nicht flatten, lassen sich die Einzelteile weiter verschieben.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360039957534-Boolean-operations) · [Video](https://www.youtube.com/watch?v=kH14-N_c5go)
+
 
 ## Fotosammlung
 Hier können Sie Ihre [Fotos hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5VCCB). Und hier [alle Fotos sehen](https://th-koeln.sciebo.de/s/0ylgGBsLsf9qr5R).

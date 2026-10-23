@@ -60,6 +60,11 @@ Los geht's! 💪🏽
 - Flight 3: [Best Practices und Schwachstellen](/mi-bachelor-screendesign/assignments/workshop-projekt-best-practices), Raum 3.110, Support: Christian Noss, Karten: ![icon](/mi-bachelor-screendesign/assets/images/gruppe-idee.png)![icon](/mi-bachelor-screendesign/assets/images/gruppe-fragezeichen.png)
 - Flight 4: [Struktur und Daten](/mi-bachelor-screendesign/assignments/workshop-projekt-struktur-und-daten), Raum 3.109, Support: Uwe Müsse, Karten: ![icon](/mi-bachelor-screendesign/assets/images/gruppe-blau.png)![icon](/mi-bachelor-screendesign/assets/images/gruppe-gruen.png)
 
+## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
+
+Für diese Übungen werden keine neuen Figma-Fertigkeiten benötigt.
+
 <!--
 
 - Flight 1: [Teamrollen & Teamcharta](/mi-bachelor-screendesign/assignments/workshop-teamrollen-finden/) // Raum 3.218, Support: Volker

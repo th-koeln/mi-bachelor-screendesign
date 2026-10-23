@@ -16,9 +16,6 @@ assignments: |
   - [Typographie und Schriftsatz: Grundgesetz](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/)
 uploaddate: 19.11.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
-material: |
-  - [Figma Tutorial: Text Tool and Fonts](https://www.youtube.com/watch?v=5i-ebNTjad8)
-  - [Figma: Text and typography](https://help.figma.com/hc/en-us/sections/360006606853-Text-and-typography)
 ---
 
 ## Worum geht es?
@@ -29,6 +26,16 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 
 -   eigener Rechner mit Figma
 -   Kenntnisse in Figma
+
+## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
+
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Typographie](/mi-bachelor-screendesign/lehrveranstaltungen/070-workshop-typographie/)).
+
+- **Bilder zuschneiden:** Im Crop-Modus legen Sie fest, welcher Teil eines Bildes im Rasterfeld zu sehen ist. Das Original bleibt dabei erhalten, Sie können den Ausschnitt also jederzeit wieder ändern.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360040675194-Crop-an-image) · [Video](https://www.youtube.com/watch?v=br3ubSFbarg)
+- **Sections:** Bei so vielen Boards wird die Arbeitsfläche schnell voll. Mit Sections (<kbd>Shift</kbd> + <kbd>S</kbd>) fassen Sie zusammen, was zusammengehört, zum Beispiel alle Boards einer Übung.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/9771500257687-Nutze-Abschnitte-um-deine-Arbeitsfl%C3%A4che-zu-organisieren)
 
 ## Upload
 
