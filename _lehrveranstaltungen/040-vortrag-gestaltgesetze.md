@@ -8,7 +8,7 @@ termine: 2026-10-30 11:00
 empfohlene-voraussetzungen: 
 check-in-frage: 
 published: true
-dauer: 90
+dauer: 120
 raum: vor-ort-v
 info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wie können wir diese im Designprozess einsetzen?
 material: |

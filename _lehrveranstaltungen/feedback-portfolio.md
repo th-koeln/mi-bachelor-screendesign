@@ -4,7 +4,7 @@ kuerzel: f-fsl
 verantwortlich: alle
 typ: feedback
 pflicht: false
-termine: 2026-11-13 15:00
+termine: 2026-11-13 16:00
 empfohlene-voraussetzungen: 
 check-in-frage: 
 published: true

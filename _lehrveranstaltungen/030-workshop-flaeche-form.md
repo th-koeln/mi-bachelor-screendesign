@@ -59,10 +59,6 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
 - **Boolean Operations:** Mit Union, Subtract, Intersect und Exclude verrechnen Sie Buchstaben und Rechtecke zu neuen Flächen. Solange Sie das Ergebnis nicht flatten, lassen sich die Einzelteile weiter verschieben.
   [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360039957534-Boolean-operations) · [Video](https://www.youtube.com/watch?v=kH14-N_c5go)
 
-
-## Fotosammlung
-Hier können Sie Ihre [Fotos hochladen](https://th-koeln.sciebo.de/s/bVNKhk77ek5VCCB). Und hier [alle Fotos sehen](https://th-koeln.sciebo.de/s/0ylgGBsLsf9qr5R).
-
 ## Upload
 
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **29.10.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878713) hoch.

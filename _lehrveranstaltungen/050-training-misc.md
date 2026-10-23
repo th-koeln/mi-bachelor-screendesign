@@ -4,7 +4,7 @@ kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-11-13 13:00
+termine: 2026-11-13 14:00
 empfohlene-voraussetzungen:
 check-in-frage: 
 published: true

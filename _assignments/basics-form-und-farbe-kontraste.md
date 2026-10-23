@@ -11,7 +11,11 @@ published: true
 
 Legen Sie 16 quadratische **Arbeitsflächen** (Frames) mit einer Größe von jeweils **500x500px** an. Verwenden Sie einfache geometrische Formen wie Kreis, Quadrat, Dreieck oder Linie und arbeiten Sie pro Komposition mit **genau zwei Farben**.
 
-Erstellen Sie unterschiedliche Kompositionen, in denen Sie mit verschiedenen Farbkontrasten experimentieren. Als Ausgangspunkt dienen drei Kontraste: der **Farbe-an-sich-Kontrast** (zwei reine, kräftige Farben), der **Komplementärkontrast** (zwei Farben, die sich im Farbkreis gegenüberliegen) und der **Qualitätskontrast** (eine leuchtende gegen eine getrübte Farbe). Probieren Sie aus, wie sich die Wirkung mit Form, Größe und Flächenverhältnis verändert. Sie dürfen die Kontraste auch mischen oder bewusst gegen die Regel arbeiten.
+In jeder Arbeitsfläche füllen Sie den Grund vollständig mit der einen Farbe und setzen Ihre Formen in der zweiten Farbe darauf. So entsteht pro Arbeitsfläche eine kleine Komposition, in der Farbkontrast und Formkontrast zusammenwirken: Eine große, angeschnittene Form wirkt anders als drei kleine, ein schmaler Streifen anders als eine Fläche, die fast das ganze Feld einnimmt.
+
+Erstellen Sie auf diese Weise unterschiedliche Kompositionen, in denen Sie mit verschiedenen Farbkontrasten experimentieren. Als Ausgangspunkt dienen drei Kontraste: der **Farbe-an-sich-Kontrast** (zwei reine, kräftige Farben), der **Komplementärkontrast** (zwei Farben, die sich im Farbkreis gegenüberliegen) und der **Qualitätskontrast** (eine leuchtende gegen eine getrübte Farbe). Probieren Sie aus, wie sich die Wirkung mit Form, Größe und Flächenverhältnis verändert, und tauschen Sie ruhig auch einmal Grund- und Formfarbe. Sie dürfen die Kontraste auch mischen oder bewusst gegen die Regel arbeiten.
+
+![Drei Beispielkompositionen: Farbe-an-sich-Kontrast mit Gelb und Blau, Komplementärkontrast mit Blau und Orange, Qualitätskontrast mit Magenta und getrübtem Rosa](../images/farbkontraste-beispiel.webp)
 
 Die Formen dürfen sich überschneiden, sie dürfen skaliert, rotiert, geklont und angeschnitten werden. Verzichten Sie auf Verläufe, Transparenzen und illustrative Darstellungen.
 

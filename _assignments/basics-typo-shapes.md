@@ -23,8 +23,14 @@ Hierbei gilt:
 - Die Buchstaben dürfen nicht gedreht, verzerrt oder in ihrer Form verändert werden.
 - Das Wort muss noch lesbar/ erkennbar sein.
 
-Erzeugen Sie zwei Varianten und exportieren Sie die beiden Varianten als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878713) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
+Erzeugen Sie insgesamt vier Varianten. Die **Varianten 1 und 2** sind zwei unterschiedliche Kompositionen in reinem Schwarz auf Weiß. Duplizieren Sie anschließend beide Frames und **kolorieren** Sie die Kopien: Die **Varianten 3 und 4** übernehmen Form und Anordnung von Variante 1 bzw. 2 unverändert, nur die Farbgebung von Flächen, Formen und Hintergrund ist neu. Achten Sie darauf, dass die Farbe die Komposition unterstützt und das Wort weiterhin lesbar bleibt.
+
+Exportieren Sie alle vier Varianten als PNG (2x) und laden Sie diese im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878713) hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur: 
 
 > ```sd-aufgabe-typographische-flaechenkombinationen-1-NACHNAME.png```
 
 > ```sd-aufgabe-typographische-flaechenkombinationen-2-NACHNAME.png```
+
+> ```sd-aufgabe-typographische-flaechenkombinationen-3-NACHNAME.png```
+
+> ```sd-aufgabe-typographische-flaechenkombinationen-4-NACHNAME.png```
