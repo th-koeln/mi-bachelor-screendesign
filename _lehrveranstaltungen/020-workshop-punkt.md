@@ -45,7 +45,7 @@ Heute befassen wir uns mit dem absolut grundlegendsten Element jeglicher zweidim
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Figma Basics](/mi-bachelor-screendesign/lehrveranstaltungen/000-training-figma-basics/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Duplizieren und Einfügen:** Mit <kbd>Cmd</kbd>/<kbd>Strg</kbd> + <kbd>D</kbd> verdoppeln Sie einen Punkt oder einen ganzen Frame, das brauchen Sie in diesen Übungen ständig. Ebenfalls praktisch: „Paste here“ setzt eine Kopie an eine bestimmte Stelle, „Paste to replace“ tauscht ein Element gegen ein anderes aus.
   [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/4409078832791-Copy-and-paste-objects) · [Video](https://www.youtube.com/watch?v=PKOH6Yq2BtU)

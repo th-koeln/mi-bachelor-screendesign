@@ -48,7 +48,7 @@ Die nächsten Gestaltungselement stehen an: Fläche und Form. Wie gehen wir dami
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Linie](/mi-bachelor-screendesign/lehrveranstaltungen/025-workshop-linie/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Color Picker:** Im Color Picker tippen Sie Farben als Hex-Wert ein oder schalten auf HSB bzw. RGB um. So übernehmen Sie die Werte aus Adobe Color genau in Ihre Farbstreifen.
   [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360041003774-Update-fills-using-the-color-picker) · [Video](https://www.youtube.com/watch?v=V7waqacFYZs)

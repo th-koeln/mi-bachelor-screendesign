@@ -38,7 +38,7 @@ In diesem Workshop widmen wir uns der Gestaltung von Userinteraktion mit dem Sch
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Ideenfindung, Wireframes & Layouts](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-layouts-und-ideenfindung/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Prototyp-Verbindungen:** Im Prototype-Tab ziehen Sie eine Verbindung von einem Element zu einem anderen Frame. Dabei legen Sie fest, wann etwas passiert (z. B. On click) und was passiert (z. B. Navigate to).
   [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040315773-Verbinde-deinen-Prototyp) · [Video](https://www.youtube.com/watch?v=bKiK4N3SWEo)

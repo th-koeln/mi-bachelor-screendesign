@@ -30,7 +30,7 @@ Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Typographie](/mi-bachelor-screendesign/lehrveranstaltungen/070-workshop-typographie/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Bilder zuschneiden:** Im Crop-Modus legen Sie fest, welcher Teil eines Bildes im Rasterfeld zu sehen ist. Das Original bleibt dabei erhalten, Sie können den Ausschnitt also jederzeit wieder ändern.
   [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360040675194-Crop-an-image) · [Video](https://www.youtube.com/watch?v=br3ubSFbarg)
