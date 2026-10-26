@@ -26,10 +26,6 @@ material: |
   - [Adobe Color](http://color.adobe.com)
   - [Ease Colors](https://easecolors.com/de/)
   - [Coolors](https://coolors.co)
-  - [Figma tutorial: Boolean operations](https://www.youtube.com/watch?v=kH14-N_c5go)
-  - [Figma tutorial: Text tool and fonts](https://www.youtube.com/watch?v=5i-ebNTjad8)
-  - [Figma tutorial: Color picker](https://www.youtube.com/watch?v=V7waqacFYZs)
-  - [Figma: Convert text to vector paths](https://help.figma.com/hc/en-us/articles/360047239073-Convert-text-to-vector-paths)
 
 archiv: |
   - [Gestaltungselement Fläche & Form](presentations/screendesign/flaeche-und-form/)
