@@ -50,7 +50,7 @@ Los geht's! 💪🏽
 |11:00|3.102|Vorstellung des Projekts, Einführung und Auftrag, Teamarbeit|
 |ca. 11:00|Workshop Räume| Themenworkshops|
 |14:30|3.102|Vorstellung der Ergebnisse|
-|15:30|3.102|[Teambörse](https://miro.com/app/board/uXjVGcMGb9M=/?share_link_id=26511478326)|
+|15:30|3.102|[Teambörse](https://miro.com/app/board/uXjVGcMGb9M=/?share_link_id=26511478326) für alle, die noch kein Team haben|
 
 
 ## Themen & Bereiche

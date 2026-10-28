@@ -4,7 +4,7 @@ kuerzel: o-ft
 verantwortlich: cn
 typ: free
 pflicht: false
-termine: 2026-11-20 11:00, 2026-12-25 11:00, 2027-01-01 11:00, 2027-01-08 11:00
+termine: 2026-12-25 11:00, 2027-01-01 11:00
 empfohlene-voraussetzungen: 
 check-in-frage: 
 published: true

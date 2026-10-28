@@ -1,5 +1,5 @@
 ---
-titel: Verschiedene Übungen zu Fläche und Typographie
+titel: "Layout & Varianten: Workshop"
 kuerzel: w-tut
 verantwortlich: cn
 typ: workshop
@@ -8,19 +8,19 @@ termine: 2026-11-13 14:00
 empfohlene-voraussetzungen:
 check-in-frage: 
 published: true
-dauer: 120
+dauer: 180
 raum: vor-ort-w
-info: Übungen rund um die Themen Fläche, Farbe und Proportionen
+info: Layouts entwickeln, Varianten bilden, begründet auswählen
 assignments: |
+  - [Layoutvarianten entwickeln](/mi-bachelor-screendesign/assignments/workshop-variantenbildung-cards-2023/)
   - [Bildmontage mit farbigen Bildern](/mi-bachelor-screendesign/assignments/basics-farbige-bilder/)
-  - [Typographie und Schriftsatz: Grundgesetz](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/)
 uploaddate: 19.11.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
 ---
 
 ## Worum geht es?
 
-Heute gibt es weitere Übungen, die im Rahmen des Gestaltungsportfolios relevant sind. Diese werden heute vorgestellt und Sie können sich Feedback zu Lösungen und Teillösungen abholen. Außerdem gibt es die Möglichkeit noch mal ein paar Figma Tipps und Tricks zu erfahren.
+Heute arbeiten Sie an den Layouts und Varianten vom Vormittag weiter. Zwischendurch schauen wir uns Zwischenstände an, und Sie können sich Feedback zu Lösungen und Teillösungen abholen. Außerdem gibt es die Möglichkeit, noch mal ein paar Figma-Tipps und -Tricks zu erfahren.
 
 ## Was muss ich mitbringen?
 

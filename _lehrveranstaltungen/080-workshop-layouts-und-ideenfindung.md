@@ -25,6 +25,8 @@ material: |
   - [Prinzip: Chunking](presentations/screendesign-und-visuelle-kommunikation/prinzip-chunking/)
   - [Phänomen: Gedächtnis](presentations/screendesign-und-visuelle-kommunikation/phaenomen-gedaechtnis/)
   - [Methode: Layoutanalyse](presentations/screendesign-und-visuelle-kommunikation/methode-layoutanalyse/)
+  - [Prinzip: Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-hierarchie/)
+  - [Methode: Unschärfe- und Graustufentest](presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/)
   - [Methode: Gestaltungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-gestaltungsraster/)
   - [Methode: Spacing-System](presentations/screendesign-und-visuelle-kommunikation/methode-spacing-system/)
   - [Prinzip: Rhythmus und Gleichgewicht](presentations/screendesign-und-visuelle-kommunikation/prinzip-rhythmus-und-gleichgewicht/)
@@ -41,6 +43,10 @@ archiv: |
 
 ## Worum geht es?
 Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben und entwickeln Layouts, die aus mehreren Komponenten bestehen.
+
+## Über die Feiertage
+
+Am Ende des Tages bekommen Sie den Leitfaden »Vom Wireframe zum Screen« mit. Damit entwickeln Sie über die Feiertage die visuelle Sprache für Ihr Projekt. Ihr Zwischenstand ist die Grundlage für den [Online-Termin am 08.01.](/mi-bachelor-screendesign/lehrveranstaltungen/100-online-vom-wireframe-zum-screen/). Details zur Abgabe folgen.
 
 ## Bitte folgende Utensilien mitbringen:
 - Kugelschreiber mit schwarzer Mine

@@ -1,27 +1,21 @@
 ---
-titel: Gestaltgesetze & Räumlichkeit
+titel: Gestaltgesetze
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
 pflicht: false
-termine: 2026-10-30 11:00
+termine: 2026-10-30 15:00
 empfohlene-voraussetzungen: 
 check-in-frage: 
-published: true
-dauer: 120
+published: false
+dauer: 60
 raum: vor-ort-v
-info: Welche Gesetzmäßigkeiten gelten bei der Wahrnehmung von Gestalten und wie können wir diese im Designprozess einsetzen?
+info: "Die Gestaltgesetze in Kurzform: Wie bringen wir Ordnung in eine Gestaltungsfläche?"
 material: |
-  - [Haltung: Alternativen](presentations/screendesign-und-visuelle-kommunikation/haltung-alternativen/)
-  - [Phänomen: Scheinbewegung und Zeit](presentations/screendesign-und-visuelle-kommunikation/phaenomen-scheinbewegung-und-zeit/)
-  - [Phänomen: Pop-out](presentations/screendesign-und-visuelle-kommunikation/phaenomen-pop-out/)
-  - [Phänomen: Tiefenstaffelung](presentations/screendesign-und-visuelle-kommunikation/phaenomen-tiefenstaffelung/)
   - [Prinzip: Gestaltpsychologie](presentations/screendesign-und-visuelle-kommunikation/prinzip-gestaltpsychologie/)
   - [Prinzip: Nähe und Abstand](presentations/screendesign-und-visuelle-kommunikation/prinzip-naehe-und-abstand/)
   - [Prinzip: Ähnlichkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-aehnlichkeit/)
   - [Prinzip: Geschlossenheit und Region](presentations/screendesign-und-visuelle-kommunikation/prinzip-geschlossenheit-und-region/)
-  - [Prinzip: Fortsetzung und Schicksal](presentations/screendesign-und-visuelle-kommunikation/prinzip-fortsetzung-und-schicksal/)
-  - [Prinzip: Räumlichkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-raeumlichkeit/)
   - [Prinzip: Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-hierarchie/)
   - [Methode: Unschärfe- und Graustufentest](presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/)
 
@@ -33,7 +27,7 @@ archiv: |
 
 ## Worum geht es?
 
-Sobald es darum geht mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu platzieren wird es leider kompliziert (siehe Wahrnehmungsarbeit). Heute schauen wir uns einige Konzepte und Ansätze an, wie wir dieser Komplexität begegnen können. 
+Heute geht es in Kurzform um die Gestaltgesetze. Sobald es darum geht, mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu platzieren, wird es kompliziert (siehe Wahrnehmungsarbeit). Die Gestaltgesetze helfen, dieser Komplexität zu begegnen. Was heute keinen Platz findet, greifen wir bei [Layout & Varianten](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-layouts/) wieder auf.
 
 Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und die Spielregeln als auch einige Hinweise für die [Portfoliopräsentation](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
 

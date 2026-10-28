@@ -20,6 +20,12 @@ material: |
 
 Heute werden zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschieht parallel in drei Slots. Präsentiert werden zwei Arbeiten, die im Rahmen der Übungen gemacht wurden. Die Vorstellung erfolgt über unseren Rechner. 
 
+## Teambörse
+
+Im Projekt arbeiten Sie zu zweit. Nutzen Sie die Präsentationen, um sich umzuschauen: Mit wem würden Sie gern zusammenarbeiten? Finden Sie Ihre Teampartnerin oder Ihren Teampartner über die Arbeiten. Die Teambörse ist freiwillig, wer schon ein Team hat, braucht sie nicht.
+
+Bis zum [Projektkickoff](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-projekt/) am 04.12. haben Sie Zeit, ein Team zu finden. Wer dann noch keins hat, findet beim Kickoff eins.
+
 ## Vorbereitung & Anmeldung
 
 Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. 

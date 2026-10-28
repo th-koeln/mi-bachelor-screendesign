@@ -1,28 +1,44 @@
 ---
-titel: Raum & Anordnungen
+titel: Gestaltgesetze & Räumlichkeit
 kuerzel: w-lmw
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-10-30 14:00
+termine: 2026-10-30 14:30
 empfohlene-voraussetzungen:
 check-in-frage: 
 published: true
-dauer: 180
-raum: vor-ort-w
-info: Reduktion und Ordnung durch Hierarchisierung (Räumlichkeit) und Gestaltgesetze
+dauer: 120
+raum: vor-ort-v
+info: Wie bringen wir Ordnung in eine Gestaltungsfläche? Gestaltgesetze, Ausrichtung und Hierarchie, dazu die Übungen für zu Hause.
 
 assignments: |
   - [Permutation mit Flächenausschnitten](/mi-bachelor-screendesign/assignments/basics-permuation-und-farbe/)
   - [Gruppierung im Raster](/mi-bachelor-screendesign/assignments/gruppierung-im-raster/)
 material: |
+  - [Prinzip: Gestaltpsychologie](presentations/screendesign-und-visuelle-kommunikation/prinzip-gestaltpsychologie/)
+  - [Prinzip: Nähe und Abstand](presentations/screendesign-und-visuelle-kommunikation/prinzip-naehe-und-abstand/)
+  - [Prinzip: Ähnlichkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-aehnlichkeit/)
+  - [Prinzip: Geschlossenheit und Region](presentations/screendesign-und-visuelle-kommunikation/prinzip-geschlossenheit-und-region/)
   - [Prinzip: Ausrichtung und Raster](presentations/screendesign-und-visuelle-kommunikation/prinzip-ausrichtung-und-raster/)
+  - [Prinzip: Räumlichkeit](presentations/screendesign-und-visuelle-kommunikation/prinzip-raeumlichkeit/)
+  - [Phänomen: Pop-out](presentations/screendesign-und-visuelle-kommunikation/phaenomen-pop-out/)
+  - [Prinzip: Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-hierarchie/)
+  - [Methode: Unschärfe- und Graustufentest](presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/)
   - [Methode: Permutation](presentations/screendesign-und-visuelle-kommunikation/methode-permutation/)
+
+archiv: |
+  - [Folien zu Räumlichkeit](presentations/screendesign/raeumlichkeit/)
+  - [Folien zu Gestaltgesetzen](presentations/screendesign/gestaltgesetze/)
 ---
 
 ## Worum geht es?
 
-Heute machen wir ein paar Übungen zur Nutzung von Räumlichkeit und den wundervollen Gestaltgesetzen. Damit bekommen wir mehr Ordnung und Struktur in unsere Gestaltungskonzepte.
+Sobald es darum geht, mehrere Elemente sinnvoll auf einer Gestaltungsfläche zu platzieren, wird es kompliziert (siehe Wahrnehmungsarbeit). Heute schauen wir uns an, wie wir dieser Komplexität begegnen: Was gehört zusammen (Nähe, Ähnlichkeit, Geschlossenheit und Region)? Wie hängt alles zusammen (Ausrichtung und Raster)? Was ist wichtig (Räumlichkeit und Hierarchie), und wie prüfen wir das (Unschärfetest)?
+
+Am Ende stellen wir die Übungen vor. Bearbeiten können Sie sie zu Hause. Was heute keinen Platz findet, greifen wir bei [Layout & Varianten](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-layouts/) wieder auf.
+
+Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und die Spielregeln als auch einige Hinweise für die [Portfoliopräsentation](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
 
 ## Was muss ich mitbringen?
 -   eigener Rechner mit Figma
@@ -42,12 +58,17 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
 
 ## Weiterführendes Material
 
+- [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
+- [Laws Of UX](https://lawsofux.com)
 - [Figma Shortcuts für die deutsche Tastatur](<https://www.figma.com/proto/q2OVHiUu6hdDiOZLzDmUL9/Shortcuts-(International)?scaling=contain&node-id=9%3A146>)
 
 
 ## Upload
 
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **05.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679320&ass_id=27181&mode=ongoing&from_overview=1) hoch.
+
+## Anmeldung zur Probelehrveranstaltung 
+Hier finden Sie den Link zur [Anmeldung der Probelehrveranstaltung](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yw:of&cmdClass=ilObjGroupGUI&ref_id=599241&redirectSource=ilGroupRegistrationGUI), die im Rahmen des Berufungsverfahrens für die Professur „Geschlechtersensible Informatik und Ingenieurwissenschaften“ stattfindet.
 
 <!--
 ## Sie haben keinen Rechner?

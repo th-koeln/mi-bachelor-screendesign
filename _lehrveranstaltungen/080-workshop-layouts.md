@@ -1,30 +1,33 @@
 ---
-titel: Layouts (weiter-)entwickeln und variieren
+titel: Layout & Varianten
 kuerzel: w-lfve
 verantwortlich: cn
 typ: workshop
 pflicht: false
-termine: 2026-12-18 11:00
-empfohlene-voraussetzungen: t-sb,t-fb,w-lmw, t-ld
+termine: 2026-11-13 11:00
+empfohlene-voraussetzungen:
 check-in-frage: 
-published: false
-dauer: 300
+published: true
+dauer: 120
 raum: vor-ort-v
-info: 
+info: Heute kommt alles zusammen. Sie bauen Layouts mit Text, Bild und Fläche und entwickeln dazu systematisch Varianten.
 material: |
+  - [Haltung: Alternativen](presentations/screendesign-und-visuelle-kommunikation/haltung-alternativen/)
+  - [Methode: Variieren entlang einer Achse](presentations/screendesign-und-visuelle-kommunikation/methode-variieren-achse/)
+  - [Methode: Morphologischer Kasten](presentations/screendesign-und-visuelle-kommunikation/methode-morphologischer-kasten/)
+
+archiv: |
   - [Textsatz](presentations/screendesign/textsatz/#/1/33)
-  - [Folien zu Proportionen](presentations/screendesign/proportionen-und-abstaende/) 
+  - [Folien zu Proportionen](presentations/screendesign/proportionen-und-abstaende/)
   - [Folien zum Thema Layout](presentations/screendesign/layout/#/1/20)
-   
-assignments: |
-  - [Layoutkonzept für Zitate entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/)
-  - [Layoutkonzept für das cda entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-cda-entwickeln/)
-
-
 ---
 
 ## Worum geht es?
-Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben und entwickeln Layouts, die aus mehreren Komponenten bestehen.
+Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben, und entwickeln Layouts, die aus mehreren Elementen bestehen: Text, Bild und Fläche.
+
+Neuen Stoff gibt es heute kaum. Stattdessen variieren Sie ein Layout systematisch. Die Achsen, entlang derer Sie variieren, kennen Sie schon: Abstände (Nähe), Ähnlichkeit, Flächen als Regionen, Hierarchie, Schriftgröße, Schriftschnitt, Zeilenabstand und Satzart. Am Ende wählen Sie begründet die beste Variante aus.
+
+Am Nachmittag geht es im [Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/050-training-misc/) weiter.
 
 ### Layout & Abstände
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)

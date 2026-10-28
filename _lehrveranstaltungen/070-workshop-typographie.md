@@ -1,5 +1,5 @@
 ---
-titel: Typographie
+titel: Typographie & Textsatz
 kuerzel: w-elmw
 verantwortlich: cn
 typ: workshop
@@ -13,16 +13,17 @@ raum: vor-ort-w
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 assignments: |
   - [Auswahl von Schriften](/mi-bachelor-screendesign/assignments/basics-typographie-schriftwahl/)
+  - [Typographie und Schriftsatz: Grundgesetz](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/)
 ---
 
 ## Worum geht es?
 
-Heute befassen wir uns mit der Auswahl geeigneter Typographie.
+Heute befassen wir uns mit der Auswahl geeigneter Typographie und mit Textsatz.
 
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Raum & Anordnungen](/mi-bachelor-screendesign/lehrveranstaltungen/040-workshop-raum-gestaltgesetze/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Gestaltgesetze & Räumlichkeit](/mi-bachelor-screendesign/lehrveranstaltungen/040-workshop-raum-gestaltgesetze/)).
 
 - **Schriftarten durchsuchen und anwenden:** Gehen Sie im Schriftmenü durch die Liste, sehen Sie jede Schrift sofort an Ihrem Text. Das ist der schnellste Weg, um verschiedene Schriften für Plakat und Portfolio-Website auszuprobieren.
   [Figma-Hilfe](https://help.figma.com/hc/de/articles/360041308034-Schriftarten-durchsuchen-und-anwenden) · [Video](https://www.youtube.com/watch?v=5i-ebNTjad8)

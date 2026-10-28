@@ -1,5 +1,5 @@
 ---
-titel: Typographie
+titel: Typographie & Textsatz
 kuerzel: v-ko
 verantwortlich: cn
 typ: vortrag
@@ -10,27 +10,30 @@ check-in-frage:
 published: true
 dauer: 120
 raum: vor-ort-v
-info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Hierzu werden heute wesentliche Grundlagen vermittelt.
+info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Heute geht es um Schrift und darum, wie man sie gut lesbar setzt.
 material: |
   - [Haltung: Handwerk](presentations/screendesign-und-visuelle-kommunikation/haltung-handwerk/)
   - [Phänomen: Wortbilder](presentations/screendesign-und-visuelle-kommunikation/phaenomen-wortbilder/)
   - [Prinzip: Wirkung von Schrift](presentations/screendesign-und-visuelle-kommunikation/prinzip-schrift-wirkung/)
-  - [Prinzip: Mikrotypografie](presentations/screendesign-und-visuelle-kommunikation/prinzip-mikrotypografie/)
-  - [Prinzip: Typografische Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-typografische-hierarchie/)
-  - [Methode: Schriftklassifikation](presentations/screendesign-und-visuelle-kommunikation/methode-schriftklassifikation/)
   - [Methode: Schriftauswahl](presentations/screendesign-und-visuelle-kommunikation/methode-schriftauswahl/)
   - [Methode: Semantisches Differential](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
+  - [Prinzip: Typografische Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-typografische-hierarchie/)
+  - [Methode: Typografische Skala](presentations/screendesign-und-visuelle-kommunikation/methode-typografische-skala/)
+  - [Prinzip: Lesetext](presentations/screendesign-und-visuelle-kommunikation/prinzip-lesetext/)
+  - [Prinzip: Satz](presentations/screendesign-und-visuelle-kommunikation/prinzip-satz/)
+  - [Prinzip: Text im Interface](presentations/screendesign-und-visuelle-kommunikation/prinzip-text-im-interface/)
 
 archiv: |
   - [Folien zu Typographie](presentations/screendesign/typographie/)
   - [Folien zur Auswahl von Schriften](presentations/screendesign/auswahl-von-schriften/)
+  - [Folien zu Textsatz](presentations/screendesign/textsatz/)
 ---
 
 ## Worum geht es?
 
 > «Typography is two-dimensional architecture …» <br><small>Hermann Zapf</small>
 
-Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern guter Gestaltung. Auch, oder gerade im Screendesign, ist Text und damit Schrift ein wesentlicher Informationsträger. Hier lauern viele Untiefen, aber auch jede Menge Möglichkeiten für gute Gestaltung.  
+Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern guter Gestaltung. Auch, oder gerade im Screendesign, ist Text und damit Schrift ein wesentlicher Informationsträger. Hier lauern viele Untiefen, aber auch jede Menge Möglichkeiten für gute Gestaltung. Wir schauen uns an, wie Sie eine Schrift begründet auswählen, eine typographische Hierarchie aufbauen und Text so setzen, dass er auf dem Screen gut lesbar ist.
 
 ## Weiterführendes Material
 - [Typography on screens](https://m3.material.io/styles/typography/applying-type)

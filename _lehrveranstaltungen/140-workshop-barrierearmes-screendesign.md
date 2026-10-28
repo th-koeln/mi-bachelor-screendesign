@@ -7,7 +7,7 @@ pflicht: false
 termine: 2027-01-15 11:00
 empfohlene-voraussetzungen: t-sb,t-fb,w-lmw,w-lfve, t-ld
 check-in-frage: 
-published: true
+published: false
 dauer: 240
 raum: vor-ort-ferchau
 info: 
