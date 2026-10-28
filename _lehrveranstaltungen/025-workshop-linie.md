@@ -32,7 +32,7 @@ Nach dem Punkt kommt die Linie und damit ein paar weitere visuelle Variablen, wi
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Punkt](/mi-bachelor-screendesign/lehrveranstaltungen/020-workshop-punkt/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Kontureigenschaften (Stroke):** Linien zeichnen Sie mit dem Line-Tool (<kbd>L</kbd>). Strichstärke und Linienenden stellen Sie unter Stroke ein, und über die Strichstärke steuern Sie auch, wie dicht eine Zelle wirkt.
   [Figma-Hilfe](https://help.figma.com/hc/de/articles/360049283914-Kontureigenschaften-anwenden-und-anpassen)

@@ -1,137 +1,40 @@
 {
   "semester": "Wintersemester 2026/27",
-  "geprueft_am": "2026-10-13",
-  "workshops": {
-    "000-training-figma-basics.md": {
-      "inhalt": "6a0f6586650442f2",
-      "assignments": {
-        "training-001-figmabasics": "371def8f2042ccfe"
-      }
-    },
-    "020-workshop-punkt.md": {
-      "inhalt": "46d92a4d2817703a",
-      "assignments": {
-        "basics-punkt-position-und-format": "082e119de530be27",
-        "basics-anordnungen-mit-punkten": "93fbca524bad4bd0",
-        "basics-punkt-im-raum": "79f9a8e8e0c15042"
-      }
-    },
-    "025-workshop-linie.md": {
-      "inhalt": "c4e3687b545f3476",
-      "assignments": {
-        "basics-linie-ausrichtung": "0776793f9e930c66",
-        "basics-linie-transformation": "4231470ace01909c"
-      }
-    },
-    "030-workshop-flaeche-form.md": {
-      "inhalt": "afc3ab2d31da4a9f",
-      "assignments": {
-        "basics-farbklima": "f0b586c46975aeba",
-        "basics-typo-shapes": "9e96a0d000284217"
-      }
-    },
-    "040-workshop-raum-gestaltgesetze.md": {
-      "inhalt": "a416adc6a989dbd0",
-      "assignments": {
-        "basics-permuation-und-farbe": "7cb6db9a7c66df75",
-        "gruppierung-im-raster": "93f2ecfed3b4c119"
-      }
-    },
-    "070-workshop-typographie.md": {
-      "inhalt": "0b7bc95da2d0edf4",
-      "assignments": {
-        "basics-typographie-schriftwahl": "783e2ecca7e0e201"
-      }
-    },
-    "050-training-misc.md": {
-      "inhalt": "f8de78f9bac90465",
-      "assignments": {
-        "basics-farbige-bilder": "c902f4f02dc35a1c",
-        "basics-typographie-grundgesetz": "909f0bfb68641193"
-      }
-    },
-    "080-workshop-projekt.md": {
-      "inhalt": "813445166424dc54",
-      "assignments": {
-        "workshop-projekt-nutzerinnern-erfordernisse": "02d557fe12ebbd12",
-        "workshop-projekt-gestaltung-analysieren": "f5e95860c4ab68a6",
-        "workshop-projekt-best-practices": "a48dec4489466a7c",
-        "workshop-projekt-struktur-und-daten": "8c07b22f00b50d54"
-      }
-    },
-    "045-training-advanced-prototyping.md": {
-      "inhalt": "5e33c803eea12947",
-      "assignments": {
-        "training-002-advanced-prototyping": "7d93a79b3d7a5b50"
-      }
-    },
-    "080-workshop-layouts-und-ideenfindung.md": {
-      "inhalt": "5cb82a6bc4bdb84e",
-      "assignments": {
-        "project-veranstaltungsplan-funktionen-und-funktionsbereiche": "dd0cc8379401c249",
-        "project-veranstaltungsplan-liste-in-figma": "ba59481b6553228a"
-      }
-    },
-    "140-workshop-barrierearmes-screendesign.md": {
-      "inhalt": "466d5ea3d15009ac",
-      "assignments": {
-        "barrierefreiheit-2026": "0a45347d470c52d6"
-      }
-    },
-    "130-workshop-flow-and-transition.md": {
-      "inhalt": "142d45f921540a30",
-      "assignments": {
-        "flow-and-transition-2026": "53d64bd1347acbdd"
-      }
-    }
-  },
-  "artikel_stand": {
-    "de/360041003114": "2024-10-11",
-    "de/360039956894": "2025-03-25",
-    "de/360041539473": "2024-10-31",
-    "de/360040450133": "2024-10-31",
-    "en-us/360041003694": "2025-10-01",
-    "en-us/30938465113751": "2026-07-08",
-    "de/360040028034": "2026-01-19",
-    "de/360039956974": "2025-01-13",
-    "de/26584819173271": "2025-01-13",
-    "de/360039958934": "2025-11-06",
-    "de/360040028114": "2023-04-18",
-    "en-us/4409078832791": "2026-01-20",
-    "de/360039956914": "2024-11-16",
-    "de/360040450253": "2026-01-19",
-    "de/360038662654": "2026-03-11",
-    "de/360040450513": "2026-01-19",
-    "en-us/360040449713": "2025-10-24",
-    "de/360049283914": "2025-05-20",
-    "de/21635177948567": "2026-03-11",
-    "en-us/360041003774": "2025-10-01",
-    "en-us/27643269375767": "2026-03-30",
-    "en-us/360047239073": "2025-10-01",
-    "en-us/360039957534": "2025-10-01",
-    "en-us/360038511533": "2026-08-03",
-    "en-us/4412765442967": "2024-12-11",
-    "en-us/4404575206295": "2024-11-08",
-    "de/360041308034": "2024-10-31",
-    "en-us/360039956634": "2026-08-14",
-    "en-us/27378154668951": "2026-08-14",
-    "en-us/360040675194": "2025-12-17",
-    "de/9771500257687": "2023-08-16",
-    "de/15339657135383": "2025-06-19",
-    "en-us/360039957034": "2026-08-03",
-    "en-us/360056440594": "2026-08-14",
-    "de/5579474826519": "2026-01-19",
-    "de/360040451373": "2025-05-20",
-    "en-us/360039957734": "2025-10-02",
-    "en-us/360042532714": "2026-06-24",
-    "en-us/39723486706455": "2026-04-20",
-    "en-us/18894664907287": "2025-10-14",
-    "de/360040315773": "2026-01-19",
-    "en-us/360040522373": "2025-10-21",
-    "de/360039818874": "2022-03-12",
-    "en-us/360051748654": "2026-04-20",
-    "de/360061175334": "2026-01-19",
-    "en-us/360040321093": "2025-03-28",
-    "de/360040531773": "2025-03-12"
+  "abgeglichen_am": "2026-10-13",
+  "pruefsummen": {
+    "_lehrveranstaltungen/000-training-figma-basics.md": "c5d15cb6082f9229",
+    "_assignments/training-001-figmabasics.md": "371def8f2042ccfe",
+    "_lehrveranstaltungen/020-workshop-punkt.md": "5cd0aabd9aa5cf77",
+    "_assignments/basics-punkt-position-und-format.md": "082e119de530be27",
+    "_assignments/basics-anordnungen-mit-punkten.md": "93fbca524bad4bd0",
+    "_assignments/basics-punkt-im-raum.md": "79f9a8e8e0c15042",
+    "_lehrveranstaltungen/025-workshop-linie.md": "0f58527865351e74",
+    "_assignments/basics-linie-ausrichtung.md": "0776793f9e930c66",
+    "_assignments/basics-linie-transformation.md": "4231470ace01909c",
+    "_lehrveranstaltungen/030-workshop-flaeche-form.md": "1db5a59b92ae8df5",
+    "_assignments/basics-farbklima.md": "f0b586c46975aeba",
+    "_assignments/basics-typo-shapes.md": "9e96a0d000284217",
+    "_lehrveranstaltungen/040-workshop-raum-gestaltgesetze.md": "4d1089a046dac181",
+    "_assignments/basics-permuation-und-farbe.md": "7cb6db9a7c66df75",
+    "_assignments/gruppierung-im-raster.md": "93f2ecfed3b4c119",
+    "_lehrveranstaltungen/070-workshop-typographie.md": "508a44fa091815e6",
+    "_assignments/basics-typographie-schriftwahl.md": "783e2ecca7e0e201",
+    "_lehrveranstaltungen/050-training-misc.md": "0b92016b044557e2",
+    "_assignments/basics-farbige-bilder.md": "c902f4f02dc35a1c",
+    "_assignments/basics-typographie-grundgesetz.md": "909f0bfb68641193",
+    "_lehrveranstaltungen/080-workshop-projekt.md": "890b3643c02164f3",
+    "_assignments/workshop-projekt-nutzerinnern-erfordernisse.md": "02d557fe12ebbd12",
+    "_assignments/workshop-projekt-gestaltung-analysieren.md": "f5e95860c4ab68a6",
+    "_assignments/workshop-projekt-best-practices.md": "a48dec4489466a7c",
+    "_assignments/workshop-projekt-struktur-und-daten.md": "8c07b22f00b50d54",
+    "_lehrveranstaltungen/045-training-advanced-prototyping.md": "4b2222613f22525a",
+    "_assignments/training-002-advanced-prototyping.md": "7d93a79b3d7a5b50",
+    "_lehrveranstaltungen/080-workshop-layouts-und-ideenfindung.md": "361689330c582878",
+    "_assignments/project-veranstaltungsplan-funktionen-und-funktionsbereiche.md": "dd0cc8379401c249",
+    "_assignments/project-veranstaltungsplan-liste-in-figma.md": "ba59481b6553228a",
+    "_lehrveranstaltungen/140-workshop-barrierearmes-screendesign.md": "48c233a7d7d87b3e",
+    "_assignments/barrierefreiheit-2026.md": "0a45347d470c52d6",
+    "_lehrveranstaltungen/130-workshop-flow-and-transition.md": "19f046bad9f4f8c0",
+    "_assignments/flow-and-transition-2026.md": "53d64bd1347acbdd"
   }
 }

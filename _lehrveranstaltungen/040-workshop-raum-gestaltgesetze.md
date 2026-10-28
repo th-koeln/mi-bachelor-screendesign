@@ -47,7 +47,7 @@ Außerdem gibt es heute Feedback zu den Übungen vom letzten Termin und die Spie
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Fläche, Flächenaufteilung & Farbe](/mi-bachelor-screendesign/lehrveranstaltungen/030-workshop-flaeche-form/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Dateien duplizieren:** Die Vorlage ist eine geteilte Datei, in der Sie nicht selbst arbeiten. Über „Duplicate to your drafts“ legen Sie sich eine eigene Kopie an.
   [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360038511533-Duplicate-or-copy-files)

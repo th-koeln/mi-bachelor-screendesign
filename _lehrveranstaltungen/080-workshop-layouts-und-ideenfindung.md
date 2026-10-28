@@ -75,7 +75,7 @@ Ergebnisse aus dem [Best Practices und Schwachstellen](https://miro.com/app/boar
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Advanced Prototyping](/mi-bachelor-screendesign/lehrveranstaltungen/045-training-advanced-prototyping/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Verschachtelte Instanzen:** Die Veranstaltungsliste ist aus kleineren Komponenten zusammengesetzt, etwa Colorcode, Uhrzeit und Listeneintrag. Diese verschachtelten Instanzen können Sie innerhalb der großen Komponente anpassen oder austauschen, ohne sie aufzulösen.
   [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/39723486706455-Components-collection-Nesting-instances-fundamentals) · [Video](https://www.youtube.com/watch?v=V7jrPgxekRE)

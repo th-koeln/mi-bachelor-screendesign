@@ -33,7 +33,7 @@ Wir werden uns mit Konzepten, Techniken und Funktionen von Figma beschäftigen, 
 ## Figma-Fertigkeiten
 {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
 
-Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Verschiedene Übungen zu Fläche und Typographie](/mi-bachelor-screendesign/lehrveranstaltungen/050-training-misc/)).
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
 
 - **Variables:** In Variables legen Sie Farben, Zahlen und Schriftwerte einmal zentral an und verknüpfen sie mit Ihren Ebenen. Ändern Sie später einen Wert, ändert sich der ganze Podcast Player mit.
   [Figma-Hilfe](https://help.figma.com/hc/de/articles/15339657135383-Leitfaden-zu-Variablen-in-Figma) · [Video](https://www.youtube.com/watch?v=1ONxxlJnvdM)

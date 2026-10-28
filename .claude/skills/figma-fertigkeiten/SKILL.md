@@ -1,24 +1,28 @@
 ---
 name: figma-fertigkeiten
-description: Prüft und aktualisiert die Sektionen „## Figma-Fertigkeiten“ in den Workshops und Trainings unter _lehrveranstaltungen. Gleicht sie mit Workshopinhalten und Assignments ab, korrigiert die Verweise auf vorherige Workshops, prüft Figma-Hilfe-Artikel und YouTube-Videos auf Verfügbarkeit und Aktualität und kontrolliert, ob die Fertigkeiten von Workshop zu Workshop aufeinander aufbauen. Verwenden bei „Figma-Fertigkeiten aktualisieren/prüfen“, nach Änderungen an Workshops oder Assignments, bei neuen Terminen oder zum Semesterwechsel.
+description: Prüft und aktualisiert die Sektionen „## Figma-Fertigkeiten“ in den Workshops und Trainings unter _lehrveranstaltungen. Gleicht sie mit Workshopinhalten und Assignments ab, prüft Figma-Hilfe-Artikel und YouTube-Videos auf Verfügbarkeit und Aktualität und kontrolliert, ob die Fertigkeiten von Workshop zu Workshop aufeinander aufbauen. Verwenden bei „Figma-Fertigkeiten aktualisieren/prüfen“, nach Änderungen an Workshops oder Assignments, bei neuen Terminen oder zum Semesterwechsel.
 ---
 
 # Figma-Fertigkeiten pflegen
 
 Jede Veranstaltung des laufenden Semesters hat eine Sektion `## Figma-Fertigkeiten`. Dort stehen nur die Figma-Fertigkeiten, die für ihre Assignments **neu** dazukommen. Die Sektionen bauen chronologisch aufeinander auf.
 
-Das Prüfskript erledigt alles Mechanische. Deine Aufgabe ist die inhaltliche Arbeit: Fertigkeiten aus den Assignments ableiten und Texte schreiben.
+Das Prüfskript `check.py` erledigt die mechanischen Prüfungen:
+- Reihenfolge der Veranstaltungen im Semester
+- Sektion vorhanden, Format korrekt, keine Verweise auf andere Veranstaltungen, keine doppelten Fertigkeitsnamen
+- Artikel und Videos noch vorhanden, Videos vom Kanal @Figma, Alter der Videos, neue deutsche Fassungen
+- welche Workshopseiten und Assignments sich seit dem letzten Abgleich geändert haben
+
+Deine Aufgabe ist alles, was Urteilsvermögen braucht: Fertigkeiten aus den Assignments ableiten, den Aufbau inhaltlich prüfen und die Texte schreiben.
 
 ```bash
-python3 .claude/skills/figma-fertigkeiten/check.py                       # Prüfbericht (ca. 15 s, mit Netzwerk)
-python3 .claude/skills/figma-fertigkeiten/check.py --offline             # nur Struktur und Aufbau
+python3 .claude/skills/figma-fertigkeiten/check.py                       # Prüfbericht (ca. 10 s, mit Netzwerk)
+python3 .claude/skills/figma-fertigkeiten/check.py --offline             # ohne Link- und Videoprüfung
 python3 .claude/skills/figma-fertigkeiten/check.py --stand-aktualisieren # Abgleich als erledigt speichern
-python3 .claude/skills/figma-fertigkeiten/check.py suche-hilfe <Begriffe>   # Figma-Hilfe durchsuchen (de + en)
-python3 .claude/skills/figma-fertigkeiten/check.py suche-video <Begriffe>   # Kanal @Figma durchsuchen
-python3 .claude/skills/figma-fertigkeiten/check.py pruefe-video <ID>...     # Autor und Upload-Datum prüfen
+python3 .claude/skills/figma-fertigkeiten/check.py suche <Begriffe>      # Figma-Hilfe (de + en) und Kanal @Figma durchsuchen
 ```
 
-`stand.json` speichert Hashes der Workshopseiten und Assignments vom letzten Abgleich. Daraus erzeugt der Bericht die Liste **„Inhaltlich zu prüfen“**.
+`stand.json` speichert Prüfsummen der Workshopseiten (ohne die Figma-Sektion) und ihrer Assignments vom letzten Abgleich. Daraus erzeugt der Bericht die Liste **„Inhaltlich zu prüfen“**.
 
 ## Ablauf
 
@@ -28,16 +32,18 @@ python3 .claude/skills/figma-fertigkeiten/check.py pruefe-video <ID>...     # Au
    - Ermitteln, welche Figma-Fertigkeiten die Assignments brauchen oder spürbar erleichtern.
    - Mit der Übersichtstabelle abgleichen: Was schon früher vorkommt, entfällt. Was fehlt, kommt in die **früheste** Veranstaltung, in der es sinnvoll ist. Dafür darf eine Fertigkeit auch in einen früheren Workshop verschoben werden.
    - Ändert sich die Reihenfolge oder kommt eine Veranstaltung hinzu bzw. fällt weg, die ganze Kette ab dieser Stelle neu durchgehen.
+   - Material-Liste und Body der Workshopseite auf Figma-Tutorials und help.figma.com-Links außerhalb der Sektion prüfen (siehe Regeln unter „Quellen“).
 3. **Aufbau prüfen**, auch wenn das Skript nichts meldet. Die Übersichtstabelle chronologisch durchgehen und fragen:
    - Braucht ein späteres Assignment eine Fertigkeit, die nirgends vorher eingeführt wird?
    - Kommt eine Fertigkeit unter anderem Namen doppelt vor?
    - Steht etwas zu spät, obwohl es früher schon helfen würde? Beispiel: Ebenen benennen gehört in Figma Basics, weil der Frame-Name beim Export zum Dateinamen wird.
    - Ergebnisse dem Nutzer als Vorschlag vorlegen, bevor du Fertigkeiten verschiebst.
 4. **Fehler und Warnungen beheben:**
-   - Defekte oder fremde Links durch Treffer aus `suche-hilfe` bzw. `suche-video` ersetzen. Jedes neue Video mit `pruefe-video` verifizieren.
+   - Defekte oder fremde Links durch Treffer aus `suche` ersetzen. Neue Links werden beim nächsten Lauf von `check.py` mitgeprüft.
    - Meldet das Skript eine deutsche Fassung, den Link auf `hc/de/…` umstellen und das „(englisch)“ im Linktext streichen.
 5. **Hinweise auf alte Videos:** Nur ersetzen, wenn es ein neueres @Figma-Video zum selben Thema gibt. Sonst bleibt das alte Video stehen.
-6. **Abschließen:**
+6. **Stil prüfen:** Das Skript prüft den Stil nicht. Alle neuen und geänderten Texte selbst gegen die Regeln unter „Stil der Texte“ lesen.
+7. **Abschließen:**
    - `check.py` erneut ausführen, bis keine Fehler mehr da sind.
    - `jekyll build -d <Scratchpad>/site` muss fehlerfrei durchlaufen.
    - Dem Nutzer die Änderungen zusammenfassen und den Diff zur Freigabe vorlegen.
@@ -65,9 +71,9 @@ python3 .claude/skills/figma-fertigkeiten/check.py pruefe-video <ID>...     # Au
   ```
   {% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
   ```
-- Einleitung ab der zweiten Veranstaltung mit Fertigkeiten. Der Link zeigt auf die letzte vorherige Veranstaltung **mit** Einträgen, der Linktext ist deren `titel`:
+- Einleitung ab der zweiten Veranstaltung mit Fertigkeiten, **ohne** Link auf vorherige Veranstaltungen:
   ```
-  Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen (zuletzt: [Titel](/mi-bachelor-screendesign/lehrveranstaltungen/<dateiname-ohne-md>/)).
+  Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
   ```
 - Eintrag:
   ```

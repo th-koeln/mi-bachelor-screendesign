@@ -19,7 +19,6 @@ Gepflegt werden die Sektionen mit dem Claude-Code-Skill **`/figma-fertigkeiten`*
 
 **Was geprüft wird:**
 - welche Workshops und Assignments sich seit dem letzten Abgleich geändert haben
-- ob jede Sektion auf die richtige vorherige Veranstaltung verweist
 - ob Figma-Hilfe-Artikel und Videos noch existieren, vom Kanal @Figma stammen und aktuell sind
 - ob die Fertigkeiten aufeinander aufbauen, ohne Doppelungen
 
@@ -35,5 +34,5 @@ python3 .claude/skills/figma-fertigkeiten/check.py --offline  # ohne Link-Prüfu
 | Datei | Inhalt |
 |---|---|
 | `SKILL.md` | Ablauf und alle Regeln (Umfang, Platzierung, Format, Quellen, Stil der Texte) |
-| `check.py` | Prüfskript und Recherche-Helfer (`suche-hilfe`, `suche-video`, `pruefe-video`) |
-| `stand.json` | Stand des letzten Abgleichs, wird vom Skript geschrieben (nicht von Hand bearbeiten) |
+| `check.py` | Prüfskript und Suche in Figma-Hilfe und auf dem Kanal @Figma (`check.py suche <Begriffe>`) |
+| `stand.json` | Prüfsummen vom letzten Abgleich, wird vom Skript geschrieben (nicht von Hand bearbeiten) |
