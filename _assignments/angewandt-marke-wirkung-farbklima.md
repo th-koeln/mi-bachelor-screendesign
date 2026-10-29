@@ -91,6 +91,6 @@ Um 13:45 Uhr stellen wir die Ergebnisse gemeinsam vor. Dann prüfen wir: Kommt d
 
 ## Upload
 
-Bitte laden Sie Ihr Board bis **30.10.2026, 13:00 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679320) hoch. Eine Person pro Paar lädt hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
+Bitte laden Sie Ihr Board bis **30.10.2026, 13:00 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=928332) hoch. Eine Person pro Paar lädt hoch. Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 
 > ```sd-marke-FIRMA-NACHNAME1-NACHNAME2.png```
