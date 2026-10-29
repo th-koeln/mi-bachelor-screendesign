@@ -12,9 +12,9 @@ dauer: 120
 raum: vor-ort-v
 info: Heute wenden Sie Farbe und Form aus der letzten Woche an einer echten Aufgabe an. Zu zweit entwickeln Sie ein Farbklima für eine Firma.
 material: |
-  - [Methode: Semantisches Differential](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
-  - [Methode: Moodboard und Farbklima](presentations/screendesign-und-visuelle-kommunikation/methode-moodboard-und-farbklima/)
-  - [Prinzip: Farbwirkung](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbwirkung/)
+  - [Methode: Semantisches Differential](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/) 
+  - [Methode: Moodboard und Farbklima (Wiederholung)](presentations/screendesign-und-visuelle-kommunikation/methode-moodboard-und-farbklima/)
+  - [Prinzip: Farbwirkung (Wiederholung)](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbwirkung/)
 assignments: |
   - [Marke, Wirkung & Farbklima](/mi-bachelor-screendesign/assignments/angewandt-marke-wirkung-farbklima/)
 ---
