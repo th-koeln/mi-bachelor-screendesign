@@ -14,7 +14,7 @@ info: Wie bringen wir Ordnung in eine Gestaltungsfläche? Gestaltgesetze, Ausric
 
 assignments: |
   - [Permutation mit Flächenausschnitten](/mi-bachelor-screendesign/assignments/basics-permuation-und-farbe/)
-  - [Gruppierung im Raster](/mi-bachelor-screendesign/assignments/gruppierung-im-raster/)
+  - [Zahlen zeigen](/mi-bachelor-screendesign/assignments/gruppierung-im-raster/)
 material: |
   - [Prinzip: Gestaltpsychologie](presentations/screendesign-und-visuelle-kommunikation/prinzip-gestaltpsychologie/)
   - [Prinzip: Nähe und Abstand](presentations/screendesign-und-visuelle-kommunikation/prinzip-naehe-und-abstand/)
@@ -26,6 +26,7 @@ material: |
   - [Prinzip: Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-hierarchie/)
   - [Methode: Unschärfe- und Graustufentest](presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/)
   - [Methode: Permutation](presentations/screendesign-und-visuelle-kommunikation/methode-permutation/)
+  - [Methode: Isotype](presentations/screendesign-und-visuelle-kommunikation/methode-isotype/)
 
 archiv: |
   - [Folien zu Räumlichkeit](presentations/screendesign/raeumlichkeit/)

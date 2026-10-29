@@ -1,5 +1,5 @@
 ---
-titel: Gruppierung im Raster
+titel: Zahlen zeigen
 tags: 
   - Basics
   - Raster
@@ -10,51 +10,70 @@ published: true
 ---
 
 <br><br>
-**In dieser Übung erarbeiten Sie, wie Gruppen entstehen und wie eine Rangfolge entsteht. Jedes Prinzip bearbeiten Sie zweimal: einmal abstrakt mit Punkten und einmal angewandt an einer Kursliste. So sehen Sie, dass im Screen dieselben Kräfte wirken wie auf der leeren Fläche.**
+**In dieser Übung machen Sie Zahlen sichtbar. Nicht mit Diagrammen, sondern mit vielen gleichen Zeichen, die Sie gruppieren, ordnen und gewichten. Das Verfahren heißt Isotype und geht auf Otto Neurath und Gerd Arntz zurück. Es zeigt besonders deutlich, was die Gestaltgesetze leisten: Dieselben 100 Punkte sind entweder Rauschen oder eine klare Aussage.**
+
+Die Übung besteht aus drei Aufgaben. Sie führen vom Gruppieren über das Ordnen zum Gewichten, in derselben Reihenfolge wie die Folien.
 
 ## Vorlage
 
-Nutzen Sie folgende [Vorlage](https://www.figma.com/design/SScVRRTxRjur6AUwn48W3F/Vorlage-Gruppierung-im-Raster) und legen Sie sich über »Duplicate to your drafts« eine eigene Kopie an.
-
-Die Vorlage enthält sechs Frames im Format 990 × 1310 px, jeweils mit eingestelltem Raster: 24 Spalten und 32 Zeilen, Rand 20 px, Abstand 10 px. Jede Zelle ist 30 × 30 px groß.
-
-- **Abstrakt (1a, 2a, 3a):** ein gleichmäßiges Feld aus 192 Kreisen. Es gibt noch keine Gruppen.
-- **Kursliste (1b, 2b, 3b):** sechs Kurse, jeder aus Bild, Titel, Termin, Ort und Button. Die Kurse stehen in Zeilen, aber alle Abstände sind gleich. Man erkennt nicht, wo ein Kurs aufhört und der nächste anfängt.
-
-Links in der Vorlage liegen die Komponenten: das Element für die Punkte (Kreis, Quadrat, Dreieck in Schwarz, Grau, Lila) und die Bausteine der Kursliste, dazu eine Kartenfläche. Form und Farbe einer Instanz ändern Sie rechts im Panel. Schrift gibt es keine, Texte sind graue Balken.
+Nutzen Sie folgende [Vorlage](https://www.figma.com/design/SScVRRTxRjur6AUwn48W3F/Vorlage-Gruppierung-im-Raster) und legen Sie sich über »Duplicate to your drafts« eine eigene Kopie an. Darin finden Sie für jede Aufgabe einen Frame mit Raster und die Zeichen als Komponente: Kreis, Quadrat und Dreieck in Schwarz, Grau und Lila.
 
 ## Spielregeln
 
-- Alles bleibt im Raster. Keine Anschnitte.
-- Sie dürfen Elemente löschen und duplizieren.
-- Skalieren und Drehen sind nur dort erlaubt, wo es in der Tabelle steht. Skaliert wird in ganzen Zellen mit dem Skalier-Werkzeug (Taste <kbd>K</kbd>), dann bleibt die Instanz erhalten.
 - Farben: Schwarz, Grau und Lila. Keine anderen.
+- Zeichen: Kreis, Quadrat, Dreieck. Ein Zeichen steht immer für dieselbe Menge.
+- Schrift: nur [Roboto](https://fonts.google.com/specimen/Roboto), nur für Zahlen und eine kurze Legende. Typographie ist nächste Woche dran, hier zählt die Anordnung.
 
-## Gestaltungsaufgabe
+## Aufgabe 1: Wie kommen wir nach Gummersbach?
 
-| Paar | Abstrakt | Kursliste |
-|---|---|---|
-| 1 Nähe | **1a:** Nur verschieben. Form und Farbe bleiben, wie sie sind. | **1b:** Nur verschieben. Keine Karten, keine Farbe. Machen Sie jeden Kurs allein über Abstände zur Einheit. |
-| 2 Ähnlichkeit und Region | **2a:** Nur Form oder Farbe ändern. Kein Element wird verschoben. | **2b:** Nichts verschieben, die Abstände bleiben gleich. Bilden Sie die Kurse nur über Karten und Farbe. |
-| 3 Hierarchie | **3a:** Bauen Sie eine Rangfolge über Größe und Helligkeit: Was sieht man zuerst, was als Zweites, was als Drittes? Sie dürfen in ganzen Zellen skalieren (70 × 70 oder 110 × 110 px). | **3b:** Alles erlaubt. Bauen Sie in jedem Kurs eine Rangfolge und heben Sie genau einen Kurs hervor, etwa weil er neu oder ausgebucht ist. Lila nur dort. |
+**Gruppieren.** In der Veranstaltung haben wir erhoben, wie Sie zur Hochschule kommen. Zeigen Sie das Ergebnis mit 100 Zeichen. Ein Zeichen steht für ein Prozent.
 
-Prüfen Sie 3a und 3b mit dem [Unschärfetest](https://cnoss.github.io/slides/presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/).
+Man soll auf einen Blick sehen, welche Gruppen es gibt und welche die größte ist. Nutzen Sie Nähe und Ähnlichkeit.
 
-Vergleichen Sie am Ende die Paare: Was funktioniert bei den Punkten und im Screen gleich, was anders? Achten Sie besonders auf 1b und 2b. Wie viel müssen Karten und Farbe leisten, wenn die Abstände nicht stimmen?
+Die Zahlen aus der Veranstaltung:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/SScVRRTxRjur6AUwn48W3F/Vorlage-Gruppierung-im-Raster?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+| Auto | Bahn | Bus | Rad oder zu Fuß |
+|---|---|---|---|
+| folgt am 30.10. | | | |
 
-## Wenn Sie mehr wollen
+**Beispiel** (ausgedachte Zahlen: Wie trinken 100 Personen ihren Kaffee?). Links dieselben 100 Zeichen ungeordnet, rechts gruppiert:
 
-- **Leere als Form:** Gruppen entstehen nicht nur durch Elemente, sondern auch durch Lücken. Löschen Sie im Punktefeld Elemente so, dass die Leerstellen eine Gruppe bilden.
-- **Kombination:** Legen Sie einen siebten Frame an und gestalten Sie die Kursliste so, wie Sie es für richtig halten. Welche Prinzipien setzen Sie ein?
+![Beispiel ungeordnet](../images/zahlen-zeigen-1a.svg)
+![Beispiel gruppiert](../images/zahlen-zeigen-1b.svg)
+
+## Aufgabe 2: Mein Tag in 96 Kästchen
+
+**Ordnen.** Ein Tag hat 96 Viertelstunden. Zeigen Sie einen Ihrer Tage, etwa den letzten Montag. Jede Viertelstunde ist ein Zeichen.
+
+Das Raster ist dabei die Zeitachse: 24 Spalten, eine pro Stunde. Wählen Sie vier bis sechs Tätigkeiten aus und fassen Sie zusammen, was zusammengehört. Nutzen Sie Ausrichtung, Ähnlichkeit und Regionen.
+
+**Beispiel** (ausgedacht: ein Tag im Leben einer Katze):
+
+![Beispiel Tag in 96 Kästchen](../images/zahlen-zeigen-2.svg)
+
+## Aufgabe 3: Studienfortschritt als Widget
+
+**Gewichten.** Ihr Bachelor hat 180 ECTS, also 6 Semester zu je 30. Gestalten Sie eine Kachel für ein Studierendenportal im Format 390 px breit, die zeigt: Was ist erledigt, was läuft gerade, was ist noch offen? Ein Zeichen steht für einen ECTS-Punkt oder für ein Modul, das entscheiden Sie.
+
+Das Wichtigste soll man zuerst sehen. Nutzen Sie Hierarchie und genau einen Akzent in Lila. Prüfen Sie Ihr Ergebnis mit dem [Unschärfetest](https://cnoss.github.io/slides/presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/).
+
+Sie dürfen hier einen Button und eine große Zahl einsetzen.
+
+**Beispiel** (ausgedacht: ein Lauftraining mit 36 Einheiten in 12 Wochen):
+
+![Beispiel Widget](../images/zahlen-zeigen-3.svg)
+
+## Weiterführendes Material
+
+- [Gerd Arntz Web Archive](https://www.gerdarntz.org/isotype) mit vielen Isotype-Grafiken
+- Otto Neurath: »Bildstatistik nach Wiener Methode« (1936)
 
 ## Upload
 
 Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **05.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679320&ass_id=27181&mode=future&from_overview=1) hoch.
 
-> ```sd-gruppierung-im-raster-NACHNAME-NUMMER.png```
+> ```sd-zahlen-zeigen-NACHNAME-NUMMER.png```
 
-NUMMER ist die Nummer des Frames, also 1a, 1b, 2a, 2b, 3a oder 3b.
+NUMMER ist die Nummer der Aufgabe, also 1, 2 oder 3.
 
 

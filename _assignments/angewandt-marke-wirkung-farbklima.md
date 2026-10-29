@@ -51,7 +51,7 @@ Das Büro wurde 2023 in Aachen von der Architektin Selin Demir und dem Elektroin
 
 ### Schritt 1: Wirkung festlegen (ca. 30 Minuten)
 
-Legen Sie mit einem [semantischen Differential](https://cnoss.github.io/slides/presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/) fest, wie die Firma wirken soll. Das Werkzeug dafür bekommen Sie in der Veranstaltung.
+Legen Sie mit einem [semantischen Differential](https://christiannoss.de/semantisches-differenzial/) fest, wie die Firma wirken soll. Das Werkzeug dafür bekommen Sie in der Veranstaltung.
 
 1. Sammeln Sie Eigenschaften, also Adjektive, für die die Firma stehen soll. So viele, wie Ihnen einfallen.
 2. Ordnen Sie die Eigenschaften um den Firmennamen an: je wichtiger, desto näher dran.
@@ -71,6 +71,7 @@ Leiten Sie aus dem Moodboard ein Farbklima mit vier bis sechs Farben ab.
 - Legen Sie fest, welche Farbe Hauptfarbe ist, welche Nebenfarben sind und welche Akzent. Zeigen Sie die Mengenverhältnisse als Farbband, nicht als gleich große Kästchen.
 - Geben Sie zu jeder Farbe den Hex-Wert an.
 - Prüfen Sie, ob es mindestens eine Kombination aus Text- und Hintergrundfarbe gibt, die ausreichend Kontrast hat.
+- Nutzen Sie hierfür zum Beispiel [https://easecolors.com/de/](https://easecolors.com/de/)
 
 ### Schritt 4, optional: Formensprache
 
