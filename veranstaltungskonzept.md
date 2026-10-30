@@ -82,7 +82,7 @@ Eigene Lösungen entwickeln, systematisch variieren und begründet auswählen. G
 
 ### Wirkung sehen und steuern
 
-Die Wirkung von Gestaltung wahrnehmungspsychologisch begründen und mit einfachen Tests prüfen. Getragen vor allem von den Phänomenen, Semantischem Differential, Axis Map, 5-Sekunden-Test, Präferenztest und Variieren entlang einer Achse.
+Die Wirkung von Gestaltung wahrnehmungspsychologisch begründen und mit einfachen Tests prüfen. Getragen vor allem von den Phänomenen, Semantischem Differenzial, Axis Map, 5-Sekunden-Test, Präferenztest und Variieren entlang einer Achse.
 
 ------
 
@@ -92,7 +92,7 @@ Die Grundhaltung lautet: **Beobachten vor Bewerten.** Jede Haltung hat einen met
 
 **Beobachten vor Bewerten.** Erst beschreiben, dann urteilen. *Partner: Beschreibungsraster*
 
-**Gefällt mir ist kein Argument.** Gestaltung wird mit Sachargumenten begründet, nicht mit Geschmack. *Partner: Semantisches Differential, 5-Sekunden-Test*
+**Gefällt mir ist kein Argument.** Gestaltung wird mit Sachargumenten begründet, nicht mit Geschmack. *Partner: Semantisches Differenzial, 5-Sekunden-Test*
 
 **Wir gestalten nicht für uns.** Lösungen passen zu Zielgruppe und Gestaltungskontext. *Partner: Proto-Persona, Gestaltungskontext analysieren*
 
@@ -441,7 +441,7 @@ Methoden mit dem Zusatz **können** sollen Sie beherrschen. Alle anderen sollen 
 
 ### Wirkung und Ziel
 
-**Semantisches Differential** *(können)*. Wirkung über Gegensatzpaare beschreiben, vergleichen und messen.
+**Semantisches Differenzial** *(können)*. Wirkung über Gegensatzpaare beschreiben, vergleichen und messen.
 
 **Axis Map** *(können)*. Lösungen auf zwei Wirkungsachsen verorten.
 
@@ -507,7 +507,7 @@ Methoden mit dem Zusatz **können** sollen Sie beherrschen. Alle anderen sollen 
 
 ### Kontext und Zielgruppe
 
-**Gestaltungsziel formulieren** *(können)*. Die gewünschte Wirkung in einem Satz, prüfbar mit dem Semantischen Differential.
+**Gestaltungsziel formulieren** *(können)*. Die gewünschte Wirkung in einem Satz, prüfbar mit dem Semantischen Differenzial.
 
 **Gestaltungskontext analysieren** *(können)*. Konstanten und Spielräume finden: Produkt, Produktfamilie, Organisation.
 
@@ -561,4 +561,4 @@ Anatomie der Buchstaben, Ligatur, Geviert, Variable Fonts, Legibility und Readab
 
 ### Weitere Quellen
 
-Jacques Bertin: Sémiologie graphique (1967). Harry Brignull: Deceptive Patterns (2023). Matthew Butterick: Practical Typography (online). Bill Buxton: Sketching User Experiences (2007). Adam Connor & Aaron Irizarry: Discussing Design (2015). Nathan Curtis: Space in Design Systems (Artikel). Design Council: Double Diamond (2005). Johannes Itten: Kunst der Farbe (1961). Laura Kalbag: Accessibility for Everyone (2017). Austin Kleon: Show Your Work! (2014). Langer, Schulz von Thun & Tausch: Hamburger Verständlichkeitsmodell. Abraham Moles: Wahrnehmungsarbeit. Charles W. Morris: Zeichentheorie. Josef Müller-Brockmann: Rastersysteme für die visuelle Gestaltung (4. Auflage 1996). Jakob Nielsen: 10 Usability Heuristics. Don Norman: The Design of Everyday Things. Charles E. Osgood: Semantisches Differential. Dieter Rams: Zehn Thesen für gutes Design. Friedemann Schulz von Thun: Miteinander reden. John Sweller: Cognitive Load Theory (1988). Paul Watzlawick: Menschliche Kommunikation. W3C: Web Content Accessibility Guidelines 2.2. Hans Peter Willberg & Friedrich Forssman: Lesetypografie. Fritz Zwicky: Morphologischer Kasten.
+Jacques Bertin: Sémiologie graphique (1967). Harry Brignull: Deceptive Patterns (2023). Matthew Butterick: Practical Typography (online). Bill Buxton: Sketching User Experiences (2007). Adam Connor & Aaron Irizarry: Discussing Design (2015). Nathan Curtis: Space in Design Systems (Artikel). Design Council: Double Diamond (2005). Johannes Itten: Kunst der Farbe (1961). Laura Kalbag: Accessibility for Everyone (2017). Austin Kleon: Show Your Work! (2014). Langer, Schulz von Thun & Tausch: Hamburger Verständlichkeitsmodell. Abraham Moles: Wahrnehmungsarbeit. Charles W. Morris: Zeichentheorie. Josef Müller-Brockmann: Rastersysteme für die visuelle Gestaltung (4. Auflage 1996). Jakob Nielsen: 10 Usability Heuristics. Don Norman: The Design of Everyday Things. Charles E. Osgood: Semantisches Differenzial. Dieter Rams: Zehn Thesen für gutes Design. Friedemann Schulz von Thun: Miteinander reden. John Sweller: Cognitive Load Theory (1988). Paul Watzlawick: Menschliche Kommunikation. W3C: Web Content Accessibility Guidelines 2.2. Hans Peter Willberg & Friedrich Forssman: Lesetypografie. Fritz Zwicky: Morphologischer Kasten.

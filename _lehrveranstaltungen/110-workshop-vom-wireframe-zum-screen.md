@@ -13,7 +13,7 @@ raum: vor-ort-ferchau
 info: Heute arbeiten Sie die visuelle Sprache Ihres Projekts aus und prüfen sie an Ihren eigenen Screens.
 material: |
   - [Methode: Moodboard und Farbklima](presentations/screendesign-und-visuelle-kommunikation/methode-moodboard-und-farbklima/)
-  - [Methode: Semantisches Differential](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
+  - [Methode: Semantisches Differenzial](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
   - [Methode: Schriftauswahl](presentations/screendesign-und-visuelle-kommunikation/methode-schriftauswahl/)
   - [Methode: Gestaltungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-gestaltungsraster/)
   - [Methode: Unschärfe- und Graustufentest](presentations/screendesign-und-visuelle-kommunikation/methode-unschaerfetest/)

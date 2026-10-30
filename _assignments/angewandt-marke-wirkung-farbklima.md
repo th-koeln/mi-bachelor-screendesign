@@ -51,7 +51,7 @@ Das Büro wurde 2023 in Aachen von der Architektin Selin Demir und dem Elektroin
 
 ### Schritt 1: Wirkung festlegen (ca. 30 Minuten)
 
-Legen Sie mit einem [semantischen Differential](https://christiannoss.de/semantisches-differenzial/) fest, wie die Firma wirken soll. Das Werkzeug dafür bekommen Sie in der Veranstaltung.
+Legen Sie mit einem [semantischen Differenzial](https://christiannoss.de/semantisches-differenzial/) fest, wie die Firma wirken soll. Das Werkzeug dafür bekommen Sie in der Veranstaltung.
 
 1. Sammeln Sie Eigenschaften, also Adjektive, für die die Firma stehen soll. So viele, wie Ihnen einfallen.
 2. Ordnen Sie die Eigenschaften um den Firmennamen an: je wichtiger, desto näher dran.
@@ -82,7 +82,7 @@ Wenn Sie noch Zeit haben: Entwickeln Sie drei bis fünf Grundelemente, die zur F
 Ihr Board (3840 × 2160 px) zeigt:
 
 - den Namen der Firma
-- das semantische Differential (Screenshot aus Schritt 1)
+- das semantische Differenzial (Screenshot aus Schritt 1)
 - das Moodboard
 - das Farbklima mit Mengenverhältnissen und Hex-Werten
 - optional die Formensprache

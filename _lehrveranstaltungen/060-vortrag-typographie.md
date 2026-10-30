@@ -16,7 +16,7 @@ material: |
   - [Phänomen: Wortbilder](presentations/screendesign-und-visuelle-kommunikation/phaenomen-wortbilder/)
   - [Prinzip: Wirkung von Schrift](presentations/screendesign-und-visuelle-kommunikation/prinzip-schrift-wirkung/)
   - [Methode: Schriftauswahl](presentations/screendesign-und-visuelle-kommunikation/methode-schriftauswahl/)
-  - [Methode: Semantisches Differential](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
+  - [Methode: Semantisches Differenzial](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
   - [Prinzip: Typografische Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-typografische-hierarchie/)
   - [Methode: Typografische Skala](presentations/screendesign-und-visuelle-kommunikation/methode-typografische-skala/)
   - [Prinzip: Lesetext](presentations/screendesign-und-visuelle-kommunikation/prinzip-lesetext/)

@@ -58,8 +58,8 @@ Am Ende des Workshops verfügen Sie über ein präzises Rebriefing, eine Sammlun
 
 ## Material
 - [Moodboards im Designprozess](https://www.factor.partners/insights/moodboards-im-designprozess-von-der-vision-zur-realitaet)
-- [Sematisches Differential bei Designmethodenfinder](https://www.designmethodsfinder.com/methods/semantic-differential)
-- [Sematisches Differential bei Rogator](https://www.rogator.de/wissenswertes/weiteres-fachwissen/semantisches-differential/)
+- [Semantisches Differenzial bei Designmethodenfinder](https://www.designmethodsfinder.com/methods/semantic-differential)
+- [Semantisches Differenzial bei Rogator](https://www.rogator.de/wissenswertes/weiteres-fachwissen/semantisches-differential/)
 - [🧑🏽‍🏫 Ergebnissicherung bitte hier](https://miro.com/app/board/uXjVL4HMPX0=/?share_link_id=932414924896)
 
 </div>
