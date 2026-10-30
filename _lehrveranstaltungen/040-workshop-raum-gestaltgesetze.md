@@ -66,7 +66,7 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **05.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679320&ass_id=27181&mode=ongoing&from_overview=1) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **05.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878715) hoch.
 
 ## Anmeldung zur Probelehrveranstaltung 
 Hier finden Sie den Link zur [Anmeldung der Probelehrveranstaltung](https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yw:of&cmdClass=ilObjGroupGUI&ref_id=599241&redirectSource=ilGroupRegistrationGUI), die im Rahmen des Berufungsverfahrens für die Professur „Geschlechtersensible Informatik und Ingenieurwissenschaften“ stattfindet.
