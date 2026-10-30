@@ -58,7 +58,7 @@ Legen Sie mit einem [semantischen Differential](https://christiannoss.de/semanti
 3. Die acht wichtigsten Eigenschaften bekommen einen Gegenpol. Achten Sie darauf, dass beide Pole positiv sind. »Modern« gegen »altmodisch« funktioniert nicht, »modern« gegen »beständig« schon.
 4. Markieren Sie auf jeder Skala, wie die Gestaltung der Firma wirken soll.
 
-Machen Sie einen Screenshot von Ihrem Profil.
+Exportieren Sie Ihr erstelltes Differenzial.
 
 ### Schritt 2: Moodboard (ca. 30 Minuten)
 
