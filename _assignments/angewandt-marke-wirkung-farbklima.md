@@ -58,11 +58,11 @@ Legen Sie mit einem [semantischen Differenzial](https://christiannoss.de/semanti
 3. Die acht wichtigsten Eigenschaften bekommen einen Gegenpol. Achten Sie darauf, dass beide Pole positiv sind. »Modern« gegen »altmodisch« funktioniert nicht, »modern« gegen »beständig« schon.
 4. Markieren Sie auf jeder Skala, wie die Gestaltung der Firma wirken soll.
 
-Machen Sie einen Screenshot von Ihrem Profil.
+Exportieren Sie Ihr erstelltes Differenzial.
 
 ### Schritt 2: Moodboard (ca. 30 Minuten)
 
-Sammeln Sie 9 bis 15 Bilder, die zu Ihrem Profil passen. Achten Sie nicht nur auf Farbe, sondern auch auf Licht, Material, Oberflächen und Formen. Fotos von Websites anderer Firmen der Branche helfen beim Vergleich, gehören aber nicht ins Moodboard.
+Sammeln Sie 20 bis 30 Bilder, die zu Ihrem Profil passen. Achten Sie nicht nur auf Farbe, sondern auch auf Licht, Material, Oberflächen und Formen. Fotos von Websites anderer Firmen der Branche helfen beim Vergleich, gehören aber eher nicht ins Moodboard.
 
 ### Schritt 3: Farbklima (ca. 30 Minuten)
 
@@ -82,7 +82,7 @@ Wenn Sie noch Zeit haben: Entwickeln Sie drei bis fünf Grundelemente, die zur F
 Ihr Board (3840 × 2160 px) zeigt:
 
 - den Namen der Firma
-- das semantische Differenzial (Screenshot aus Schritt 1)
+- das semantische Differenzial (Export aus Schritt 1)
 - das Moodboard
 - das Farbklima mit Mengenverhältnissen und Hex-Werten
 - optional die Formensprache
