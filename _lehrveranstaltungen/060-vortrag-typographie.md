@@ -12,16 +12,14 @@ dauer: 120
 raum: vor-ort-v
 info: Bilder sind Drogen für's Gehirn … trotzdem brauchen wir beim Screendesign sehr oft Text. Heute geht es um Schrift und darum, wie man sie gut lesbar setzt.
 material: |
-  - [Haltung: Handwerk](presentations/screendesign-und-visuelle-kommunikation/haltung-handwerk/)
+  - [Rahmen: Typografie](presentations/screendesign-und-visuelle-kommunikation/rahmen-typografie/)
   - [Phänomen: Wortbilder](presentations/screendesign-und-visuelle-kommunikation/phaenomen-wortbilder/)
   - [Prinzip: Wirkung von Schrift](presentations/screendesign-und-visuelle-kommunikation/prinzip-schrift-wirkung/)
   - [Methode: Schriftauswahl](presentations/screendesign-und-visuelle-kommunikation/methode-schriftauswahl/)
-  - [Methode: Semantisches Differenzial](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
   - [Prinzip: Typografische Hierarchie](presentations/screendesign-und-visuelle-kommunikation/prinzip-typografische-hierarchie/)
   - [Methode: Typografische Skala](presentations/screendesign-und-visuelle-kommunikation/methode-typografische-skala/)
   - [Prinzip: Lesetext](presentations/screendesign-und-visuelle-kommunikation/prinzip-lesetext/)
   - [Prinzip: Satz](presentations/screendesign-und-visuelle-kommunikation/prinzip-satz/)
-  - [Prinzip: Text im Interface](presentations/screendesign-und-visuelle-kommunikation/prinzip-text-im-interface/)
 
 archiv: |
   - [Folien zu Typographie](presentations/screendesign/typographie/)

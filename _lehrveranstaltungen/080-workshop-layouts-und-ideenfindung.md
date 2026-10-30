@@ -33,6 +33,7 @@ material: |
   - [Prinzip: Proportion](presentations/screendesign-und-visuelle-kommunikation/prinzip-proportion/)
   - [Prinzip: Weißraum](presentations/screendesign-und-visuelle-kommunikation/prinzip-weissraum/)
   - [Prinzip: Inhalt bestimmt Form](presentations/screendesign-und-visuelle-kommunikation/prinzip-inhalt-bestimmt-form/)
+  - [Prinzip: Text im Interface](presentations/screendesign-und-visuelle-kommunikation/prinzip-text-im-interface/)
   - [Pen & Paper](https://cnoss.github.io/pen-and-paper/)
   - [Atomic Design](https://bradfrost.com/blog/post/design-tokens-atomic-design-❤%EF%B8%8F/)
 

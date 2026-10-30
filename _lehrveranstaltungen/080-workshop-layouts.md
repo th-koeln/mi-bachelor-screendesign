@@ -12,6 +12,7 @@ dauer: 120
 raum: vor-ort-v
 info: Heute kommt alles zusammen. Sie bauen Layouts mit Text, Bild und Fläche und entwickeln dazu systematisch Varianten.
 material: |
+  - [Haltung: Handwerk](presentations/screendesign-und-visuelle-kommunikation/haltung-handwerk/)
   - [Haltung: Alternativen](presentations/screendesign-und-visuelle-kommunikation/haltung-alternativen/)
   - [Methode: Variieren entlang einer Achse](presentations/screendesign-und-visuelle-kommunikation/methode-variieren-achse/)
   - [Methode: Morphologischer Kasten](presentations/screendesign-und-visuelle-kommunikation/methode-morphologischer-kasten/)

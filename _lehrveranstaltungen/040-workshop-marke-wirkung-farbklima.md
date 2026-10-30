@@ -15,6 +15,7 @@ material: |
   - [Methode: Semantisches Differenzial](presentations/screendesign-und-visuelle-kommunikation/methode-semantisches-differential/)
   - [Methode: Moodboard und Farbklima](presentations/screendesign-und-visuelle-kommunikation/methode-moodboard-und-farbklima/)
   - [Prinzip: Farbwirkung](presentations/screendesign-und-visuelle-kommunikation/prinzip-farbwirkung/)
+  - [Kandidatur fürs StuPa: Infos (PDF)](/mi-bachelor-screendesign/download/misc/StuPa_Kandidatur_Folie.pdf)
 assignments: |
   - [Marke, Wirkung & Farbklima](/mi-bachelor-screendesign/assignments/angewandt-marke-wirkung-farbklima/)
 ---
