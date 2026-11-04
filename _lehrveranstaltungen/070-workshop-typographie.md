@@ -14,6 +14,8 @@ info: Wie setze ich Schrift sinnvoll und zielführend ein?
 assignments: |
   - [Auswahl von Schriften](/mi-bachelor-screendesign/assignments/basics-typographie-schriftwahl/)
   - [Typographie und Schriftsatz: Grundgesetz](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/)
+material: |
+  - [Methode: Schriftklassifikation (zum Nachschlagen)](presentations/screendesign-und-visuelle-kommunikation/methode-schriftklassifikation/)
 ---
 
 ## Worum geht es?
