@@ -36,7 +36,6 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 ## Weiterführendes Material
 - [Typography on screens](https://m3.material.io/styles/typography/applying-type)
 - [WebTypoBuch von Gerrit van Aaken](https://webtypobuch.de/lesen/Kapitel-5/Kapitel-5-4)
-- [Clevere Typografie macht Spaß Poster](https://www.cleverprinting.de/das-kostenlose-cleverprinting-typoposter/)
 - [Die 10 Gebote der Typographie](https://designbote.com/die-10-gebote-der-typographie/)
 - [https://fonts.google.com/knowledge/choosing_type](https://fonts.google.com/knowledge/choosing_type)
 - [Pairing typefaces](https://fonts.google.com/knowledge/choosing_type/pairing_typefaces)
@@ -53,6 +52,7 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [Fonts.com](https://www.fonts.com)
 
 ## Typo Games & Tools
+- [Kernung Lab](https://cnoss.github.io/kerning-lab/)
 - [Kerning Game](https://type.method.ac/)
 - [Shape Game](https://shape.method.ac/)
 - [Shot the Serif](https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/)
