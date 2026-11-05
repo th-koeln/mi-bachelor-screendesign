@@ -37,4 +37,4 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
+Bitte laden Sie Ihre Ergebnisse aus diesem Workshop bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878717) hoch.
