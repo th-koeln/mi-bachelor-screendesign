@@ -13,7 +13,7 @@ raum: vor-ort-w
 info: Wie setze ich Schrift sinnvoll und zielführend ein?
 assignments: |
   - [Auswahl von Schriften](/mi-bachelor-screendesign/assignments/basics-typographie-schriftwahl/)
-  - [Typographie und Schriftsatz: Grundgesetz](/mi-bachelor-screendesign/assignments/basics-typographie-grundgesetz/)
+  - [Textsatz für NOXA Analytik](/mi-bachelor-screendesign/assignments/basics-typographie-noxa/)
 material: |
   - [Methode: Schriftklassifikation (zum Nachschlagen)](presentations/screendesign-und-visuelle-kommunikation/methode-schriftklassifikation/)
 ---
