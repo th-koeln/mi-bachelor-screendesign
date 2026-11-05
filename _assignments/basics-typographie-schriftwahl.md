@@ -15,7 +15,7 @@ Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund
 
 Sie wählen passende Schriften für eine Serie von Ausstellungsplakaten und eine Website. In beiden Fällen ist der Text geschrieben, das Bildmaterial vorhanden, die Layouts gesetzt, aber es fehlt noch eine Aufwahl der passenden Schrift für die großen typographischen Elemente, wie Headlines und Untertitel.
 
-Nutzen Sie folgende [Vorlage](https://www.figma.com/design/4PeuSBVUxiNvyTQBWHot7I/Vorlage-Schraiftauswahl?node-id=0-1&t=jDTJsgHLkhybNyMH-1) und fügen Sie diese zu Ihrem Workspace hinzu. 
+Nutzen Sie folgende [Vorlage](https://www.figma.com/design/EOX3Zf9sj64NQgeR0SnKyo/Auswahl-von-Schriften-2026?node-id=31-2&t=p0t0uihmhSkBj6cY-1) und fügen Sie diese zu Ihrem Workspace hinzu. 
 
 
 ### Teil 1: Schrift für Ausstellungsplakate
@@ -73,7 +73,7 @@ Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.
 
 ## Vorlage
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/4PeuSBVUxiNvyTQBWHot7I/Vorlage-Schraiftauswahl?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/EOX3Zf9sj64NQgeR0SnKyo/Auswahl-von-Schriften-2026?node-id=31-2&embed-host=share" allowfullscreen></iframe>
 
 <br><br>
 
