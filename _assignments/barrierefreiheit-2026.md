@@ -2,7 +2,7 @@
 titel: Accessibility Anspruchsgruppe
 tags: 
   - WS2627
-published: true
+published: false
 ---
 
 ## Aufgabe (Zeit ca. 45 min)

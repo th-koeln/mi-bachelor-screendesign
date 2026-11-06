@@ -3,8 +3,7 @@ titel: Typographie und Schriftsatz am Beispiel des Grundgesetzes
 tags: 
   - Basics
   - Typographie
-  - WS2627
-published: true
+published: false
 ---
 
 Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund bekommen Sie in den zugehörigen Workshops/ Inputs.

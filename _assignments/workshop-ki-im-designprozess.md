@@ -2,7 +2,7 @@
 titel: KI im Designprozess
 tags: 
   - Konzeption
-published: true
+published: false
 ---
 
 ## Warmup - Instagram-Post für ein Musikfestival

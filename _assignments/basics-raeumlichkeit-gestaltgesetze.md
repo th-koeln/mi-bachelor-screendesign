@@ -4,7 +4,7 @@ tags:
   - Basics
   - Hierarchisierung
   - Gestaltgesetze
-published: true
+published: false
 ---
 
 Gehen Sie in der Welt der digitalen Produkte auf die Suche nach Screendesigns, mit denen sich Hierarchisierung und Gestaltgesetze gut visualisieren lassen. Finden Sie 5 Beispieldesigns mit guter und prägnanter Hierarchisierung und 5 Beispieldesigns, bei denen Gestaltgesetze schlau eingesetzt werden. Montieren Sie die fünf Beispiele jeweils auf eine Montagefläche(Frame).

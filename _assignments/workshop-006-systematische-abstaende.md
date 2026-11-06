@@ -5,7 +5,7 @@ tags:
   - Layout
   - Typographie
   - WS2425
-published: true
+published: false
 ---
 
 Basierend auf den Ergebnissen aus dem Workshop [Layoutkonzept entwickeln](/mi-bachelor-screendesign/assignments/layoutkonzept-entwickeln/) sollen nun in Figma eine Variante als Audioplayer entwickelt werden. Dieser Player soll auf dem Smartphone und Tablet jeweils im Portrait und Landscape Modus funktionieren.

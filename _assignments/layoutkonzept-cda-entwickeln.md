@@ -4,7 +4,7 @@ tags:
   - Fortgeschritten
   - Layout
   - Typographie
-published: true
+published: false
 ---
 
 Bei dieser Übung entwickeln wir aus Scribbles systematische Layouts mit Hilfe von Figma. Diese passen wir für verschiedene Gerätetypen an und erstellen Varianten von Grob- und Feinlayout.

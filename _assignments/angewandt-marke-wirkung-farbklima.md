@@ -5,6 +5,7 @@ tags:
   - Farbe
   - Form
   - Marke
+  - WS2627
 published: true
 ---
 

@@ -4,7 +4,7 @@ tags:
   - Basics
   - Hierarchisierung
   - Gestaltgesetze
-published: true
+published: false
 ---
 
 

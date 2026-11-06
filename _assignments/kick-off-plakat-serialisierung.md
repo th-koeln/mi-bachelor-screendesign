@@ -5,7 +5,7 @@ tags:
   - WS2425
 upload: 
 deadline: 2023-10-19
-published: true
+published: false
 ---
 
 Entwerfen Sie ein (typografisches) Plakat, auf dem Begriff/ das Konzept «Serialisierung» in der Informatik erklärt wird. Dabei gelten folgende Rahmenbedingungen:

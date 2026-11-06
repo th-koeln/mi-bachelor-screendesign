@@ -2,7 +2,7 @@
 titel: Analyse der Markenpersönlichkeit von VINCENT&VOLTAIRE
 tags: 
   - Konzeption
-published: true
+published: false
 ---
 
 Den Projektkontext für das diesjährige Screendesign Projekt stellt <a href="https://vincent-und-voltaire.de/">VINCENT&VOLTAIRE</a>, eine inhaberin-geführte, unabhängige, female-founded Online-Buchhandlung mit Blog und kuratierter Buchauswahl.

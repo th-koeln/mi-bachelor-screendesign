@@ -3,7 +3,7 @@ titel: Flow & Transition
 tags: 
   - Interaktion
   - WS2425
-published: true
+published: false
 ---
 
 Als Ausgangsbasis dient folgendes [Figma Projekt](https://www.figma.com/design/OkdIXQmTHqY2KmSWhcNinr/podcast-player-initial).

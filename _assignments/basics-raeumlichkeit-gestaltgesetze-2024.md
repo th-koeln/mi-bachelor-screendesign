@@ -5,7 +5,7 @@ tags:
   - Hierarchisierung
   - Gestaltgesetze
   - WS2425
-published: true
+published: false
 ---
 
 

@@ -6,7 +6,7 @@ tags:
   - Fläche
   - Typographie
   - WS2425
-published: true
+published: false
 ---
 
 Nehmen Sie eine Ihrer Kompositionen aus der Übung [Typographische Flächenkomposition](/mi-bachelor-screendesign/assignments/basics-typo-shapes/) und nehmen Sie die Farben aus einer Ihrer Lösungen der Übung [Farbstreifen mit Farbklima erstellen](/mi-bachelor-screendesign/assignments/basics-farbklima/). Wenden Sie nun die Farben auf die typographischen Flächenkomposition an und erzeugen Sie drei verschiedenen Varianten. Geben Sie jeder Variante einen sinnvollen Namen und setzen Sie diesen mit in die Arbeitsfläche.
