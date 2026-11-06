@@ -52,7 +52,7 @@ Heute geht es um Typographie und Schriftsatz, für viele die Basis und der Kern 
 - [Fonts.com](https://www.fonts.com)
 
 ## Typo Games & Tools
-- [Kernung Lab](https://cnoss.github.io/kerning-lab/)
+- [Kerning Lab](https://cnoss.github.io/kerning-lab/)
 - [Kerning Game](https://type.method.ac/)
 - [Shape Game](https://shape.method.ac/)
 - [Shot the Serif](https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/)
