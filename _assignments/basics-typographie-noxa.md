@@ -14,7 +14,7 @@ Sie kennen NOXA Analytik schon aus der Vorlesung: ein Labor, das Wasser, Böden 
 
 ## Aufgabe
 
-Wählen Sie eine oder zwei Schriften für NOXA Analytik und setzen Sie den Artikel unten in drei Formaten so gut wie möglich. Begründen Sie Ihre Entscheidungen kurz.
+Wählen Sie eine oder zwei Schriften für NOXA Analytik und setzen Sie den Artikel unten in drei Formaten so gut wie möglich. Begründen Sie Ihre Entscheidungen kurz. Nutzen Sie zur Auswahl eines der [semantischen Differenziale](https://miro.com/app/board/uXjVET0qZ_M=/?share_link_id=837031421614), das letzte Woche erarbeitet wurde. 
 
 ### 1. Schrift auswählen
 
