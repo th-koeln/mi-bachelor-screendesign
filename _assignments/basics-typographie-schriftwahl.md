@@ -13,16 +13,16 @@ Heute beschäftigen wir uns mit dem Thema Typographie. Theoretischen Hintergrund
 
 ## Kontext
 
-Sie wählen passende Schriften für eine Serie von Ausstellungsplakaten und eine Website. In beiden Fällen ist der Text geschrieben, das Bildmaterial vorhanden, die Layouts gesetzt, aber es fehlt noch eine Aufwahl der passenden Schrift für die großen typographischen Elemente, wie Headlines und Untertitel.
+Sie wählen passende Schriften für verschiedene Plakate, einen Instagram-Post und eine Website. In allen Fällen ist der Text geschrieben, das Bildmaterial vorhanden, die Layouts gesetzt, aber es fehlt noch eine Aufwahl der passenden Schrift für die typographischen Elemente, wie Headlines, Untertitel und Fließtext.
 
 Nutzen Sie folgende [Vorlage](https://www.figma.com/design/EOX3Zf9sj64NQgeR0SnKyo/Auswahl-von-Schriften-2026?node-id=31-2&t=p0t0uihmhSkBj6cY-1) und fügen Sie diese zu Ihrem Workspace hinzu. 
 
 
 ### Teil 1: Schrift für Ausstellungsplakate
 
-Sie erhalten Wireframes von mehreren Ausstellungsplakaten. Jedes Plakat bezieht sich auf eine andere Ausstellung mit spezifischem Thema und Charakter. Die Inhalte (Bilder, Layout, Fließtexte) sind bereits definiert – Ihre Aufgabe besteht in der Auswahl der passenden Schrift für die großen Texte, z.B. Headline, Untertitel, ggf. ergänzende Informationen wie Datum oder Ort.
+Sie erhalten Wireframes von mehreren Plakaten und einem Instagram-Post. Jedes Plakat hat ein spezifisches Thema und einen eigenen Charakter. Die Inhalte (Bilder, Layout, Fließtexte) sind bereits definiert – Ihre Aufgabe besteht in der Auswahl der passenden Schrift für die Textelemente.
 
-Wählen Sie für jede Ausstellung eine geeignete Schrift oder ein stimmiges [Schrift-Duo](https://www.fontpair.co/). Achten Sie auf typografische Ausdruckskraft und Angemessenheit.
+Wählen Sie für jedes Motiv eine geeignete Schrift oder ein stimmiges [Schrift-Duo](https://www.fontpair.co/). Achten Sie auf typografische Ausdruckskraft und Angemessenheit.
 
 Orientieren Sie sich an Erkenntnissen aus der Vorlesung, z. B. zu den Arten des Lesens, zur Wirkung von Schriftarten oder zur funktionalen vs. expressiven Typografie.
 
@@ -41,32 +41,33 @@ Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.
 ## Teil 2: Schrift für eine Portfolio Website
 
 
-Statt einer Ausstellung wählen Sie nun die Schrift für die Website **Elsewhere**. Die Website ist ein Portfolio, das sowohl Professionalität als auch Persönlichkeit ausstrahlen soll – eine Einladung an Veranstalter:innen, Presse, Fans.
+Statt einer Ausstellung wählen Sie nun die Schrift für die Website **Elsewhere**. Die Website präsentiert Reisen und Naturerlebnisse und soll sowohl informativ als auch atmosphärisch wirken – eine Einladung an reiseinteressierte Menschen.
+
 
 Das Design ist bereits als Wireframe mit Bildmaterial und Fließtexten vorbereitet. Ihre Aufgabe besteht darin, die **große Textebene** typografisch zu inszenieren:
 
-* Hauptheadline (z. B. Name der Sängerin, Startseiten-Titel)
+* Hauptheadline (z. B. Startseiten-Titel)
 * Abschnittsüberschriften
 * ggf. Navigationselemente oder Zitate
 
 <br>
 **Leitfragen:**<br>
-- Welche Stimme erklingt hier – dramatisch, elegant, technisch versiert, nahbar?
-- Welche Schriftform vermittelt den künstlerischen Charakter der Sängerin – ohne in Klischees zu verfallen?
+- Welche Wirkung soll die Website haben – ruhig, abenteuerlich, nahbar?
+- Welche Schriftform vermittelt den Charakter der Website – ohne in Klischees zu verfallen?
 
 Berücksichtigen Sie dabei die Besonderheiten digitaler Typografie:
 
 * Wie verhält sich die Schrift auf unterschiedlichen Geräten?
 * Wie funktioniert sie im Zusammenspiel mit Bildmaterial?
-* Welche Rolle spielt Typografie in der digitalen Repräsentation von künstlerischer Identität?
+* Welche Rolle spielt Typografie in der digitalen Repräsentation für den Charakter der Website?
 
 
 Fügen Sie ein **Typo-Fähnchen** bei, das folgende Informationen enthält:
 
 * **Verwendete Schrift(en)**
-* **Kurze Begründung (2–3 Sätze):** Warum passt diese Schrift zu dieser Persönlichkeit, zu diesem Beruf, zu dieser Website?
+* **Kurze Begründung (2–3 Sätze):** Warum passt diese Schrift zum Thema, zum Charakter und zur Wiedererkennbarkeit dieser Website?
 
-Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
+Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=878717&from_overview=1&ass_id=31724) hoch.
 
 > 110-Elsewhere-NAME.png<br>120-Info-Website-NAME.png
 
