@@ -33,14 +33,15 @@ Platzieren Sie neben jedem Plakat ein kleines **Typo-Fähnchen** mit folgenden I
 
 Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
 
-> 010-Poster-Grow-1-NAME.png<br>020-Poster-Grow-2-NAME.png<br>030-Info-Grow-NAME.png<br>040-Poster-Dynamic-Typo-NAME.png<br>050-Info-Dynamic-Typo-NAME.png<br>060-Poster-Artificial-animals-NAME.png<br>070-Info-Artificial-animals-NAME.png<br>080-Poster--Blood-Flows-1-NAME.png<br>090-Poster-Blood-Flows-2-NAME.png<br>100-Info-Blood-Flows-NAME.png
+> 010–Poster–Morphism–NAME.png<br>020–Info–Morphism–NAME.png<br>030–Poster–In-Motion–NAME.png<br>040–Info–In-Motion–NAME.png<br>050–Instagram–Moss–NAME.png<br>060–Info–Moss–NAME.png<br>070–Poster–Curves–NAME.png<br>080–Info–Curves–NAME.png<br>090–Poster–Echoes–NAME.png<br>100–Info–Echoes–NAME.png
+
 
 ---
 
 ## Teil 2: Schrift für eine Portfolio Website
 
 
-Statt einer Ausstellung wählen Sie nun die Schrift für die Website einer **Opernsängerin**. Die Website ist ein Portfolio, das sowohl Professionalität als auch Persönlichkeit ausstrahlen soll – eine Einladung an Veranstalter:innen, Presse, Fans.
+Statt einer Ausstellung wählen Sie nun die Schrift für die Website **Elsewhere**. Die Website ist ein Portfolio, das sowohl Professionalität als auch Persönlichkeit ausstrahlen soll – eine Einladung an Veranstalter:innen, Presse, Fans.
 
 Das Design ist bereits als Wireframe mit Bildmaterial und Fließtexten vorbereitet. Ihre Aufgabe besteht darin, die **große Textebene** typografisch zu inszenieren:
 
@@ -67,7 +68,7 @@ Fügen Sie ein **Typo-Fähnchen** bei, das folgende Informationen enthält:
 
 Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=731711&mode=ongoing&from_overview=1) hoch.
 
-> 110-Sofia-Berger-NAME.png<br>120-Info-Website-NAME.png
+> 110-Elsewhere-NAME.png<br>120-Info-Website-NAME.png
 
 <br><br>
 
