@@ -10,10 +10,18 @@ check-in-frage:
 published: true
 dauer: 120
 raum: vor-ort-v
-info: Heute kommt alles zusammen. Sie bauen Layouts mit Text, Bild und Fläche und entwickeln dazu systematisch Varianten.
+info: Heute kommt alles zusammen. Sie entwickeln ein echtes Layout in vier Stufen, von der Skizze über Grayscale-Wireframes bis zum fertigen Entwurf, und bilden dabei systematisch Varianten.
+assignments: |
+  - [Vom Wireframe zum Layout: Befund-Seite für NOXA Analytik](/mi-bachelor-screendesign/assignments/layout-befund-noxa/)
 material: |
-  - [Haltung: Handwerk](presentations/screendesign-und-visuelle-kommunikation/haltung-handwerk/)
   - [Haltung: Alternativen](presentations/screendesign-und-visuelle-kommunikation/haltung-alternativen/)
+  - [Rahmen: Layout](presentations/screendesign-und-visuelle-kommunikation/rahmen-layout/)
+  - [Methode: Wireframes und Fidelity](presentations/screendesign-und-visuelle-kommunikation/methode-wireframes/)
+  - [Methode: Gestaltungsraster](presentations/screendesign-und-visuelle-kommunikation/methode-gestaltungsraster/)
+  - [Methode: Spacing-System](presentations/screendesign-und-visuelle-kommunikation/methode-spacing-system/)
+  - [Prinzip: Weißraum](presentations/screendesign-und-visuelle-kommunikation/prinzip-weissraum/)
+  - [Prinzip: Proportion](presentations/screendesign-und-visuelle-kommunikation/prinzip-proportion/)
+  - [Prinzip: Inhalt bestimmt Form](presentations/screendesign-und-visuelle-kommunikation/prinzip-inhalt-bestimmt-form/)
   - [Methode: Variieren entlang einer Achse](presentations/screendesign-und-visuelle-kommunikation/methode-variieren-achse/)
   - [Methode: Morphologischer Kasten](presentations/screendesign-und-visuelle-kommunikation/methode-morphologischer-kasten/)
 
@@ -24,11 +32,22 @@ archiv: |
 ---
 
 ## Worum geht es?
-Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben, und entwickeln Layouts, die aus mehreren Elementen bestehen: Text, Bild und Fläche.
+Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben. Sie entwickeln die Befund-Seite für das Kundenportal von NOXA Analytik, und zwar in vier Stufen: Skizzen, Grayscale-Wireframes, Mid-Fi und Hi-Fi. Nach jeder Stufe tragen wir die Ergebnisse zusammen, dann geht es auf die nächste. Den Input gibt es jeweils kurz vor der Stufe, in der Sie ihn brauchen.
 
-Neuen Stoff gibt es heute kaum. Stattdessen variieren Sie ein Layout systematisch. Die Achsen, entlang derer Sie variieren, kennen Sie schon: Abstände (Nähe), Ähnlichkeit, Flächen als Regionen, Hierarchie, Schriftgröße, Schriftschnitt, Zeilenabstand und Satzart. Am Ende wählen Sie begründet die beste Variante aus.
+Zu Beginn gibt es Feedback zu Ihren Übungen und einen Ausblick auf das Gestaltungsportfolio. Am Nachmittag geht es im [Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/050-training-misc/) weiter.
 
-Am Nachmittag geht es im [Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/050-training-misc/) weiter.
+## Ablauf
+
+1. Feedback, Rückblick und Gestaltungsportfolio
+2. Einstieg: Layout, Briefing, Wireframes und Fidelity
+3. **Stufe 1:** Skizzen auf Papier, danach Galerie
+4. **Stufe 2:** Grayscale-Wireframes auf dem Raster, drei Varianten, Auswahl
+5. **Stufe 3:** Mid-Fi mit echten Texten und echter Schrift
+6. **Stufe 4:** Hi-Fi mit Farbe, fertig in der Hausaufgabe
+
+## Was muss ich mitbringen?
+- Papier und einen dicken Stift für die Skizzen
+- eigener Rechner mit Figma
 
 ### Layout & Abstände
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)

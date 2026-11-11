@@ -4,8 +4,7 @@ tags:
   - Basics
   - Farbe
   - Fläche
-  - WS2627
-published: true
+published: false
 ---
 
 Erzeugen Sie eine weiße oder schwarze Montagefläche von **1024×1366 Pixeln**. Legen Sie auf der Fläche ein Spalten und Zeilenraster mit folgenden Maßen an:

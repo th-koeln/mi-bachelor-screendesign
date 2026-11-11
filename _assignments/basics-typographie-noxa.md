@@ -31,9 +31,9 @@ Legen Sie in Figma drei Frames an. Die Höhe ergibt sich aus dem Text: Der ganze
 
 | Format | Breite | Raster |
 |---|---|---|
-| **Desktop** | 1440 px | 12 Spalten, Rand 80 px, Rinne 24 px |
-| **Tablet hoch** | 834 px | 8 Spalten, Rand 40 px, Rinne 24 px |
-| **Smartphone** | 390 px | 4 Spalten, Rand 20 px, Rinne 16 px |
+| **Desktop** | 1440 px | 12 Spalten, Rand 80 px, Spaltenabstand 24 px |
+| **Tablet hoch** | 834 px | 8 Spalten, Rand 40 px, Spaltenabstand 24 px |
+| **Smartphone** | 390 px | 4 Spalten, Rand 20 px, Spaltenabstand 16 px |
 
 Setzen Sie alle Textteile: Dachzeile, Headline, Teaser, Zwischenüberschriften und Mengentext. Der Text bleibt, wie er ist. Sie gestalten nur den Satz: Schriftgrad, Schnitt, Zeilenabstand, Zeilenlänge, Abstände, Position im Raster. Bilder und Farbe brauchen Sie nicht, Schwarz auf Weiß reicht. Wenn Sie eine Akzentfarbe einsetzen, prüfen Sie den Kontrast.
 

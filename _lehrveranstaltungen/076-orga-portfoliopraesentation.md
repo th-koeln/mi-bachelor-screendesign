@@ -18,15 +18,28 @@ material: |
 
 ## Worum geht es?
 
-Heute werden zwei Arbeiten aus dem Gestaltungsportfolio vorgestellt. Dies geschieht parallel in drei Slots. Präsentiert werden zwei Arbeiten, die im Rahmen der Übungen gemacht wurden. Die Vorstellung erfolgt über unseren Rechner. 
+Heute stellen Sie zwei Arbeiten aus Ihrem Gestaltungsportfolio vor, fünf Minuten pro Person. Wir treffen uns im gewohnten Vorlesungsraum 3.106. Je nachdem, wie viele wir sind, teilen wir uns vor Ort in zwei Gruppen auf. Präsentiert wird von unserem Rechner, also nur, was Sie fristgerecht im ILU hochgeladen haben. 
 
 ## Teambörse
 
-Im Projekt arbeiten Sie zu zweit. Nutzen Sie die Präsentationen, um sich umzuschauen: Mit wem würden Sie gern zusammenarbeiten? Finden Sie Ihre Teampartnerin oder Ihren Teampartner über die Arbeiten. Die Teambörse ist freiwillig, wer schon ein Team hat, braucht sie nicht.
+Im Projekt arbeiten Sie zu zweit. Nutzen Sie die Präsentationen, um sich umzuschauen: Mit wem würden Sie gern zusammenarbeiten? Die Arbeiten der anderen verraten schon eine Menge.
 
-Bis zum [Projektkickoff](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-projekt/) am 04.12. haben Sie Zeit, ein Team zu finden. Wer dann noch keins hat, findet beim Kickoff eins.
+Wer noch ein Team sucht, geht nach der eigenen Präsentation kurz an die **Teamwand**. Dort stellen Sie mit dem Zeiger drei Skalen ein und sagen in einem Satz, wo Sie stehen:
 
-## Vorbereitung & Anmeldung
+- **Anspruch:** von »Hauptsache bestanden« bis »Ich will die 1,0«
+- **Wohnort:** von Gummersbach bis Köln, oder ganz woanders
+- **Arbeitszeit:** Lerche oder Eule?
+
+Dazu verraten Sie zwei Dinge:
+
+- **Meine Gestaltungs-Superkraft:** zum Beispiel Farbgefühl, Pixelpräzision oder Ordnung ins Chaos bringen
+- **Mein Kryptonit:** zum Beispiel Deadlines, Kerning oder Farben aussuchen
+
+Zum Schluss kommt eine Karte mit Ihrem Namen und Ihren Antworten an die Wand. Am Ende des Tages sehen alle, wer noch sucht und wer zu wem passen könnte. Das dauert pro Person keine Minute.
+
+Die Teambörse ist freiwillig. Wer schon ein Team hat, braucht sie nicht. Bis zum [Projektkickoff](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-projekt/) am 04.12. haben Sie Zeit, ein Team zu finden. Wer dann noch keins hat, findet beim Kickoff eins.
+
+## Vorbereitung
 
 Laden Sie **alle** Artefakte rechtzeitig bis zum **{{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}}** im ILU hoch, die bewertet werden sollen (nicht nur die, die vorgestellt werden sollen). Den Uploadlink finden Sie unten. 
 

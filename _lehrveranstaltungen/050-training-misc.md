@@ -12,15 +12,14 @@ dauer: 180
 raum: vor-ort-w
 info: Layouts entwickeln, Varianten bilden, begründet auswählen
 assignments: |
-  - [Layoutvarianten entwickeln](/mi-bachelor-screendesign/assignments/workshop-variantenbildung-cards-2023/)
-  - [Bildmontage mit farbigen Bildern](/mi-bachelor-screendesign/assignments/basics-farbige-bilder/)
+  - [Vom Wireframe zum Layout: Befund-Seite für NOXA Analytik](/mi-bachelor-screendesign/assignments/layout-befund-noxa/)
 uploaddate: 19.11.2026 23:55 Uhr
 uploadlink: https://ilu.th-koeln.de/ilias.php?baseClass=ilrepositorygui&ref_id=431172
 ---
 
 ## Worum geht es?
 
-Heute arbeiten Sie an den Layouts und Varianten vom Vormittag weiter. Zwischendurch schauen wir uns Zwischenstände an, und Sie können sich Feedback zu Lösungen und Teillösungen abholen. Außerdem gibt es die Möglichkeit, noch mal ein paar Figma-Tipps und -Tricks zu erfahren.
+Heute arbeiten Sie an der Befund-Seite für NOXA Analytik weiter, Stufe für Stufe bis zum Hi-Fi-Entwurf. Zwischendurch schauen wir uns Zwischenstände an, und Sie können sich Feedback zu Lösungen und Teillösungen abholen. Außerdem gibt es die Möglichkeit, noch mal ein paar Figma-Tipps und -Tricks zu erfahren.
 
 ## Was muss ich mitbringen?
 
