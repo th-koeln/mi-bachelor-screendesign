@@ -38,6 +38,11 @@ h1, h2, h3, h4, p, blockquote {
   margin-bottom: var(--size-m);
 }
 
+/* Mengentext: mehr Durchschuss, weil die Zeilen bis zu 50rem lang laufen */
+p, li, dd, td, blockquote {
+  line-height: var(--lh-text);
+}
+
 h1 {
   font-size: var(--size-l);
   font-weight: var(--fw-bold);

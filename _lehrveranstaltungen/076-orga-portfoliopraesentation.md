@@ -18,9 +18,9 @@ material: |
 
 ## Worum geht es?
 
-Heute stellen Sie zwei Arbeiten aus Ihrem Gestaltungsportfolio vor, fünf Minuten pro Person. Wir treffen uns im gewohnten Vorlesungsraum 3.106. Je nachdem, wie viele wir sind, teilen wir uns vor Ort in zwei Gruppen auf. Präsentiert wird von unserem Rechner, also nur, was Sie fristgerecht im ILU hochgeladen haben. 
+Heute stellen Sie zwei Arbeiten aus Ihrem Gestaltungsportfolio vor. Pro Person sind fünf Minuten eingeplant, inklusive Umbau und Feedback. **Für Ihre Vorstellung haben Sie also nur zwei Minuten**, für beide Arbeiten zusammen. Wir treffen uns im gewohnten Vorlesungsraum 3.106. Je nachdem, wie viele wir sind, teilen wir uns vor Ort in zwei Gruppen auf. Präsentiert wird von unserem Rechner, also nur, was Sie fristgerecht im ILU hochgeladen haben. 
 
-## Teambörse
+## Duo gesucht
 
 Im Projekt arbeiten Sie zu zweit. Nutzen Sie die Präsentationen, um sich umzuschauen: Mit wem würden Sie gern zusammenarbeiten? Die Arbeiten der anderen verraten schon eine Menge.
 
@@ -37,7 +37,7 @@ Dazu verraten Sie zwei Dinge:
 
 Zum Schluss kommt eine Karte mit Ihrem Namen und Ihren Antworten an die Wand. Am Ende des Tages sehen alle, wer noch sucht und wer zu wem passen könnte. Das dauert pro Person keine Minute.
 
-Die Teambörse ist freiwillig. Wer schon ein Team hat, braucht sie nicht. Bis zum [Projektkickoff](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-projekt/) am 04.12. haben Sie Zeit, ein Team zu finden. Wer dann noch keins hat, findet beim Kickoff eins.
+Das Ganze ist freiwillig. Wer schon ein Team hat, lässt die Teamwand einfach aus. Bis zum [Projektkickoff](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-projekt/) am 04.12. haben Sie Zeit, ein Team zu finden. Wer dann noch keins hat, findet beim Kickoff eins.
 
 ## Vorbereitung
 

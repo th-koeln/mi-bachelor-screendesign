@@ -64,6 +64,7 @@
   --lh-tight: 110%;
   --lh-default: 130%;
   --lh-loose: 150%;
+  --lh-text: 155%; /* Mengentext: Absätze, Listen, Tabellen */
 
   /* Opacity */
   --op-medium: 0.6;

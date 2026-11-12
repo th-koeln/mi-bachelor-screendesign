@@ -6,7 +6,7 @@ titel: Individuelles Gestaltungsportfolio
 Das Gestaltungsportfolio dokumentiert die handwerklichen Fertigkeiten und die gestalterische Auseinandersetzung der Studierenden mit grundlegenden Fragen des Screendesigns. Dabei sollen folgende Fragen beantwortet werden:
 
 - Wie präzise wird bei der Bearbeitung der Gestaltungsübungen agiert?
-- Inwieweit wurde die Aufgabe verstanden und entsprechend umgesetzt?
+- Inwieweit wurde die Idee der Übung verstanden und entsprechend umgesetzt?
 - Inwieweit lassen sich in den Lösungen Konzepte und Vorgehensweisen aus der Domäne erkennen?
 
 Bitte lassen Sie erkennen, dass Sie die Themen Schwerkraft, Leserichtung, Eindeutigkeit, Räumlichkeit, Hierarchisierung, Gestaltgesetze, Farbe, Typographie, Textsatz und Layout verstanden haben.
@@ -36,7 +36,7 @@ Die Portfolios werden auf Basis des Niveaustufenmodells bewertet. Hier finden Si
 
 Das Gestaltungsportfolio wird nur bewertet, wenn Sie zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/) zwei Ihrer Arbeiten präsentieren. Die Präsentation erfolgt von unserem Rechner, d.h. es können nur Artefakte präsentiert werden, die fristgerecht hochgeladen wurden. 
 
-Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Jede Person hat fünf Minuten Präsentationszeit. Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung, anstatt sie zu beschreiben.
+Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumentieren und verteidigen möchten. Pro Person sind fünf Minuten eingeplant, inklusive Umbau und Feedback. **Für Ihre Vorstellung haben Sie also nur zwei Minuten**, für beide Arbeiten zusammen. Argumentieren Sie objektiv und fachlich. Begründen Sie Ihre Gestaltung, anstatt sie zu beschreiben.
 
 Wer noch ein Team für das Projekt sucht, stellt sich nach der Präsentation kurz an der Teamwand vor. Wie das geht, steht auf der Seite zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
 
