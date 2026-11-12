@@ -29,7 +29,7 @@ Die Höhe ergibt sich aus dem Inhalt. Im Workshop arbeiten Sie am Desktop, die S
 
 ## Vorlage und Schrift
 
-Damit Sie direkt am Layout arbeiten können, bekommen Sie eine [Figma-Vorlage](https://www.figma.com/design/N3lJDLKBkLQozJPZICHPG6). Duplizieren Sie sie in Ihre Drafts (»Duplicate to your drafts«) und arbeiten Sie in Ihrer Kopie. Die Vorlage hat fünf Seiten:
+Damit Sie direkt am Layout arbeiten können, bekommen Sie eine [Figma-Vorlage](https://www.figma.com/design/N3lJDLKBkLQozJPZICHPG6/SD-2026-%C2%B7-Befund-NOXA-%C2%B7-Vorlage?node-id=10-12&t=SzfwzerAav8qaZ42-1). Duplizieren Sie sie in Ihre Drafts (»Duplicate to your drafts«) und arbeiten Sie in Ihrer Kopie. Die Vorlage hat fünf Seiten:
 
 - **Lies mich:** eine kurze Anleitung
 - **Gestaltungsrichtung:** Farbfilm und semantisches Differential, siehe unten
