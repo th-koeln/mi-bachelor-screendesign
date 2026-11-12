@@ -8,7 +8,7 @@ termine: 2026-11-13 11:00
 empfohlene-voraussetzungen:
 check-in-frage: 
 published: true
-dauer: 120
+dauer: 300
 raum: vor-ort-v
 info: Heute kommt alles zusammen. Sie entwickeln ein echtes Layout in vier Stufen, von der Skizze über Grayscale-Wireframes bis zum fertigen Entwurf, und bilden dabei systematisch Varianten.
 assignments: |
@@ -34,16 +34,19 @@ archiv: |
 ## Worum geht es?
 Heute nutzen wir alles, was wir in den letzten Wochen gelernt, geübt und verworfen haben. Sie entwickeln die Befund-Seite für das Kundenportal von NOXA Analytik, und zwar in vier Stufen: Skizzen, Grayscale-Wireframes, Mid-Fi und Hi-Fi. Nach jeder Stufe tragen wir die Ergebnisse zusammen, dann geht es auf die nächste. Den Input gibt es jeweils kurz vor der Stufe, in der Sie ihn brauchen.
 
-Zu Beginn gibt es Feedback zu Ihren Übungen und einen Ausblick auf das Gestaltungsportfolio. Am Nachmittag geht es im [Workshop](/mi-bachelor-screendesign/lehrveranstaltungen/050-training-misc/) weiter.
+Zu Beginn gibt es Feedback zu Ihren Übungen und einen Ausblick auf das Gestaltungsportfolio. Der Tag geht von 11 bis 16 Uhr, mit Mittagspause.
+
+**Räume:** Wir starten in Raum 3.106. Nach dem Input am Anfang wechseln wir zum Arbeiten in die Räume 3.216 und 3.217.
 
 ## Ablauf
 
 1. Feedback, Rückblick und Gestaltungsportfolio
 2. Einstieg: Layout, Briefing, Wireframes und Fidelity
 3. **Stufe 1:** Skizzen auf Papier, danach Galerie
-4. **Stufe 2:** Grayscale-Wireframes auf dem Raster, drei Varianten, Auswahl
-5. **Stufe 3:** Mid-Fi mit echten Texten und echter Schrift
-6. **Stufe 4:** Hi-Fi mit Farbe, fertig in der Hausaufgabe
+4. Mittagspause
+5. **Stufe 2:** Grayscale-Wireframes auf dem Raster, drei Varianten, Auswahl
+6. **Stufe 3:** Mid-Fi mit echten Texten und echter Schrift
+7. **Stufe 4:** Hi-Fi mit Farbe, fertig in der Hausaufgabe
 
 ## Was muss ich mitbringen?
 - Papier und einen dicken Stift für die Skizzen
@@ -60,6 +63,14 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
   [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360039957034-Create-and-apply-text-styles)
 - **Variables anwenden:** Die Farben des Farbfilms und die Abstände von 4 bis 96 px sind in der Vorlage als Variables angelegt. Über das Variablen-Symbol im Fill-Feld und in den Abstandsfeldern wählen Sie sie aus, statt eigene Hex-Werte und Pixelmaße zu tippen.
   [Figma-Hilfe](https://help.figma.com/hc/de/articles/15343107263511-Variablen-auf-Designs-anwenden)
+- **Bilder zuschneiden:** Im Crop-Modus legen Sie fest, welcher Teil eines Bildes im Rasterfeld zu sehen ist. Das Original bleibt dabei erhalten, Sie können den Ausschnitt also jederzeit wieder ändern.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360040675194-Crop-an-image) · [Video](https://www.youtube.com/watch?v=br3ubSFbarg)
+- **Sections:** Bei so vielen Boards wird die Arbeitsfläche schnell voll. Mit Sections (<kbd>Shift</kbd> + <kbd>S</kbd>) fassen Sie zusammen, was zusammengehört. Die Vorlage nutzt sie schon für die vier Stufen und die Abgabe.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/9771500257687-Nutze-Abschnitte-um-deine-Arbeitsfl%C3%A4che-zu-organisieren)
+
+## Upload
+
+Bitte laden Sie Ihre Ergebnisse bis zum **19.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679333) hoch. Was genau abzugeben ist, steht in der [Aufgabe](/mi-bachelor-screendesign/assignments/layout-befund-noxa/).
 - **Auto Layout:** Auto Layout (<kbd>Shift</kbd> + <kbd>A</kbd>) ordnet Elemente in einem Frame unter- oder nebeneinander an, mit festen Abständen und Innenabständen. Bei der Messwerttabelle und der Navigation setzen Sie die Abstände damit nur einmal. Bricht ein Text um und die Zeile wird höher, rutscht alles darunter von selbst nach.
   [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040451373-Leitfaden-zum-Auto-Layout) · [Video](https://www.youtube.com/watch?v=Aik8tMRdI90)
 

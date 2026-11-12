@@ -7,7 +7,7 @@ pflicht: false
 termine: 2026-11-13 14:00
 empfohlene-voraussetzungen:
 check-in-frage: 
-published: true
+published: false
 dauer: 180
 raum: vor-ort-w
 info: Layouts entwickeln, Varianten bilden, begründet auswählen
