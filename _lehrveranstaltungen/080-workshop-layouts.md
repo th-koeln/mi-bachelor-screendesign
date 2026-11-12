@@ -49,6 +49,20 @@ Zu Beginn gibt es Feedback zu Ihren Übungen und einen Ausblick auf das Gestaltu
 - Papier und einen dicken Stift für die Skizzen
 - eigener Rechner mit Figma
 
+## Figma-Fertigkeiten
+{% comment %}Gepflegt mit dem Claude-Code-Skill /figma-fertigkeiten, siehe README.md{% endcomment %}
+
+Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen Sie bereits aus den vorherigen Veranstaltungen.
+
+- **Seiten in einer Datei:** Die Vorlage hat fünf Seiten, von »Lies mich« bis »Bausteine«. Oben links im Ebenen-Panel wechseln Sie zwischen ihnen, etwa um einen Text von der Seite »Inhalt« zu holen und auf der »Arbeitsfläche« einzusetzen.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360038511293-Create-and-manage-pages) · [Video](https://www.youtube.com/watch?v=zt-Zr57Vfzs)
+- **Text Styles anwenden:** In der Vorlage liegen fertige Textstile für Desktop und Mobil. Markieren Sie einen Text und weisen ihm rechts unter Typography einen Stil zu, statt Schriftgrad und Zeilenabstand von Hand einzutragen. In Stufe 3 werden aus den grauen Balken damit zügig echte Texte.
+  [Figma-Hilfe (englisch)](https://help.figma.com/hc/en-us/articles/360039957034-Create-and-apply-text-styles)
+- **Variables anwenden:** Die Farben des Farbfilms und die Abstände von 4 bis 96 px sind in der Vorlage als Variables angelegt. Über das Variablen-Symbol im Fill-Feld und in den Abstandsfeldern wählen Sie sie aus, statt eigene Hex-Werte und Pixelmaße zu tippen.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/15343107263511-Variablen-auf-Designs-anwenden)
+- **Auto Layout:** Auto Layout (<kbd>Shift</kbd> + <kbd>A</kbd>) ordnet Elemente in einem Frame unter- oder nebeneinander an, mit festen Abständen und Innenabständen. Bei der Messwerttabelle und der Navigation setzen Sie die Abstände damit nur einmal. Bricht ein Text um und die Zeile wird höher, rutscht alles darunter von selbst nach.
+  [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040451373-Leitfaden-zum-Auto-Layout) · [Video](https://www.youtube.com/watch?v=Aik8tMRdI90)
+
 ### Layout & Abstände
 - [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [Space, Grids, and Layouts](https://www.designsystems.com/space-grids-and-layouts/)
