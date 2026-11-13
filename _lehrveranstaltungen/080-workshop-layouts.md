@@ -70,7 +70,7 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
 
 ## Upload
 
-Bitte laden Sie Ihre Ergebnisse bis zum **19.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679333) hoch. Was genau abzugeben ist, steht in der [Aufgabe](/mi-bachelor-screendesign/assignments/layout-befund-noxa/).
+Bitte laden Sie Ihre Ergebnisse bis zum **19.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878719&from_overview=1) hoch. Was genau abzugeben ist, steht in der [Aufgabe](/mi-bachelor-screendesign/assignments/layout-befund-noxa/).
 - **Auto Layout:** Auto Layout (<kbd>Shift</kbd> + <kbd>A</kbd>) ordnet Elemente in einem Frame unter- oder nebeneinander an, mit festen Abständen und Innenabständen. Bei der Messwerttabelle und der Navigation setzen Sie die Abstände damit nur einmal. Bricht ein Text um und die Zeile wird höher, rutscht alles darunter von selbst nach.
   [Figma-Hilfe](https://help.figma.com/hc/de/articles/360040451373-Leitfaden-zum-Auto-Layout) · [Video](https://www.youtube.com/watch?v=Aik8tMRdI90)
 

@@ -87,7 +87,7 @@ Hier stehen nur die Figma-Fertigkeiten, die neu dazukommen. Alles andere kennen 
 
 
 Ein Upload von gehaltvollen Ergebnissen bringt bis zu 5 Bonuspunkte für das Abschlussprojekt.
-Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=770941) hoch.
+Laden Sie Ihre Ergebnisse im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878719&from_overview=1) hoch.
 
 <!--
 ## Alte Übung
