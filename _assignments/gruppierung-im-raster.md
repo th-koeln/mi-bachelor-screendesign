@@ -34,7 +34,7 @@ Die Zahlen aus der Veranstaltung:
 
 | Auto | Bahn | Bus | Rad oder zu Fuß |
 |---|---|---|---|
-| folgt am 30.10. | | | |
+| 55 % | 25 % | 15 % | 5 % |
 
 **Beispiel** (ausgedachte Zahlen: Wie trinken 100 Personen ihren Kaffee?). Links dieselben 100 Zeichen ungeordnet, rechts gruppiert:
 
