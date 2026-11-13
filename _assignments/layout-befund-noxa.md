@@ -166,7 +166,7 @@ Bringen Sie den Entwurf im Frame »Hi-Fi Desktop« in Farbe, mit den Farben aus 
 
 ## Abgabe
 
-Laden Sie Ihre Ergebnisse bis zum **19.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=679333) hoch.
+Laden Sie Ihre Ergebnisse bis zum **19.11.2026 23:55 Uhr** im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr&cmdClass=ilObjExerciseGUI&cmd=showOverview&ref_id=878719&from_overview=1) hoch.
 
 Exportieren Sie dafür vier Frames aus der Vorlage als PNG: »Übersicht«, »Hi-Fi Desktop«, »Hi-Fi Smartphone« und »Erläuterung«. Desktop und Smartphone geben Sie zusätzlich einzeln ab, weil sie in der Übersicht klein werden.
 
