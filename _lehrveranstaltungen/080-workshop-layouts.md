@@ -101,4 +101,6 @@ Bitte laden Sie Ihre Ergebnisse bis zum **19.11.2026 23:55 Uhr** im [ILU](https:
 - [Evaluation der Veranstaltung](/mi-bachelor-screendesign/download/evaluations/WiSe_24_25-Screendesign.pdf)
 
 
+## Vorlage
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/N3lJDLKBkLQozJPZICHPG6/SD-2026-%C2%B7-Befund-NOXA-%C2%B7-Vorlage?node-id=1-42&embed-host=share" allowfullscreen></iframe>
