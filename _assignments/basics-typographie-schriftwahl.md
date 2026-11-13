@@ -35,6 +35,8 @@ Laden Sie Ihre Ergebnisse bis zum **12.11.2026 23:55 Uhr** im [ILU](https://ilu.
 
 > 010–Poster–Morphism–NAME.png<br>020–Info–Morphism–NAME.png<br>030–Poster–In-Motion–NAME.png<br>040–Info–In-Motion–NAME.png<br>050–Instagram–Moss–NAME.png<br>060–Info–Moss–NAME.png<br>070–Poster–Curves–NAME.png<br>080–Info–Curves–NAME.png<br>090–Poster–Echoes–NAME.png<br>100–Info–Echoes–NAME.png
 
+Die Vorlage umfasst mehrere Plakate und einen Instagram-Post. Es reicht, wenn Sie sich mit drei Motiven beschäftigen. 
+
 
 ---
 
