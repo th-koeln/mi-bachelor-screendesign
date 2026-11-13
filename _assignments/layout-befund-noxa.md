@@ -126,13 +126,24 @@ Alle Inhalte müssen auf die Seite. Wie Sie sie gewichten, gruppieren und anordn
 
 ### Stufe 1: Skizzen
 
-Skizzieren Sie auf Papier **6 bis 8 Thumbnails** der Desktop-Seite, jeweils nur mit groben Blöcken. Keine Details, kein Text, nur: Was steht wo, und was ist wie groß? Erst viele, dann gute. Fotos der Skizzen kommen später in den Frame »Skizzen« der Vorlage.
+Skizzieren Sie auf Papier **6 bis 8 Thumbnails** der Desktop-Seite, jeweils mit klaren Blöcken. Keine Details, kein Text, nur: Was steht wo, und was ist wie groß? Erst viele, dann gute. Fotos der Skizzen kommen später in den Frame »Skizzen« der Vorlage.
+
+**Worauf es bei den Skizzen ankommt:**
+
+- **Von Hand gezeichnet**, ohne Lineal. Es soll schnell gehen.
+- **Trotzdem präzise:** Blöcke mit klaren Kanten, erkennbaren Proportionen und Abständen. Hingekritzeltes, bei dem man raten muss, was gemeint ist, hilft nicht weiter. Schnell und präzise zugleich zu zeichnen ist eine Fähigkeit, die man üben kann und sollte.
+- **Kein kariertes Papier:** Nehmen Sie das Punktpapier, das wir mitbringen, oder weißes Papier.
+- **Gut fotografiert:** gerade von oben, entzerrt, mit gutem Kontrast und ohne Schatten. Am einfachsten geht das mit der Scan-Funktion, die auf Ihrem Smartphone schon eingebaut ist:
+  - **iPhone und iPad:** App »Notizen«, in einer Notiz auf das Kamera-Symbol tippen, dann »Dokumente scannen«.
+  - **Android:** App »Google Drive«, auf das Plus-Symbol tippen, dann »Scannen«.
+
+  Beide Apps erkennen die Blattkanten und entzerren automatisch. Wählen Sie als Filter am besten Graustufen.
 
 Danach Galerie: Skizzen auslegen, Rundgang, die stärkste fremde Skizze markieren. Gemeinsam halten wir fest, warum die stärksten Skizzen funktionieren. Diese **Kriterien** begleiten Sie durch alle weiteren Stufen.
 
 ### Stufe 2: Grayscale-Wireframes
 
-Bauen Sie Ihre beste Skizze in der Vorlage als **Grayscale-Wireframe** auf dem Desktop-Raster: nur Grautöne, Text als graue Balken, Flächen als hellgraue Felder. Nutzen Sie dafür die Seite »Bausteine« und die Abstände der Vorlage. Eine Idee aus einer fremden Skizze zu übernehmen ist ausdrücklich erlaubt.
+Bauen Sie Ihre beste Skizze in der Vorlage als **Grayscale-Wireframe** auf dem Desktop-Raster: nur Grautöne, Text als graue Balken, Flächen als hellgraue Felder. Nutzen Sie dafür die Seite »Bausteine« und die Abstände der Vorlage. Faustregel für jede Stufe: Zeigen Sie nur, worüber Sie sprechen wollen. Was nicht besprochen werden soll, bleibt Platzhalter, ein Bild also eine graue Fläche und ein Text ein grauer Balken. Eine Idee aus einer fremden Skizze zu übernehmen ist ausdrücklich erlaubt.
 
 Entwickeln Sie dann **drei Varianten entlang einer Achse**, in den Frames »Variante A«, »Variante B« und »Variante C«. Es ändert sich jeweils nur eine Variable, zum Beispiel die Position des Gesamtergebnisses, die Darstellung der Messwerte oder das Gewicht der Empfehlung. Tragen Sie die Achse jeweils im Feld »Achse: …« über dem Frame ein. Wählen Sie mithilfe der Kriterien eine Variante aus.
 
@@ -166,4 +177,4 @@ Verwenden Sie beim Dateinamen bitte die folgende Nomenklatur:
 `sd-layout-noxa-smartphone-NACHNAME.png` \
 `sd-layout-noxa-erlaeuterung-NACHNAME.png`
 
-Die Skizzen fotografieren oder scannen Sie und legen sie in den Frame »Skizzen«. Auf der Übersicht zeigen Sie sie ebenfalls, im Platzhalter »Skizzen«.
+Die Skizzen scannen Sie mit dem Smartphone (gerade, entzerrt, kontrastreich) und legen sie in den Frame »Skizzen«. Auf der Übersicht zeigen Sie sie ebenfalls, im Platzhalter »Skizzen«.
