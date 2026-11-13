@@ -9,7 +9,7 @@ empfohlene-voraussetzungen:
 check-in-frage: 
 published: true
 dauer: 120
-raum: hybrid-support
+raum: hybrid-portfolio-10
 anzahl: beliebig Teilnehmer
 info: Technischer Support vor der Abgabe des Gestaltungsportfolios. Sie haben eine Übung nicht ganz verstanden oder sind unsicher bei der Abgabe? Dann kommen Sie vorbei.
 ---

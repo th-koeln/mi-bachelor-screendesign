@@ -50,6 +50,10 @@ hybrid-support:
   name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 67691453001, Kenncode design)"
   url: https://th-koeln.zoom-x.de/j/67691453001
 
+hybrid-portfolio-10:
+  name: "Hybrid: Raum 3.217 & Zoom (Meeting-ID: 68662381387, Kenncode: 300036)"
+  url: https://th-koeln.zoom-x.de/j/68662381387
+
 vor-ort: 
   name: Raum XYZ
 
