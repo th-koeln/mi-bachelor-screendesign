@@ -4,7 +4,8 @@ const projectDataUrls = [
   'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2022.json',
   'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2023.json',
   'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2024.json',
-  'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2025.json'
+  'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2025.json',
+  'https://raw.githubusercontent.com/th-koeln/mi-bachelor-screendesign-projekte/refs/heads/main/_data/projects/sd-2026.json'
 ];
 
 const imageBaseUrl = 'https://th-koeln.github.io/mi-bachelor-screendesign-projekte/';
