@@ -7,7 +7,7 @@ titel: Niveaustufen und Deliverables
 Zur Prüfung müssen folgende Deliverables via Übergabepunkt abgegeben werden:
 
 1. [Gestaltungsportfolio](#gestaltungsportfolio)
-2. [Designkonzept als Mockup](#designkonzept-als-mockup)
+2. [Designkonzept mit Mockups](#designkonzept-mit-mockups)
 4. [Präsentation und Kurzdokumentation](#präsentation-und-kurzdokumentation)
 
 ------
@@ -74,7 +74,7 @@ Das Gestaltungsportfolio wird entsprechend der folgenden Niveaustufen bewertet:
 
 ---
 
-## Designkonzept als Mockup
+## Designkonzept mit Mockups
 
 Abgabe
 : {{site.data.abgaben.artefakt1.format}}
@@ -91,54 +91,62 @@ Einzel- oder Teamartefakt
 Übergabepunkt
 : [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23825)
 
-Das wesentliche Deliverable des Projekts ist das Designkonzept, das in Form eines grafischen Mockups geliefert werden muss. Das heißt, dass es ausformulierte graphische Repräsentationen der notwendigen und sinnvollen Screens für die verschiedenen Geräteklassen/Kontexte umfasst.
+Das wesentliche Deliverable des Projekts ist das Designkonzept mit Mockups: ausgearbeitete Screens und Spezifikationen für alle im Projekt vorgegebenen Geräte. Welcher Umfang vorgegeben ist, steht auf der jeweiligen Projektseite. KI-generierte Anteile müssen gekennzeichnet sein.
 
-Das Mockup soll:
-- die Umsetzung des Konzeptansatzes erklären und erfahrbar machen
-- so aufbereitet sein, dass es als Basis für eine spätere Implementierung durch ein Entwicklerteam herangezogen werden könnte
-- zeigen, wie bestimmte User Journeys abgebildet werden
-- die notwendigen Screens, Interaktionen und Übergänge zeigen
+In den Niveaustufen verwenden wir folgende Begriffe:
 
-Idealerweise kann der "Kunde" auf Basis des Designkonzepts/Mockups folgende Fragen positiv beantworten:
-- das Designkonzept erfüllt die Kommunikationsaufgabe
-- die Gestaltung passt gut in den bestehenden Designkontext oder ergänzt ihn sinnvoll
-- das Designkonzept berücksichtigt verschiedene Geräteklassen
-- die Gestaltung ist in sich schlüssig und konsistent
+Gestaltungskontext
+: das vorgegebene Designsystem mit Styleguide, Marke und bestehenden Produkten
 
-Vom Mockup müssen die einzelnen Screens als Bilddateienn (JPG oder PNG) am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Es wird entsprechend der folgenden Niveaustufen bewertet:
+Nutzungskontext
+: Ort, Situation und Publikum, also wer die Lösung wann, wo und aus welcher Entfernung benutzt
+
+Geräte
+: die vorgegebenen Geräte und Ausgabeflächen
+
+Die Screens bzw. Szenen müssen als Bilddateien (JPG oder PNG) am Übergabepunkt hinterlegt werden. Bitte beachten Sie die [Nomenklatur](../nomenklatur/) für die Benennung von Dateien. Das Designkonzept wird entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
-- erfüllt alle notwendigen Anforderungen und ein bisschen mehr
-- bettet sich gestalterisch und funktional perfekt in das bestehende Design ein oder ergänzt es sinnvoll
-- ist in sich schlüssig und konsistent
-- die Domäne, der Anwendungskontext, die Funktionen und der Content wurden durchdrungen und entsprechende Ableitungen wurden in der Lösung berücksichtigt
-- bietet ein konsistentes Gestaltungskonzept für unterschiedliche Geräteklassen
-- ist sauber, systematisch und umfassend ausgearbeitet und abgelegt
+- funktioniert als großes Ganzes: wirkt, als gehöre sie selbstverständlich zum Gestaltungskontext, und funktioniert im Nutzungskontext. Man merkt, dass der Kontext verstanden wurde und nicht nur seine Regeln angewendet sind
+- zeigt im vorgegebenen Umfang alles, was zum Verständnis des Konzepts nötig ist, und nicht mehr. Die Auswahl ist klug getroffen
+- bespielt alle vorgegebenen Geräte als stimmiges Ganzes
+- gestaltet neben dem Idealfall auch Zustände und Übergänge
+- erweitert den Gestaltungskontext systematisch, wo er nicht reicht
+- zentrale Entscheidungen sind gegenüber Varianten nachvollziehbar begründet und, wo möglich, geprüft
+- Domäne, Anwendungskontext und Content wurden durchdrungen und in der Lösung berücksichtigt
+- ist sauber, präzise und so detailliert ausgearbeitet, dass ein Entwicklerteam damit arbeiten könnte
 
 **Gute Lösung**
-- erfüllt alle notwendigen Anforderungen
-- bettet sich gestalterisch und funktional gut in das bestehende Design ein oder ergänzt es sinnvoll
-- ist in sich schlüssig
-- berücksichtigt unterschiedliche Geräteklassen
+- fügt sich schlüssig in den Gestaltungskontext ein und funktioniert im Nutzungskontext
+- zeigt im vorgegebenen Umfang alles Wesentliche des Konzepts
+- bespielt alle vorgegebenen Geräte stimmig
+- gestaltet die wesentlichen Zustände und Übergänge
+- Erweiterungen sind erkennbar aus dem Gestaltungskontext abgeleitet
+- zentrale Entscheidungen sind begründet
 - ist sauber und systematisch ausgearbeitet und abgelegt
 
 **Passable Lösung**
-- erfüllt wesentliche Anforderungen
-- bettet sich gestalterisch und funktional, ohne große Störungen oder Inkonsistenzen, in das bestehende Design ein
+- passt überwiegend in den Gestaltungskontext und berücksichtigt den Nutzungskontext, mit einzelnen Brüchen
+- zeigt die wesentlichen Teile des Konzepts, einzelne wichtige Abläufe fehlen
+- berücksichtigt die vorgegebenen Geräte, mit kleineren Brüchen
+- zeigt überwiegend den Idealfall, einzelne Zustände sind gestaltet
+- Entscheidungen sind teilweise begründet
 - ist weitgehend sauber ausgearbeitet
 
 **Akzeptable Lösung**
-- erfüllt wesentliche Anforderungen
-- bettet sich gestalterisch und funktional, mit wenigen Störungen oder Inkonsistenzen, in das bestehende Design ein
+- greift den Gestaltungskontext erkennbar auf, wirkt aber stellenweise fremd. Der Nutzungskontext ist kaum berücksichtigt
+- zeigt Teile des Konzepts, wichtige Abläufe fehlen
+- berücksichtigt die vorgegebenen Geräte nur teilweise
+- zeigt nur den Idealfall
+- Entscheidungen sind kaum begründet
 - ist teilweise sauber ausgearbeitet
 
 **Schlechte Lösung**
-- erfüllt nur wenige bis keine Anforderungen
-- hat keinen Bezug zur bestehenden Gestaltung und zu vorhandenen Interaktionsabläufen
-- ist wenig schlüssig und wurde nicht gegenüber anderen Ansätzen argumentiert
-- vernachlässigt unterschiedliche Geräteklassen
-- ist unsauber und zu flach ausgearbeitet
-- keine systematische Dateiablage
+- hat keinen erkennbaren Bezug zum Gestaltungskontext und ignoriert den Nutzungskontext
+- zeigt nur Fragmente, das Konzept ist nicht nachvollziehbar
+- besteht aus einzelnen Screens statt aus einem zusammenhängenden Konzept
+- Entscheidungen sind nicht begründet, Varianten sind nicht erkennbar
+- ist unsauber und flach ausgearbeitet, ohne systematische Ablage
 
 
 ----
@@ -169,6 +177,8 @@ Mit Präsentation und Kurzdokumentation soll erläutert werden:
 - Wie und in welchem Maße wurden die Kommunikations- und/oder Interaktionsziele erreicht?
 - Welche Systematik liegt hinter dem Gestaltungskonzept?
 
+Zur Präsentation gehört ein Änderungswunsch: Sie ziehen in der Prüfung eine Karte mit einem Wunsch des Kunden und zeigen, wie er sich in Ihr System einfügt. Einen fertigen Screen erwarten wir nicht. Details stehen auf der jeweiligen Projektseite.
+
 Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und vertrauensbildend sein. Sie werden entsprechend der folgenden Niveaustufen bewertet:
 
 **Beste Lösung**
@@ -181,6 +191,7 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 - Präsentation und Kurzdokumentation sind sauber, gut gestaltet, professionell und vertrauensbildend
 - es ist erkennbar, dass die Prüflinge viele Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich verstanden haben, anwenden und reflektieren können
 - die Prüflinge können professionell mit Fragen und Anmerkungen umgehen
+- die Prüflinge reagieren auf einen Änderungswunsch souverän, entwickeln aus ihrem System heraus eine schlüssige Lösung und begründen sie
 
 **Gute Lösung**
 - die Prüflinge sind sicher in der Verwendung angemessener Fachsprache
@@ -192,6 +203,7 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 - Präsentation und Kurzdokumentation sind sauber, recht professionell und vertrauensbildend
 - es ist erkennbar, dass die Prüflinge viele Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich verstanden haben und anwenden können
 - die Prüflinge können professionell mit Fragen und Anmerkungen umgehen
+- die Prüflinge reagieren sicher auf einen Änderungswunsch und entwickeln aus ihrem System heraus eine schlüssige Lösung
 
 **Passable Lösung**
 - die Prüflinge sind in der Lage Fachbegriffe zu nutzen
@@ -200,6 +212,7 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 - die Kurzdokumentation fokussiert sich auf die wesentlichen Elemente
 - Präsentation und Kurzdokumentation sind recht sauber und enthalten nur wenige Fehler
 - es ist erkennbar, dass die Prüflinge einige Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich verstanden haben und anwenden können
+- die Prüflinge finden auf einen Änderungswunsch eine Lösung, die überwiegend zu ihrem System passt
 
 **Akzeptable Lösung**
 - die Prüflinge sind in der Lage Fachbegriffe zu nutzen
@@ -207,11 +220,13 @@ Die Präsentation und Kurzdokumentation sollen Professionalität ausstrahlen und
 - die Kurzdokumentation ist in Teilen systematisch
 - Präsentation und Kurzdokumentation enthalten nur wenige Fehler
 - es ist erkennbar, dass die Prüflinge einige Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich kennen
+- die Prüflinge finden auf einen Änderungswunsch eine Lösung, der Bezug zu ihrem System ist aber nur teilweise erkennbar
 
 **Schlechte Lösung**
 - es ist nicht erkennbar, dass die Prüflinge Konzepte, Techniken, Best-Practices und Vorgehensweisen aus dem Gegenstandsbereich kennen und anwenden können
 - der Präsentation und Kurzdokumentation mangelt es an Fachlichkeit, Sachlichkeit und Objektivität
 - die eingesetzten Materialien sind chaotisch, unsauber und enthalten viele Fehler
+- die Prüflinge können auf einen Änderungswunsch nicht oder nur ohne Bezug zu ihrem System reagieren
 
 Hier finden Sie weitere [Informationen zur Projektpräsentationsprüfung](/mi-bachelor-screendesign/projektpraesentationspruefung/).
 
