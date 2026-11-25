@@ -49,4 +49,4 @@ Weitere Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](.
 ## Weitere Informationen
 
 - [Niveaustufen](../../niveaustufen/)
-- [Upload Portfolio im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23824)
+- [Upload Portfolio im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=878683&from_overview=1&ass_id=31712)

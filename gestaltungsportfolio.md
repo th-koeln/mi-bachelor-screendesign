@@ -41,4 +41,4 @@ Wählen Sie zwei Arbeiten aus Ihrem Portfolio aus, die Sie vorstellen, argumenti
 Wer noch ein Team für das Projekt sucht, stellt sich nach der Präsentation kurz an der Teamwand vor. Wie das geht, steht auf der Seite zum [Präsentationstermin](/mi-bachelor-screendesign/lehrveranstaltungen/076-orga-portfoliopraesentation/).
 
 ## Abgabe
-Das Portfolio muss bis zum {{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}} im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23824) hochgeladen sein.
+Das Portfolio muss bis zum {{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}} im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=878683&from_overview=1&ass_id=31712) hochgeladen sein.
