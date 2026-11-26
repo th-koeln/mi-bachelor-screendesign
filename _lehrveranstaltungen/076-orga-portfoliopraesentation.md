@@ -50,3 +50,11 @@ Weitere Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](.
 
 - [Niveaustufen](../../niveaustufen/)
 - [Upload Portfolio im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23824)
+
+<hr>
+
+## Evaluation Essentials der Medieninformatik
+
+<figure style="margin: 0; align-self: start;" markdown="0">
+  <img src="{{ site.baseurl }}/material/emi.svg" alt="QR-Code" style="width: 256px; max-width: 100%;">
+</figure>
