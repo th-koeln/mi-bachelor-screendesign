@@ -24,7 +24,7 @@ Heute stellen Sie zwei Arbeiten aus Ihrem Gestaltungsportfolio vor. Pro Person s
 
 Im Projekt arbeiten Sie zu zweit. Nutzen Sie die Präsentationen, um sich umzuschauen: Mit wem würden Sie gern zusammenarbeiten? Die Arbeiten der anderen verraten schon eine Menge.
 
-Wer noch ein Team sucht, geht nach der eigenen Präsentation kurz an die **Teamwand**. Dort stellen Sie mit dem Zeiger drei Skalen ein und sagen in einem Satz, wo Sie stehen:
+Wer noch ein Team sucht, geht vor der eigenen Präsentation kurz an die **Teamwand**. Dort stellen Sie mit dem Zeiger drei Skalen ein und sagen in einem Satz, wo Sie stehen:
 
 - **Anspruch:** von »Hauptsache bestanden« bis »Ich will die 1,0«
 - **Wohnort:** von Gummersbach bis Köln, oder ganz woanders
@@ -35,7 +35,7 @@ Dazu verraten Sie zwei Dinge:
 - **Meine Gestaltungs-Superkraft:** zum Beispiel Farbgefühl, Pixelpräzision oder Ordnung ins Chaos bringen
 - **Mein Kryptonit:** zum Beispiel Deadlines, Kerning oder Farben aussuchen
 
-Zum Schluss kommt eine Karte mit Ihrem Namen und Ihren Antworten an die Wand. Am Ende des Tages sehen alle, wer noch sucht und wer zu wem passen könnte. Das dauert pro Person keine Minute.
+Am Ende des Tages sehen alle, wer noch sucht und wer zu wem passen könnte. Das dauert pro Person keine Minute.
 
 Das Ganze ist freiwillig. Wer schon ein Team hat, lässt die Teamwand einfach aus. Bis zum [Projektkickoff](/mi-bachelor-screendesign/lehrveranstaltungen/080-workshop-projekt/) am 04.12. haben Sie Zeit, ein Team zu finden. Wer dann noch keins hat, findet beim Kickoff eins.
 
@@ -49,7 +49,7 @@ Weitere Informationen entnehmen Sie bitte der Seite zum [Gestaltungsportfolio](.
 ## Weitere Informationen
 
 - [Niveaustufen](../../niveaustufen/)
-- [Upload Portfolio im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nq:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=679339&mode=future&from_overview=1&ass_id=23824)
+- [Upload Portfolio im ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=878683&from_overview=1&ass_id=31712)
 
 <hr>
 
