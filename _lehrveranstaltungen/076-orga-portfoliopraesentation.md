@@ -18,7 +18,14 @@ material: |
 
 ## Worum geht es?
 
-Heute stellen Sie zwei Arbeiten aus Ihrem Gestaltungsportfolio vor. Pro Person sind fünf Minuten eingeplant, inklusive Umbau und Feedback. **Für Ihre Vorstellung haben Sie also nur zwei Minuten**, für beide Arbeiten zusammen. Wir treffen uns im gewohnten Vorlesungsraum 3.106. Je nachdem, wie viele wir sind, teilen wir uns vor Ort in zwei Gruppen auf. Präsentiert wird von unserem Rechner, also nur, was Sie fristgerecht im ILU hochgeladen haben. 
+Heute stellen Sie zwei Arbeiten aus Ihrem Gestaltungsportfolio vor. Pro Person sind fünf Minuten eingeplant, inklusive Umbau und Feedback. **Für Ihre Vorstellung haben Sie also nur zwei Minuten**, für beide Arbeiten zusammen. Präsentiert wird von unserem Rechner, also nur, was Sie fristgerecht im ILU hochgeladen haben. 
+
+## Raumaufteilung
+
+Wir teilen uns nach Nachnamen auf zwei Räume auf. Wessen Nachname mit **A bis J** beginnt, präsentiert in **Raum 3.106**. Wessen Nachname mit **K bis Z** beginnt, präsentiert in **Raum 3.216**.
+{% if jekyll.environment == "development" %}
+[Raumliste mit Namen]({{ site.baseurl }}/raumaufteilung.html) (nur lokal)
+{% endif %}
 
 ## Duo gesucht
 

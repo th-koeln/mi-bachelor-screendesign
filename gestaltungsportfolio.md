@@ -26,7 +26,7 @@ Das Gestaltungsportfolio besteht aus einer Auswahl Ihrer Arbeitsergebnisse der G
 
 
 
-Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **sieben Übungen**. Manche Übungen stehen in zwei Themenfeldern. Jede Lösung darf aber nur für ein Themenfeld eingereicht werden. Berücksichtigen Sie unbedingt unsere Vorgaben zur Benennung von Dateien, zu finden unter [Nomenklatur](/mi-bachelor-screendesign/nomenklatur).
+Sollte eine Lösung aus mehreren Einzelartefakten bestehen, sind alle Artefakte abzugeben. Insgesamt umfasst das Portfolio also Ihre Lösung zu **sieben Übungen**. Manche Übungen stehen in zwei Themenfeldern. Jede Lösung darf aber nur für ein Themenfeld eingereicht werden.
 
 ## Bewertung
 
@@ -42,3 +42,5 @@ Wer noch ein Team für das Projekt sucht, stellt sich nach der Präsentation kur
 
 ## Abgabe
 Das Portfolio muss bis zum {{site.data.abgaben.artefakt0.date | date: '%d.%m.%Y'}} im [ILU](https://ilu.th-koeln.de/ilias.php?baseClass=ilexercisehandlergui&cmdNode=cw:nr:4i&cmdClass=ilAssignmentPresentationGUI&ref_id=878683&from_overview=1&ass_id=31712) hochgeladen sein.
+
+Laden Sie Ihre Lösungen als Einzeldateien hoch, in der Regel als PNG. Benennen Sie jede Datei so, wie es bei der jeweiligen Übung angegeben ist. Achten Sie außerdem auf die Dateigröße: Ist eine Datei größer als 10 MB, reduzieren Sie sie bitte vor dem Hochladen etwas.
